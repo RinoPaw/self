@@ -1,17 +1,35 @@
 # Opening Identity Principle
 
-> 状态：正方工作模型。来源于 Nagai 的 I–NOW–actuality 统一思路，并与本项目 `Centered Total State` 对齐。
+> 状态：正方 primitive / constitutive 工作模型；**不再视为 non-primitive derivation**。
+>
+> 来源于 Nagai 的 I–NOW–actuality 统一思路，并与 `Centered Total State` / `Minimal Absolute Opening` 对齐。
 
-## 0. 动机
+## 0. 当前定位
 
 `Exclusivity–Existence Split` 显示：
 
-- coherence / non-compossibility 可以原则上解释 `≤ 1` absolute center；
-- 真正困难的是 `≥ 1`。
+- coherence / non-compossibility 可以在 absolute layer 已给定后帮助解释 `≤1`；
+- 真正困难的是 `≥1` 与 absolute semantics 从哪里来。
 
-`Centered Completeness Principle` 尝试从 metaphysical completeness 推出至少一个 simpliciter center，但面临 circularity：如果 centeredness 被直接塞进 “complete” 的定义，就没有解释。
+OIP 最初试图从 actuality / obtaining itself 推 center：
 
-Nagai 提供另一种入口：不从 **completeness** 推 center，而从 **actuality / obtaining itself** 推 center。
+\[
+Actual(R)
+\Rightarrow
+\exists c,t\;Open(R,c,t).
+\]
+
+经过 `Center-in-Content / Center-in-Obtaining Gap` 与 `Obtaining-Mode Pluralization` 后，必须加一个关键修正：
+
+\[
+\boxed{
+\text{obtaining itself perspectival}
+\not\Rightarrow
+\text{one absolute opening}
+}
+\]
+
+因此 OIP 只有在 `Open` 明确表示 **simpliciter absolute orientation** 时才真正是 absolute-first-person theory。
 
 ---
 
@@ -19,21 +37,21 @@ Nagai 提供另一种入口：不从 **completeness** 推 center，而从 **actu
 
 设 `R` 是实际 reality。
 
-Opening Identity Principle（OIP）写成：
+强 OIP 写成：
 
 \[
 \boxed{
 Actual(R)
-\Rightarrow
-\exists c,t\;Open(R,c,t)
+\equiv
+\exists!c,t\;Open^*(R,c,t)
 }
 \]
 
-其中 `Open(R,c,t)` 不是普通 perception relation，而表示：
+其中 `Open*` 不是 ordinary perception relation，也不是普通 subject-relative obtaining，而表示：
 
-> reality 的 actual obtaining 本身就是从 `c`、在 `t` 的 actual opening。
+> complete reality 的 actual obtaining 本身具有一个不可继续相对化的 simpliciter I–NOW orientation。
 
-更强版本：
+更强的 identity thesis：
 
 \[
 \boxed{
@@ -42,10 +60,12 @@ WorldActuality
 AbsoluteI
 =
 AbsoluteNOW
+=
+Open^*
 }
 \]
 
-这里等号表示同一 actualization structure 的三个方面，而不是三个不同 properties 恰好共现。
+等号表示同一 primitive actuality structure 的多个概念方面。
 
 ---
 
@@ -59,404 +79,426 @@ H\to\mathcal C(H)\to E^*.
 
 它先允许一个完整 uncentered actual history，再寻找 global first-person transition。
 
-OIP 改写成：
+OIP 拒绝这一 factorization：
 
 \[
-Actual(R)=CenteredOpening(R,E^*).
+Actual(R)=AbsoluteOpening(R,E^*).
 \]
 
-所以没有一个先成立的：
+所以没有一个已经 fully actual 的：
 
 \[
-Actual_{uncentered}(R)
+Actual_{neutral}(R)
 \]
 
-随后再问：
+随后再运行：
 
 \[
 WhichCenter(R)?
 \]
 
-如果 OIP 成立，center existence 与 world actuality 同时出现。
-
-这使：
-
-\[
-\boxed{AtLeastOneCenter}
-\]
-
-不再需要独立 selector。
+这仍是 OIP 的真正优点：absolute center 不是 post-actual pointer。
 
 ---
 
-## 3. 与 Centered Total State 的关系
+## 3. Center in content 与 center in obtaining
 
-Centered Total State 写成：
-
-\[
-Inst_G(U,\mathcal C^*)
-\]
-
-其中：
+弱版本：
 
 \[
-Center(\mathcal C^*)=E^*.
+\mathcal C_c=\langle W,c\rangle
 \]
 
-OIP 可以提供其更强的 actuality interpretation：
+只把 center 写进 state-content。
+
+这会受到 `Constituent Collapse`：
 
 \[
-Inst_G(U,\mathcal C^*)
+\text{center as constituent}
+\not\Rightarrow
+\text{center as actuality orientation}.
 \]
 
-之所以是 **actual instantiation**，恰好因为：
+强 OIP 必须更接近：
 
 \[
-\mathcal C^*\text{ is the opening of reality here-now}.
+Open^*(R,c,t)
 \]
 
-于是 center slot 不再只是附加字段：
+其中 first-person direction 属于 obtaining mode itself。
 
-\[
-\langle W,center=E^*\rangle.
-\]
-
-理想 OIP 版本要求：
-
-\[
-\boxed{\text{remove centered opening}\Rightarrow\text{remove actuality itself}.}
-\]
-
-即 center 不是 actual reality 的一个可删附属属性，而属于 actual obtaining 的 mode。
+Nagai 第二篇的 primary text 很清楚地支持这种 reading：actual world、me、now 可以在 contents 完全保留的情况下失去其 actuality / me-ness / now-ness；他把 actualizing the world、me 与 now 放到同一 Leibnizian-will / actuality difference 下。
 
 ---
 
-## 4. Exact-one 如何可能获得
+## 4. 新关键：center in obtaining 仍不够
 
-### At least one
+Lipman 2023/2026 与 Eker 2023 直接关闭了一个过快推论。
 
-若：
+### Lipman
 
-\[
-\exists R\;Actual(R),
-\]
-
-并接受 OIP：
+subjects 可以是 metaphysical standpoints，存在：
 
 \[
-Actual(R)\Rightarrow\exists c\;Open(R,c),
+@_s(p)
 \]
 
-则：
+即 facts genuinely obtain relative to subjects。
+
+多个 subject-relative obtainings 都可以是真实的：
 
 \[
-\ge1\text{ absolute center}.
+@_{s_1}(p_1),
+@_{s_2}(p_2),\ldots
 \]
 
-### At most one
-
-若两个 simpliciter openings：
+而无需：
 
 \[
-Open(R,c_i),\quad Open(R,c_j)
+\exists!s\;Absolute(s).
 \]
 
-是 mutually non-compossible，并且 reality 是一个 coherent/non-fragmented totality，则：
+### Eker
+
+perspectivality 可以属于 fact 的 fundamental mode of obtaining：
 
 \[
-\le1.
+[\varphi]_t
 \]
+
+而不是 content parameter；这种 constitutional perspectivality 仍可以涉及多个 perspectives。
 
 所以：
 
 \[
 \boxed{
+\text{constitutional perspectival obtaining}
+\not\Rightarrow
+\text{absolute opening}
+}
+\]
+
+`Open*` 必须比 ordinary constitutional perspectivality 更强。
+
+---
+
+## 5. Opening Semantics Trilemma
+
+现在 `Open` 有三种读法。
+
+### A. Ordinary perspectival opening
+
+\[
+Open(R,s)=\text{facts obtain from standpoint }s.
+\]
+
+结果自然 pluralize：
+
+\[
+Open(R,s_1),Open(R,s_2),\ldots
+\]
+
+得到 standpoint / constitutional pluralism。
+
+### B. Absolute opening by semantics
+
+\[
+Open^*(R,c)=\text{reality obtains simpliciter from }c.
+\]
+
+这可以直接表达项目目标，但 absolute semantics 已经 primitive。
+
+### C. Derived absolute opening
+
+\[
+D\Rightarrow Open^*(R,c).
+\]
+
+则重新进入：
+
+- Natural Pointing；
+- Independent Definability；
+- symmetry / duplication；
+- Global Relevance；
+- Actuality-to-Center Bridge；
+- Privilege / Manifestation Bridge。
+
+因此：
+
+\[
+\boxed{
+\begin{array}{lll}
+A.&ordinary\ opening&\Rightarrow pluralism;\\
+B.&absolute\ opening\ by\ semantics&\Rightarrow primitive;\\
+C.&derived\ absolute\ opening&\Rightarrow grounding\ problems\ return.
+\end{array}}
+\]
+
+目前没有找到第四种免费路线。
+
+---
+
+## 6. Exact-one 的新表述
+
+旧表述：
+
+\[
 Actuality+OIP+Coherence+OpeningIncompatibility
+\Rightarrow
+\exists!c.
+\]
+
+需要更谨慎。
+
+若 `Open` 是 ordinary standpoint opening，不同 openings 可以同时在 plural / fragmentary reality 中 obtain，因此 incompatibility 不成立。
+
+只有在 absolute layer 已经给定以后，才有：
+
+\[
+Open^*(R,c_i)\perp Open^*(R,c_j)
+\quad(i\neq j).
+\]
+
+于是 coherence 可以支持：
+
+\[
+\le1.
+\]
+
+而：
+
+\[
+\ge1
+\]
+
+来自 primitive OIP：
+
+\[
+Actual(R)\equiv\exists c\;Open^*(R,c).
+\]
+
+所以 OIP 的 exact-one architecture 现在应诚实写成：
+
+\[
+\boxed{
+PrimitiveCenteredActuality
++
+Coherence
 \Rightarrow
 \exists!c.
 }
 \]
 
-这是目前最短的 global exact-one architecture。
+而非声称 coherence 自己产生 absolute layer。
 
 ---
 
-## 5. 为什么 OIP 不是自动真理
+## 7. 与 Centered Total State 的关系
 
-Pluralist 可以给出完整反模型：
+Centered Total State：
 
 \[
-R_P=\langle W,\Pi,\rho\rangle
+Inst_G(U,\mathcal C^*)
+\]
+
+可以有两种 reading。
+
+### Content-centered instantiation
+
+\[
+Inst_G(U,\langle W,c\rangle).
+\]
+
+center 只是 property-content 的 component；解释不够。
+
+### Absolute-opening instantiation
+
+\[
+Inst_G^{Open^*}(U,W;E^*).
+\]
+
+actual instantiation relation 本身具有 simpliciter orientation。
+
+后一种才和 OIP 一致。
+
+但它的 primitive endpoint 就是：
+
+\[
+\boxed{Open^*\text{ is a fundamental kind of actuality}.}
+\]
+
+---
+
+## 8. Why-this-one 仍然 brute
+
+即使接受：
+
+\[
+Actuality\Rightarrow AbsoluteOpeningExists,
+\]
+
+仍没有：
+
+\[
+Why(Center=E_R)?
+\]
+
+Nagai 自己允许：
+
+- God’s will；
+- sheer / mere contingency。
+
+Minimal OIP 因此最诚实地接受：
+
+\[
+\boxed{\text{existence / exact-one primitive; token identity contingent}.}
+\]
+
+如果引入 stochastic realization，也只是：
+
+\[
+WhyThisOne\to ObjectiveChance.
+\]
+
+不会变成 sufficient reason。
+
+---
+
+## 9. Non-Solipsistic Common-Core Constraint
+
+OIP 仍要承认：
+
+\[
+\forall s\;LocalFP(s).
+\]
+
+所以它不能通过 absolute opening 消除其他 subjects 所需的 ordinary first-person machinery。
+
+最公平的比较是：
+
+\[
+T_P=K+A_P
+\]
+
+与：
+
+\[
+T_O=K+Open^*,
+\]
+
+或把 `Open*` 视为替代 pluralist 的 uncentered actuality primitive。
+
+OIP 的真正 compression 是：
+
+\[
+ActualWorld+AbsoluteI+AbsoluteNOW
+\]
+
+在 **absolute layer 内部** 被识别为一个 primitive kind。
+
+它没有自动把 ordinary local perspectives 也压掉。
+
+---
+
+## 10. Epistemic fork
+
+若：
+
+\[
+Open^*\Rightarrow\Delta Phen,
+\]
+
+需要独特、不可复制的 phenomenal signature。
+
+若：
+
+\[
+Open^*\not\Rightarrow\Delta Phen,
+\]
+
+则 ordinary introspection 不能识别哪个 center absolute。
+
+当前 Minimal Absolute Opening 默认后者，因为它对 duplication 更稳定。
+
+代价是：
+
+\[
+\boxed{\text{absolute intuition is motivation, not direct discriminating evidence}.}
+\]
+
+---
+
+## 11. 当前 strongest opponent
+
+现在反方不能再被弱化成：
+
+\[
+\text{uncentered objective world}+\text{mere representations}.
+\]
+
+最强版本是 **Constitutional Obtaining Pluralism**：
+
+\[
+R_{COP}=\langle W,S,M,A\rangle,
 \]
 
 其中：
 
-- `W` 是 actual objective reality；
-- `Π` 是全部真实 perspectives；
-- `ρ` 是所有 perspective–event anchors；
-- 所有主体都 genuinely conscious；
-- 没有一个 simpliciter opening。
+- first-person facts genuinely real；
+- subjects are metaphysical standpoints；
+- perspectivality can belong to modes of obtaining；
+- actuality can be irreducible；
+- other minds genuinely conscious；
+- no simpliciter privileged subject。
 
-pluralist 会说：
-
-\[
-Actual(R_P)
-\]
-
-完全可以成立，而：
+因此 OIP 正方必须解释：
 
 \[
-\neg\exists c\;Open_{simpliciter}(R_P,c).
+\boxed{\text{what independent explanatory work }Open^*\text{ adds over }R_{COP}.}
 \]
 
-因此 OIP 的核心争议就是：
-
-\[
-\boxed{\text{can actuality itself be wholly uncentered?}}
-\]
-
-OIP 不能靠定义 `actuality := centered opening` 来回答。
-
----
-
-## 6. Nagai 给出的两层动机
-
-### 6.1 Transcendental / Kantian motivation
-
-一个 unified objective world 作为经验世界，需要统一的 apperceptive activity。
-
-Nagai 因而把：
-
-\[
-\text{world unity}
-\]
-
-与：
-
-\[
-\text{I unity}
-\]
-
-深度绑定。
-
-这说明 center-like subjectivity 可能不只是 world 内部又一个对象，而和 “world obtains as one world” 有 constitutive relation。
-
-### 6.2 Leibnizian / actuality motivation
-
-Kantian unity 仍只给可能的 unified world，不能解释：
-
-\[
-\text{why this one is the sole actual world}.
-\]
-
-Nagai 用 Leibnizian “will beyond intelligence” 表达 actualization，并把：
-
-\[
-\text{actualizing a world}
-\]
-
-与：
-
-\[
-\text{actualizing I}
-\]
-
-视为同一行动。
-
-如果去掉 God，可以把这一层理解成 primitive actuality / sheer contingency。
-
----
-
-## 7. 最大优势：避免 Global Transition Gap 的一部分
-
-如果 OIP 成立，则不用先：
-
-\[
-T_{C\to A}:\mathcal C(H)\to E^*.
-\]
-
-因为 `E*` 并非从已经 actual 的 uncentered consciousness set 中后置选出。
-
-完整 actual state 从一开始就是：
-
-\[
-R^*=\text{centered actual opening}.
-\]
-
-因此：
-
-\[
-\boxed{\text{Global First-Person Transition Problem becomes a factorization artefact}}
-\]
-
-至少对 Constitutively Centered Architecture 如此。
-
----
-
-## 8. 最大代价：identity 仍然 brute
-
-OIP 可以解释：
-
-\[
-\text{why at least one center accompanies actuality}
-\]
-
-但没有解释：
-
-\[
-\text{why }c=E_R\text{ rather than }E_A.
-\]
-
-Nagai 在对称 fission 中直接允许：
-
-\[
-P(c=A)=P(c=B)
-\]
-
-意义上的纯 contingency / God’s will，而不要求 continuity、psychology 或 structure 决定结果。
-
-因此必须区分：
-
-### Existence explanation
-
-\[
-Actuality\Rightarrow CenterExists.
-\]
-
-### Identity explanation
-
-\[
-Why(Center=E^*)?
-\]
-
-OIP 主要处理前者。
-
-如果本项目坚持 Principle of Sufficient Reason 风格的 deeper identity explanation，Nagai 并没有完成任务。
-
----
-
-## 9. Anti-Swap Intuition 的修正
-
-OIP 允许：
-
-\[
-Uncentered(R_A)=Uncentered(R_B)
-\]
-
-但：
-
-\[
-Open(R_A,A),
-\qquad
-Open(R_B,B).
-\]
-
-所以相同客观/心理内容可以对应不同 centered actuality。
-
-这表面上反对：
-
-> 不可能有所有东西相同、只换 absolute center 的构造。
-
-更精确的修正版是：
-
-> 不可能有 **complete actual reality** 完全相同而 center 不同；因为 opening mode 本身属于 complete actuality。
-
-因此：
-
-\[
-\boxed{\text{same uncentered content}\neq\text{same complete actual reality}.}
-\]
-
-这保留了项目早期直觉的一个更强、也更清楚版本。
-
----
-
-## 10. 与 Bricker absolute actuality 的关系
-
-Bricker：
-
-\[
-\exists!w\;AbsolutelyActual(w)
-\]
-
-absolute actuality 是 primitive privilege。
-
-Nagai/OIP：
-
-\[
-ActualWorld\leftrightarrow ActualI\leftrightarrow ActualNOW.
-\]
-
-它比 Bricker 多一步：absolute actuality 本身被解释成 inherently I–NOW-centered 的 opening。
-
-因此二者区别在：
-
-- Bricker：primitive actuality of a world；
-- OIP：primitive/constitutive **centered actuality**。
-
-这不降低 primitiveness，但提高了 I / NOW / actuality 的统一度。
-
----
-
-## 11. 与 pluralism 的决战点
-
-OIP 正方必须证明：
-
-\[
-\boxed{Actuality\ cannot\ be\ exhausted\ by\ uncentered\ obtaining+all\ relative\ standpoints.}
-\]
-
-反方需要展示：
-
-\[
-R_P=\langle W,\Pi,\rho\rangle
-\]
-
-已经足以完整表达：
-
-- everything that happens；
-- every conscious perspective；
-- every ordinary first-person fact；
-- temporal passage / actuality if desired；
-
-而不需要 simpliciter opening。
-
-所以最新的核心冲突可以压成：
-
-\[
-\boxed{\text{Centered Actuality}\quad vs\quad\text{Uncentered Actuality + Perspectival Plurality}.}
-\]
+这就是 `Explanatory Delta Test`。
 
 ---
 
 ## 12. 当前评价
 
-OIP 是目前第一个能够把：
-
-- `≥1 absolute center`；
-- actuality；
-- I；
-- NOW
-
-放进同一个本体论结构的成熟邻近模型。
-
-它没有提供 derived identity selector，也没有回答 “why this person?” 的 sufficient reason。
-
-因此当前最有希望的作用是：
+OIP 仍是项目最强 positive architecture，但其地位已经更准确：
 
 \[
-\boxed{\text{solve Existence by identity with actuality; leave Identity as contingency}.}
+\boxed{\text{primitive-unificatory theory of centered actuality}}
 \]
 
-下一步要攻击的是 OIP 的关键前提：
+而非：
 
-> 一个完全 uncentered 的 actuality 是否 coherent？
+\[
+\boxed{\text{derived proof that actuality must be centered}.}
+\]
 
-若 coherent，OIP 缺少必要性；若不 coherent，Centered Completeness / at-least-one 会第一次得到真正的独立支持。
+它的最佳主张是：
 
-## 文献入口
+> neutral / plural actuality 不是最终 primitive；完整 actuality 本身就是一个 singular I–NOW opening。
 
-- Hitoshi Nagai, “The Opening: A Philosophy of Actuality” (1)–(4), *Philosophia OSAKA*, 2007–2010.
-- Scott Soames, “Actually” (2007).
-- Phillip Bricker, “Absolute Actuality and the Plurality of Worlds” (2006).
-- Christian List, “A Quadrilemma for Theories of Consciousness” (2025).
+它的最大挑战是：
+
+> strongest pluralist 已经可以把 first-personality 放到 obtaining level。为什么还必须再有一个 simpliciter orientation？
+
+因此最新决战点不再是 `content vs obtaining`，而是：
+
+\[
+\boxed{
+\text{plural perspectival obtaining}
+\quad vs\quad
+\text{singular absolute orientation}
+}
+\]
+
+## 文献与关联
+
+- Hitoshi Nagai, “The Opening: A Philosophy of Actuality” (2007–2010).
+- Bahadir Eker, “Perspectivalism about temporal reality”, *Synthese* 202, 42 (2023).
+- Martin A. Lipman, “Subjective Facts about Consciousness”, *Ergo* 10 (2023), 530–553.
+- Martin Lipman, *Standpoints: Time and Subjectivity* (OUP, 2026).
+- [`../arguments/obtaining-mode-pluralization.md`](../arguments/obtaining-mode-pluralization.md)
+- [`../arguments/non-solipsistic-common-core-constraint.md`](../arguments/non-solipsistic-common-core-constraint.md)
+- [`minimal-absolute-opening.md`](minimal-absolute-opening.md)
