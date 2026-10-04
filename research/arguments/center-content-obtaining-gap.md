@@ -1,10 +1,10 @@
 # Center-in-Content / Center-in-Obtaining Gap
 
-> 状态：前沿压力测试。
+> 状态：前沿压力测试，已纳入 `Obtaining-Mode Pluralization` 修正。
 >
-> 目标：区分“把 center 写进完整状态的内容”与“现实的 obtaining / actuality 本身具有第一人称方向”，避免 `Centered Total State` 仅凭 tuple 表示就被误认为已经获得 simpliciter centering。
+> 目标：区分“把 center 写进完整状态的内容”与“现实的 obtaining / actuality 本身具有第一人称方向”，同时明确：**obtaining-level perspectivality 仍不足以得到 absolute singleton。**
 
-## 0. 问题
+## 0. 基本区分
 
 当前 `Centered Total State` 常写成：
 
@@ -12,33 +12,41 @@
 \mathcal C_c=\langle W,\Pi,\rho,c,\ldots\rangle.
 \]
 
-这至少有两种不同的形而上读法。
+它至少有两种不同读法。
 
 ### Center in content
 
-`c` 是 complete state 的一个 constituent / parameter：
+`c` 是 complete state 的 constituent / parameter：
 
 \[
 Content(\mathcal C_c)\supset c.
 \]
 
-状态描述了“以 \(c\) 为中心的世界”。
+状态描述“以 \(c\) 为中心的世界”。
 
 ### Center in obtaining
 
-现实不是先实例化一个包含 `c` 参数的中性内容；相反，实际 obtaining 本身以 \(c\) 为第一人称方向：
+现实不是先实例化一个含 `c` 参数的中性内容；实际 obtaining 本身具有来自 / 朝向 \(c\) 的 perspectival form：
 
 \[
 Obtaining_c(W).
 \]
 
-这里真正承担 absolute-first-person 工作的，不是 content 中出现了 `c`，而是 **obtaining mode itself is centered**。
+第二种比第一种强，但最新研究表明还必须继续区分：
 
-本项目真正需要后者，或某个与后者等价的结构。
+\[
+\text{perspectival obtaining}
+\]
+
+与：
+
+\[
+\text{singular absolute obtaining}.
+\]
 
 ---
 
-## 1. 为什么 tuple 中出现 center 还不够
+## 1. 为什么 tuple 中出现 center 不够
 
 普通 centered-world / self-location framework 已经允许：
 
@@ -49,18 +57,9 @@ Obtaining_c(W).
 \quad\ldots
 \]
 
-它们可以分别编码不同 subject-relative truths。
+这些 states 可以分别编码不同 subject-relative truths。
 
-但只要这些 centered states 都能作为普通对象存在，就仍然可以有：
-
-\[
-Real(\mathcal C_{c_1})
-\land
-Real(\mathcal C_{c_2})
-\land\cdots
-\]
-
-而没有：
+即使它们全部真实，也没有：
 
 \[
 \exists!c\;Center_{simpliciter}(c).
@@ -76,93 +75,81 @@ Real(\mathcal C_{c_2})
 }
 \]
 
-这比 `Hidden Primitive Center` 更具体：即使 `c` 不是 hidden，而是公开写进 ontology，仍需说明它为什么改变 **what obtains simpliciter**，而非只增加一个 relational / indexed content coordinate。
-
 ---
 
-## 2. Perspectival realism 提供的关键区分
+## 2. Perspectival realism 的内容 / obtaining 区分
 
-Calosi、Iaquinto、Loss 对 perspectival realism 的刻画提供一个非常有用的诊断。
-
-他们把“purely perspectival facts”理解为：某事实只从某个 perspective 获得，但**相关 perspective 并不作为该事实的 constituent 出现**。
-
-时间类比最清楚：
+Calosi–Iaquinto–Loss 对 purely perspectival facts 的处理，以及 Eker 对 componential / constitutional perspectivality 的明确区分，都说明：
 
 \[
-\text{Socrates is sitting}
+\text{perspective in fact-content}
 \]
 
-若是真正 tensed fact，它可以只从 present perspective obtain；这与：
+不同于：
 
 \[
-\text{Socrates is sitting at }t
+\text{perspective in manner of obtaining}.
 \]
 
-把时间 \(t\) 明写为 constituent 不同。
+Eker 的形式尤其清楚：
 
-对第一人称同理，可区分：
-
-### Relationalized / constituent form
+### Componential
 
 \[
-Presented(E,c)
+[\Pi_t(\varphi)]_a.
 \]
 
-或：
+perspective 出现在 content 中，而 fact 以 neutral / atemporal mode obtain。
+
+### Constitutional
 
 \[
-\langle W,c\rangle.
+[\varphi]_t.
 \]
 
-### Pure perspectival / obtaining form
+perspective 不必进入 content；fact 本身以 perspectival mode obtain。
 
-\[
-Present(E)
-\]
-
-但该 fact 的 obtaining 本身只从 perspective \(c\) 成立。
-
-这个区分说明：
+所以：
 
 \[
 \boxed{
-\text{adding }c\text{ to fact-content can neutralize the very perspectivality we wanted to explain}
+\text{adding }c\text{ to content can neutralize the perspectivality we wanted to explain}
 }
 \]
 
-因为原本的 “from-here” 被改写成了一个普通更高元关系中的参数。
+这支持从 content-level center 转向 obtaining-level center。
 
 ---
 
 ## 3. Constituent Collapse
 
-假设 absolute-first-person theory 的全部额外结构都可写成 ordinary relation：
+若 absolute-first-person theory 的全部新增结构都可写成 ordinary relation：
 
 \[
-A(R,c).
+A(R,c),
 \]
 
-且完整现实可以同时量化所有候选：
+且完整现实可以平权量化所有候选：
 
 \[
-\{c\mid Candidate(R,c)\}.
+\{c\mid Candidate(R,c)\},
 \]
 
-那么除非 `A` 已经带有 primitive absolute semantics，否则 `c` 只是 relation 的 argument。
+那么除非 `A` 已经具有 primitive absolute semantics，`c` 只是 relation argument。
 
-此时有两种情况。
+### 若 `A` 对多个 centers 成立
 
-### A. `A` 对多个 local centers 成立
-
-得到 ordinary first-person plurality：
+得到：
 
 \[
 A(R,c_1),A(R,c_2),\ldots
 \]
 
-### B. `A` 只对一个 center 成立
+即 ordinary plurality。
 
-则需要解释：
+### 若 `A` 只对一个 center 成立
+
+仍需解释：
 
 \[
 Why\ A(R,c^*)?
@@ -170,57 +157,37 @@ Why\ A(R,c^*)?
 
 来源问题回到 structural selection / global relation / primitive asymmetry。
 
-因此只把 center 变成 state constituent，并不会自动获得 OIP 所需的：
+暂称这一失败：
 
 \[
-\boxed{\text{actuality itself is first-personally directed}}
+\boxed{\text{Constituent Collapse}.}
 \]
-
-暂称这一失败模式 **Constituent Collapse**。
 
 ---
 
-## 4. 对 `Inst_G(U,\mathcal C^*)` 的两种读法
+## 4. `Inst_G` 的两种 reading
 
-当前 Double-Level Instantiation / Centered Total State 写：
-
-\[
-Inst_G(U,\mathcal C_c).
-\]
-
-现在必须区分：
-
-### Reading I — content-centered instantiation
-
-`Inst_G` 是普通 instantiation，特殊性全部位于属性内容：
+### Content-centered instantiation
 
 \[
-\mathcal C_c=\langle W,c\rangle.
+Inst_G(U,\langle W,c\rangle).
 \]
 
-那么：
+特殊性全在被实例化 property 的内容中。
 
-\[
-Inst_G(U,\langle W,c\rangle)
-\]
-
-仍然需要说明为何 universe instantiate 这一 `c`-property；center 的 absolute significance 没有从普通 instantiation 自动产生。
-
-这一路仍受：
+这仍受到：
 
 - Centering Reduction Trilemma；
 - Instantiation–Actuality Gap；
-- Why This Complete State?；
-- Hidden Primitive Center
+- Why This Complete State；
+- Hidden Primitive Center。
 
-约束。
+### Obtaining-centered instantiation
 
-### Reading II — centered instantiation
-
-真正强版本应更接近：
+更强版本：
 
 \[
-Inst_G^{\langle I,NOW\rangle}(U,W),
+Inst_G^{c}(U,W)
 \]
 
 或：
@@ -229,219 +196,263 @@ Inst_G^{\langle I,NOW\rangle}(U,W),
 Open(U,W,c,t).
 \]
 
-其中 first-person direction 属于 **instantiation / obtaining relation itself**，不是被 instantiated content 的普通参数。
+first-person direction 属于 instantiation / obtaining relation itself。
 
-这更忠实于 Nagai / Opening Identity Principle：
-
-\[
-\boxed{
-WorldActuality=AbsoluteI=AbsoluteNOW
-}
-\]
-
-但代价也更清楚：现在需要解释的已经不是 “为什么 tuple 有 center slot”，而是：
+这更贴近 Nagai：
 
 \[
-\boxed{
-\text{为什么 actuality / obtaining 本身具有 irreducible first-person direction?}
-}
+WorldActuality=AbsoluteI=AbsoluteNOW.
 \]
 
-这正是 Actuality-to-Center Bridge。
+但这一步只把问题推进到 obtaining level；它尚未保证 global singleton。
 
 ---
 
-## 5. Center-Erasure Test
+## 5. 第一版 Center-Erasure Test
 
-可以给 centered actuality theory 一个简单压力测试。
-
-定义 forgetful operation：
+定义：
 
 \[
 U_c:\mathcal C_c\mapsto W.
 \]
 
-问：遗忘 center 后，是否仍得到一个 metaphysically complete actual reality？
-
-### 若答案为是
+若遗忘 center 后仍得到一个 complete actual reality：
 
 \[
 Actual(\mathcal C_c)
 \Rightarrow
-Actual(U_c(\mathcal C_c))
+Actual(U_c(\mathcal C_c)),
 \]
 
-且后者仍 complete，则 centeredness 不是 actuality 的 constitutive condition。
+则 centeredness 不是 actuality 的 constitutive condition。
 
-center 至多是：
+这是一项有用的**弱测试**：它可以淘汰仅把 center 当附加描述字段的模型。
 
-- additional first-person structure；
-- self-location parameter；
-- privilege property；
-- extra pointer。
+但最新研究表明，反方向不成立。
 
-### 若答案为否
+---
 
-则 theory 真正主张：
+## 6. 重要修正：erasure destroys completeness 仍不推出 absolute center
+
+Lipman / Eker 型 pluralism 可以让多个 perspectival modes 都属于 fundamental reality。
+
+那么删除全部 perspectival obtaining：
+
+\[
+Erase(M_{s_1},M_{s_2},\ldots)
+\]
+
+当然会破坏 metaphysical completeness。
+
+但仍可能：
+
+\[
+\neg\exists!s\;Absolute(s).
+\]
+
+所以：
 
 \[
 \boxed{
-\neg\exists R_0\;[Actual(R_0)\land Complete(R_0)\land Uncentered(R_0)]
+\text{perspectival erasure destroys completeness}
+\not\Rightarrow
+\text{absolute orientation exists}
 }
 \]
 
-这才是强 `Centered Actuality`。
+第一版 Center-Erasure Test 因而只能证明：某种 perspectival structure 可能 constitutive；不能证明其 singularity / absoluteness。
 
-但此时理论必须提供一个**不预设 absolute center 的 completeness / actuality criterion**，说明为什么 `U_c(\mathcal C_c)` 丢失的是现实本身，而不只是丢失一种描述方式。
+---
 
-因此 Center-Erasure Test 把问题压到：
+## 7. Strong Absolute-Orientation Erasure Test
+
+现在应先给 strongest pluralist 所有 ordinary first-person resources：
+
+\[
+R_{COP}=\langle W,S,M,A\rangle,
+\]
+
+其中：
+
+- \(W\)：objective structure；
+- \(S\)：all genuine subjects；
+- \(M\)：all irreducible subject-relative / constitutional modes of obtaining；
+- \(A\)：actuality / brute obtaining。
+
+absolute theory 再加：
+
+\[
+\Omega(c^*).
+\]
+
+于是：
+
+\[
+R_A=R_{COP}+\Omega(c^*).
+\]
+
+真正 relevant 的 forgetful operation 是：
+
+\[
+U_\Omega(R_A)=R_{COP}.
+\]
+
+而不是把 ordinary perspectivality 一起删掉。
+
+正方真正需要证明：
 
 \[
 \boxed{
-\text{centeredness 是否属于 obtaining 的必要形式，而不只是 complete content 的附加维度？}
+R_{COP}\text{ cannot be a complete actual reality}
+}
+\]
+
+这叫作：
+
+\[
+\boxed{\text{Absolute-Orientation Erasure Test}.}
+\]
+
+它直接把任务送回 Residual Fact Problem。
+
+---
+
+## 8. Non-relationalizability 也是必要不充分
+
+此前可要求：absolute first-person fact 不能完全消去成：
+
+\[
+F(R,c).
+\]
+
+这一条件仍有价值，因为它阻止简单 parameterization。
+
+但 Eker / Lipman 说明 pluralist 自己也可以接受：
+
+\[
+\boxed{\text{perspective is not a content constituent}}
+\]
+
+并让 facts genuinely obtain from different perspectives。
+
+所以：
+
+\[
+\boxed{
+NonRelationalizablePerspectivality
+\not\Rightarrow
+AbsoluteOrientation
+}
+\]
+
+这就是 `Obtaining-Mode Pluralization`。
+
+---
+
+## 9. 更新后的三层要求
+
+`Centered Total State` / OIP 若要超过 strongest pluralism，现在至少需要三层。
+
+### C1. Obtaining-level perspectivality
+
+first-person direction 不只是 content coordinate：
+
+\[
+ModeOfObtaining\text{ is perspectival}.
+\]
+
+### C2. Global singularity
+
+必须有：
+
+\[
+\exists!c\;Orientation(R,c).
+\]
+
+而不是多个 equally fundamental obtaining tokens。
+
+### C3. Absoluteness
+
+唯一 orientation 不能只是 mathematical / structural specialness，而要说明：
+
+\[
+Orientation(R,c^*)
+\Rightarrow
+Actuality/Liveness_{simpliciter}(c^*).
+\]
+
+因此：
+
+\[
+\boxed{
+\text{Obtaining-level centering is at best Layer 1 of 3.}
 }
 \]
 
 ---
 
-## 6. 与 fragmentalism 的三岔
+## 10. 对 OIP 的影响
 
-若存在多个 incompatible first-personal facts，Calosi–Iaquinto–Loss 的框架提示三种总体方向。
-
-### 1. Relationalize
-
-把 perspective 写进 fact：
+OIP 不应再写成普通：
 
 \[
-F(c_i).
+Actual(R)\Rightarrow\exists c\;Open(R,c)
 \]
 
-优点：所有 facts 可在一个 coherent reality 中共存。
+因为 `Open` 若只是 perspectival obtaining，会 pluralize。
 
-代价：perspectival incompatibility 被参数化，得到 ordinary plurality；absolute privilege 仍需额外来源。
-
-### 2. Keep facts purely perspectival + neutrality
-
-多个 incompatible perspectival facts 都真实，但不 privileged。
-
-为了避免共同 obtaining 的矛盾，需要 fragment / standpoint structure。
-
-这自然导向：
+真正 strong OIP 是：
 
 \[
-\text{perspectival / fragmentalist pluralism}.
+Actual(R)\equiv\exists!c\;Open^*(R,c),
 \]
 
-### 3. Keep facts purely perspectival + coherent unitism
+其中 `Open*` 已经表示 simpliciter absolute orientation。
 
-若坚持一个 coherent unitary actual reality，又坚持 incompatible first-person facts 不能共同 simpliciter obtain，那么至多一个能够 simpliciter obtain。
+于是 OIP 的地位也变得清楚：
 
-这可以帮助 `≤1`，但 `≥1` 与 which-one 仍需 centered actuality / opening 原理。
+- 若 `Open*` primitive → primitive-unificatory theory；
+- 若 `Open*` derived → Grounded Centering Ladder；
+- 若只用 ordinary `Open` → standpoint pluralism。
 
-于是得到：
+详见 `obtaining-mode-pluralization.md` 与更新后的 `opening-identity-principle.md`。
+
+---
+
+## 11. 当前结论
+
+最初突破仍然成立：
+
+\[
+\boxed{\text{center in content}\neq\text{center in obtaining}.}
+\]
+
+但现在有第二个同样重要的 gap：
+
+\[
+\boxed{\text{center in obtaining}\neq\text{absolute center}.}
+\]
+
+所以完整阶梯是：
 
 \[
 \boxed{
-\text{coherence can constrain multiplicity, but cannot by itself generate centered obtaining}
+\text{content coordinate}
+\to
+\text{perspectival obtaining}
+\to
+\text{singular absolute orientation}
 }
 \]
 
-这和现有 `Exclusivity–Existence Split` 完全一致。
+第一步有 Eker / fragmentalism 的成熟支持；第二步正是项目现在真正没有 bridge 的地方。
 
----
+## 文献与关联
 
-## 7. 新的最小要求：Obtaining-Level Centering
-
-`Centered Total State` 若要成为比 primitive pointer 更强的正方，至少需要满足：
-
-### O1. Non-relationalizability
-
-absolute first-person fact 不能被完整消去为：
-
-\[
-F(R,c)
-\]
-
-并让所有 `c` 在同一 uncentered totality 中平权共存。
-
-### O2. Center-erasure destroys completeness or actuality
-
-\[
-U_c(\mathcal C_c)
-\]
-
-不能仍是同一意义下 complete actual reality。
-
-### O3. Obtaining semantics is independently motivated
-
-`centered obtaining` 不能只是：
-
-\[
-Actual_c(R):=\text{“}c\text{ is absolute”}.
-\]
-
-否则只是换名 primitive。
-
-### O4. Ordinary perspectives remain local
-
-其他主体仍可拥有：
-
-\[
-F_i^{rel}
-\]
-
-而无需把它们变成 illusion / zombie。
-
-### O5. Coherence explains at-most-one, not at-least-one
-
-不要再把 incompatibility / coherence 误用成 existence proof。
-
----
-
-## 8. 对当前前沿的影响
-
-这一分析不淘汰 `Centered Total State`，反而把它的最强版本辨认得更清楚。
-
-弱版本：
-
-\[
-\boxed{\text{complete content contains a center parameter}}
-\]
-
-不足以推进项目。
-
-强版本：
-
-\[
-\boxed{\text{complete actuality obtains in an irreducibly centered mode}}
-\]
-
-才真正对应当前核心问题：
-
-> 现实的“现成如此”本身有没有第一人称方向？
-
-因此下一步对 OIP / Nagai / actuality-as-instantiation 的研究应该优先问：
-
-\[
-\boxed{
-\text{Is center a constituent of what obtains, or a constitutive mode of obtaining?}
-}
-\]
-
-如果只是前者，理论很可能重新落回 self-location / relational plurality。
-
-如果是后者，则真正需要解释的是一种 **first-personal mode of actuality**。
-
----
-
-## 文献连接
-
-- Claudio Calosi, Samuele Iaquinto & Roberto Loss, “Fragmentalism: Putting All the Pieces Together”, *Australasian Journal of Philosophy* 104(2), 2026, pp. 501–520; DOI `10.1080/00048402.2025.2515850`。当前使用层级：accepted/fulltext excerpt + publisher abstract。关键用途是区分 relevant perspective 作为 fact constituent 与 purely perspectival obtaining。
-- Christian List, “The Many-Worlds Theory of Consciousness”, *Noûs* 57(2), 2023, pp. 316–340。用途：第一人称 centered world 作为 ontic `<ω,π>` 结构，以及多个 first-personally centred worlds 的 pluralist precedent。
-- Kit Fine, *Tense and Reality* (2005)。用途：perspectival reality、fragmentalism 与 coherence/fragmentation 的基础框架。
-- `centering-reduction-trilemma.md`
-- `centered-completeness-gap.md`
-- `instantiation-actuality-gap.md`
-- `actuality-to-center-gap.md`
-- `coherence-based-singleton.md`
-- `synthesis/frontier-2026-10-05-centered-actuality.md`
+- Bahadir Eker, “Perspectivalism about temporal reality”, *Synthese* 202, 42 (2023), DOI `10.1007/s11229-023-04269-1`。
+- Martin A. Lipman, “Subjective Facts about Consciousness”, *Ergo* 10 (2023), 530–553, DOI `10.3998/ergo.4649`。
+- Martin Lipman, *Standpoints: Time and Subjectivity* (OUP, 2026).
+- Claudio Calosi, Samuele Iaquinto & Roberto Loss, “Fragmentalism: Putting All the Pieces Together”, *AJP* 104(2), 2026.
+- [`obtaining-mode-pluralization.md`](obtaining-mode-pluralization.md)
+- [`../models/opening-identity-principle.md`](../models/opening-identity-principle.md)
+- [`non-solipsistic-common-core-constraint.md`](non-solipsistic-common-core-constraint.md)
