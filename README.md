@@ -4,7 +4,9 @@
 
 核心假说保持开放：多个主体都可以 genuinely conscious，并拥有 ordinary first-person phenomenology；完整现实中是否还存在一个不可继续相对化的、全局唯一的 **absolute first-person / absolute I–NOW orientation**，仍未证明。
 
-当前最接近仓库结论的文档：[`synthesis/current-position.md`](synthesis/current-position.md)。
+当前长期立场：[`synthesis/current-position.md`](synthesis/current-position.md)。
+
+最新 frontier：[`synthesis/frontier-2026-10-05-actuality-endgame.md`](synthesis/frontier-2026-10-05-actuality-endgame.md)。
 
 ## 当前研究已经走到哪里
 
@@ -12,27 +14,38 @@
 
 > 为什么偏偏是这个人、这个时代、这个当前经验？
 
-经过 self-location、symmetry、duplication、process、grounding、fragmentalism、actuality、fission 与 centered-world 压力测试后，问题已经收缩成两座桥：
+经过 self-location、symmetry、duplication、process、grounding、fragmentalism、actuality、fission、centered-world 与 completion 压力测试后，问题已经收缩成：
 
 \[
 \boxed{
-FirstPersonalGivenness(S)
-\Rightarrow
-IrreducibleFirstPersonFact(S)\ ?
+\text{Does actuality itself have irreducible first-person arity?}
 }
 \]
 
-以及：
+ordinary first-person axis 与 absolute axis 现在严格分开：
 
 \[
 \boxed{
-Reality
-\Rightarrow
-AbsoluteOrientation(E^*)\ ?
-}
+\text{consciousness}
+\neq
+\text{local first-person organization}
+\neq
+\text{phenomenal mineness}
+\neq
+\text{strong FP fact}
+\neq
+\text{absolute orientation}.}
 \]
 
-第一座桥决定 ordinary subjects 的 first-person metaphysics；第二座桥决定是否还有一个 absolute layer。
+因此：
+
+\[
+FirstPersonalGivenness
+\not\Rightarrow
+AbsoluteOrientation.
+\]
+
+即使 ordinary first-person metaphysics 很强，也仍需要独立 bridge 才能得到唯一 absolute center。
 
 ## 三层 centering
 
@@ -52,9 +65,11 @@ center 只是 state / fact content 的 constituent。
 Obtaining_c(W).
 \]
 
-perspective 属于 reality / fact 如何 obtain。Eker 2023 的 constitutional perspectivalism 与 Lipman 的 standpoint metaphysics说明，这是一种成熟结构。
+perspective 属于 reality / fact 如何 obtain。
 
-但：
+这可以是一个成熟的 world-side metaphysics，但仍然允许多个 standpoint。
+
+因此：
 
 \[
 \boxed{
@@ -74,269 +89,263 @@ perspective 属于 reality / fact 如何 obtain。Eker 2023 的 constitutional p
 
 从第 2 层到第 3 层，目前没有 non-primitive bridge。
 
-## 一个关键修正：ordinary FP phenomenology ≠ strong FP facts
+## ordinary FP phenomenology ≠ strong FP facts
 
-List 2025 的 quadrilemma 对仓库旧 Two-Tier 写法形成了重要修正。
+一个重要修正是：ordinary first-person experience、de se representation 与 strong first-person fact ontology 不能混在一起。
 
-如果把 Alice 的 first-person fact 改写成：
+Perry-style essential-indexical theory允许：
 
 \[
-\text{“存在 Alice 的 standpoint，从那里 ‘I am X’ 为真”},
+\boxed{IrreducibleFirstPersonRepresentation}
 \]
 
-这个 meta-fact 可以和 Bob 的对应 meta-fact一起成立，但它在 subjective perspective shifts 下 invariant，因此可能已经不再是 genuine first-person fact。
+同时 truthmaker 仍是 ordinary impersonal worldly fact。
 
 所以：
 
 \[
 \boxed{
-\text{relativizing enough to regain compossibility may demote strong FP facts}.}
+IrreducibleFirstPersonRepresentation
+\not\Rightarrow
+IrreducibleFirstPersonFact.}
 \]
 
-因此现在分开：
+而如果把 first-person facts 充分 relativize 成“从某 standpoint 看为真”，又可能把它们降格成 perspective-invariant meta-facts。
 
-- **genuine consciousness / first-personal givenness**：所有真实主体都可以拥有；
-- **strong first-person fact realism**：每个主体都贡献 irreducible, perspective-non-invariant FP facts；这是一项更强的 metaphysical thesis。
+因此 universal strong first-person fact realism 本身也需要独立论证。
+
+见：
+
+- [`research/arguments/representation-fact-gap.md`](research/arguments/representation-fact-gap.md)
+- [`research/arguments/relative-first-person-demotion.md`](research/arguments/relative-first-person-demotion.md)
+
+## 当前两个 strongest actuality packages
+
+### Neutral Actuality
+
+\[
+\boxed{N\text{-}ACT=K+A_N}
+\]
+
+其中 \(K\) 可以已经包含：
+
+- one coherent actual world/history；
+- multiple genuine conscious subjects；
+- local first-person organization；
+- thin 或 thick phenomenal mineness；
+- independently required perspectival / temporal structure。
+
+actuality 本身保持 first-person-neutral。
+
+它可以由 indexical actuality、universe-state instantiation、brute uncentered obtaining、fundamental monadic actuality 等不同方案实现。
+
+共同只拒绝：
+
+\[
+Actuality\Rightarrow UniqueFirstPersonOrientation.
+\]
+
+见 [`research/models/neutral-actuality-core.md`](research/models/neutral-actuality-core.md)。
+
+### Constitutive Role-First Centered Actuality
+
+当前 strongest positive model 仍写作：
+
+\[
+\boxed{\Omega[R;E^*]}.
+\]
+
+但 semantics 已经从旧 selector / pointer reading 修正为 role-first：
+
+- \(E^*\) 不是 neutral reality 中先完全 individuated、随后收到 absolute tag 的 token；
+- orientation 与 locus 共同 individuate complete centered totality；
+- exact automorphic relabelings quotient；
+- 不需要 detachable selector / occupancy primitive；
+- `WorldActuality = AbsoluteI = AbsoluteNOW = Ω` 是同一个 centered actuality kind 的不同 aspects。
+
+所以它已经不是一个粗糙的“给某个人贴绝对标签”的模型。
+
+见 [`research/models/role-first-absolute-opening.md`](research/models/role-first-absolute-opening.md)。
+
+## Completion Fork
+
+当前真正 endgame 不再只是：
+
+\[
+T_C=T_N+\Omega.
+\]
+
+而是两个 completion principles：
+
+\[
+\boxed{C_N:\quad K\text{ can already constitute complete actuality}.}
+\]
+
+和：
+
+\[
+\boxed{C_C:\quad K\text{ is incomplete unless actuality is intrinsically centered}.}
+\]
+
+centered side 因而可以主张 neutral actuality 从一开始就不是完整 actuality concept。
+
+但不能只靠定义赢得这一步。当前三条可能路线是：
+
+1. **CC1 — Independent completion witness**：找到 neutral actuality 真正遗漏的独立事实；
+2. **CC2 — Neutral actuality incoherence**：证明 uncentered actuality 本身不一致；
+3. **CC3 — Primitive replacement advantage**：证明 centered actuality 比 neutral actuality 是更好的 primitive replacement。
+
+截至目前：
+
+\[
+\boxed{CC1\text{ 未找到 surviving witness}}
+\]
+
+\[
+\boxed{CC2\text{ 未找到 contradiction}}
+\]
+
+\[
+\boxed{CC3\text{ 未形成 decisive replacement win}}.
+\]
 
 详见：
 
-- [`research/arguments/relative-first-person-demotion.md`](research/arguments/relative-first-person-demotion.md)
-- [`research/arguments/consciousness-to-strong-fp-fact-gap.md`](research/arguments/consciousness-to-strong-fp-fact-gap.md)
+- [`research/arguments/completion-condition-fork.md`](research/arguments/completion-condition-fork.md)
+- [`research/arguments/centered-completion-witness-exhaustion.md`](research/arguments/centered-completion-witness-exhaustion.md)
+- [`research/arguments/neutral-actuality-incoherence-audit.md`](research/arguments/neutral-actuality-incoherence-audit.md)
+- [`research/arguments/primitive-actuality-replacement-test.md`](research/arguments/primitive-actuality-replacement-test.md)
 
-## 当前理论空间
+## Presence / manifestation 的当前边界
 
-### P-F — Fragmentalist pluralism
+phenomenological presence、for-me-ness、personal horizon 可以非常深，甚至把 I、phenomenal NOW、experiential actuality 统一到一个 local presence-dimension。
 
-保留：
-
-\[
-StrongFPR+NonSolipsism+OneWorld
-\]
-
-放弃 global non-fragmentation。
-
-### P-MW — Many-world first-person realism
-
-保留：
-
-\[
-StrongFPR+NonSolipsism+NonFragmentation
-\]
-
-放弃 one world。
-
-### A-W — Absolute one-world / weak ordinary-FP
-
-保留：
-
-\[
-ManyConsciousSubjects
-+
-LocalFPPhen
-+
-OneWorld
-+
-NonFragmentation
-+
-AbsoluteOrientation.
-\]
-
-但不预先承诺每个 nonabsolute subject 都拥有 strong irreducible FP facts。
-
-### A-F / A-MW
-
-先保留 universal strong FPR 的 fragment / many-world architecture，再额外加入 one absolute orientation。
-
-### D-* — Derived Absolute Orientation
-
-寻找：
-
-\[
-D\Rightarrow\Omega(E^*).
-\]
-
-如果成功，解释收益最高；目前没有 candidate 通过全部门槛。
-
-完整矩阵：[`research/models/endgame-theory-matrix.md`](research/models/endgame-theory-matrix.md)。
-
-## 当前最强正方：Minimal Absolute Opening
-
-当前最干净的 primitive positive model 属于 A-W：
-
-\[
-\boxed{\Omega[R;E^*]}
-\]
-
-其中 \(\Omega\) 是 complete actuality 的 primitive singular orientation mode。
-
-工作 identity：
+但目前仍然得到：
 
 \[
 \boxed{
-WorldActuality=AbsoluteI=AbsoluteNOW=\Omega.}
+\text{Phenomenal Manifestation Depth}
+\not\Rightarrow
+\text{Global Manifestation Singularity}.}
 \]
 
-它保留所有 other minds 的 genuine consciousness 与 ordinary first-person phenomenology；唯一额外的不平等是：只有一个 locus 具有 irreducible simpliciter orientation。
+也就是说，一个 local first-person structure 再强，也不会自动 globalize 成唯一 absolute orientation。
 
-它明确**不解释**：
+见：
 
-- why this subject；
-- why this moment；
-- why actuality is singularly oriented；
-- why phenomenal symmetry 对应 fact-level metaphysical inequality；
-- how introspection identifies the absolute center。
+- [`research/arguments/presence-to-globality-gap.md`](research/arguments/presence-to-globality-gap.md)
+- [`literature/fasching-valberg-presence-horizon.md`](literature/fasching-valberg-presence-horizon.md)
 
-因此它是 primitive-unificatory ontology，不是 derived explanation。
+## Epistemic result
 
-见 [`research/models/minimal-absolute-opening.md`](research/models/minimal-absolute-opening.md)。
-
-## Opening Identity Principle 的当前裁决
-
-`Open` 现在有三种 reading：
+role-first anti-haecceitism 可以消除一部分 bare-token lottery，但不能消除真正的 self-location 问题：
 
 \[
-\text{ordinary perspectival opening}
-\Rightarrow
-\text{pluralism};
+\boxed{L_{self}=G\ ?}
 \]
+
+若普通 evidence 在 coincidence / non-coincidence 下同样可能：
 
 \[
-\text{absolute opening by semantics}
-\Rightarrow
-\text{primitive};
+P(e\mid L_{self}=G)
+=
+P(e\mid L_{self}\neq G),
 \]
+
+则：
 
 \[
-\text{derived absolute opening}
-\Rightarrow
-\text{Grounded Centering Ladder}.
+BF_{=/\neq}=1.
 \]
 
-目前没有第四条“只把 center 移到 mode of obtaining 就自动得到 singleton”的路线。
-
-见 [`research/models/opening-identity-principle.md`](research/models/opening-identity-principle.md)。
-
-## Derived route 的门槛
-
-任何 non-primitive absolute-centering theory 至少需要：
+有限 symmetric case 中：
 
 \[
-\boxed{
-NaturalPointing
-\to
-IndependentDefinability
-\to
-PrivilegeSemantics
-\to
-NonPluralizability.}
+\boxed{P(L_{self}=G\mid e,K)=1/N.}
 \]
 
-现有 candidates 依次受到：
-
-- symmetry obstruction；
-- locality–duplication no-go；
-- local-to-global singleton obstruction；
-- process-to-center gap；
-- priority–liveness gap；
-- global-section–center gap；
-- universal-property–manifestation dilemma；
-- instantiation–actuality gap；
-- obtaining-mode pluralization；
-- stochastic why-this-one / privilege bridge
-
-等限制。
-
-见 [`synthesis/frontier-2026-10-05-grounded-centering-ladder.md`](synthesis/frontier-2026-10-05-grounded-centering-ladder.md)。
-
-## Residual Fact Exhaustion
-
-仓库已经给 strongest pluralist package 尽可能多的资源，并测试：
-
-- for-me-ness；
-- felt presence；
-- non-relational current experience；
-- I–NOW coupling；
-- real passage；
-- actuality；
-- one-world coherence；
-- perfect duplication；
-- fission；
-- prudential asymmetry；
-- “为什么这个人 / 时代”；
-- ineffability；
-- primitive presence。
-
-当前仍未找到：
-
-\[
-Independent(X)
-\land
-Pluralism\not\models X
-\land
-AbsoluteTheory\models X.
-\]
-
-所以：
-
-\[
-\boxed{
-\text{No independently established residual fact currently forces }\Omega.}
-\]
-
-这不是 absolute-first-person 不存在的证明。
-
-见 [`research/arguments/strong-pluralist-exhaustion-test.md`](research/arguments/strong-pluralist-exhaustion-test.md)。
+因此普通 first-person certainty 不能自动提供对 absolute-role coincidence 的 near-certainty。
 
 ## 当前 verdict
 
-现在不能简单说 pluralism 更便宜，因为 strong first-person pluralism 自身需要 fragmentation / many centred worlds；也不能说 absolute realism 获得证据，因为目前没有 independent residual fact 迫使 \(\Omega\)。
-
-所以当前最公平的判断是：
+现在双方最公平的竞争是：
 
 \[
 \boxed{
-\text{evidential underdetermination + architecture-cost trade-off}.}
+\text{actuality is intrinsically neutral}
+\quad vs\quad
+\text{actuality is intrinsically first-personally oriented}.}
 \]
 
-条件性地：
+现有 evidence / common explananda 还没有裁决这个 primitive-kind difference。
 
-- 若 universal strong FPR 是 non-negotiable，P-F / P-MW 当前比 A-F / A-MW 更节约；
-- 若 one coherent world + genuine other minds + ordinary first-person phenomenology 是 non-negotiable，而 universal strong FPR 可以放弃，A-W 是相当干净的 absolute-first-person theory；
-- 若 absolute center 还必须有 non-primitive source，D-* 仍是开放目标。
+所以当前已经触发：
+
+\[
+\boxed{\text{Completion Underdetermination}.}
+\]
+
+但这不表示两边 posterior probability 必须相等。
+
+因为 Centered Completion 是更强结构承诺，而目前没有独立 payoff，当前 provisional ranking 仍是：
+
+\[
+\boxed{N\text{-}ACT/N\text{-}W^+\text{ retains a prima facie abductive lead}.}
+\]
+
+这个 lead 比旧版本窄得多。它不再依赖“centered theory 只是 ad hoc pointer”或“必然多一个 primitive”的简单批评。
+
+真正剩下的优势只是：
+
+\[
+\boxed{\text{the weaker completion principle is not yet forced to become stronger}.}
+\]
+
+这不是 absolute first-person 不存在的证明。
+
+## 现在仍值得继续的方向
+
+接下来只有少数资源可能真正改变 verdict：
+
+- **新的 independent completion witness**，来自当前 residual matrix 之外；
+- **新的 evidence channel**，必须 privilege-sensitive 且不能 local-replicate；
+- **更强的 actuality metaphysics**，真正推出 first-person arity，而不是预设它；
+- **新的 global physics/metaphysics structure**，进入 common core 并 naturalize centered completion；
+- ordinary first-person axis 上继续解决 Representation–Fact Gap，但不能用 local subjectivity 的未决问题替 absolute layer 举证。
+
+重复 phenomenology、selector、death transfer、trajectory、bare duplicate identity 目前都不会改变 verdict。
 
 ## 最新导航
 
 ### 综合
 
 - [`synthesis/current-position.md`](synthesis/current-position.md) — 当前长期立场。
-- [`synthesis/frontier-2026-10-05-endgame.md`](synthesis/frontier-2026-10-05-endgame.md) — 最新 endgame：ordinary strong FPR 与 absolute orientation 两维拆开。
-- [`synthesis/frontier-2026-10-05-absolute-orientation.md`](synthesis/frontier-2026-10-05-absolute-orientation.md) — obtaining-level pluralism 后的 absolute-orientation 前沿。
+- [`synthesis/frontier-2026-10-05-actuality-endgame.md`](synthesis/frontier-2026-10-05-actuality-endgame.md) — 最新 actuality endgame。
+- [`synthesis/frontier-2026-10-05-role-first-completion.md`](synthesis/frontier-2026-10-05-role-first-completion.md) — role-first centered completion。
 - [`synthesis/frontier-2026-10-05-grounded-centering-ladder.md`](synthesis/frontier-2026-10-05-grounded-centering-ladder.md) — derived route 的结构门槛。
 
-### 最新核心论证
+### 核心模型
 
-- [`research/arguments/consciousness-to-strong-fp-fact-gap.md`](research/arguments/consciousness-to-strong-fp-fact-gap.md)
-- [`research/arguments/relative-first-person-demotion.md`](research/arguments/relative-first-person-demotion.md)
-- [`research/arguments/obtaining-mode-pluralization.md`](research/arguments/obtaining-mode-pluralization.md)
-- [`research/arguments/center-content-obtaining-gap.md`](research/arguments/center-content-obtaining-gap.md)
-- [`research/arguments/strong-pluralist-exhaustion-test.md`](research/arguments/strong-pluralist-exhaustion-test.md)
-- [`research/arguments/non-solipsistic-common-core-constraint.md`](research/arguments/non-solipsistic-common-core-constraint.md)
-
-### 模型
-
+- [`research/models/neutral-actuality-core.md`](research/models/neutral-actuality-core.md)
+- [`research/models/role-first-absolute-opening.md`](research/models/role-first-absolute-opening.md)
+- [`research/models/constructive-neutral-one-world.md`](research/models/constructive-neutral-one-world.md)
 - [`research/models/endgame-theory-matrix.md`](research/models/endgame-theory-matrix.md)
-- [`research/models/minimal-absolute-opening.md`](research/models/minimal-absolute-opening.md)
-- [`research/models/two-tier-first-person-realism.md`](research/models/two-tier-first-person-realism.md)
-- [`research/models/opening-identity-principle.md`](research/models/opening-identity-principle.md)
-- [`research/models/centered-total-state.md`](research/models/centered-total-state.md)
+
+### 核心论证
+
+- [`research/arguments/completion-condition-fork.md`](research/arguments/completion-condition-fork.md)
+- [`research/arguments/completion-underdetermination-result.md`](research/arguments/completion-underdetermination-result.md)
+- [`research/arguments/global-role-realizer-trilemma.md`](research/arguments/global-role-realizer-trilemma.md)
+- [`research/arguments/presence-to-globality-gap.md`](research/arguments/presence-to-globality-gap.md)
+- [`research/arguments/representation-fact-gap.md`](research/arguments/representation-fact-gap.md)
 
 ### 文献
 
 - [`literature/index.md`](literature/index.md) — 核心文献地图。
-- [`literature/consciousness-first-person-fact-bridge.md`](literature/consciousness-first-person-fact-bridge.md)
+- [`literature/neutral-actuality-options.md`](literature/neutral-actuality-options.md)
+- [`literature/fasching-valberg-presence-horizon.md`](literature/fasching-valberg-presence-horizon.md)
 - [`literature/lipman-2023-subjective-facts-consciousness.md`](literature/lipman-2023-subjective-facts-consciousness.md)
 - [`literature/eker-2023-constitutional-perspectivalism.md`](literature/eker-2023-constitutional-perspectivalism.md)
-- [`literature/nagai-2007-2010-opening-actuality.md`](literature/nagai-2007-2010-opening-actuality.md)
 
 ## 仓库约定
 
