@@ -11,11 +11,12 @@
 - 同时处理主体与当前时刻的 I–NOW 不对称；
 - 检查相对论、多元宇宙、完全复制和精确对称下的理论约束；
 - 研究完整现实结构是否可能唯一决定一个绝对经验事件 \(E^*\) 或一条绝对经验轨迹 \(\Gamma^*\)；
-- 用 standpoint pluralism 等强反方检验“唯一 absolute center”是否真的提供额外解释力。
+- 用 standpoint pluralism 等强反方检验“唯一 absolute center”是否真的提供额外解释力；
+- 检验全部 standpoint-relative facts 给出以后，是否仍残留一种不可相对化的 liveness / actuality simpliciter。
 
-## 当前主线：Structural Selection Problem
+## 当前两条主线
 
-暂时把下一阶段核心问题写成：
+### Structural Selection Problem
 
 \[
 \mathcal R\Longrightarrow E^*\quad\text{或}\quad\mathcal R\Longrightarrow\Gamma^*.
@@ -24,6 +25,26 @@
 这里 \(\mathcal R\) 表示完整现实结构。研究目标是在不预设第一人称特权的情况下，判断现实能否**典范且唯一**地确定一个绝对经验事件或轨迹。
 
 目前已经得到一个必要约束：若选择规则纯粹由结构决定，它必须尊重 \(\mathcal R\) 的自同构；因此，被选中的 \(E^*\) 必须被所有相关自同构固定。即使这一对称性门槛通过，仍然存在“可区分性不等于特权”的第二道困难。
+
+### Residual Fact Problem
+
+设全部真实 standpoint-relative 第一人称事实构成 \(\mathcal P\)。正方当前需要建立：
+
+\[
+\mathcal P
+\]
+
+仍不足以穷尽某种不可相对化的：
+
+\[
+L=\text{liveness / actuality simpliciter}.
+\]
+
+如果 \(L\) 最终只能翻译成“每个 standpoint 对自身而言是 live”，理论会回到 standpoint pluralism。当前优先寻找更深结构 \(D\)，使：
+
+\[
+D\Rightarrow L.
+\]
 
 ## 导航
 
@@ -39,6 +60,7 @@
 ### 核心研究
 
 - [`research/questions/core-problems.md`](research/questions/core-problems.md) — 当前未决问题。
+- [`research/arguments/residual-fact-problem.md`](research/arguments/residual-fact-problem.md) — 全部 standpoint facts 给出以后是否仍残留 absolute liveness。
 - [`research/arguments/symmetry-pressure.md`](research/arguments/symmetry-pressure.md) — 多中心方案面对的对称性压力。
 - [`research/arguments/symmetry-obstruction.md`](research/arguments/symmetry-obstruction.md) — 结构性唯一选择面对的自同构禁阻。
 - [`research/arguments/standpoint-pluralism-challenge.md`](research/arguments/standpoint-pluralism-challenge.md) — 当前最强反方：真实但多元的 standpoint facts。
@@ -47,8 +69,10 @@
 
 ### 文献
 
-- [`literature/index.md`](literature/index.md) — 第一人称、自我定位、liveness、I–NOW、moving spotlight 等文献地图。
+- [`literature/index.md`](literature/index.md) — 第一人称、自我定位、liveness、I–NOW、actuality、moving spotlight 等文献地图。
+- [`literature/builes-2024-first-person-realism.md`](literature/builes-2024-first-person-realism.md) — First-Person Realism 的系统论证地图及其与“绝对第一人称”的边界。
 - [`literature/lipman-2026-standpoints.md`](literature/lipman-2026-standpoints.md) — Martin Lipman 的 standpoint pluralism，作为当前最高优先级反方。
+- [`literature/actuality-analogy.md`](literature/actuality-analogy.md) — Lewis 的 indexical actuality 与 Bricker 的 absolute actuality，对应当前核心分歧。
 
 ### 研究日志
 
