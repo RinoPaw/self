@@ -14,7 +14,8 @@
 - 研究完整现实结构是否可能唯一决定一个绝对经验事件 \(E^*\) 或一条绝对经验轨迹 \(\Gamma^*\)；
 - 用 standpoint / perspectival pluralism 等强反方检验“唯一 absolute center”是否真的提供额外解释力；
 - 检验全部 standpoint-relative facts 给出以后，是否仍残留一种不可相对化的 liveness / actuality simpliciter；
-- 筛选哪些更深结构 \(D\) 真正有资格生成 absolute liveness，而不只做到“唯一辨认”。
+- 筛选哪些更深结构 \(D\) 真正有资格生成 absolute liveness；
+- 区分 **Liveness Generation Problem** 与 **Absolute Center Uniqueness Problem**，并用 causal-set becoming / process pluralism 做压力测试。
 
 ## 当前三道门槛
 
@@ -30,7 +31,7 @@
 
 Solomyak 式 radical perspectival pluralism 允许多个 equally and fully fundamental perspectives，同时拒绝一个更高的 fundamental meta-perspective。若这种模型成立，Structural Selection Problem 还没有合法的单一输入。
 
-因此当前先问：
+因此当前先检查：
 
 \[
 \exists !\mathcal R_{fund}\ ?
@@ -68,13 +69,21 @@ L=\text{liveness / actuality simpliciter}.
 D\Rightarrow L.
 \]
 
-当前新增一个工作要求：纯粹的结构唯一性不够。\(D\) 还需要提供独立的本体论方向或优先角色，才能跨过
+纯粹的结构唯一性不够。\(D\) 还需要提供独立的本体论方向、生成或优先角色，才能跨过：
 
 \[
 \text{individualization}\not\Rightarrow\text{privilege}.
 \]
 
 暂称 **Privilege Bridge Requirement**。
+
+最新进展表明 fundamental process / becoming 可以为 liveness generation 提供真实先例，但：
+
+\[
+\boxed{\exists !G\not\Rightarrow\exists !E^*\;LIVE(E^*)}
+\]
+
+一个唯一生成过程仍然可以产生多个 live experiences。因而 liveness 的来源与 global center 的唯一性必须分开研究。
 
 ## 导航
 
@@ -90,13 +99,15 @@ D\Rightarrow L.
 ### 核心研究
 
 - [`research/questions/core-problems.md`](research/questions/core-problems.md) — 当前未决问题。
-- [`research/arguments/meta-perspective-challenge.md`](research/arguments/meta-perspective-challenge.md) — Structural Selection 之前的前置门槛：是否存在单一 fundamental reality structure。
+- [`research/arguments/meta-perspective-challenge.md`](research/arguments/meta-perspective-challenge.md) — Structural Selection 之前的前置门槛：统一 fundamental reality structure 的合法性。
 - [`research/arguments/residual-fact-problem.md`](research/arguments/residual-fact-problem.md) — 全部 standpoint facts 给出以后是否仍残留 absolute liveness。
+- [`research/arguments/process-to-center-gap.md`](research/arguments/process-to-center-gap.md) — 唯一生成过程为何仍不足以推出唯一 live center。
 - [`research/arguments/symmetry-pressure.md`](research/arguments/symmetry-pressure.md) — 多中心方案面对的对称性压力。
 - [`research/arguments/symmetry-obstruction.md`](research/arguments/symmetry-obstruction.md) — 结构性唯一选择面对的自同构禁阻。
 - [`research/arguments/standpoint-pluralism-challenge.md`](research/arguments/standpoint-pluralism-challenge.md) — 强反方：真实但多元的 standpoint facts。
 - [`research/models/structural-selection.md`](research/models/structural-selection.md) — 从完整现实结构唯一确定 \(E^*\) / \(\Gamma^*\) 的模型框架。
-- [`research/models/generators-of-liveness.md`](research/models/generators-of-liveness.md) — 对 \(D\Rightarrow L\) 候选结构的第一轮系统筛选；当前重点保留 grounding / fundamentality。
+- [`research/models/generators-of-liveness.md`](research/models/generators-of-liveness.md) — 对 \(D\Rightarrow L\) 候选结构的系统筛选；重点比较 grounding 与 fundamental becoming。
+- [`research/models/fundamental-process-frontier.md`](research/models/fundamental-process-frontier.md) — fundamental process / live frontier 模型与 Frontier Multiplicity。
 - [`research/models/priority-i-now.md`](research/models/priority-i-now.md) — 借 Priority Presentism 的 grounding 思路构造 I–NOW 联合特权模型。
 - [`research/models/w-flow.md`](research/models/w-flow.md) — \(w\) 流与元时间问题。
 
@@ -106,8 +117,9 @@ D\Rightarrow L.
 - [`literature/builes-2024-first-person-realism.md`](literature/builes-2024-first-person-realism.md) — First-Person Realism 的系统论证地图及其与“绝对第一人称”的边界。
 - [`literature/lipman-2026-standpoints.md`](literature/lipman-2026-standpoints.md) — Martin Lipman 的 standpoint pluralism，作为当前最高优先级反方之一。
 - [`literature/solomyak-2024-perspectival-pluralism.md`](literature/solomyak-2024-perspectival-pluralism.md) — radical / modest perspectival pluralism，以及它对 reality monism 前提的挑战。
-- [`literature/actuality-analogy.md`](literature/actuality-analogy.md) — Lewis 的 indexical actuality 与 Bricker 的 absolute actuality，对应当前核心分歧。
-- [`literature/grounding-and-priority-cosmopsychism.md`](literature/grounding-and-priority-cosmopsychism.md) — grounding、fundamentality、priority monism / cosmopsychism 作为特权生成结构的邻近理论。
+- [`literature/actuality-analogy.md`](literature/actuality-analogy.md) — Lewis 的 indexical actuality 与 Bricker 的 absolute actuality。
+- [`literature/grounding-and-priority-cosmopsychism.md`](literature/grounding-and-priority-cosmopsychism.md) — grounding、fundamentality、priority monism / cosmopsychism。
+- [`literature/dowker-causal-set-becoming.md`](literature/dowker-causal-set-becoming.md) — causal-set birth process、objective becoming、live experience 与 gauge / covariance 压力。
 - [`literature/pipeline.md`](literature/pipeline.md) — AI 文献发现、引用扩展、核验与入库流程。
 - [`literature/queries.json`](literature/queries.json) — 当前研究主线的可复用检索集合。
 - [`tools/literature.py`](tools/literature.py) — OpenAlex + Semantic Scholar + Crossref 自动检索工具。
