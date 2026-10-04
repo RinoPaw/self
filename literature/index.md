@@ -24,6 +24,20 @@
 
 用途：解释普通意识为何天然具有第一人称给予方式。需要特别避免把这一层直接等同于全局绝对第一人称。
 
+## First-Person Realism
+
+### David Builes — Eight Arguments for First-Person Realism (2024)
+
+关键词：first-person realism、metaphysical privilege、symmetry、A-theory、anti-haecceitism、personal identity。
+
+用途：目前最系统的 first-person realism 论证综述之一，并明确把 perspective privilege 与 actual-world privilege、present-time privilege 对照。
+
+重要边界：Builes 的 First-Person Realism 是宽范畴，可以包含 subjectively privileged、many-worlds 或 fragmentalist 版本。本项目的“绝对第一人称”要求更强的 simpliciter / globally non-duplicable privilege。
+
+专门笔记：[`builes-2024-first-person-realism.md`](builes-2024-first-person-realism.md)
+
+Wiley: https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.12959
+
 ## 形而上特权与 liveness
 
 ### Benj Hellie — Against Egalitarianism
@@ -38,7 +52,7 @@ Oxford Academic: https://academic.oup.com/analysis/article-abstract/73/2/304/169
 
 关键词：egocentric presentism、perspectival realism、monadic presence。
 
-用途：研究一个视角具有形而上特权的强版本，并检查其与非唯我论的张力。
+用途：研究一个视角具有形而上特权的强版本。Hare 的 monadic presence 尤其接近本项目暂记的 LIVE simpliciter。
 
 ### Giovanni Merlo — Subjectivism and the Mental
 
@@ -80,6 +94,24 @@ PDF: https://web.mit.edu/bskow/www/research/timeinrelativity.pdf
 
 Oxford Academic: https://academic.oup.com/book/62540
 
+## Actuality 类比
+
+### David Lewis — indexical actuality
+
+关键词：modal realism、actuality、indexicality、world-relative actuality。
+
+用途：提供 standpoint pluralism 的成熟模态类比。所有世界同等真实，“actual”只随所在世界变化，没有 absolute actuality。
+
+### Phillip Bricker — Absolute Actuality and the Plurality of Worlds (2006); Modal Matters (2020)
+
+关键词：absolute actuality、Leibnizian realism、primitive actuality、plurality of worlds。
+
+用途：提供“多个真实候选 + 一个 simpliciter 特权对象”的成熟可构造性先例。其 primitive actuality 路线同时提醒本项目：逻辑可构造性和来源解释是两件不同的事。
+
+专门笔记：[`actuality-analogy.md`](actuality-analogy.md)
+
+Wiley: https://onlinelibrary.wiley.com/doi/10.1111/j.1520-8583.2006.00102.x
+
 ## 地平线、自我与死亡
 
 ### J. J. Valberg — Dream, Death, and the Self
@@ -89,6 +121,12 @@ Oxford Academic: https://academic.oup.com/book/62540
 用途：研究当前主体中心、时间连续性和死亡之间的关系。
 
 ## 第一人称理论的整体约束
+
+### Christian List — The First-Personal Argument Against Physicalism
+
+关键词：first-personal facts、third-personal facts、non-supervenience、indexicality。
+
+用途：为“完整第三人称事实可能没有穷尽第一人称事实”提供系统论证。它支持 first-person realism 的一般动机，还没有直接推出本项目要求的全局唯一绝对中心。
 
 ### Christian List — A Quadrilemma for Theories of Consciousness
 
@@ -121,6 +159,12 @@ https://plato.stanford.edu/entries/structural-realism/
 一个无参数可定义的元素必须在相应结构的所有自同构下保持固定。本项目暂时把这一点当作结构选择器的数学类比，不把现实直接等同为一阶模型。
 
 用途：形式化 [`../research/arguments/symmetry-obstruction.md`](../research/arguments/symmetry-obstruction.md) 中的必要条件。
+
+## 当前核心论证文件
+
+- [`../research/arguments/residual-fact-problem.md`](../research/arguments/residual-fact-problem.md) — standpoint facts 全部给出以后，是否仍残留 LIVE / actuality simpliciter。
+- [`../research/arguments/standpoint-pluralism-challenge.md`](../research/arguments/standpoint-pluralism-challenge.md) — 最强 pluralist 反方。
+- [`../research/arguments/symmetry-obstruction.md`](../research/arguments/symmetry-obstruction.md) — 结构选择的对称性禁阻。
 
 ## 时间形而上学邻近研究
 
