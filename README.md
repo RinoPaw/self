@@ -12,7 +12,8 @@
 - 检查相对论、多元宇宙、完全复制和精确对称下的理论约束；
 - 研究完整现实结构是否可能唯一决定一个绝对经验事件 \(E^*\) 或一条绝对经验轨迹 \(\Gamma^*\)；
 - 用 standpoint pluralism 等强反方检验“唯一 absolute center”是否真的提供额外解释力；
-- 检验全部 standpoint-relative facts 给出以后，是否仍残留一种不可相对化的 liveness / actuality simpliciter。
+- 检验全部 standpoint-relative facts 给出以后，是否仍残留一种不可相对化的 liveness / actuality simpliciter；
+- 筛选哪些更深结构 \(D\) 真正有资格生成 absolute liveness，而不只做到“唯一辨认”。
 
 ## 当前两条主线
 
@@ -46,6 +47,14 @@ L=\text{liveness / actuality simpliciter}.
 D\Rightarrow L.
 \]
 
+当前新增一个工作要求：纯粹的结构唯一性不够。\(D\) 还需要提供独立的本体论方向或优先角色，才能跨过
+
+\[
+\text{individualization}\not\Rightarrow\text{privilege}.
+\]
+
+暂称 **Privilege Bridge Requirement**。
+
 ## 导航
 
 ### 当前综合
@@ -65,6 +74,7 @@ D\Rightarrow L.
 - [`research/arguments/symmetry-obstruction.md`](research/arguments/symmetry-obstruction.md) — 结构性唯一选择面对的自同构禁阻。
 - [`research/arguments/standpoint-pluralism-challenge.md`](research/arguments/standpoint-pluralism-challenge.md) — 当前最强反方：真实但多元的 standpoint facts。
 - [`research/models/structural-selection.md`](research/models/structural-selection.md) — 从完整现实结构唯一确定 \(E^*\) / \(\Gamma^*\) 的模型框架。
+- [`research/models/generators-of-liveness.md`](research/models/generators-of-liveness.md) — 对 \(D\Rightarrow L\) 候选结构的第一轮系统筛选；当前重点保留 grounding / fundamentality。
 - [`research/models/w-flow.md`](research/models/w-flow.md) — \(w\) 流与元时间问题。
 
 ### 文献
@@ -73,6 +83,7 @@ D\Rightarrow L.
 - [`literature/builes-2024-first-person-realism.md`](literature/builes-2024-first-person-realism.md) — First-Person Realism 的系统论证地图及其与“绝对第一人称”的边界。
 - [`literature/lipman-2026-standpoints.md`](literature/lipman-2026-standpoints.md) — Martin Lipman 的 standpoint pluralism，作为当前最高优先级反方。
 - [`literature/actuality-analogy.md`](literature/actuality-analogy.md) — Lewis 的 indexical actuality 与 Bricker 的 absolute actuality，对应当前核心分歧。
+- [`literature/grounding-and-priority-cosmopsychism.md`](literature/grounding-and-priority-cosmopsychism.md) — grounding、fundamentality、priority monism / cosmopsychism 作为特权生成结构的邻近理论。
 - [`literature/pipeline.md`](literature/pipeline.md) — AI 文献发现、引用扩展、核验与入库流程。
 - [`literature/queries.json`](literature/queries.json) — 当前研究主线的可复用检索集合。
 - [`tools/literature.py`](tools/literature.py) — OpenAlex + Semantic Scholar + Crossref 自动检索工具。
