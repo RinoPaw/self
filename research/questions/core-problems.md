@@ -33,12 +33,48 @@ C_{t_1},\ C_{t_2},\ \boxed{C_{t_3}},\ C_{t_4}
 与
 
 \[
-\text{standpoint pluralism / fragmentalism}.
+\text{standpoint / perspectival pluralism}.
 \]
+
+## Stage 0：Meta-Perspective / Reality-Monism Problem
+
+当前两个主问题都用了一个此前未单独论证的前提。
+
+Structural Selection 写成：
+
+\[
+\mathcal R\Longrightarrow E^*.
+\]
+
+Residual Fact Problem 写成：
+
+\[
+\mathcal P=\text{全部真实 standpoint-relative facts}.
+\]
+
+两者都假定可以从一个统一 fundamental level totalize 现实。
+
+Solomyak 式 radical perspectival pluralism 提出更深压力：first-personal 与 impersonal 等 perspective 可能 equally and fully fundamental，同时不存在一个更高的 fundamental meta-perspective 把它们统一成单一最终图景。
+
+因此必须先问：
+
+\[
+\exists !\mathcal R_{fund}\ ?
+\]
+
+以及：
+
+\[
+\exists\mathcal P_{fund}\ ?
+\]
+
+若答案是否定的，则 `完整现实结构` 和 `全部 standpoint facts` 不能继续被当作免费的 selector 输入。
+
+对应正式笔记：[`../arguments/meta-perspective-challenge.md`](../arguments/meta-perspective-challenge.md)。
 
 ## Residual Fact Problem
 
-把全部真实 standpoint-relative facts 记为 \(\mathcal P\)。当前核心目标是检验是否仍然残留一种：
+在允许某种 fundamental totalization 的前提下，把全部真实 standpoint-relative facts 记为 \(\mathcal P\)。当前核心目标是检验是否仍然残留一种：
 
 \[
 L=\text{liveness / actuality simpliciter}.
@@ -52,11 +88,12 @@ L=\text{liveness / actuality simpliciter}.
 
 因为如果每个 standpoint 都以相同方式拥有对应事实，最终只得到多个真实中心，没有得到唯一 absolute center。
 
-当前需要分别攻击三条路线：
+当前需要分别攻击四条路线：
 
-1. \(L\) 是否能还原到 \(\mathcal P\) 而不发生 relativization collapse；
-2. 若 \(L\) 是 primitive，理论是否还有独立解释优势；
-3. 是否存在更深结构 \(D\)，使 \(D\Rightarrow L\) 且不循环预设 \(L\)。
+1. 是否真的存在统一的 fundamental \(\mathcal P\)；
+2. \(L\) 是否能还原到 \(\mathcal P\) 而不发生 relativization collapse；
+3. 若 \(L\) 是 primitive，理论是否还有独立解释优势；
+4. 是否存在更深结构 \(D\)，使 \(D\Rightarrow L\) 且不循环预设 \(L\)。
 
 ## 唯一性
 
@@ -72,9 +109,12 @@ L=\text{liveness / actuality simpliciter}.
 E^*\in\operatorname{Fix}(\operatorname{Aut}(\mathcal R)).
 \]
 
+但这一工作引理现在带有前置条件：必须先说明存在足以承载 `\operatorname{Aut}(\mathcal R)` 的统一 relevant structure。
+
 需要继续澄清：
 
 - “完整相关结构”究竟包含哪些事实；
+- 是否存在单一 fundamental reality structure；
 - 物理 gauge symmetry、表示冗余与真实世界自同构怎样区分；
 - 自发对称破缺是否真正增加了能承担第一人称唯一化工作的结构。
 
@@ -96,18 +136,25 @@ E^*\in\operatorname{Fix}(\operatorname{Aut}(\mathcal R)).
 
 任何候选选择函数 \(J_{\mathcal R}\) 都必须说明其极值为什么具有 absolute liveness / actuality，而不只是“数学上独特”。
 
-## Standpoint pluralism 是否已经足够
+## Standpoint / perspectival pluralism 是否已经足够
 
-Martin Lipman 式模型可以同时承认：
+Lipman 式 standpoint pluralism 可以同时承认：
 
 - 第一人称事实真实；
 - 每个主体的自我特殊性真实；
 - 不同时刻的 temporal standpoint 真实；
 - 没有一个主体或时刻最终 metaphysically privileged。
 
-需要严格重建该模型，并检查全部 standpoint facts 联合后是否仍遗漏某种不可相对化的事实。
+Solomyak 又把挑战推进一层：pluralism 甚至可以拒绝一个统一的 fundamental meta-perspective，并把 first-personal 与 impersonal perspective 本身看成 equally fundamental。
 
-若没有遗漏，唯一绝对中心假说的解释必要性会明显下降。
+因此现在需要分别检查：
+
+1. 全部 standpoint facts 联合后是否仍遗漏某种不可相对化的事实；
+2. “全部 standpoint facts 联合”这个操作本身是否已经预设了对手拒绝的 reality monism；
+3. radical perspectival pluralism 是否 coherent；
+4. modest perspectival pluralism 的 deeper reality 是否会自然产生 selector，还是只产生统一性。
+
+若这些 pluralist 模型已经足够，唯一绝对中心假说的解释必要性会明显下降。
 
 ## Actuality 类比是否能进一步推进
 
@@ -164,7 +211,7 @@ Lewis 与 Bricker 的分歧提供了成熟平行：
 
 若 \(w\) 需要另一个参数解释其“当前性”，会产生元时间回归。
 
-当前优先顺序：
+在 reality monism 前提成立时，当前优先顺序仍是：
 
 \[
 \mathcal R\rightarrow\Gamma^*\rightarrow w.
