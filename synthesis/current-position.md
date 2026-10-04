@@ -178,7 +178,63 @@ D\Rightarrow L.
 \boxed{\text{寻找不能被 standpoint-relative 化、又能由更深结构支持的 }L}
 \]
 
-## 8. Actuality 类比
+## 8. Privilege Bridge Requirement
+
+当前新增一个更严格的要求：
+
+\[
+\text{individualization}\not\Rightarrow\text{privilege}.
+\]
+
+因此，\(D\) 不能只提供“某个事件在结构上唯一”。它还需要包含一种独立于 absolute-first-person 定义、同时本身具有本体论方向或优先意义的结构角色。
+
+暂称：
+
+\[
+\boxed{\text{Privilege Bridge Requirement}}
+\]
+
+这条要求把很多候选直接降级：
+
+- canonical selector / 极值函数只能唯一化；
+- 因果与动力学轨迹只能给方向与历史；
+- acquaintance / for-me-ness 会复制到每个主体；
+- primitive actuality / presentness 可以给特权，但解释在目标性质处停止。
+
+目前第一次真正有资格承担桥接工作的候选是 **grounding / fundamentality**。
+
+## 9. Grounding 路线与 Priority I–NOW
+
+现代 grounding 理论把某些事实之间的“in virtue of / more fundamental than”关系作为真实的形而上优先结构。与纯描述唯一性相比，它自带方向性。
+
+时间哲学中已有直接先例：Sam Baron 的 **Priority Presentism** 主张过去、现在、未来都存在，但 present entities 在相关意义上 fundamental，past / future entities 由 present grounding。
+
+因此可以尝试把同一策略扩展到第一人称：
+
+\[
+\exists !E^*\;Fundamental_{I\text{-}NOW}(E^*),
+\]
+
+并尝试：
+
+\[
+Fundamental_{I\text{-}NOW}(E^*)\Longrightarrow LIVE(E^*).
+\]
+
+这形成当前第一个真正跨过“唯一性不等于特权”第一步的模型：**Priority I–NOW**。
+
+它仍有严重困难：
+
+1. **Grounding Source Problem**：目前没有独立理由说明一个具体局部意识事件为何 grounding 其他主体的 first-person facts；
+2. **Moving Fundamentality**：如果绝对经验事件随时间甚至跨主体变化，fundamentality 本身也必须迁移；
+3. **NOW 回归**：如果再用 \(w\) 决定当前哪一个 grounding root 有效，元时间问题会重新出现；
+4. **相对论**：不能未经论证引入一个全局绝对 present hypersurface。
+
+因此 grounding 目前是最强候选，但还没有成为答案。
+
+详见：[`../research/models/generators-of-liveness.md`](../research/models/generators-of-liveness.md) 与 [`../research/models/priority-i-now.md`](../research/models/priority-i-now.md)。
+
+## 10. Actuality 类比
 
 模态形而上学提供了一个高度同构的成熟分歧。
 
@@ -198,7 +254,7 @@ Bricker 则允许多个可能世界真实存在，同时承认一个世界具有
 
 这说明“多个真实候选 + 一个 simpliciter 特权中心”在形而上学上是可表达的。它没有解决本项目更关心的来源问题。
 
-## 9. 当前最强反方：Standpoint Pluralism
+## 11. 当前最强反方：Standpoint Pluralism
 
 现在不再把反方只写成“绝对感是一种错觉”。Martin Lipman 的 standpoint pluralism 提供了更强模型：
 
@@ -220,7 +276,7 @@ Bricker 则允许多个可能世界真实存在，同时承认一个世界具有
 
 绝对第一人称正方需要说明：把所有 standpoint facts 都纳入以后，仍然遗漏了哪项不可继续相对化的现实结构。
 
-## 10. 关于额外参数 \(w\)
+## 12. 关于额外参数 \(w\)
 
 曾考虑引入 \(w\) 描述绝对经验的流逝：
 
@@ -238,7 +294,7 @@ E^*(w)=\Gamma^*(w)
 
 也就是先由完整现实决定唯一轨迹，再用 \(w\) 参数化该轨迹。
 
-## 11. 认识论限制
+## 13. 认识论限制
 
 目前最稳固的是现象学层面的不对称：当前经验具有直接在场性。
 
@@ -258,15 +314,16 @@ E^*(w)=\Gamma^*(w)
 
 因此正方当前最重要的任务，是找到一个**非循环、不可相对化、具有解释增益**的结构或事实。
 
-## 12. 下一阶段判据
+## 14. 下一阶段判据
 
 任何新模型优先接受以下检查：
 
 1. 是否通过自同构/对称性禁阻；
 2. 是否把“可区分”错误地当成“被特权化”；
-3. 是否把 absolute liveness 偷偷相对化到每个 standpoint；
-4. 是否同时覆盖 I 与 NOW；
-5. 是否兼容相对论的坐标不变性；
-6. 是否在多元宇宙或复制情形中重新产生多个最终中心；
-7. 是否比 standpoint pluralism 多解释了真实现象；
-8. 是否只是把原问题搬到新的变量、维度或层级上。
+3. 是否通过 Privilege Bridge Requirement；
+4. 是否把 absolute liveness 偷偷相对化到每个 standpoint；
+5. 是否同时覆盖 I 与 NOW；
+6. 是否兼容相对论的坐标不变性；
+7. 是否在多元宇宙或复制情形中重新产生多个最终中心；
+8. 是否比 standpoint pluralism 多解释了真实现象；
+9. 是否只是把原问题搬到新的变量、维度或层级上。
