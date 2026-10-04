@@ -1,412 +1,370 @@
 # Two-Tier First-Person Realism
 
-> 状态：当前项目对“普通第一人称 / 绝对第一人称”最直接的形式化版本。
+> 状态：工作架构，已根据 List quadrilemma 与 `Relative First-Person Demotion` 修正。
 >
-> 目的：检验是否可以同时保留多个 genuine conscious subjects、一个 coherent world，以及一个 simpliciter absolute center，而不把每个主体都赋予同等级的 unrelativized first-person facts。
+> 关键变化：从现在起严格区分 **many ordinary first-person phenomenologies** 与 **many irreducible first-person facts**。前者容易与 one coherent world 相容；后者并不因为加上 standpoint 参数就免费变得 compossible。
 
-## 1. 动机：List Quadrilemma
+## 1. 不变的核心直觉
 
-Christian List 的 quadrilemma 使用四个主张：
-
-1. **First-person realism**：对任意 conscious subject，都有 first-personal facts；
-2. **Non-solipsism**：多于一个 conscious subject 真实；
-3. **Non-fragmentation**：一个 world 中的全部 facts 是 compossible 的；
-4. **One world**：现实只有一个 world。
-
-List 论证四者不能同时成立。
-
-关键原因：如果 Alice 与 Bob 都有 simpliciter first-person facts，那么：
-
-\[
-I\text{ am in }X
-\]
-
-与：
-
-\[
-I\text{ am in }Y
-\]
-
-作为不同主体的完整 first-personal facts 不能共同被一个 single coherent world 实例化。
-
----
-
-## 2. 本项目的原始区分比 List premise 更细
-
-本项目从最开始就区分：
-
-### Ordinary first-personhood
-
-每个 conscious subject 都可以有：
-
-- for-me-ness；
-- de se organization；
-- self-location；
-- direct givenness；
-- local standpoint-relative first-person facts。
-
-形式化：
-
-\[
-\forall i\;LocalFP(S_i).
-\]
-
-### Absolute first-personhood
-
-另外研究是否存在唯一一个：
-
-\[
-\exists!E^*\;AbsoluteFP(E^*).
-\]
-
-这里的 `AbsoluteFP` 表示一种不可继续相对化、进入 reality simpliciter 的 global centered status。
-
-所以：
+本项目仍研究：
 
 \[
 \boxed{
-LocalFP\neq AbsoluteFP
+\text{many genuine conscious subjects}
++
+\text{possibly one absolute first-person orientation}
 }
 \]
 
-不是语言区分，而是两层 ontology 的候选。
+所有真实主体都可以拥有 ordinary first-person phenomenology：
+
+\[
+\forall i\;LocalFPPhen(S_i).
+\]
+
+另外研究是否有唯一：
+
+\[
+\exists!E^*\;AbsoluteOrientation(E^*).
+\]
+
+但不能再把第一行自动升级成：
+
+\[
+\forall i\;F_i^{FP}
+\]
+
+其中每个 \(F_i^{FP}\) 都是 List/Fine 意义上的 irreducible, perspective-non-invariant first-person fact。
 
 ---
 
-## 3. 两类 first-person facts
+## 2. List quadrilemma 的约束
 
-令：
+List 的四个 claims 是：
 
-\[
-F_i^{rel}
-\]
+1. First-person realism：任一 conscious subject 都有 first-personal facts；
+2. Non-solipsism：多于一个 conscious subject 真实；
+3. Non-fragmentation：一个 world 中全部 facts compossible；
+4. One world：现实只有一个 world。
 
-表示相对于 standpoint \(S_i\) 成立的 ordinary first-person fact。
+四者不能共同成立。
 
-例如：
-
-\[
-F_A^{rel}=\text{Alice-from-Alice's-standpoint is in state }X.
-\]
-
-所有主体都可以真实拥有：
+最关键的是，List 直接考虑过把：
 
 \[
-\forall i\;F_i^{rel}.
+F_A=\text{I am in }X
 \]
 
-这些 facts 因为显式带有 standpoint parameter，可以共同存在：
+改写成：
 
 \[
-F_A^{rel}\land F_B^{rel}\land F_C^{rel}.
+F_A'=\text{there is an A-perspective from which “I am in X” is true}.
 \]
 
-另外设：
+这种 meta-fact 与 Bob 的对应 meta-fact当然可以共同成立，但它们在 subjective perspective shift 下 invariant，因此已经不是 first-person facts。
+
+这直接约束本项目旧写法：
 
 \[
-F_i^{abs}
+F_i^{rel}=\text{“from }S_i\text{, ...”}.
 \]
 
-表示同一 perspective 被提升为 simpliciter / unrelativized first-person fact。
+若 relativization 足以让所有 \(F_i^{rel}\) 在一个 coherent world 中共同成立，它们可能已经被 **demoted** 成描述 perspectives 的 third-personal facts。
 
-绝对假说要求：
+详见 [`../arguments/relative-first-person-demotion.md`](../arguments/relative-first-person-demotion.md)。
+
+---
+
+## 3. 第一版本：Two-Tier Phenomenology
+
+最弱、也最容易保持 one coherent world 的版本只要求：
+
+\[
+\forall i\;LocalFPPhen(S_i).
+\]
+
+每个 subject 都 genuinely conscious，并拥有：
+
+- phenomenal character；
+- for-me-ness / mineness；
+- self-location；
+- direct givenness；
+- memory / anticipation；
+- subject-relative representational or functional organization。
+
+这些 facts 可以由 ordinary objective / relational / contextual structure描述，而不声称每个主体都额外贡献一个 irreducible simpliciter first-person fact。
+
+然后加入：
+
+\[
+\exists!E^*\;AbsoluteOrientation(E^*).
+\]
+
+这给：
+
+\[
+\boxed{
+\text{many ordinary FP phenomenologies}
++
+\text{one absolute orientation}
+}
+\]
+
+它可以原则上与：
+
+\[
+OneWorld+NonFragmentation+NonSolipsism
+\]
+
+相容。
+
+代价明确：它**不保留 universal strong first-person realism**。
+
+---
+
+## 4. 第二版本：Two-Tier Strong Fact Realism
+
+若坚持每个 genuine subject 都有 irreducible first-person facts：
+
+\[
+\forall i\;F_i^{FP},
+\]
+
+并且这些 facts essential non-invariant，那么不同 subjects 的完整 first-person facts会 non-compossible：
+
+\[
+F_i^{FP}\perp F_j^{FP}
+\quad(i\neq j).
+\]
+
+此时再加入一个 absolute layer：
 
 \[
 \exists!i\;F_i^{abs}.
 \]
 
----
+并不会自动解决 List quadrilemma。
 
-## 4. Coherence-Based At-Most-One Principle
+理论仍必须接受至少一种：
 
-如果不同 center 的 absolute first-person facts 真的是 unrelativized centered facts，则对 \(i\neq j\)：
-
-\[
-F_i^{abs}\perp F_j^{abs}
-\]
-
-其中 \(\perp\) 表示不能在同一个 coherent non-fragmented reality 中共同实例化。
-
-若现实满足 Non-Fragmentation / Coherence：
+### Fragmentalist version
 
 \[
-Coherent(\mathcal R),
+OneWorld+
+eg NonFragmentation.
 \]
 
-则：
+不同 FP facts 分布在 fragments / standpoints。
+
+### Many-world version
+
+\[
+NonFragmentation+
+eg OneWorld.
+\]
+
+不同 first-personally centred worlds 分别 realize 不同 FP facts。
+
+所以 strong Two-Tier model 的真实成本是：
 
 \[
 \boxed{
-|\{F_i^{abs}:F_i^{abs}\in\mathcal R\}|\le 1
-}
-\]
-
-这给 absolute-center uniqueness 的 **at-most-one** 部分提供一种结构来源。
-
-它不依赖：
-
-- arbitrary scalar maximum；
-- global ranking tie-breaker；
-- freely recombinable LIVE property；
-- one-winner-per-brain competition。
-
-其来源是：
-
-\[
-\boxed{\text{global coherence of unrelativized centered facts}}
-\]
-
----
-
-## 5. 它怎样回应 Effingham 的 Recombination Pressure
-
-Effingham 2026 指出，若 Presentness 是普通 fundamental property，recombination 可以允许多个 bearers 同时 instantiate Presentness。
-
-Two-Tier model 不把 absolute first-personhood 首先建模成：
-
-\[
-A(E)
-\]
-
-这种可自由复制的 intrinsic property。
-
-它把绝对层建模成：
-
-\[
-F_i^{abs}\in Reality_{simpliciter}.
-\]
-
-若两个 absolute centered facts 是 incompatible，则多实例化会破坏 coherence，而不是得到一个正常的 “two LIVE centers” world。
-
-因此：
-
-\[
-\boxed{
-\text{uniqueness can come from compossibility constraints rather than property cardinality}
-}
-\]
-
-这只解决 at-most-one；仍没有给 existence。
-
----
-
-## 6. 它如何绕开 List Quadrilemma
-
-严格说，这个模型没有同时接受 List 的四个原始 claims。
-
-它修改 / 分层第一条。
-
-List 的 strong first-person realism：
-
-\[
-\forall S_i\;FPFact_{simpliciter}(S_i).
-\]
-
-本模型改成：
-
-\[
-\forall S_i\;FPFact_{relative/local}(S_i)
-\]
-
-并：
-
-\[
-\exists!S^*\;FPFact_{simpliciter}(S^*).
-\]
-
-所以它可以原则上同时保留：
-
-- non-solipsism；
-- one world；
-- non-fragmentation；
-- ordinary first-person phenomenology for all subjects。
-
-代价是：不同主体在 metaphysical first-person status 上不平权。
-
-这正是本项目希望检验的 absolute-first-person hypothesis，而不是隐藏代价。
-
----
-
-## 7. 关键：这没有证明“至少一个”
-
-Coherence 只给：
-
-\[
-\le 1.
-\]
-
-它没有给：
-
-\[
-\ge 1.
-\]
-
-因此仍需一个 **Absolutization / Actualization Mechanism**：
-
-\[
-\mathsf A:
-F_i^{rel}
-\mapsto
-F_i^{abs}.
-\]
-
-并要求：
-
-\[
-\exists!i\;\mathsf A(F_i^{rel}).
-\]
-
-当前最深问题因而可以重新写成：
-
-\[
-\boxed{
-\text{What makes exactly one local first-person fact simpliciter?}
-}
-\]
-
-这比模糊的 “why am I absolute?” 更适合继续结构分析。
-
----
-
-## 8. 与 Anchored Nested Dominance 的关系
-
-Nested Dominance 可以被重新解释为一个候选 **absolutization selector**，而不必独自解释 absolute liveness 的全部性质。
-
-局部：
-
-\[
-d(D_i)=\pi_i
-\]
-
-产生 ordinary local perspective。
-
-顶层：
-
-\[
-d(D_{comp})=\pi^*
-\]
-
-可尝试决定哪一个 local perspective 被 absolutized：
-
-\[
-\mathsf A(F_{\pi^*}^{rel})=F_{\pi^*}^{abs}.
-\]
-
-然后 uniqueness 的一部分来自 coherence：
-
-\[
-F_i^{abs}\perp F_j^{abs}.
-\]
-
-这样 dominance 不再承担“为什么多个 absolute facts 不能共存”的全部负担。
-
----
-
-## 9. 与 Actuality-as-Instantiation 的关系
-
-Soames 类比提供另一个 absolutization template：
-
-\[
-Actual(w)\iff Inst(U,w).
-\]
-
-对应到 Two-Tier model，可以探索：
-
-\[
-Absolute(F_i)
-\iff
-Inst_G(U,A_i),
-\]
-
-其中 \(A_i\) 是与 local perspective \(i\) 对应的 global centered state。
-
-如果这些 global centered states mutually incompatible，则：
-
-\[
-\text{one global bearer}
+\text{plural strong FP architecture}
 +
-\text{maximal state incompatibility}
-\Rightarrow
-\le1\text{ absolutized perspective}.
-\]
-
-这使 Soames 的 instantiation route 与 coherence route 可以结合。
-
----
-
-## 10. 最大压力：是不是把其他人的 first-personality 降格了
-
-Strong pluralist 会反驳：
-
-如果 Alice 的 first-person fact 只 “relative to Alice” 成立，而我的 first-person fact 却 simpliciter 成立，那么理论只是直接把目标不对称写进 ontology。
-
-这项批评成立到什么程度，取决于：
-
-\[
-\mathsf A
-\]
-
-能否获得独立解释。
-
-若不能，本模型只是 absolute first-person hypothesis 的清晰表示。
-
-若能由更深结构推出：
-
-\[
-D\Rightarrow\mathsf A,
-\]
-
-则它会成为真正 explanatory theory。
-
-所以本模型当前的价值是**分解问题**，没有完成最终解释。
-
----
-
-## 11. 当前成功条件
-
-Two-Tier First-Person Realism 要变成完整理论，需要：
-
-1. 给 ordinary local FP 一个独立完整解释；
-2. 证明 absolute centered facts 对不同 centers 真正 mutually incompatible；
-3. 保持 one coherent world；
-4. 给出非循环的 \(\mathsf A\)；
-5. 解释为什么 \(\mathsf A\) 与 LIVE / actuality simpliciter 等价或相关；
-6. 解释 \(\mathsf A\) 的时间变化，得到 I–NOW dynamics；
-7. 保持其他 minds genuine consciousness；
-8. 通过 relativity / covariance / duplication tests。
-
-## 12. 当前评价
-
-这是目前最直接忠实于项目原始直觉的模型：
-
-\[
-\boxed{
-\text{many real ordinary first-persons}
-+
-\text{one absolute first-person fact}
+\text{one extra absolute orientation}
 }
 \]
 
-它最重要的新贡献是把 global uniqueness 拆成：
+而不是一个简单 coherent fact-set。
 
-### At-most-one
+---
 
-由 unrelativized centered facts 的 incompatibility + coherence 支持。
+## 5. Other-minds realism 与 strong FPR 分离
 
-### At-least-one / which-one
-
-由尚未找到的 absolutization mechanism \(\mathsf A\) 负责。
-
-这使下一阶段不必再同时解决所有 cardinality 问题，而可以死盯：
+必须保留：
 
 \[
-\boxed{D\Rightarrow\mathsf A}
+\boxed{Conscious(S_i)\neq\text{“}S_i\text{ has irreducible FP facts”}}
 \]
 
-## 文献入口
+至少逻辑上二者是不同 premises。
 
-- Kit Fine, “Tense and Reality” (2005), especially §12 on first-personalism；
-- Christian List, “A quadrilemma for theories of consciousness” (2025)；
-- Martin Lipman, fragmentalist / standpoint work；
-- Olla Solomyak, perspectival pluralism；
-- Nikk Effingham, “Now, Again and Again” (2026).
+Non-solipsism 只要求：
+
+\[
+\exists S_i\neq S_j\;[Conscious(S_i)\land Conscious(S_j)].
+\]
+
+Universal strong FPR 进一步要求：
+
+\[
+\forall i\;\exists F_i^{FP}.
+\]
+
+因此一个 absolute-one-world theory 可以真诚地承认其他人完全有意识，同时拒绝他们都拥有和 absolute layer 同类型的 irreducible first-person facts。
+
+这不是 zombie theory；但它的 first-person metaphysics 是 inegalitarian 的，而且比项目早期 slogan 更弱。
+
+---
+
+## 6. Obtaining-mode route 不能免费修复问题
+
+可能希望用：
+
+\[
+[F_A]_{M_A},
+\qquad
+[F_B]_{M_B}
+\]
+
+让各 first-person facts 以不同 mode obtain。
+
+Eker / Lipman 证明这种 architecture 是严肃选项，但仍需说明：
+
+- modes 让原 facts 真正 compossible，还是只把它们放入不同 fragments；
+- mode qualifier 是否把原 fact third-personalize；
+- broader totality 是否本质上已经是一种 metaphysical relativity / fragmentalism。
+
+所以 obtaining modes 可以构造 strong pluralist ontology，却不让 List pressure 消失。
+
+---
+
+## 7. Absolute layer 的三种来源仍然不变
+
+无论 ordinary layer 选 Phenomenology 还是 Strong Fact Realism，absolute orientation \(\Omega\) 仍有三条主要路线。
+
+### Derived
+
+\[
+D\Rightarrow\Omega(E^*).
+\]
+
+承担 Grounded Centering Ladder。
+
+### Primitive
+
+\[
+\Omega[R;E^*]
+\]
+
+作为 actuality 的 primitive singular orientation；见 `Minimal Absolute Opening`。
+
+### Stochastic promotion
+
+\[
+D\Rightarrow P(E),
+\qquad
+E^*\sim P.
+\]
+
+可以产生 token asymmetry，但 why-this-one 停在 chance，且仍需 actuality/liveness bridge。
+
+---
+
+## 8. Coherence-based `≤1` 的适用域
+
+Coherence result 现在也必须写得更谨慎。
+
+如果我们已经承认一类 simpliciter absolute centered facts：
+
+\[
+F_i^{abs},
+\]
+
+且：
+
+\[
+F_i^{abs}\perp F_j^{abs},
+\]
+
+那么 one coherent absolute layer 可以给：
+
+\[
+|AbsoluteCenters|\le1.
+\]
+
+但不能拿 ordinary strong FP facts 的 incompatibility直接推出 absolute singleton。
+
+普通层若 strong，则它们本来就把理论推向 fragmentation / many worlds。
+
+所以：
+
+\[
+\boxed{\text{coherence constrains an admitted absolute layer; it does not create it}.}
+\]
+
+---
+
+## 9. 当前四个主要 package
+
+### P-F — Fragmentalist pluralism
+
+\[
+StrongFPR+NonSolipsism+OneWorld+Fragmentation.
+\]
+
+没有 absolute orientation。
+
+### P-MW — Many-world first-person realism
+
+\[
+StrongFPR+NonSolipsism+NonFragmentation+ManyWorlds.
+\]
+
+没有 absolute orientation。
+
+### A-W — Absolute one-world / weak ordinary-FP
+
+\[
+ManyConsciousSubjects+LocalFPPhen+OneWorld+NonFragmentation+\Omega.
+\]
+
+保持 other minds 与 ordinary phenomenology，但不承诺所有 subjects 都有 strong irreducible FP facts。
+
+### A-F / A-MW — Absolute + strong ordinary-FP
+
+先支付 P-F / P-MW 的 strong-FPR architecture cost，再加入：
+
+\[
+\Omega.
+\]
+
+这最忠实于项目早期 “many strong ordinary FP + one extra absolute FP” 直觉，但 ontology 成本也最高。
+
+---
+
+## 10. 当前评价
+
+`Two-Tier First-Person Realism` 不再是一套单一模型，而是一族模型。
+
+它最重要的新分叉是：
+
+\[
+\boxed{
+\text{Two-Tier Phenomenology}
+\quad vs\quad
+\text{Two-Tier Strong Fact Realism}
+}
+\]
+
+前者给 absolute one-world theory 一个意外干净的空间；后者则说明，如果项目坚持“其他每个主体也有 irreducible first-person facts”，fragmentation / many-world cost 无法靠加 `relative` 下标绕掉。
+
+因此下一步理论选择必须先回答：
+
+\[
+\boxed{
+\text{non-negotiable 是 other minds 的 genuine consciousness，还是 universal strong first-person fact realism？}
+}
+\]
+
+项目最初明确要求前者；是否还必须接受后者，目前应保持开放。
+
+## 文献与关联
+
+- Christian List, “A quadrilemma for theories of consciousness”, *The Philosophical Quarterly* 75(3), 2025。
+- Christian List, “The Many-Worlds Theory of Consciousness”, *Noûs* 57(2), 2023。
+- Martin Lipman, *Standpoints: Time and Subjectivity* (2026).
+- Bahadir Eker, “Perspectivalism about temporal reality” (2023).
+- [`../arguments/relative-first-person-demotion.md`](../arguments/relative-first-person-demotion.md)
+- [`../arguments/obtaining-mode-pluralization.md`](../arguments/obtaining-mode-pluralization.md)
+- [`minimal-absolute-opening.md`](minimal-absolute-opening.md)
