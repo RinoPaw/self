@@ -1,200 +1,39 @@
 {
   "queries": [
-    {
-      "name": "first-person-privilege",
-      "query": "first person realism metaphysical privilege subjectivism consciousness",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "de-se-self-location",
-      "query": "de se self location centered worlds essential indexical",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "standpoint-pluralism",
-      "query": "standpoint pluralism perspectival facts subjectivity metaphysical relativity",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "perspectival-pluralism",
-      "query": "perspectival pluralism metaphysical perspectives privilege equal standing fragmentalism",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "reality-monism-meta-perspective",
-      "query": "metaphysical perspectival pluralism reality monism fundamental perspectives meta perspective",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "priority-monism-internal-structure",
-      "query": "priority monism fundamental whole internal structure grounding heterogeneity complexity",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "derived-asymmetry-grounding",
-      "query": "fundamentality derived asymmetry generative operations grounding asymmetric networks symmetric relations",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "boundary-symmetry-breaking",
-      "query": "symmetry breaking asymmetric boundary conditions canonical selection Past Hypothesis fundamental asymmetry",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "subjective-facts-consciousness",
-      "query": "subjective facts consciousness metaphysical standpoint feltness first person",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "many-worlds-consciousness",
-      "query": "many worlds theory consciousness first personally centred worlds first person realism",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "other-minds-metaphysical",
-      "query": "metaphysical problem other minds first person feltness metaphysical solipsism",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "i-now",
-      "query": "I Now perspective personalized A theory time first person",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "moving-spotlight-relativity",
-      "query": "moving spotlight theory relativity temporal passage supertime",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "symmetry-structural-selection",
-      "query": "symmetry automorphism invariance structural individuation canonical selection",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "first-person-duplication",
-      "query": "perfect phenomenal duplication first person facts self location asymmetry",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "grounding-first-person-priority",
-      "query": "metaphysical grounding fundamentality priority presentism first person privilege consciousness",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "grounding-rank-consciousness",
-      "query": "grounding rank relative fundamentality consciousness experiential minimum grounding hierarchy",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "grounding-graph-bottleneck",
-      "query": "grounding structure grounding tree metaphysical dependence hierarchy path bottleneck consciousness",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "iit-exclusion-uniqueness",
-      "query": "integrated information theory exclusion postulate multiple complexes non uniqueness consciousness maximal substrate",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "workspace-winner-consciousness",
-      "query": "global neuronal workspace winner take all conscious access unity competition",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "self-reference-fixed-point-consciousness",
-      "query": "self reference fixed point consciousness unity subject self model philosophy",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "self-manifestation-subjectivity",
-      "query": "self manifestation auto affection subjectivity consciousness absolute life Michel Henry",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "causal-set-becoming",
-      "query": "causal set sequential growth becoming passage time birth spacetime atoms",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "causal-set-consciousness",
-      "query": "causal set quantum gravity consciousness live experience birth process Dowker",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "causal-set-post-covariance",
-      "query": "causal set post covariant distinguished event labeling gauge post cosmology",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "growing-block-consciousness",
-      "query": "growing block dead past consciousness causal frisson present edge",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "process-liveness-actuality",
-      "query": "process metaphysics becoming actuality liveness consciousness temporal passage",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    },
-    {
-      "name": "coevent-evolving-reality",
-      "query": "quantum measure coevent evolving reality single history causal set",
-      "semantic": true,
-      "limit": 20,
-      "sources": ["openalex", "s2", "crossref"]
-    }
+    {"name":"first-person-privilege","query":"first person realism metaphysical privilege subjectivism consciousness","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"de-se-self-location","query":"de se self location centered worlds essential indexical","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"standpoint-pluralism","query":"standpoint pluralism perspectival facts subjectivity metaphysical relativity","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"perspectival-pluralism","query":"perspectival pluralism metaphysical perspectives privilege equal standing fragmentalism","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"reality-monism-meta-perspective","query":"metaphysical perspectival pluralism reality monism fundamental perspectives meta perspective","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"priority-monism-internal-structure","query":"priority monism fundamental whole internal structure grounding heterogeneity complexity","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"derived-asymmetry-grounding","query":"fundamentality derived asymmetry generative operations grounding asymmetric networks symmetric relations","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"boundary-symmetry-breaking","query":"symmetry breaking asymmetric boundary conditions canonical selection Past Hypothesis fundamental asymmetry","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"canonical-history-cauchy","query":"Cauchy data unique maximal development canonical history Einstein equations global uniqueness","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"canonical-worldline-centroid","query":"unique center of mass worldline Tulczyjew Dixon Beiglbock relativistic extended body","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"janus-point-selection","query":"Janus point unique internal point trajectory gravitational arrow time moment inertia Barbour Koslowski Mercati","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"wentaculus-actualization","query":"Wentaculus Initial Projection Hypothesis unique initial state Bohmian Everettian GRW history actualization","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"grw-flash-history","query":"GRW flash ontology stochastic point process actual history spacetime flashes collapse ontology","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"coevent-actual-reality","query":"quantum measure coevent actual reality single history anhomomorphic logic Sorkin unique coevent","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"all-at-once-boundary-history","query":"all at once Lagrangian boundary conditions global constraint unique history Wharton retrocausality","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"subjective-facts-consciousness","query":"subjective facts consciousness metaphysical standpoint feltness first person","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"many-worlds-consciousness","query":"many worlds theory consciousness first personally centred worlds first person realism","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"other-minds-metaphysical","query":"metaphysical problem other minds first person feltness metaphysical solipsism","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"i-now","query":"I Now perspective personalized A theory time first person","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"moving-spotlight-relativity","query":"moving spotlight theory relativity temporal passage supertime","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"symmetry-structural-selection","query":"symmetry automorphism invariance structural individuation canonical selection","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"first-person-duplication","query":"perfect phenomenal duplication first person facts self location asymmetry","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"grounding-first-person-priority","query":"metaphysical grounding fundamentality priority presentism first person privilege consciousness","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"grounding-rank-consciousness","query":"grounding rank relative fundamentality consciousness experiential minimum grounding hierarchy","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"grounding-graph-bottleneck","query":"grounding structure grounding tree metaphysical dependence hierarchy path bottleneck consciousness","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"iit-exclusion-uniqueness","query":"integrated information theory exclusion postulate multiple complexes non uniqueness consciousness maximal substrate","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"workspace-winner-consciousness","query":"global neuronal workspace winner take all conscious access unity competition","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"self-reference-fixed-point-consciousness","query":"self reference fixed point consciousness unity subject self model philosophy","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"self-manifestation-subjectivity","query":"self manifestation auto affection subjectivity consciousness absolute life Michel Henry","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"causal-set-becoming","query":"causal set sequential growth becoming passage time birth spacetime atoms","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"causal-set-consciousness","query":"causal set quantum gravity consciousness live experience birth process Dowker","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"causal-set-post-covariance","query":"causal set post covariant distinguished event labeling gauge post cosmology","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"growing-block-consciousness","query":"growing block dead past consciousness causal frisson present edge","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"process-liveness-actuality","query":"process metaphysics becoming actuality liveness consciousness temporal passage","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"coevent-evolving-reality","query":"quantum measure coevent evolving reality single history causal set","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]}
   ]
 }
