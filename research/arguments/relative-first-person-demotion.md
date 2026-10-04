@@ -1,12 +1,12 @@
 # Relative First-Person Demotion Problem
 
-> 状态：对 `Two-Tier First-Person Realism` 的重要概念修正。
+> 状态：Two-Tier / StrongFPR 的概念边界。
 >
-> 核心结论：如果所谓 `F_i^{rel}` 被做成可以在一个 coherent world 中共同成立的 standpoint-parameterized facts，那么按 List 的判准，它们很可能已经不再是 irreducible first-person facts，而是关于 first-person standpoints 的 higher-order / third-person facts。Two-Tier model 不能把这个代价藏在记号里。
+> 最新修正：DeBrota–List 2026 把 relationalism 明确列为一条 coherent one-world route，但也明确区分它与 List 2025 所谓 genuine non-relational first-personal facts。因而本文件的核心不应写成“relational facts 不真实”，而应写成“relational first-person-relevant facts 不等于 strong simpliciter first-person facts”。
 
-## 0. 问题从哪里出现
+## 0. 问题
 
-Two-Tier model 常写：
+早期 Two-Tier 写：
 
 \[
 \forall i\;F_i^{rel}
@@ -18,466 +18,356 @@ Two-Tier model 常写：
 \exists!i\;F_i^{abs}.
 \]
 
-直觉是：
-
-- 每个 subject 都有 genuine ordinary first-person facts；
-- 只有一个 subject 的 first-person fact 还具有 simpliciter absolute status。
-
-为了让所有 ordinary facts 在一个 coherent world 中共存，我们又把：
+如果：
 
 \[
-F_A^{rel}
+F_A^{rel}=\text{relative to Alice, “I am in X”}
 \]
 
-写成类似：
-
-> from Alice's standpoint, I am in state X
-
-把：
+和：
 
 \[
-F_B^{rel}
+F_B^{rel}=\text{relative to Bob, “I am in Y”},
 \]
 
-写成：
+两者可以在 one coherent world 中共同成立。
 
-> from Bob's standpoint, I am in state Y.
+但问题是：它们是否仍属于 List/Fine 意义上的：
 
-看起来二者 perfectly compossible。
+\[
+\boxed{StrongFirstPersonFact}
+\]
 
-但 List 的 quadrilemma 正好指出：**这种写法可能已经把 first-person fact 降成了关于 perspective 的 third-person fact。**
+还是已经成为：
+
+\[
+\boxed{Relational/PerspectivalFact?}
+\]
 
 ---
 
-## 1. List 的关键区分
+## 1. List 2025 的 strong criterion
 
-真正的 first-person facts：
-
-\[
-F_A=\text{I am in conscious state }X
-\]
-
-与：
-
-\[
-F_B=\text{I am in conscious state }Y
-\]
-
-若分别属于不同 subjects，且 \(X,Y\) mutually exclusive，则无法从同一个 perspective 共同 obtain：
-
-\[
-F_A\perp F_B.
-\]
-
-List 考虑一个直接 objection：把它们改写成：
-
-\[
-F_A'=\text{there is a perspective A from which “I am in X” is true}
-\]
-
-与：
-
-\[
-F_B'=\text{there is a perspective B from which “I am in Y” is true}.
-\]
-
-这两者当然 compossible。
-
-但 List 的回应是：\(F_A',F_B'\) 已经不是 first-person facts。它们在 subjective perspective shift 下保持不变，因此是 third-personal meta-facts。
-
-这与项目的：
-
-\[
-F_i^{rel}=\text{“from }S_i\text{, ...”}
-\]
-
-高度相似。
-
----
-
-## 2. Invariance test
-
-给任意 fact \(F\)，若从 Alice、Bob、Carol 的 standpoint 看，它都同样成立：
-
-\[
-@_A F
-\leftrightarrow
-@_B F
-\leftrightarrow
-@_C F,
-\]
-
-那么按 List 的 criterion，它没有 first-person fact 所需的 essential non-invariance。
+List 2025 所讨论的 first-person facts 是 perspective-non-invariant、simpliciter obtaining 的 facts。
 
 例如：
 
 \[
-F'=\text{“Alice has a perspective from which Alice is I”}
+F_A=\text{I am in conscious state }X.
 \]
 
-可以对所有 standpoints 同样为真。
+从 Alice standpoint 与 Bob standpoint，first-person facts 不同，而 third-person facts 可保持 fixed。
+
+因此：
+
+\[
+\boxed{StrongFPR\Rightarrow PerspectiveNonInvariance.}
+\]
+
+若把目标改写成 globally invariant：
+
+\[
+F_A'=\text{Alice has a perspective relative to which “I am in X”},
+\]
+
+则 \(F_A'\) 可以从所有 standpoints 同样为真。
+
+它描述 first-personality，但自己不再是 strong first-person fact。
+
+这就是 **Relative First-Person Demotion**。
+
+---
+
+## 2. DeBrota–List 2026 的重要澄清
+
+DeBrota & List 2026 把经典 objectivism 拆成：
+
+\[
+OneWorld+NonFragmentation+NonRelationalism.
+\]
+
+若接受 consciousness-related first-person realism / first-person-relevant facts，三种 non-objectivist routes 包括：
+
+1. relationalism；
+2. fragmentalism；
+3. many-subjective-worlds。
+
+其中 relationalist route 放弃：
+
+\[
+NonRelationalism.
+\]
+
+于是 one world + non-fragmentation 可以保留，而 relevant facts 被理解为 dyadic / relative：
+
+\[
+Fact(p,s).
+\]
+
+或：
+
+\[
+p\text{ relative to }s.
+\]
+
+但他们同时明确说，List 2025 strong first-personal realism 要求的不只是：
+
+\[
+\text{relative to Christian, “I have Christian’s experiences”},
+\]
+
+而是：
+
+\[
+\text{“I have Christian’s experiences” simpliciter}. 
+\]
 
 所以：
 
 \[
 \boxed{
-\text{explicitly standpoint-parameterized truth}
-\text{ may describe first-personality without itself being first-personal}
-}
+\text{relationalism is a genuine metaphysical route, but it changes the strength of first-person realism}.}
 \]
 
-暂称 **Relative First-Person Demotion**。
+这正好支持本项目的 Demotion diagnosis，而不是反驳它。
 
 ---
 
-## 3. Two-Tier model 面临三条 honest routes
+## 3. 四种不同对象不要再混称 `first-person fact`
 
-### Route A — Demote the ordinary layer
-
-保留一个 coherent one-world ontology：
+### R1 — Objective fact about a perspective
 
 \[
-\{F_i^{meta}\}_{i\in S}
-+
-F_*^{abs}.
+PerspectiveOf(Alice,X).
 \]
 
-其中其他 subjects 的 ordinary first-person phenomenology 被完整描述为：
+普通 third-person fact。
 
-- conscious states；
-- phenomenal properties；
-- for-me-ness functional / representational structure；
-- facts about which standpoint presents what。
-
-但不承认每个 subject 都有 List/Fine 意义上的 irreducible first-person facts。
-
-优点：
+### R2 — Relational / relative fact
 
 \[
-OneWorld+NonFragmentation
+TrueRelativeTo(Alice,p).
 \]
 
-容易保留。
-
-代价：
+或：
 
 \[
-\boxed{\text{universal strong first-person realism is abandoned}.}
+@_A(p)
 \]
 
-这比 ordinary consciousness pluralism 弱。
+的 relationalist reading。
+
+它是 genuine world-side relative structure，但不等于 simpliciter \(p\)。
+
+### R3 — Perspectival obtaining / metaphysical relativity
+
+\[
+p\text{ obtains from standpoint }A.
+\]
+
+比普通 relation 更厚；Lipman/Eker 一类模型。
+
+仍可以 pluralize。
+
+### R4 — Strong simpliciter FP fact
+
+\[
+F_A^{FP}=\text{I am X}
+\]
+
+作为 non-relational fact simpliciter obtain。
+
+List/Fine quadrilemma pressure 主要针对 R4。
+
+因此：
+
+\[
+\boxed{R1<R2/R3<R4}
+\]
+
+是强度而非简单真假排序。
 
 ---
 
-### Route B — Keep genuine first-person facts for all
+## 4. One-world relationalism 是 N-W 的重要加强版
 
-若坚持：
+N-W 不必只采用：
+
+\[
+\text{ordinary objective facts + private representations}.
+\]
+
+它还可以更慷慨地接受：
+
+\[
+\boxed{\text{real relational / perspectival facts}}
+\]
+
+同时保持：
+
+\[
+OneWorld+NonFragmentation+\neg StrongFPR_{simpliciter}+\neg Abs.
+\]
+
+这使 neutral baseline 更强。
+
+所以 A-W 不能说：
+
+> 只有我给 first-personality world-side reality。
+
+relationalist N-W 已经可以给 world-side perspectival structure，只是不加入：
+
+\[
+F_*^{abs}
+\]
+
+或：
+
+\[
+\Omega.
+\]
+
+---
+
+## 5. Relationalist route 的代价
+
+DeBrota–List / Fine 指出，这条 route 也不是免费。
+
+必须回答 relativization parameter 是什么：
+
+\[
+RelativeTo(?,p).
+\]
+
+如果参数只是 empirical subject，可以问它如何承担 first-person role。
+
+如果引入 pure metaphysical self，则有 external-self / mysterious-bearer pressure。
+
+所以 relationalism 可能避免 fragmentation / many worlds，却承担：
+
+\[
+\boxed{\text{Relativization-Bearer Problem}.}
+\]
+
+这与项目已有 `Global Context` / anchoring questions相邻。
+
+但该成本仍不同于 absolute orientation cost。
+
+---
+
+## 6. StrongFPR routes
+
+若坚持 R4：
 
 \[
 \forall i\;F_i^{FP}
 \]
 
-且每个 \(F_i^{FP}\) genuine / irreducible / non-invariant，那么不同 subjects 的这些 facts non-compossible。
+并且这些 facts 是 non-relational/simpliciter，则多个 subjects 的 complete FP facts non-compossible。
 
-于是按 List：
+于是：
 
 \[
-FPR+NonSolipsism
+StrongFPR+NonSolipsism
 \Rightarrow
-\neg(OneWorld\land NonFragmentation).
+\neg(OneWorld\land NonFragmentation)
 \]
 
-理论必须选择：
+在 List 2025 framework 下成立。
 
-- fragmentalist one world；或
-- many first-personally centered worlds。
+主要选择：
 
-然后 absolute layer 再从这些 first-person structures 中 privileged one：
+- P-F：one world + fragmentation；
+- P-MW：many subjective/centred worlds + local coherence。
 
-\[
-\Omega(F_*).
-\]
-
-这保住了真正 universal FPR，但 absolute theory 不再拥有廉价的 one coherent world。
+这仍是 universal strong-FPR 的 architecture cost。
 
 ---
 
-### Route C — Redefine facthood / compossibility
+## 7. 对 Two-Tier 的修正
 
-第三条可能是：采用 Eker / Fine / Lipman 型不同 obtaining-mode semantics，主张：
+“many ordinary first-persons + one absolute first-person”至少有三种不同 ordinary-layer reading：
+
+### T-R — relational ordinary layer
 
 \[
-F_A\text{ obtains in mode }M_A,
-\quad
-F_B\text{ obtains in mode }M_B
+\forall i\;F_i^{relational}
 \]
 
-使二者能在某种 broader reality 中 coexist。
++ one absolute orientation。
 
-但这里不能靠记号宣布问题消失。
+### T-P — perspectival-obtaining ordinary layer
 
-需要明确：
+\[
+\forall i\;@_{s_i}(p_i)
+\]
 
-- `mode` 是否让 facts 本身 compossible；
-- 还是只让 higher-level totality 包含彼此 non-compossible facts；
-- 如果是后一种，本质上进入 fragmentalism / non-standard unitism；
-- 如果是前一种，List 会追问是否已经把 relevant mode 变成 fact 的 qualifier，从而 third-personalize 了原 first-person content。
++ one absolute orientation。
 
-所以 Route C 是真实研究空间，但不是免费解。
+### T-S — strong simpliciter ordinary layer
+
+\[
+\forall i\;F_i^{FP,simpliciter}
+\]
+
++ one further absolute status。
+
+T-R/T-P 更容易与 one coherent world 相容；T-S 继承 fragmentation/many-world pressure。
+
+因此 `Two-Tier` 不能再单独指定理论。
 
 ---
 
-## 4. “其他人真的有意识”与“其他人有 irreducible FP facts”必须分开
+## 8. 对 absolute layer 的纪律
 
-这是项目此前容易混在一起的两项。
-
-### Other-minds realism
+relationalist/perspectival ordinary layer 即使很厚，也仍不产生：
 
 \[
-\forall i\;Conscious(S_i).
+\exists!AbsoluteOrientation.
 \]
 
-可以由：
+反之 strong simpliciter FP facts for all 也不产生 one absolute center。
 
-- phenomenal states；
-- cognitive / functional organization；
-- qualitative consciousness ontology
-
-支持。
-
-### Universal strong first-person realism
-
-\[
-\forall i\;\exists F_i^{FP}
-\]
-
-要求每个 subject 都有 irreducible, perspective-non-invariant first-person facts。
-
-二者不是定义等价。
-
-List 的 non-solipsism 只要求：
-
-\[
-\text{more than one conscious subject is real},
-\]
-
-而其 first-person realism 是另一条独立 premise。
-
-所以 Minimal Absolute Opening 可以保持 genuine other minds，却仍有两种版本：
-
-1. **weak ordinary layer**：others conscious，但 ordinary FP facts ultimately objective/meta-relative；
-2. **strong ordinary layer**：others conscious 且有 irreducible FP facts，此时需要 fragment / many-world machinery。
-
-这一分叉必须显式记录。
-
----
-
-## 5. 对 Two-Tier 名称的影响
-
-原本：
-
-\[
-\text{many real ordinary first-persons}
-+
-\text{one absolute first-person}
-\]
-
-仍然可以作为现象学 / subject-structure slogan。
-
-但若把 `ordinary first-persons` 理解成 strong first-person **facts**，就不能简单再声称：
-
-\[
-\text{one world}+\text{non-fragmentation}
-\]
-
-自动保留。
-
-更准确地分成：
-
-### Two-Tier Phenomenology
-
-\[
-\forall i\;LocalFPPhen(i)
-\]
-
-加：
-
-\[
-\exists!i\;AbsoluteOrientation(i).
-\]
-
-这可以与 coherent one world 相容。
-
-### Two-Tier Strong Fact Realism
-
-\[
-\forall i\;F_i^{FP}
-\]
-
-加：
-
-\[
-\exists!i\;F_i^{abs}.
-\]
-
-这仍要面对 List quadrilemma 的 fragmentation / many-world pressure。
-
-因此从现在起必须区分：
-
-\[
-\boxed{\text{ordinary first-person phenomenology}\neq\text{strong irreducible first-person fact realism}.}
-\]
-
----
-
-## 6. 对 Strong Pluralist Exhaustion Test 的影响
-
-COP 之所以强，正是它愿意保留：
-
-\[
-\forall i\;F_i^{FP}
-\]
-
-而不 privilege one。
-
-但这个强度不是免费的。它必须支付某种：
-
-\[
-\boxed{\text{Fragmentation / Many-World / Metaphysical-Relativity Cost}.}
-\]
-
-因此此前把 COP 简单视为“absolute theory 去掉一个 extra \(\Omega\)”会低估 pluralist cost。
-
-正确比较应是：
-
-### Absolute one-world package
-
-可能选择：
-
-\[
-\text{weak ordinary FP facts}
-+
-\text{one }F^{abs}
-+
-\text{one coherent world}.
-\]
-
-### Strong pluralist package
-
-选择：
-
-\[
-\text{strong FP facts for all}
-+
-\text{non-solipsism}
-+
-\text{fragmentation or many worlds}.
-\]
-
-两者交换的是不同理论代价，不再是单纯“pluralism 少一个 primitive”。
-
----
-
-## 7. 对 Explanatory Delta 排名的修正
-
-`Strong Pluralist Exhaustion Test` 得到：目前没有 independently established residual fact 迫使 absolute \(\Omega\)。
-
-这一结论仍成立。
-
-但由此不能直接推出：
-
-\[
-COP\text{ is simply theoretically cheaper}.
-\]
-
-因为 COP 若保持 strong first-person realism，也需要：
-
-- fragment structure / new logic；或
-- many centered worlds；或
-- primitive metaphysical-relativity / modes-of-obtaining machinery。
-
-所以 current abductive comparison 应改成：
+所以：
 
 \[
 \boxed{
-\text{no residual evidence for }\Omega
-\quad\text{but}\quad
-\text{no cost-free pluralist baseline either}.}
+\text{ordinary first-person fact strength and absolute orientation are orthogonal axes}.}
 \]
 
-这把结论从“pluralism 默认领先”校正为更谨慎的：
-
-\[
-\boxed{\text{evidential underdetermination + architecture-cost trade-off}.}
-\]
-
----
-
-## 8. 当前更精确的理论菜单
-
-### P-F — Fragmentalist pluralism
-
-保留 strong FPR for every subject、non-solipsism、one world；放弃 non-fragmentation。
-
-### P-MW — Many-worlds first-person realism
-
-保留 strong FPR、non-solipsism、non-fragmentation；放弃 one world。
-
-### A-W — Absolute one-world / weak ordinary-FP model
-
-保留 many genuinely conscious subjects、one coherent world、one absolute orientation、ordinary phenomenology for all；放弃或削弱 universal strong FPR for nonabsolute subjects。
-
-### A-F — Absolute + fragmentalist ordinary layer
-
-保留 strong FPR for all，再加 one absolute orientation。代价最大，但最忠实于：
-
-\[
-\text{many genuinely irreducible ordinary FP facts}
-+
-\text{one extra absolute FP fact}.
-\]
-
-这四种不能再混称一个 `Two-Tier` model。
+这一点现在被 List 2025 + DeBrota–List 2026 双重强化。
 
 ---
 
 ## 9. 当前结论
 
-Two-Tier architecture 本身仍然有价值，但必须停止使用以下过强说法：
-
-> 把其他人的 first-person facts 写成 relative facts，就能同时保留 universal FPR、one world、non-fragmentation。
-
-更准确的是：
+Relative First-Person Demotion 的准确版本：
 
 \[
 \boxed{
-\text{relativizing enough to regain global compossibility may demote the facts out of strong first-person realism}.}
+\text{relationalizing first-person facts can preserve real perspectival structure and one-world coherence, but it no longer preserves strong non-relational first-person facts simpliciter}.}
 \]
 
-因此 absolute-first-person research 的一个新真正选择点是：
+这不是把 relationalism 贬成“假 first-personality”。
 
-\[
-\boxed{
-\text{我们想保留的是所有人的 genuine consciousness，还是所有人的 strong irreducible first-person facts？}
-}
-\]
+它只是要求诚实记账：
 
-前者与 Minimal Absolute Opening + one coherent world 容易兼容。
-
-后者会把 fragmentation / many-world cost 重新带回理论，无论是否再有一个 absolute center。
+- relationalism 的 first-person ontology是一种真实选项；
+- StrongFPR 是更强选项；
+- absolute orientation 又是第三个额外选项。
 
 ## 文献
 
-- Christian List, “A quadrilemma for theories of consciousness”, *The Philosophical Quarterly* 75(3), 2025, 1026–1048。
-- Christian List, “The Many-Worlds Theory of Consciousness”, *Noûs* 57(2), 2023, 316–340。
-- Martin Lipman, *Standpoints: Time and Subjectivity* (OUP, 2026).
-- Claudio Calosi, Samuele Iaquinto & Roberto Loss, “Fragmentalism: Putting All the Pieces Together”, *AJP* 104(2), 2026.
-- Bahadir Eker, “Perspectivalism about temporal reality”, *Synthese* 202, 42 (2023).
+- Christian List, “A quadrilemma for theories of consciousness”, *The Philosophical Quarterly* 75(3), 2025, DOI `10.1093/pq/pqae053`.
+- John B. DeBrota & Christian List, “Consciousness, Quantum Mechanics, and the Limits of Scientific Objectivism”, arXiv:2604.14234 (2026).
+- John B. DeBrota & Christian List, “A Heptalemma for Quantum Mechanics”, *Foundations of Physics* 56, 24 (2026), DOI `10.1007/s10701-026-00919-9`.
+- Kit Fine, *Tense and Reality* (2005).
+- Martin Lipman, *Standpoints: Time and Subjectivity* (2026).
 
 ## 关联
 
-- [`../models/two-tier-first-person-realism.md`](../models/two-tier-first-person-realism.md)
-- [`coherence-based-singleton.md`](coherence-based-singleton.md)
+- [`representation-fact-gap.md`](representation-fact-gap.md)
+- [`factivity-architecture-fork.md`](factivity-architecture-fork.md)
 - [`obtaining-mode-pluralization.md`](obtaining-mode-pluralization.md)
-- [`strong-pluralist-exhaustion-test.md`](strong-pluralist-exhaustion-test.md)
-- [`../models/minimal-absolute-opening.md`](../models/minimal-absolute-opening.md)
+- [`../models/constructive-neutral-one-world.md`](../models/constructive-neutral-one-world.md)
+- [`../models/endgame-theory-matrix.md`](../models/endgame-theory-matrix.md)
