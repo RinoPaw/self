@@ -15,6 +15,7 @@
 - 用 standpoint / perspectival pluralism 与 process pluralism 等强反方检验“唯一 absolute center”是否真的提供额外解释力；
 - 区分 **Liveness Generation Problem** 与 **Absolute Center Uniqueness Problem**；
 - 用精确复制压力检验所有 local / event-relative 的 liveness 机制；
+- 检验 local singleton 是否会在多个 competition domains 中复制，并寻找真正 global / non-factorizable 的 singleton mechanism；
 - 寻找既能打破复制、又能真正解释 privilege 的全局关系结构。
 
 ## 当前四道门槛
@@ -69,9 +70,7 @@ Fundamental becoming 已经提供了 `process -> liveness` 的真实邻近先例
 \boxed{\exists !G\not\Rightarrow\exists !E^*\;LIVE(E^*)}.
 \]
 
-### Locality–Duplication No-Go / Global Relevance
-
-最新的条件性结果进一步限制 center uniqueness。
+### Locality–Duplication / Local-to-Global No-Go
 
 若 liveness 规则只依赖意识事件的可复制 local / event-relative profile：
 
@@ -85,15 +84,19 @@ Fundamental becoming 已经提供了 `process -> liveness` 的真实邻近先例
 \Lambda_D(E_a)=\Lambda_D(E_b).
 \]
 
-所以精确复制存在时，纯局部机制不能保证一个 global LIVE center；这一点甚至不要求完整宇宙存在交换二者的全局自同构。
+进一步，若 singleton mechanism 只在多个相互独立的 competition domains 内分别运行，则每个 domain 都可能产生一个 local winner：
 
-剩下最重要的非 primitive 路线是：
+\[
+\boxed{\text{local singleton}\not\Rightarrow\text{global singleton}}.
+\]
+
+所以剩下最重要的非 primitive 路线是：
 
 \[
 LIVE(E)=F(\mathcal R,E),
 \]
 
-让 LIVE 依赖真正的全局关系。但这条路承担 **Global Relevance Requirement**：全局差异必须和 liveness / privilege 有独立的形而上关联，不能只是一个 canonical address。
+让 LIVE 依赖真正的全局关系，并满足 **Non-Factorization Requirement**、**Global Coupling Requirement** 与 **Global Relevance Requirement**：全局差异必须和 liveness / privilege 有独立的形而上关联，不能只是一个 canonical address。
 
 ## 导航
 
@@ -113,6 +116,7 @@ LIVE(E)=F(\mathcal R,E),
 - [`research/arguments/residual-fact-problem.md`](research/arguments/residual-fact-problem.md) — 全部 standpoint facts 给出以后是否仍残留 absolute liveness。
 - [`research/arguments/process-to-center-gap.md`](research/arguments/process-to-center-gap.md) — 唯一生成过程为何仍不足以推出唯一 live center。
 - [`research/arguments/locality-duplication-no-go.md`](research/arguments/locality-duplication-no-go.md) — 局部复制为何阻止统一 local rule 产生一个 global LIVE center，并提出 Global Relevance Requirement。
+- [`research/arguments/local-to-global-singleton-obstruction.md`](research/arguments/local-to-global-singleton-obstruction.md) — local winner / per-domain singleton 为什么无法自动升级成全局 singleton，并提出 Non-Factorization / Global Coupling Requirements。
 - [`research/arguments/symmetry-obstruction.md`](research/arguments/symmetry-obstruction.md) — 结构性唯一选择面对的全局自同构禁阻。
 - [`research/arguments/symmetry-pressure.md`](research/arguments/symmetry-pressure.md) — 多中心方案面对的对称性压力。
 - [`research/arguments/standpoint-pluralism-challenge.md`](research/arguments/standpoint-pluralism-challenge.md) — 强反方：真实但多元的 standpoint facts。
@@ -120,6 +124,7 @@ LIVE(E)=F(\mathcal R,E),
 - [`research/models/generators-of-liveness.md`](research/models/generators-of-liveness.md) — 对 \(D\Rightarrow L\) 候选结构的系统筛选。
 - [`research/models/fundamental-process-frontier.md`](research/models/fundamental-process-frontier.md) — fundamental process / live frontier 模型与 Frontier Multiplicity。
 - [`research/models/priority-i-now.md`](research/models/priority-i-now.md) — grounding / Priority Presentism 向 I–NOW 的推广。
+- [`research/models/singleton-architecture.md`](research/models/singleton-architecture.md) — 把 absolute-center theory 拆成 Generation + Global Singleton + Privilege，并比较 global rank、experiential bottleneck、自显现等机制。
 - [`research/models/w-flow.md`](research/models/w-flow.md) — \(w\) 流与元时间问题。
 
 ### 文献
@@ -131,6 +136,7 @@ LIVE(E)=F(\mathcal R,E),
 - [`literature/actuality-analogy.md`](literature/actuality-analogy.md) — indexical actuality 与 absolute actuality。
 - [`literature/grounding-and-priority-cosmopsychism.md`](literature/grounding-and-priority-cosmopsychism.md) — grounding、fundamentality、priority monism / cosmopsychism。
 - [`literature/dowker-causal-set-becoming.md`](literature/dowker-causal-set-becoming.md) — causal-set becoming、live experience 与 gauge / covariance 压力。
+- [`literature/exclusion-unity-selection.md`](literature/exclusion-unity-selection.md) — IIT exclusion、GNWT winner-take-all、phenomenal unity、fixed point 与 causal-set post 对 singleton-selection 的边界。
 - [`literature/candidates/2026-10-04-duplication-frontier.md`](literature/candidates/2026-10-04-duplication-frontier.md) — Nimmo 2026、Forrest 2004 / Grandjean 2022 的 duplication / frontier 候选笔记；尚未自动提升为核心文献。
 - [`literature/pipeline.md`](literature/pipeline.md) — AI 文献发现、引用扩展、核验与入库流程。
 - [`literature/queries.json`](literature/queries.json) — 可复用检索集合。
@@ -149,7 +155,9 @@ Liveness generation
         ↓
 Locality / duplication no-go
         ↓
-Global relevance + center uniqueness
+Global non-factorization / coupling
+        ↓
+Singleton mechanism + privilege bridge
         ↓
 I–NOW dynamics / Γ*
         ↓
