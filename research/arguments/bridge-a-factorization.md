@@ -2,27 +2,35 @@
 
 > 状态：当前 endgame 的基础拆分。
 >
-> 目标：把 `Phenomenology → Strong First-Person Fact` 拆成多个独立箭头，避免用 “first-personal” 一词在 phenomenal、representational、fact-level 三层之间偷渡。
+> 目标：把 `Consciousness → Strong First-Person Fact` 拆成独立箭头，避免用 “first-personal” 在 bearer、egocentricity、phenomenal mineness、self-ownership 与 fact ontology 之间偷渡。
 
-## 0. 旧问题太粗
+## 0. 最新 ladder
 
-当前 Bridge A 常写成：
+此前：
 
 \[
-FirstPersonalGivenness(S)
-\Rightarrow
-IrreducibleFirstPersonFact(S)\ ?
+Consciousness
+\to
+ForMeNess
+\to
+Me/Mine
+\to
+StrongFPFact
+\to
+Irreducibility.
 \]
 
-这把至少四个不同层次压在了一起。
+Sá Pereira 2026 迫使 `A0` 再拆一层。
 
-结合 Zahavi、Guillot、List 后，更准确的 ladder 是：
+当前更准确：
 
 \[
 \boxed{
 Consciousness
-\xrightarrow{A_0}
-ForMeNess
+\xrightarrow{A_{0w}}
+SubjectInvolvement/Egocentricity
+\xrightarrow{A_{0s}}
+PhenomenalForMeNess
 \xrightarrow{A_1}
 Me/MineStructure
 \xrightarrow{A_2}
@@ -32,44 +40,112 @@ Irreducibility.
 }
 \]
 
-Bridge A 不是一座桥，而是一串桥。
+这里每个箭头都是不同的 substantive claim。
 
 ---
 
-## 1. A0 — Consciousness → For-me-ness
+## 1. A0w — Consciousness → weak subject-involvement
 
-定义最小 phenomenal subjectivity：
+定义：
 
 \[
-ForMe(E,S)
+SubjectInvolving(E,S)
 \]
 
-表示 experience \(E\) 对其 subject \(S\) 以只有该 subject 具有的特殊 experiential access / givenness 方式在场。
+表示至少：
 
-Zahavi 路线给：
+- experience 有 bearer / experiencer；
+- token state anchored to one organism / stream；
+- perception / bodily content 有 egocentric or perspectival organization；
+- state 对该 subject first-person accessible。
+
+不要求：
 
 \[
-\boxed{
-Conscious(E,S)
+PhenomenallyManifestMine(E,S).
+\]
+
+Sá Pereira 明确保留这种 weaker `for-someone-ness` / perspectival organization。
+
+所以当前：
+
+\[
+\boxed{A_{0w}\text{ is comparatively robust}.}
+\]
+
+但它仍不等于：
+
+\[
+SelfAwareness,
+\quad
+Mineness,
+\quad
+StrongFPFact.
+\]
+
+---
+
+## 2. A0s — weak subject-involvement → phenomenal for-me-ness
+
+定义 stronger phenomenal claim：
+
+\[
+ForMe_{phen}(E,S)
+\]
+
+表示 experience 的 lived manifestation 本身含有 pre-reflective self-givenness / “for me” character。
+
+### Positive side
+
+Zahavi / Kriegel / Gallagher 路线主张：
+
+\[
+PhenConscious(E,S)
 \Rightarrow
-ForMe(E,S)
-}
+ForMe_{phen}(E,S).
 \]
 
-很强的 phenomenological support。
+Bogotá 2026 进一步 thickens 这个结构：
 
-这里不要求：
+\[
+ForMe_{phen}
+\leftrightarrow
+EmbodiedMineness+BackgroundAgency(I\ can).
+\]
 
-- reflective self-concept；
-- “I” thought；
-- ownership judgment；
-- fundamental first-person fact。
+### Negative side
 
-A0 因而是当前 ladder 中最稳的一步。
+Sá Pereira 2026 接受：
+
+\[
+Egocentric(E,S)+FirstPersonAccess(E,S)
+\]
+
+但拒绝：
+
+\[
+Egocentric(E,S)
+\Rightarrow
+PrimitiveForMe_{phen}(E,S).
+\]
+
+其 positive alternative：
+
+\[
+EgocentricRegistration+PredictiveStructure+SelfModel.
+\]
+
+所以：
+
+\[
+\boxed{A_{0s}\text{ is an active theoretical dispute, not an uncontested premise}.}
+\]
+
+Khan 2026 又说明 psychedelic reports 暂未提供 decisive counterexample，但这不等于 positive entailment 已建立。
 
 ---
 
-## 2. A1 — For-me-ness → Me-ness / Mineness
+## 3. A1 — phenomenal for-me-ness → me-ness / mineness
 
 Guillot 区分：
 
@@ -79,12 +155,12 @@ Guillot 区分：
 ForMe(E,S)
 \]
 
-subject 对 experience 的特殊 awareness。
+subject 对 experience 的特殊 awareness / givenness。
 
 ### Me-ness
 
 \[
-AwareOfSelf(S,E)
+AwareOfSelf(S,E).
 \]
 
 subject 在 experience 中意识到自己。
@@ -92,15 +168,15 @@ subject 在 experience 中意识到自己。
 ### Mineness
 
 \[
-AwareAsMine(S,E)
+AwareAsMine(S,E).
 \]
 
 subject 意识到 experience 是自己的。
 
-Guillot 的核心结果：
+因此：
 
 \[
-oxed{
+\boxed{
 ForMe(E,S)
 \not\Rightarrow_{conceptual}
 AwareOfSelf(S,E)
@@ -110,26 +186,22 @@ AwareOfSelf(S,E)
 以及：
 
 \[
-oxed{
+\boxed{
 ForMe(E,S)
 \not\Rightarrow_{conceptual}
 AwareAsMine(S,E).
 }
 \]
 
-所以若 A1 要成立，需要额外 self-theory，例如：
+注意文献中的 `mineness` 用法并不统一。Bogotá/Zahavi 常把 minimal for-me-ness 与 mineness 靠得很近；Guillot 则严格拆开。
 
-- subject = experiential stream；
-- self = first-personal givenness itself；
-- self-manifestation intrinsically presents the subject。
-
-这些都是 substantive claims。
+本项目从现在起优先使用显式谓词，避免只靠词名推理。
 
 ---
 
-## 3. A2 — Me/Mine structure → Strong first-person fact
+## 4. A2 — me/mine structure → strong first-person fact
 
-就算 experience 包含：
+即使有：
 
 \[
 AwareAsMine(S,E),
@@ -137,19 +209,19 @@ AwareAsMine(S,E),
 
 仍有多个 ontology 可以解释它。
 
-### Relational ontology
+### Relational
 
 \[
 OwnsPhenomenally(S,E).
 \]
 
-### Representational ontology
+### Representational
 
 \[
 Rep_E(E\text{ belongs to }S).
 \]
 
-### Acquaintance ontology
+### Acquaintance
 
 \[
 Acquainted(S,E).
@@ -161,84 +233,72 @@ Acquainted(S,E).
 @_S(E\text{ occurs}).
 \]
 
-### Strong first-person fact
+### Strong fact
 
 \[
 F_S^{FP}=\text{I am undergoing }E.
 \]
 
-前四种可以保留丰富 first-person phenomenology，而是否必须升级到最后一种仍是 metaphysical choice。
-
-所以：
+因此：
 
 \[
-oxed{
+\boxed{
 Me/MineStructure
 \not\Rightarrow_{established}
 StrongFPFact.
 }
 \]
 
-这才是当前 Bridge A 最核心的开放箭头。
+这是 Bridge A 当前最关键的 fact-ontology upgrade。
 
 ---
 
-## 4. A3 — Strong FP fact → Irreducibility
+## 5. A3 — strong FP fact → irreducibility
 
-若接受 List 的 strong criterion：真正 first-person fact 在 subjective perspective shift 下不 invariant，设：
+接受 List 的 criterion：genuine first-person fact 在 subjective perspective shift 下不 invariant。
 
-\[
-F_S^{FP}
-\]
-
-从 \(S\) perspective obtain，而从 mutually exclusive \(S'\) perspective 不 obtain。
-
-若所有 third-person facts 固定，则：
+若：
 
 \[
 F_S^{FP}
 \]
 
-不能 supervene on them。
+改变，而全部 third-person facts fixed，则：
+
+\[
+F_S^{FP}
+\]
+
+不能 supervene on those third-person facts。
 
 所以：
 
 \[
 \boxed{
-StrongFPFact
-+
-PerspectiveNonInvariance
+StrongFPFact+PerspectiveNonInvariance
 \Rightarrow
 Irreducibility.
 }
 \]
 
-A3 目前比 A1/A2 强得多。
-
-因此 Bridge A 的争议重心不应再放在：
-
-> first-person facts 一旦存在是否可还原？
-
-而应前移到：
-
-> phenomenology 是否迫使我们承认这种 facts？
+A3 目前仍是 ladder 中最强的 conditional lemma。
 
 ---
 
-## 5. Phenomenology–Fact Underdetermination Test
+## 6. Phenomenology–Fact Underdetermination Test
 
-固定一个主体 \(S\) 的所有 ordinary phenomenal / cognitive data：
+固定主体 \(S\) 的 ordinary phenomenal / cognitive data：
 
 \[
-P_S=\langle Qualia,ForMe,Me,Mine,Memory,Report,Agency,\ldots\rangle.
+P_S=\langle Qualia,SubjectInvolvement,ForMe,Me,Mine,Memory,Report,Agency,\ldots\rangle.
 \]
 
-构造几种 theories：
+比较：
 
 ### T_R — relational
 
 \[
-P_S+ForMe(S,E)+OwnsPhenomenally(S,E).
+P_S+OwnsPhenomenally(S,E).
 \]
 
 ### T_A — acquaintance
@@ -259,7 +319,7 @@ P_S+@_S(p).
 P_S+F_S^{FP}.
 \]
 
-测试问题：是否存在一个 independently specified phenomenal fact \(X\)，满足：
+寻找 independently specified \(X\)：
 
 \[
 T_F\models X
@@ -268,136 +328,138 @@ T_F\models X
 而：
 
 \[
-T_R,T_A,T_P\not\models X?
+T_R,T_A,T_P\not\models X.
 \]
 
-如果找不到，得到条件性结论：
+若找不到：
 
 \[
 \boxed{
-P_S\text{ underdetermines fact ontology}.
-}
+P_S\text{ underdetermines fact ontology}.}
 \]
 
-这不是说四种理论 metaphysically equivalent。
-
-它说：local phenomenology 本身尚未决定 strong FP fact 是否必须进入 fundamental inventory。
+这不证明 T_F false；它限制从 local phenomenology 到 T_F 的证据力。
 
 ---
 
-## 6. Constitutive-or-Surplus Dilemma
+## 7. 双重 Constitutive-or-Surplus Dilemma
 
-Strong-FPR 正方若想由 phenomenology 推 A2，大体有两条路。
+现在出现两个相似 dilemma。
 
-### Horn 1 — Constitutive
+### Dilemma 1 — phenomenal mineness
 
-主张：
-
-\[
-StrongFPFact(S)
-\]
-
-是：
+`A0s` defender 必须说明：
 
 \[
-ForMe/Me/Mine phenomenology
+ForMe_{phen}
 \]
 
-的 constitutive ground。
+要么 constitutively解释一个 deflationary egocentric model 无法解释的 lived fact；要么接受它在现有 evidence 下可能是 surplus phenomenal posit。
 
-那么必须证明：
+### Dilemma 2 — strong FP fact
+
+Strong-FPR defender 必须说明：
 
 \[
-\boxed{
-	ext{没有 relational / acquaintance / perspectival-obtaining realization 能产生同一 phenomenology。}
-}
+StrongFPFact
 \]
 
-单纯指出 experience 是 first-personal 不够，因为竞争模型正是用不同 ontology 实现 first-personality。
+要么 constitutively解释 relational / acquaintance / perspectival-obtaining theories 无法解释的 fact；要么接受 local phenomenology 对 fact ontology 的 underdetermination。
 
-### Horn 2 — Surplus
-
-若 strong FP fact 对完整 ordinary phenomenology 没有 constitutive difference，则：
-
-\[
-P_S(T_F)=P_S(T_R)
-\]
-
-原则上可以成立。
-
-这时 strong FP fact 仍可能真实，却无法从该 phenomenology 单独获得 evidence。
-
-因此：
+所以 Bridge A 内部已经有两次同型压力：
 
 \[
 \boxed{
-StrongFPFact\text{ must either do constitutive work or accept phenomenological underdetermination.}
+\text{structure} \to \text{phenomenal mineness}
+\to \text{fact ontology}
 }
 \]
 
-暂称 **Constitutive-or-Surplus Dilemma**。
+每次都必须证明 explanatory gain。
 
 ---
 
-## 7. 对 A-W 的直接裁决
+## 8. 对 N-W 的新分叉
 
-A-W 需要：
+neutral one-world baseline 现在至少有两个 versions。
 
-\[
-\forall S\;Conscious(S)+ForMe(S)
-\]
-
-但只把一个 orientation 提升到：
+### N-W\(_{thin}\)
 
 \[
-\Omega(E^*).
+Consciousness
++
+SubjectInvolvement
++
+EgocentricRegistration
++
+SelfModel
 \]
 
-Bridge A Factorization 表明，攻击 A-W 不能只停在 A0：
+拒绝 primitive phenomenal mineness。
 
-> “别人也具有 first-personal givenness。”
+### N-W\(_{thick}\)
 
-A-W 完全接受这一点。
+接受：
 
-真正需要攻破的是 A2：
+\[
+\forall i\;ForMe_{phen}(E_i,S_i)
+\]
+
+甚至 embodied mineness / background agency，仍拒绝：
+
+\[
+\forall i\;StrongFPFact_i
+\]
+
+和：
+
+\[
+AbsoluteOrientation.
+\]
+
+这很重要：即使 phenomenology 一侧的强版本最后胜出，它仍然自然 pluralize，不会自动帮助 absolute singleton。
+
+---
+
+## 9. 对 A-W 的直接裁决
+
+A-W 不再需要承诺最强 universal phenomenal mineness。
+
+它可以基于：
+
+\[
+N\text{-}W_{thin}+\Omega
+\]
+
+或：
+
+\[
+N\text{-}W_{thick}+\Omega.
+\]
+
+攻击 A-W 仍不能只说：
+
+> others are conscious / perspectival / for-me-like。
+
+真正必须证明的是更强链条中某一步，尤其：
 
 \[
 \boxed{
-ForMe/Me/Mine
-\Rightarrow
-StrongFPFact.
+A_2:\quad Me/MineStructure\Rightarrow StrongFPFact.
 }
 \]
 
-截至目前，这条 entailment 尚未建立。
-
-所以：
+以及即使 universal StrongFPR 成立，也还需另一个 bridge 才能推出：
 
 \[
-\boxed{
-A\text{-}W\text{ survives Bridge A at the level of logical/metaphysical coherence.}
-}
+\exists!AbsoluteOrientation.
 \]
 
 ---
 
-## 8. 对 P-F / P-MW 的公平评价
+## 10. 对 P-F / P-MW 的公平评价
 
-P-F / P-MW 的强处是：
-
-\[
-\text{phenomenal symmetry}
-\]
-
-被提升为：
-
-\[
-\text{fact-level symmetry}.
-\]
-
-每个 subject 的 first-personal givenness 都获得同等级 strong FP fact status。
-
-这是一种很自然的 metaphysical fidelity principle：
+P-F / P-MW 选择：
 
 \[
 PhenomenalParity
@@ -405,37 +467,39 @@ PhenomenalParity
 FactParity.
 \]
 
-但它本身也需要论证。
+这是很自然的 metaphysical fidelity principle，但现在必须明确其输入究竟是：
 
-一旦接受，fragmentation / many worlds cost 随之而来。
+- weak subject-involvement；
+- strong phenomenal mineness；
+- explicit self/ownership structure。
 
-所以 endgame 不是：
+输入越弱，推出 StrongFPR 的 bridge 越强。
 
-> A-W 尊重 phenomenology，pluralism 也尊重 phenomenology。
+因此 universal StrongFPR 的真实负担不再能被一句：
 
-而是：
+> consciousness is obviously first-personal
 
-> A-W 认为 phenomenal first-personality 不完全固定 fact ontology；P-F/P-MW 认为它应被强 ontologize。
+遮蔽。
 
 ---
 
-## 9. 当前最强条件性结果
-
-Bridge A 现在可以压成：
+## 11. 当前状态
 
 \[
-oxed{
-A_0\text{ strongly supported};
+\boxed{
+A_{0w}:\text{ comparatively robust};
 \quad
-A_1\text{ non-trivial};
+A_{0s}:\text{ actively contested};
 \quad
-A_2\text{ open};
+A_1:\text{ non-trivial};
 \quad
-A_3\text{ strong conditional lemma}.
+A_2:\text{ deeply open};
+\quad
+A_3:\text{ strong conditional lemma}.
 }
 \]
 
-所以：
+因此：
 
 \[
 \boxed{
@@ -443,37 +507,23 @@ Consciousness\Rightarrow StrongFPFact
 }
 \]
 
-绝不能再被当作一步完成。
-
-更精确地说，至少有两个尚未封闭的 metaphysical upgrades：
-
-\[
-ForMe
-\to
-Me/Mine
-\]
-
-以及：
-
-\[
-Me/Mine
-\to
-StrongFPFact.
-\]
-
-这显著提高了 universal strong FPR 的论证负担。
+至少包含三次 substantive upgrade，而非一步。
 
 ## 文献连接
 
-- Dan Zahavi, “The Experiential Self: Objections and Clarifications” (2011).
-- Dan Zahavi & Uriah Kriegel, “For-me-ness: What It Is and What It Is Not” (2015).
-- Marie Guillot, “I Me Mine: on a Confusion Concerning the Subjective Character of Experience” (2017), DOI `10.1007/s13164-016-0313-4`.
+- Roberto Sá Pereira, “For-me-ness: a critical assessment of the phenomenal mineness thesis” (2026), DOI `10.1007/s10339-026-01383-z`.
+- Juan Diego Bogotá, “Embodied mineness and background agency” (2026), DOI `10.1007/s11229-026-05624-8`.
+- Umair Khan, “Psychedelics, subjectivity, and self-awareness” (2026), DOI `10.1007/s11097-026-10186-8`.
+- Marie Guillot, “I Me Mine” (2017), DOI `10.1007/s13164-016-0313-4`.
 - Christian List, “A quadrilemma for theories of consciousness” (2025), DOI `10.1093/pq/pqae053`.
-- Lynne Rudder Baker, *Naturalism and the First-Person Perspective* (2013).
 
 ## 关联
 
+- [`a0-subjectivity-universalism-audit.md`](a0-subjectivity-universalism-audit.md)
 - [`consciousness-to-strong-fp-fact-gap.md`](consciousness-to-strong-fp-fact-gap.md)
+- [`origin-tracking-phenomenality-gap.md`](origin-tracking-phenomenality-gap.md)
 - [`relative-first-person-demotion.md`](relative-first-person-demotion.md)
-- [`../../literature/guillot-2017-i-me-mine.md`](../../literature/guillot-2017-i-me-mine.md)
+- [`../../literature/sa-pereira-2026-for-me-ness-critique.md`](../../literature/sa-pereira-2026-for-me-ness-critique.md)
+- [`../../literature/bogota-2026-embodied-mineness.md`](../../literature/bogota-2026-embodied-mineness.md)
+- [`../models/constructive-neutral-one-world.md`](../models/constructive-neutral-one-world.md)
 - [`../models/endgame-theory-matrix.md`](../models/endgame-theory-matrix.md)
