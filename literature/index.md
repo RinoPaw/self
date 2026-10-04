@@ -263,6 +263,34 @@ Oxford Academic: https://academic.oup.com/pq/article/75/3/1026/7686655
 
 ## 对称性、结构与唯一化
 
+### Kent Nimmo — First-Person Symmetry / Relational Individuation (2026)
+
+关键词：perfect phenomenal duplication、first-person symmetry、relational individuation、anti-haecceitism、external indexing、further first-person fact。
+
+用途：给 duplication case 一个直接的 contemporary constraint。第一篇的 First-Person Symmetry Lemma 只推出 shared phenomenal profile 内没有 unique selector；第二篇加入 restricted anti-haecceitist `Relational Individuation`，进一步得到：duplicated phenomenal + structural profile 固定后，不再有额外 internal first-person thisness。
+
+关键边界：
+
+\[
+\boxed{
+RI+PerfectDuplication
+\Rightarrow
+\neg FurtherInternalFPFact
+}
+\]
+
+是 conditional result，不等于：
+
+\[
+\neg AbsoluteOrientation.
+\]
+
+external / primitive asymmetry-maker 仍是逻辑选项。因此它主要强化 `phenomenology/mineness cannot internally select a unique absolute center`，并把任何 positive absolute theory 的 asymmetry burden 明确推到 duplicated profile 之外。
+
+`Relational Individuation and No Further First-Person Fact under Perfect Phenomenal Duplication` 已于 2026-08-27 在线发表于 *Philosophical Explorations*。
+
+专门笔记：[`nimmo-2026-relational-individuation.md`](nimmo-2026-relational-individuation.md)
+
 ### Symmetry and Symmetry Breaking — Stanford Encyclopedia of Philosophy
 
 关键词：symmetry、invariance、symmetry arguments、Curie principle、principle of sufficient reason。
@@ -307,6 +335,7 @@ https://plato.stanford.edu/entries/structural-realism/
 
 - Lipman + Eker 使 strongest pluralist 可以进入 **obtaining / constitution level**；
 - Nagai 给最成熟的 primitive absolute-opening 邻近模型；
+- Nimmo 使 phenomenal/mineness profile 的 internal unique-selector route 更难成立，但不排除 profile 外 primitive asymmetry；
 - Derived route 仍要通过 Natural Pointing → Definability → Privilege / Actuality Bridge。
 
 因此当前不再把 “first-personality 是否真实” 当主要争点，而把焦点放在：
