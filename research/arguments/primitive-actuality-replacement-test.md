@@ -1,12 +1,12 @@
 # Primitive Actuality Replacement Test
 
-> 状态：`Centered Completion` 的 CC3 压力测试。
+> 状态：`Centered Completion` 的 CC3 压力测试，已按 actuality-metaphysics sweep 更新。
 >
-> 目标：公平检查 Role-First Absolute Opening 的最佳 parsimony defense：\(G\) 也许并非“多加一个 primitive”，而是用 centered actuality **替代** neutral theory已经需要的 actuality primitive。
+> 核心变化：最强 neutral rival 不再只是 thin uncentered actuality primitive。Bricker-style package 可以接受 **absolute + primitive + perspectival actuality**，甚至 de se actuality knowledge，同时保持 actuality 无 subject arity。因此真正 strongest comparison 现在是 \(A_B\) vs \(G\)。
 
 ## 0. Strongest positive defense
 
-最有利于 absolute side的比较不是：
+最有利于 absolute side 的比较不是：
 
 \[
 T_A=T_N+G.
@@ -24,29 +24,17 @@ T_A=K+G,
 
 其中：
 
-- \(K\)：双方共享的 complete ordinary world/consciousness structure；
-- \(A_N\)：neutral actuality primitive；
+- \(K\)：双方共享的 ordinary world / consciousness / perspectival structure；
+- \(A_N\)：某种 neutral-in-subject-arity actuality package；
 - \(G\)：centered actuality / global opening primitive。
 
-如果：
-
-\[
-G
-\]
-
-完成 \(A_N\) 的全部工作，同时额外统一 I / NOW / first-person actuality，那么看起来可能：
-
-\[
-\boxed{G\text{ gives more explanatory work for the same primitive count}.}
-\]
-
-这就是 **Primitive Replacement Defense**。
+若 \(G\) 完成 \(A_N\) 的全部 independently required work，又对共同 explananda 做更多工作，才有 genuine replacement advantage。
 
 ---
 
-## 1. 先定义 replacement，而不是 addition
+## 1. Replacement criteria
 
-要说 \(G\) 真正 replace \(A_N\)，至少需要：
+要说 \(G\) 真正 replace \(A_N\)，至少满足：
 
 ### R1 — Job inclusion
 
@@ -54,68 +42,56 @@ G
 Jobs(A_N)\subseteq Jobs(G).
 \]
 
-即 neutral actuality primitive负责的每项 independently required job，G都能完成。
-
 ### R2 — No hidden neutral actuality
 
-不能实际仍依赖：
-
-\[
-A_N
-\]
-
-然后再加 \(G\)。
+理论不能实际仍依赖 \(A_N\)，然后再加 \(G\)。
 
 ### R3 — Common-explananda gain
 
-G声称额外解释的内容必须是双方都 independently recognize 的 explananda。
+新增 explanatory credit 只能来自竞争双方 independently recognize 的 explananda。
 
 ### R4 — Cost parity
 
-不能仅以 primitive **数量**相同就宣布 complexity 相同；G内部如果带：
+primitive 数量相同不等于内容成本相同。若 \(G\) 内含：
 
-- exact-one；
-- first-person orientation；
-- role coincidence；
-- temporal component；
+- subject arity；
+- exact-one subject；
+- I–NOW coincidence；
+- global role coincidence，
 
-则其 ideological / structural content比薄 \(A_N\) 更强。
+这些都属于真实 ideological / structural content。
 
 ---
 
-## 2. Neutral actuality不是一个统一 package
+## 2. Neutral actuality packages
 
-`Neutral Actuality Core` 已给三类 relevant options。
-
-### N1 — no special actuality primitive
-
-Lewisian / deflationary-indexical route。
-
-这里：
+### N1 — Lewis-style indexical / deflationary actuality
 
 \[
 Cost(A_N)\approx0
 \]
 
-至少没有一个 special intrinsic actuality primitive可被 G 等价替换。
+至少没有 special intrinsic actuality primitive 可供 \(G\) 一对一替换。
 
-所以：
+Wayne A. Davis 2024 对 indexical semantics 施加了现实压力，因此 N1 不应单独承担 neutral side 的论证重量。
+
+但：
 
 \[
-\boxed{\text{Replacement Defense fails against N1 at primitive-count level}.}
+\boxed{\text{critique of N1 does not establish centered actuality}.}
 \]
 
-absolute side必须先论证 N1 inadequacy。
+因为 N2–N4 是非-indexical alternatives。
 
-### N2 — instantiation route
+### N2 — Soames-style instantiation
 
 \[
 Actual(W)=Inst(U,W).
 \]
 
-这里 actuality work由一个 independently intelligible universe–state instantiation relation承担。
+actuality work 由 independently intelligible universe–state instantiation relation 承担。
 
-G若要替换它，需要说明：
+G 若要替换它，需要说明：
 
 \[
 Inst(U,W)
@@ -123,135 +99,159 @@ Inst(U,W)
 
 为什么 metaphysically insufficient。
 
-否则 centered role比 instantiation relation有更多 content，但没有更多 established target。
-
-### N3 — primitive uncentered actuality
+### N3 — Adams-style fundamental uncentered actuality
 
 \[
-A_N(R).
+A_F=\text{fundamental actuality without subject arity}.
 \]
 
-这是 Replacement Defense最强适用对象，因为双方都使用 one primitive actuality kind。
+这里 replacement defense 首次获得 one-primitive vs one-primitive parity，但 \(G\) 仍有更丰富 subject-centered content。
 
-真正比较才变成：
+### N4 — Bricker-style absolute primitive actuality
+
+这是本轮新增的 strongest rival：
 
 \[
-A_N
-\quad vs\quad
-G.
+A_B=ABS+PRIM(+PERSP+DESE)-FPAR.
 \]
+
+Bricker 的 one-property transformation package 可以给出：
+
+- actuality simpliciter / absolute；
+- primitive non-qualitative actuality property；
+- actual vs merely possible ontological distinction；
+- perspectival actuality concept；
+- substantive de se actuality knowledge（在 preferred epistemology 下），
+
+而仍没有：
+
+\[
+Actuality(R,s)
+\]
+
+这种 subject-bearing metaphysical form，也不要求：
+
+\[
+\exists!s\;AbsoluteSubject(s).
+\]
+
+所以当前 strongest neutral package 已经支付了 absolute / primitive / perspectival costs。
 
 ---
 
-## 3. Common jobs of actuality
+## 3. Actuality–Arity Orthogonality
 
-为了公平，不先把 absolute-I / absolute-NOW算入 job set。
+actuality sweep 给：
 
-双方共同至少可能需要：
+\[
+\boxed{ABS+PRIM+PERSP+DESE\not\Rightarrow FPAR.}
+\]
+
+因此 \(G\) 的 distinctive content 不能再描述成：
+
+> “它让 actuality 真正 absolute / primitive / perspectival。”
+
+这些工作 \(A_B\) 已经可以完成。
+
+真正剩余差异是：
+
+\[
+\boxed{FPAR+ExactOneSubject+I\text{-}NOW\ unity.}
+\]
+
+这使 CC3 比旧版本更干净。
+
+关联：[`actuality-arity-orthogonality.md`](actuality-arity-orthogonality.md)
+
+---
+
+## 4. Common jobs of actuality
+
+为了公平，不预先把 Absolute-I / Absolute-NOW 算入共同 job set。
 
 ### J1 — Actual/nonactual contrast
 
-解释 / ground：
-
 \[
-R\text{ obtains}
+R\text{ actually obtains}
 \]
 
-而不仅是：
-
-\[
-R\text{ is possible/describable}.
-\]
+而不仅是 possible / describable。
 
 ### J2 — Truthmaker / obtaining connection
 
 actual events/facts genuinely obtain。
 
-### J3 — Actual-totality unity
+### J3 — Actual-totality membership / unity
 
-若 one-world picture成立，给出哪些 facts属于 this actual totality。
+若 one-world picture 成立，说明哪些 facts / entities 属于 actual totality。
 
-这些 job 都可以由：
+### J4 — Absolute actuality
 
-\[
-A_N
-\]
+如果 theory comparison 独立要求 actuality simpliciter，\(A_B\) 与 \(G\) 都可以承担。
 
-或：
+### J5 — Perspectival self-location in actuality
 
-\[
-Inst(U,W)
-\]
+Bricker-style package 说明，一个 subject-neutral absolute actuality property 也可以支持主体知道自己位于 actual region。
 
-在没有 global first-person role时承担。
+### J6 — De se actuality knowledge
 
-所以：
+若接受 status-sensitive / perspectival epistemology，\(A_B\) 也有 principled route。
+
+因此：
 
 \[
-\boxed{J1-J3\text{ do not yet discriminate }A_N\text{ from }G.}
+\boxed{J1-J6\text{ do not yet discriminate }A_B\text{ from }G.}
 \]
 
 ---
 
-## 4. Claimed extra jobs of G
+## 5. Claimed extra jobs of G
 
-G还声称承担：
+G 额外声称：
 
-### J4 — Absolute I
+### J7 — Absolute I
 
 \[
 \exists!I^*.
 \]
 
-### J5 — Absolute NOW
+### J8 — Absolute NOW
 
 \[
 \exists!NOW^*.
 \]
 
-### J6 — I–NOW unity
+### J9 — I–NOW unity
 
-I 与 NOW不是两个 independent primitives，而是 one opening role的 aspects。
+I 与 NOW 是 one opening role 的 aspects。
 
-### J7 — Actuality/subjectivity unity
-
-world actuality本身就是 first-personally oriented actuality。
-
-这些确实构成：
+### J10 — Actuality/subjectivity identity
 
 \[
-\boxed{\text{internal unification power}.}
+WorldActuality=AbsoluteI=AbsoluteNOW=G.
 \]
 
-问题是：J4–J7 中哪些是 independently required explananda？
+这些确实构成 internal unification power。
 
-截至当前：
-
-- J4 正是 contested absolute-I thesis；
-- J5 的 absolute NOW 也不是 neutral theory承认的共同 fact；
-- J6 建立在 J4/J5 都真实的前提上；
-- J7 正是 Actuality-to-Center Bridge 的结论。
+但 J7–J10 目前大多是 centered theory 自身的 contested commitments，而非 neutral theory 也 independently 需要解释的 facts。
 
 所以：
 
 \[
-\boxed{
-\text{G currently unifies mostly theory-specific explananda}.}
+\boxed{G\text{ still lacks a demonstrated common-explananda gain}.}
 \]
 
 ---
 
-## 5. No-Free-Unification Principle
+## 6. No-Free-Unification Principle
 
-由此正式记录：
+继续保留：
 
 \[
 \boxed{\text{No-Free-Unification Principle (NFU)}.}
 \]
 
-> 若 theory \(T\) 独自 postulate \(X_1,\ldots,X_n\)，随后用一个 primitive \(G\) 将它们 identify / unify，那么只有那些在竞争 theory 之外也有 independent motivation 的 \(X_i\) 才能计入跨理论 explanatory advantage。
-
-形式上：
+若 theory \(T\) 独自 postulate \(X_1,\ldots,X_n\)，随后用一个 primitive \(G\) 将它们 identify / unify，那么只有在竞争 theory 之外也有 independent motivation 的 \(X_i\) 才能计入跨理论 explanatory advantage。
 
 令：
 
@@ -259,7 +259,7 @@ world actuality本身就是 first-personally oriented actuality。
 E_{common}=Explananda(T_N)\cap Explananda(T_A).
 \]
 
-真正 theory-comparison 的 compression credit只计算：
+真正 compression credit 只计算：
 
 \[
 Explain_G(E_{common}).
@@ -271,11 +271,11 @@ Explain_G(E_{common}).
 Explain_G(Explananda(T_A)).
 \]
 
-否则发生 **Unification Bootstrapping**。
+否则发生 Unification Bootstrapping。
 
 ---
 
-## 6. Primitive count 不等于 primitive cost
+## 7. Numerical parsimony vs content parsimony
 
 即使：
 
@@ -289,105 +289,93 @@ Explain_G(Explananda(T_A)).
 Cost(T_N)=Cost(T_A).
 \]
 
-比较：
-
-### Thin actuality primitive
+旧比较：
 
 \[
-A_N=\text{obtaining/facticity}.
+A_F=\text{thin fundamental actuality}
 \]
 
-### Centered actuality primitive
+对：
 
 \[
-G=\text{obtaining + first-person direction + exact-one + local/global role coincidence}.\]
-
-G有更丰富 internal essence / axioms。
-
-所以需要 distinguish：
-
-\[
-\boxed{\text{numerical parsimony}}
+G=\text{actuality + subject direction + exact-one + role coincidence}.
 \]
 
-与：
+明显有 content asymmetry。
+
+Bricker N4 缩小了这一差距，因为：
 
 \[
-\boxed{\text{ideological / structural parsimony}.}
+A_B
 \]
 
-Replacement Defense最多先赢前者。
+本身已经是 absolute、primitive、non-qualitative，并可以有 perspectival/de se significance。
+
+但它仍不含：
+
+\[
+FPAR+ExactOneSubject+I\text{-}NOW\ identity.
+\]
+
+所以现在最准确的 surplus 是：
+
+\[
+\boxed{\text{subject-arity surplus}}
+\]
+
+而不是笼统的 “absolute actuality surplus”。
 
 ---
 
-## 7. Exact-one 是额外 content
+## 8. Exact-one world does not rescue G
 
-假设：
-
-\[
-A_N(R)
-\]
-
-只说 R actually obtains。
-
-G additionally entails：
+可以另加：
 
 \[
-\exists!L_i\;Occupies(L_i,G).
+\exists!w\;ActualWorld(w).
 \]
 
-所以：
+van Inwagen-style one-realized-world package 与 traditional Leibnizian realism 都允许这种 world-level singularity。
+
+但：
 
 \[
-Content(G)\supset Content(A_N)
+\boxed{
+\exists!ActualWorld
+\not\Rightarrow
+\exists!AbsoluteSubject.
+}
 \]
 
-至少在 natural interpretation下成立。
+一个 actual world 可以包含多个 genuine subjects，而 actuality 不对其做 subject-level ranking。
 
-若该 extra content没有 independently established explanandum，那么从 minimum-description perspective：
-
-\[
-\boxed{G\text{ is a stronger primitive hypothesis}.}
-\]
-
-它可以是真的，但不能仅靠 “one primitive vs one primitive” 获得 simplicity parity。
+所以 exact-one actuality at world level 不能充当 J7 的免费 bridge。
 
 ---
 
-## 8. Could G make A_N conceptually redundant?
+## 9. Epistemic advantage 也不自动区分
 
-absolute side最强回应：
+旧 defense 可能说：centered actuality 至少解释 absolute subject 如何 de se 地知道 actuality。
 
-> `A_N` 根本不是一个真正可理解的 actuality kind；真正理解 actuality时已经得到 G。
+Bricker-style epistemology 削弱这一点：subject-neutral absolute actuality 也可以配合 perspective-sensitive entitlement，使 actual subject获得 de se actuality knowledge。
 
-这等于：
-
-\[
-\boxed{A_N\text{ is conceptually unstable / incomplete}.}
-\]
-
-若成功，它会把 Replacement Defense升级成 CC2：neutral actuality incoherence。
-
-但目前：
-
-- Lewis 提供 indexical actuality；
-- Soames 提供 instantiation actuality；
-- Adams 提供 fundamental but uncentered actuality；
-- Peircean Secondness提供 brute actual occurrence。
-
-所以：
+更重要的是：
 
 \[
-\boxed{\text{neutral actuality is not currently shown unintelligible}.}
+SameEvidence\not\Rightarrow SameEpistemicStatus
 \]
 
-这使概念冗余路线暂时失败。
+在 externalist/status-sensitive epistemology 下是开放选项。
+
+因此 “G 能给 actuality self-knowledge” 当前不是独有的 common-explananda advantage。
+
+关联：[`epistemic-chauvinism-escape.md`](epistemic-chauvinism-escape.md)
 
 ---
 
-## 9. A genuine replacement win 的标准
+## 10. A genuine replacement win 的新标准
 
-要让 centered G 真正获得 replacement advantage，需要找到：
+Centered \(G\) 若要真正胜过 strongest \(A_B\)，必须找到：
 
 \[
 X\in E_{common}
@@ -396,86 +384,94 @@ X\in E_{common}
 满足：
 
 \[
-A_N\not\Rightarrow X,
+A_B\not\Rightarrow X,
 \]
 
 \[
 G\Rightarrow X,
 \]
 
-并且 G没有为此增加另一个同等昂贵 bridge。
-
-候选 X不能是：
+并且：
 
 \[
-AbsoluteI
+X
 \]
 
-若其唯一证据就是 G-theory自身。
+**specifically requires first-person arity**，不能只要求：
 
-更好的候选可能是：
+- actuality absolute；
+- actuality primitive；
+- actuality non-qualitative；
+- actuality perspectival；
+- de se actuality knowledge；
+- exactly one actual world。
 
-- independently required structure of actuality；
-- independently required unity of time / presence；
-- independently established first-person fact that neutral actuality cannot combine with one-world coherence；
-- independently observable privilege-sensitive signature。
+这些 strongest neutral package 都已经可以承认。
+
+因此真正缺的 X 必须更接近：
+
+- independently established unique subject-sensitive actuality fact；
+- independently required I–NOW–actuality unity；
+- privilege-sensitive observable / normative structure that cannot be reproduced by \(A_B\)；
+- proof that complete actuality as such has subject arity。
 
 当前尚未找到。
 
 ---
 
-## 10. Replacement matrix
+## 11. Updated replacement matrix
 
-| Neutral package | Neutral actuality cost | G can literally replace? | Current result |
-|---|---|---|---|
-| N1 indexical/deflationary | no special intrinsic primitive | not straightforward | absolute side first owes critique of N1 |
-| N2 Soames instantiation | independently motivated relation | only if instantiation shown insufficient | not established |
-| N3 brute/fundamental uncentered | one actuality primitive | yes, strongest parity case | primitive count ties, content does not |
+| Neutral package | Actuality strength | Subject arity | G replacement result |
+|---|---|---:|---|
+| N1 Lewis | indexical / relational | no | no corresponding intrinsic primitive; G first owes critique |
+| N2 Soames | actual instantiation | no | replacement requires showing instantiation insufficient |
+| N3 Adams | fundamental actuality | no | primitive count ties; G has richer centered content |
+| N4 Bricker | **absolute + primitive + perspectival/de se-capable** | **no** | **strongest parity case; residual difference is subject arity** |
 
 所以：
 
 \[
-\boxed{\text{Primitive Replacement Defense succeeds only partially and package-relatively}.}
+\boxed{\text{Primitive Replacement Defense is now tested against a much stronger neutral rival}.}
 \]
 
 ---
 
-## 11. Current verdict
+## 12. Updated CC3 verdict
 
-Role-First MAO获得一个重要防守成果：
-
-\[
-\boxed{\text{it need not always be counted as neutral actuality + one extra primitive}.}
-\]
-
-特别对 N3，它可以主张：
+Role-First MAO 仍获得一个重要防守成果：
 
 \[
-A_N\rightsquigarrow G
+\boxed{\text{it need not always be counted as neutral actuality plus one extra primitive}.}
 \]
 
-是替代。
+尤其对 N3/N4，都可以写成 primitive-kind replacement competition。
 
-但它尚未获得 positive abductive advantage，因为：
+但 positive abductive advantage 仍未出现，因为：
 
-1. N1 may have no corresponding primitive；
-2. N2 has a thinner independently motivated instantiation relation；
-3. against N3, one-vs-one primitive count ties but G has richer content；
-4. G's extra unification targets mostly remain theory-specific；
-5. no common explanandum currently requires its centered structure。
+1. N1 可能没有对应 intrinsic primitive；
+2. N2 使用 independently motivated instantiation relation；
+3. N3 one-vs-one ties only numerically；
+4. N4 已承担 absolute / primitive / perspectival / de se actuality，而无需 subject arity；
+5. G 的剩余 extra jobs J7–J10 仍主要是 theory-specific explananda；
+6. 没有 common explanandum 目前被证明要求 FPAR。
 
-因此 CC3 当前裁决：
+因此：
 
 \[
 \boxed{
-\text{Replacement parity weakens the crude surplus objection but does not yet reverse the neutral abductive lead}.}
+\text{CC3 remains unresolved, but its exact burden is now subject-arity-specific}.
+}
 \]
+
+neutral abductive lead 没有被 reversal；它的理由也更窄、更干净：
+
+> strongest neutral actuality can already be metaphysically thick. Centered theory still owes the extra arity.
 
 ---
 
-## 12. What would change the verdict
+## 13. What would change the verdict
 
-只需一个真正 successful case：
+只需一个 successful case：
 
 \[
 \boxed{
@@ -483,27 +479,28 @@ X\in E_{common}
 \land
 Explain(G,X)
 \land
-\neg Explain(A_N,X)
+\neg Explain(A_B,X)
 }
 \]
 
-且：
+并且新增 explanation 的收益超过：
 
 \[
-Cost(G)-Cost(A_N)
+Cost(FPAR+ExactOneSubject+I\text{-}NOW\ unity).
 \]
 
-低于新增 explanation收益。
-
-若长期找不到，Role-First MAO 的地位会稳定成：
+若长期找不到，Role-First MAO 的稳定地位将是：
 
 \[
-\boxed{\text{elegant primitive enrichment of actuality, not a cheaper replacement}.}
+\boxed{\text{a coherent subject-arity enrichment of absolute actuality}.}
 \]
 
 ## 文献与关联
 
+- [`../../literature/actuality-metaphysics-sweep.md`](../../literature/actuality-metaphysics-sweep.md)
 - [`../../literature/neutral-actuality-options.md`](../../literature/neutral-actuality-options.md)
+- [`actuality-arity-orthogonality.md`](actuality-arity-orthogonality.md)
+- [`epistemic-chauvinism-escape.md`](epistemic-chauvinism-escape.md)
 - [`../models/neutral-actuality-core.md`](../models/neutral-actuality-core.md)
 - [`../models/role-first-absolute-opening.md`](../models/role-first-absolute-opening.md)
 - [`completion-condition-fork.md`](completion-condition-fork.md)
