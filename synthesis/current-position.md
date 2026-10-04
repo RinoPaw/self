@@ -54,7 +54,7 @@ C_{t_1},\ C_{t_2},\ \boxed{C_{t_3}},\ C_{t_4}
 
 这一方案预设了跨整个人生的绝对第一人称连续性，但当前经验还包含明显的时间不对称，因此暂不采用。
 
-## 4. 当前主线：Structural Selection Problem
+## 4. 当前主线一：Structural Selection Problem
 
 研究完整现实结构 \(\mathcal R\) 能否唯一确定一个绝对经验事件或一条绝对经验轨迹：
 
@@ -120,13 +120,85 @@ g(E^*)=E^*.
 \text{privilege}.
 \]
 
-所以当前最深的结构问题已经收紧为：
+所以当前最深的结构问题之一是：
 
 \[
-\boxed{\text{可区分性怎样进一步产生绝对特权？}}
+\boxed{\text{可区分性怎样进一步产生绝对特权}}
 \]
 
-## 6. 当前最强反方：Standpoint Pluralism
+## 6. 当前主线二：Residual Fact Problem
+
+当前最强反方是 standpoint pluralism：现实可以包含多个真实、不可还原的 perspectival facts，同时没有一个 standpoint 在最终层面被特权化。
+
+设所有 standpoint-relative 第一人称事实的总结构为 \(\mathcal P\)。绝对第一人称正方需要证明，在 \(\mathcal P\) 之外仍存在某种不能继续相对化的：
+
+\[
+L=\text{liveness / actuality simpliciter}.
+\]
+
+若 \(L\) 可以完全翻译成：
+
+\[
+\text{Live-from}(S_i,S_i),
+\]
+
+并且同样模式对每个 standpoint 都成立，那么理论只得到多中心 perspectival reality，没有得到全局唯一的：
+
+\[
+\exists !S^*\;\text{Live-simpliciter}(S^*).
+\]
+
+把这一压力暂称为 **Relativization Collapse**。
+
+## 7. 关于 \(L\) 的三条路线
+
+### A. \(L\) 还原到 standpoint facts
+
+如果这种还原最终只是把绝对在场性翻译成各 standpoint 的相对在场性，理论会坍缩回 pluralism。
+
+### B. \(L\) 是 primitive
+
+这种模型完全可构造。Hare 的 monadic presence、Bricker 的 absolute actuality 都提供了邻近先例。
+
+本项目暂不在这里停下，因为目前仍希望解释这种特权的来源。
+
+### C. 更深结构 \(D\) 支持 \(L\)
+
+当前优先路线为：
+
+\[
+D\Rightarrow L.
+\]
+
+其中 \(D\) 不能用 \(L\) 自身定义，也不能只是 standpoint facts 的重新命名；同时必须能够承担唯一性、I–NOW、复制、多元宇宙和相对论等约束。
+
+因此，研究目标进一步收紧为：
+
+\[
+\boxed{\text{寻找不能被 standpoint-relative 化、又能由更深结构支持的 }L}
+\]
+
+## 8. Actuality 类比
+
+模态形而上学提供了一个高度同构的成熟分歧。
+
+Lewis 把 “actual” 当成 indexical：所有可能世界在存在方式上平权，每个世界都能从自身位置称自己为 actual。
+
+Bricker 则允许多个可能世界真实存在，同时承认一个世界具有 absolute actuality。
+
+因此可以作工作类比：
+
+\[
+\text{standpoint pluralism}\sim\text{indexical actuality}
+\]
+
+\[
+\text{absolute first-person realism}\sim\text{absolute actuality}.
+\]
+
+这说明“多个真实候选 + 一个 simpliciter 特权中心”在形而上学上是可表达的。它没有解决本项目更关心的来源问题。
+
+## 9. 当前最强反方：Standpoint Pluralism
 
 现在不再把反方只写成“绝对感是一种错觉”。Martin Lipman 的 standpoint pluralism 提供了更强模型：
 
@@ -137,20 +209,18 @@ g(E^*)=E^*.
 因此竞争关系已经升级成：
 
 \[
-\text{唯一绝对中心}
+\text{唯一 absolute liveness}
 \]
 
 对
 
 \[
-\text{真实但多元的 standpoint facts}.
+\text{真实但多元的 standpoint-relative liveness}.
 \]
 
-绝对第一人称正方需要说明：把所有 standpoint facts 都纳入以后，仍然遗漏了哪项不可继续相对化的 liveness / actuality。
+绝对第一人称正方需要说明：把所有 standpoint facts 都纳入以后，仍然遗漏了哪项不可继续相对化的现实结构。
 
-在这一点成立之前，\(E^*\) 仍然只是一个有吸引力的形而上假说。
-
-## 7. 关于额外参数 \(w\)
+## 10. 关于额外参数 \(w\)
 
 曾考虑引入 \(w\) 描述绝对经验的流逝：
 
@@ -168,7 +238,7 @@ E^*(w)=\Gamma^*(w)
 
 也就是先由完整现实决定唯一轨迹，再用 \(w\) 参数化该轨迹。
 
-## 8. 认识论限制
+## 11. 认识论限制
 
 目前最稳固的是现象学层面的不对称：当前经验具有直接在场性。
 
@@ -181,19 +251,22 @@ E^*(w)=\Gamma^*(w)
 同样尚未证明：
 
 \[
-\text{全部真实 standpoint facts}\not\Rightarrow\text{完整第一人称现象}
+\text{全部真实 standpoint facts}\not\Rightarrow\text{完整第一人称现象}.
 \]
 
-因此正方当前最重要的任务不是继续添加新维度，而是找到一个**非循环、典范、具有解释增益**的唯一化原则，或者证明多 standpoint 理论确实遗漏某种结构。
+如果 \(L\) 对体验结构产生可辨认影响，需要进一步找出这种影响；如果完全没有可辨认差异，当前“绝对感”本身不能单独区分 \(\mathcal P\) 与 \(\mathcal P+L\)。
 
-## 9. 下一阶段判据
+因此正方当前最重要的任务，是找到一个**非循环、不可相对化、具有解释增益**的结构或事实。
+
+## 12. 下一阶段判据
 
 任何新模型优先接受以下检查：
 
 1. 是否通过自同构/对称性禁阻；
 2. 是否把“可区分”错误地当成“被特权化”；
-3. 是否同时覆盖 I 与 NOW；
-4. 是否兼容相对论的坐标不变性；
-5. 是否在多元宇宙或复制情形中重新产生多个最终中心；
-6. 是否比 standpoint pluralism 多解释了真实现象；
-7. 是否只是把原问题搬到新的变量、维度或层级上。
+3. 是否把 absolute liveness 偷偷相对化到每个 standpoint；
+4. 是否同时覆盖 I 与 NOW；
+5. 是否兼容相对论的坐标不变性；
+6. 是否在多元宇宙或复制情形中重新产生多个最终中心；
+7. 是否比 standpoint pluralism 多解释了真实现象；
+8. 是否只是把原问题搬到新的变量、维度或层级上。
