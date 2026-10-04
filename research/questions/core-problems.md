@@ -56,7 +56,7 @@ Residual Fact Problem 写成：
 
 Solomyak 式 radical perspectival pluralism 提出更深压力：first-personal 与 impersonal 等 perspective 可能 equally and fully fundamental，同时不存在一个更高的 fundamental meta-perspective 把它们统一成单一最终图景。
 
-因此必须先问：
+因此必须先检查：
 
 \[
 \exists !\mathcal R_{fund}\ ?
@@ -109,7 +109,7 @@ L=\text{liveness / actuality simpliciter}.
 E^*\in\operatorname{Fix}(\operatorname{Aut}(\mathcal R)).
 \]
 
-但这一工作引理现在带有前置条件：必须先说明存在足以承载 `\operatorname{Aut}(\mathcal R)` 的统一 relevant structure。
+但这一工作引理带有前置条件：必须先说明存在足以承载 `\operatorname{Aut}(\mathcal R)` 的统一 relevant structure。
 
 需要继续澄清：
 
@@ -118,23 +118,87 @@ E^*\in\operatorname{Fix}(\operatorname{Aut}(\mathcal R)).
 - 物理 gauge symmetry、表示冗余与真实世界自同构怎样区分；
 - 自发对称破缺是否真正增加了能承担第一人称唯一化工作的结构。
 
-## 可区分性与特权
+## Locality–Duplication Problem
 
-这是当前最重要的新问题之一。
-
-即使现实结构完全刚性：
+全局自同构禁阻还不够。即使：
 
 \[
 \operatorname{Aut}(\mathcal R)=\{id\},
 \]
 
-所有意识事件也只是被唯一辨认。仍需额外解释：
+也可能存在两个意识事件在候选机制真正使用的局部 / 事件相对结构上完全复制。
+
+设：
+
+\[
+N_D(E)
+\]
+
+是机制 \(D\) 允许读取的 rooted profile。若：
+
+\[
+(N_D(E_a),E_a)\cong(N_D(E_b),E_b),
+\]
+
+那么任何统一、同构不变的局部规则都必须给出：
+
+\[
+\Lambda_D(E_a)=\Lambda_D(E_b).
+\]
+
+所以只要精确复制可能：
+
+\[
+LIVE(E_a)\Rightarrow LIVE(E_b).
+\]
+
+这直接限制 phenomenal、neural、local-causal、frontier/process 等局部 supervenience 方案。
+
+对应正式笔记：[`../arguments/locality-duplication-no-go.md`](../arguments/locality-duplication-no-go.md)。
+
+## Global Relevance Problem
+
+Locality–Duplication No-Go 留下的主要非 primitive 出路，是让 LIVE 依赖整个现实中的全局关系：
+
+\[
+LIVE(E)=F(\mathcal R,E).
+\]
+
+全局结构可能区分局部复制体，但仅有全局可区分性仍然没有获得特权。
+
+因此任何此类方案必须同时解释：
+
+\[
+\text{global relation}
+\Longrightarrow
+\text{liveness / privilege}
+\]
+
+这层桥梁。
+
+当前把这一要求记为 **Global Relevance Requirement**。
+
+需要重点检查：
+
+- 哪些远程 / 全局关系真正具有形而上生成或 grounding 意义；
+- 哪些关系只提供 canonical address，没有解释 LIVE；
+- 全局关系能否在 relativistic / gauge-invariant 形式下定义；
+- 多元宇宙下“全局”究竟覆盖哪个 domain；
+- 若 global relation 对体验完全不可见，其认识论地位如何建立。
+
+## 可区分性与特权
+
+这是当前最重要的问题之一。
+
+即使现实结构完全刚性，所有意识事件也只是被唯一辨认。仍需额外解释：
 
 \[
 \text{individualization}\Rightarrow?\text{privilege}.
 \]
 
 任何候选选择函数 \(J_{\mathcal R}\) 都必须说明其极值为什么具有 absolute liveness / actuality，而不只是“数学上独特”。
+
+这一要求同样适用于 Global Relevance 路线：远程结构能够区分两个复制体，不代表远程差异有资格决定第一人称 actuality。
 
 ## Standpoint / perspectival pluralism 是否已经足够
 
@@ -155,6 +219,23 @@ Solomyak 又把挑战推进一层：pluralism 甚至可以拒绝一个统一的 
 4. modest perspectival pluralism 的 deeper reality 是否会自然产生 selector，还是只产生统一性。
 
 若这些 pluralist 模型已经足够，唯一绝对中心假说的解释必要性会明显下降。
+
+## Process Pluralism 是否已经足够
+
+Fundamental becoming 可以给 liveness 一个客观来源，同时允许多个主体都真实 live：
+
+\[
+G\Longrightarrow\{L_1,L_2,\dots,L_n\}.
+\]
+
+这形成比单纯 standpoint pluralism 更强的竞争模型。
+
+需要检查：
+
+- Dowker / causal-set becoming 是否真的能承担 liveness generation；
+- Forrest 式 frontier / causal-frisson 是否只是时间边界理论，还是能提供更强的意识桥梁；
+- 多个 live manifestations 是否已经足以解释全部第一人称现象；
+- absolute center 正方还能指出什么额外事实。
 
 ## Actuality 类比是否能进一步推进
 
@@ -205,6 +286,8 @@ Lewis 与 Bricker 的分歧提供了成熟平行：
 - 轨迹由全局边界条件或极值原则决定；
 - 轨迹本身就是更基础结构的一部分。
 
+Locality–Duplication No-Go 还要求：若轨迹选择仅依赖每个事件的可复制局部 profile，则不能保证它是唯一 absolute trajectory。
+
 ## 额外参数 w
 
 \(w\) 是否只是 \(\Gamma^*\) 的参数，还是具有独立物理或形而上含义？
@@ -221,9 +304,13 @@ Lewis 与 Bricker 的分歧提供了成熟平行：
 
 理论应尽量以时空事件和不变量表述，避免预设一个全宇宙统一的普通时间坐标或特权参考系，除非理论能够给出独立理由。
 
+Global Relevance 路线尤其需要证明用于唯一化的关系不是坐标或 gauge artefact。
+
 ## 多元宇宙
 
-若存在多个宇宙，绝对第一人称不能简单按“每个宇宙一个”复制，否则更高层仍保留多个对称候选中心。
+若存在多个宇宙，绝对第一人称不能简单按“每个宇宙一个”复制，否则更高层仍保留多个候选中心。
+
+若选择器依赖“完整全局结构”，还需要明确 complete domain 是否跨多个宇宙，以及为何该 domain 构成一个真实统一体。
 
 ## 解释增益
 
@@ -233,4 +320,4 @@ Lewis 与 Bricker 的分歧提供了成熟平行：
 \text{新增结构是否真的带来第一人称绝对性的解释增益}
 \]
 
-如果一个新变量、维度、选择器或极值函数只是把“这里的特殊性”改写成“该变量的特殊性”，研究没有前进。
+如果一个新变量、维度、选择器、全局关系或极值函数只是把“这里的特殊性”改写成“该结构的特殊性”，研究没有前进。
