@@ -113,6 +113,48 @@
       "sources": ["openalex", "s2", "crossref"]
     },
     {
+      "name": "grounding-rank-consciousness",
+      "query": "grounding rank relative fundamentality consciousness experiential minimum grounding hierarchy",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "grounding-graph-bottleneck",
+      "query": "grounding structure grounding tree metaphysical dependence hierarchy path bottleneck consciousness",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "iit-exclusion-uniqueness",
+      "query": "integrated information theory exclusion postulate multiple complexes non uniqueness consciousness maximal substrate",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "workspace-winner-consciousness",
+      "query": "global neuronal workspace winner take all conscious access unity competition",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "self-reference-fixed-point-consciousness",
+      "query": "self reference fixed point consciousness unity subject self model philosophy",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "self-manifestation-subjectivity",
+      "query": "self manifestation auto affection subjectivity consciousness absolute life Michel Henry",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
       "name": "causal-set-becoming",
       "query": "causal set sequential growth becoming passage time birth spacetime atoms",
       "semantic": true,
@@ -122,6 +164,13 @@
     {
       "name": "causal-set-consciousness",
       "query": "causal set quantum gravity consciousness live experience birth process Dowker",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "causal-set-post-covariance",
+      "query": "causal set post covariant distinguished event labeling gauge post cosmology",
       "semantic": true,
       "limit": 20,
       "sources": ["openalex", "s2", "crossref"]
