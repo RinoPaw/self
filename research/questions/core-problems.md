@@ -36,6 +36,28 @@ C_{t_1},\ C_{t_2},\ \boxed{C_{t_3}},\ C_{t_4}
 \text{standpoint pluralism / fragmentalism}.
 \]
 
+## Residual Fact Problem
+
+把全部真实 standpoint-relative facts 记为 \(\mathcal P\)。当前核心目标是检验是否仍然残留一种：
+
+\[
+L=\text{liveness / actuality simpliciter}.
+\]
+
+关键约束：\(L\) 不能只等价于
+
+\[
+\text{Live-from}(S_i,S_i),
+\]
+
+因为如果每个 standpoint 都以相同方式拥有对应事实，最终只得到多个真实中心，没有得到唯一 absolute center。
+
+当前需要分别攻击三条路线：
+
+1. \(L\) 是否能还原到 \(\mathcal P\) 而不发生 relativization collapse；
+2. 若 \(L\) 是 primitive，理论是否还有独立解释优势；
+3. 是否存在更深结构 \(D\)，使 \(D\Rightarrow L\) 且不循环预设 \(L\)。
+
 ## 唯一性
 
 若理论允许多个同等级“绝对中心”，更高层会重新出现中心之间的不对称。需要研究全局唯一性是否能够从现实结构中推出。
@@ -58,7 +80,7 @@ E^*\in\operatorname{Fix}(\operatorname{Aut}(\mathcal R)).
 
 ## 可区分性与特权
 
-这是当前最重要的新问题。
+这是当前最重要的新问题之一。
 
 即使现实结构完全刚性：
 
@@ -86,6 +108,45 @@ Martin Lipman 式模型可以同时承认：
 需要严格重建该模型，并检查全部 standpoint facts 联合后是否仍遗漏某种不可相对化的事实。
 
 若没有遗漏，唯一绝对中心假说的解释必要性会明显下降。
+
+## Actuality 类比是否能进一步推进
+
+Lewis 与 Bricker 的分歧提供了成熟平行：
+
+\[
+\text{indexical actuality}\quad\text{vs.}\quad\text{absolute actuality}.
+\]
+
+需要研究该争论里的论证能否迁移到：
+
+\[
+\text{indexical liveness}\quad\text{vs.}\quad\text{absolute liveness}.
+\]
+
+尤其值得检查：
+
+- absolute actuality 面临的任意性压力；
+- absolute actuality 面临的认识论压力；
+- primitive actuality 是否只有可构造性而缺乏来源解释；
+- “true at a world / true of a world”一类区分是否有 first-person analogue。
+
+## 认识论对称压力
+
+若绝对 \(L\) 对体验结构产生可辨认影响，需要指出这种影响以及它和普通 standpoint facts 的差别。
+
+若 \(L\) 对体验内容与体验方式都没有可辨认影响，则当前“绝对感”本身不能单独区分：
+
+\[
+\mathcal P
+\]
+
+与
+
+\[
+\mathcal P+L.
+\]
+
+这不会直接证明 \(L\) 不存在，但会削弱从内省到 absolute ontology 的证据链。
 
 ## 绝对经验轨迹
 
@@ -122,7 +183,7 @@ Martin Lipman 式模型可以同时承认：
 任何新增结构都要接受最后一项检查：
 
 \[
-\text{它是否真正解释了第一人称绝对性，还是只重新描述了它？}
+\text{新增结构是否真的带来第一人称绝对性的解释增益}
 \]
 
-若一个新变量、维度、选择器或极值函数只是把“这里为什么特殊”改写成“这个变量为什么特殊”，研究并没有前进。
+如果一个新变量、维度、选择器或极值函数只是把“这里的特殊性”改写成“该变量的特殊性”，研究没有前进。
