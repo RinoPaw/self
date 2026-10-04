@@ -1,323 +1,420 @@
 # 核心未决问题
 
-这些问题保持开放，不用临时答案填平。
+> 当前版本：2026-10-05。
+>
+> 原则：旧 selector / process / symmetry 问题继续保留在各 argument/model 文件中；本文件只列现在真正会改变 theory ranking 的问题。
 
-## 主体定位
+## 0. 当前 control theory
 
-在承认多个真实意识的前提下，完整现实是否仍包含一个全局唯一的绝对第一人称位置？
-
-当前困难在于：普通第一人称理论可以解释每个主体内部的中心性，却可能保留全局对称。
-
-## 当前时刻
-
-即使主体固定为 \(C\)，其不同意识时刻仍然形成：
+后续 absolute-first-person research 的默认反方现在是：
 
 \[
-C_{t_1},\ C_{t_2},\ \boxed{C_{t_3}},\ C_{t_4}
+\boxed{N\text{-}W\text{ — Neutral One-World Baseline}}
 \]
 
-当前经验的在场性需要和普通记忆连续性区分开。主体维度与时间维度可能属于同一个更深的不对称结构。
-
-## 现象学与本体论
-
-当前经验的绝对感能否被普通第一人称结构完整解释？若能，绝对第一人称假说可能没有额外解释力。若不能，需要明确剩余事实的性质。
-
-现在还要面对一个更强版本：第一人称特殊性可以是真实的 standpoint-relative fact，而无需存在唯一全局 absolute standpoint。
-
-因此真正需要比较：
+即：
 
 \[
-\text{absolute first-person realism}
+ManyConsciousSubjects
++OrdinaryFPPhen
++OneWorld
++NonFragmentation
++\neg StrongFPR
++\neg Abs.
 \]
 
-与
+它保留其他 minds、for-me-ness、self-location、memory、agency 和 one coherent world，同时不加入 strong List/Fine-style first-person facts，也不加入 absolute orientation。
+
+因此任何正方推进都必须明确回答：
 
 \[
-\text{standpoint / perspectival pluralism}.
+\boxed{N\text{-}W\text{ 少了什么？}}
 \]
 
-## Stage 0：Meta-Perspective / Reality-Monism Problem
+详见 [`../models/neutral-one-world-baseline.md`](../models/neutral-one-world-baseline.md)。
 
-当前两个主问题都用了一个此前未单独论证的前提。
+---
 
-Structural Selection 写成：
+## 1. Bridge A — Phenomenology 是否强迫 Strong FP Facts？
+
+旧问题：
 
 \[
-\mathcal R\Longrightarrow E^*.
+FirstPersonalGivenness
+\Rightarrow
+IrreducibleFPFact?
 \]
 
-Residual Fact Problem 写成：
+现在 factorize：
 
 \[
-\mathcal P=\text{全部真实 standpoint-relative facts}.
+\boxed{
+Consciousness
+\xrightarrow{A_0}
+ForMeNess
+\xrightarrow{A_1}
+Me/MineStructure
+\xrightarrow{A_2}
+StrongFPFact
+\xrightarrow{A_3}
+Irreducibility.
+}
 \]
 
-两者都假定可以从一个统一 fundamental level totalize 现实。
-
-Solomyak 式 radical perspectival pluralism 提出更深压力：first-personal 与 impersonal 等 perspective 可能 equally and fully fundamental，同时不存在一个更高的 fundamental meta-perspective 把它们统一成单一最终图景。
-
-因此必须先检查：
+### A0
 
 \[
-\exists !\mathcal R_{fund}\ ?
+Consciousness\Rightarrow ForMeNess?
 \]
 
-以及：
+Zahavi 路线给强 support，但 psychedelic ego-dissolution / anonymous-consciousness discussions 说明 universality 仍可被挑战。
+
+### A1
 
 \[
-\exists\mathcal P_{fund}\ ?
+ForMeNess\Rightarrow MeNess/Mineness?
 \]
 
-若答案是否定的，则 `完整现实结构` 和 `全部 standpoint facts` 不能继续被当作免费的 selector 输入。
+Guillot 表明没有概念 entailment；需要 substantive theory of self-awareness / ownership。
 
-对应正式笔记：[`../arguments/meta-perspective-challenge.md`](../arguments/meta-perspective-challenge.md)。
-
-## Residual Fact Problem
-
-在允许某种 fundamental totalization 的前提下，把全部真实 standpoint-relative facts 记为 \(\mathcal P\)。当前核心目标是检验是否仍然残留一种：
+### A2 — 当前最关键
 
 \[
-L=\text{liveness / actuality simpliciter}.
+Me/MineStructure\Rightarrow StrongFPFact?
 \]
 
-关键约束：\(L\) 不能只等价于
+即：丰富 first-person phenomenology 是否必须在 fundamental fact inventory 中形成 perspective-non-invariant facts？
+
+若答案“是”，N-W 被淘汰，P-F/P-MW pressure 回归。
+
+若答案“否”，N-W 和 A-W 都可保留 genuine other minds 而不支付 universal StrongFPR cost。
+
+### A3
 
 \[
-\text{Live-from}(S_i,S_i),
+StrongFPFact+PerspectiveNonInvariance\Rightarrow Irreducibility
 \]
 
-因为如果每个 standpoint 都以相同方式拥有对应事实，最终只得到多个真实中心，没有得到唯一 absolute center。
+当前是最强 conditional lemma。
 
-当前需要分别攻击四条路线：
+对应：[`../arguments/bridge-a-factorization.md`](../arguments/bridge-a-factorization.md)。
 
-1. 是否真的存在统一的 fundamental \(\mathcal P\)；
-2. \(L\) 是否能还原到 \(\mathcal P\) 而不发生 relativization collapse；
-3. 若 \(L\) 是 primitive，理论是否还有独立解释优势；
-4. 是否存在更深结构 \(D\)，使 \(D\Rightarrow L\) 且不循环预设 \(L\)。
+---
 
-## 唯一性
+## 2. Phenomenology–Fact Underdetermination
 
-若理论允许多个同等级“绝对中心”，更高层会重新出现中心之间的不对称。需要研究全局唯一性是否能够从现实结构中推出。
-
-## 对称性禁阻
-
-若完整现实存在把两个意识事件互换而保持全部相关结构不变的自同构，纯结构性的唯一选择规则不能在尊重该结构的同时只选其中一个。
-
-当前工作引理要求：
+固定：
 
 \[
-E^*\in\operatorname{Fix}(\operatorname{Aut}(\mathcal R)).
+P_S=\langle Qualia,ForMe,Me,Mine,Memory,Report,Agency,\ldots\rangle.
 \]
 
-但这一工作引理带有前置条件：必须先说明存在足以承载 `\operatorname{Aut}(\mathcal R)` 的统一 relevant structure。
+比较：
 
-需要继续澄清：
+- relational phenomenal ontology；
+- acquaintance/self-manifestation；
+- perspectival obtaining；
+- strong first-person fact realism。
 
-- “完整相关结构”究竟包含哪些事实；
-- 是否存在单一 fundamental reality structure；
-- 物理 gauge symmetry、表示冗余与真实世界自同构怎样区分；
-- 自发对称破缺是否真正增加了能承担第一人称唯一化工作的结构。
+核心测试：是否存在 independently specified phenomenal fact \(X\)，只有 strong-FPR realization 能解释？
 
-## Locality–Duplication Problem
-
-全局自同构禁阻还不够。即使：
+若找不到：
 
 \[
-\operatorname{Aut}(\mathcal R)=\{id\},
+\boxed{P_S\text{ underdetermines fact ontology}.}
 \]
 
-也可能存在两个意识事件在候选机制真正使用的局部 / 事件相对结构上完全复制。
+这不会证明 StrongFPR 假，但会使 Bridge A 失去由 phenomenology 单独强迫的资格。
+
+---
+
+## 3. Closest-Foil Residual Fact Problem
+
+过去 residual test 主要把 absolute theory 与 strongest pluralism 比。
+
+现在必须比较：
+
+\[
+\boxed{N\text{-}W\quad vs\quad A\text{-}W.}
+\]
+
+因为：
+
+\[
+T_{AW}=T_{NW}+\Omega.
+\]
+
+真正 target：找到：
+
+\[
+\boxed{
+Independent(X)
+\land
+T_{NW}\not\models X
+\land
+T_{AW}\models X.
+}
+\]
+
+已经重测：
+
+- for-me-ness；
+- mineness；
+- direct presence；
+- “这里亮着”；
+- I–NOW；
+- passage；
+- actuality；
+- one-world unity；
+- perfect duplicates；
+- fission；
+- why-this-person/era；
+- prudential asymmetry；
+- ineffability；
+- strong FP facts；
+- “absolute feeling”。
+
+截至目前没有 survivor。
+
+对应：[`../arguments/neutral-one-world-exhaustion-test.md`](../arguments/neutral-one-world-exhaustion-test.md)。
+
+---
+
+## 4. Absolute-Orientation Epistemic Problem
 
 设：
 
 \[
-N_D(E)
+H_i=K+\Omega(E_i).
 \]
 
-是机制 \(D\) 允许读取的 rooted profile。若：
+若全部 evidence-bearing common core 相同：
 
 \[
-(N_D(E_a),E_a)\cong(N_D(E_b),E_b),
+P(e\mid H_i)=P(e\mid H_j),
 \]
 
-那么任何统一、同构不变的局部规则都必须给出：
+则：
 
 \[
-\Lambda_D(E_a)=\Lambda_D(E_b).
+BF_{ij}(e)=1.
 \]
 
-所以只要精确复制可能：
+即 ordinary evidence 不 discriminatively更新 orientation identity。
+
+核心三岔：
+
+### Inert
 
 \[
-LIVE(E_a)\Rightarrow LIVE(E_b).
+\Omega\not\Rightarrow\Delta Evidence
 \]
 
-这直接限制 phenomenal、neural、local-causal、frontier/process 等局部 supervenience 方案。
+→ epistemic silence。
 
-对应正式笔记：[`../arguments/locality-duplication-no-go.md`](../arguments/locality-duplication-no-go.md)。
-
-## Global Relevance Problem
-
-Locality–Duplication No-Go 留下的主要非 primitive 出路，是让 LIVE 依赖整个现实中的全局关系：
+### Unique local signature
 
 \[
-LIVE(E)=F(\mathcal R,E).
+\Omega\Rightarrow Sig_{local}(E^*)
 \]
 
-全局结构可能区分局部复制体，但仅有全局可区分性仍然没有获得特权。
+→ 必须通过 perfect-duplication test。
 
-因此任何此类方案必须同时解释：
+### Sui generis acquaintance
 
 \[
-\text{global relation}
-\Longrightarrow
-\text{liveness / privilege}
+Acq_{abs}(S^*,\Omega)
 \]
 
-这层桥梁。
+→ epistemology itself 增加 absolute-sensitive primitive。
 
-当前把这一要求记为 **Global Relevance Requirement**。
-
-需要重点检查：
-
-- 哪些远程 / 全局关系真正具有形而上生成或 grounding 意义；
-- 哪些关系只提供 canonical address，没有解释 LIVE；
-- 全局关系能否在 relativistic / gauge-invariant 形式下定义；
-- 多元宇宙下“全局”究竟覆盖哪个 domain；
-- 若 global relation 对体验完全不可见，其认识论地位如何建立。
-
-## 可区分性与特权
-
-这是当前最重要的问题之一。
-
-即使现实结构完全刚性，所有意识事件也只是被唯一辨认。仍需额外解释：
+真正未决：
 
 \[
-\text{individualization}\Rightarrow?\text{privilege}.
+\boxed{\text{有没有 non-replicating、truth-sensitive、非循环的 absolute-sensitive evidence？}}
 \]
 
-任何候选选择函数 \(J_{\mathcal R}\) 都必须说明其极值为什么具有 absolute liveness / actuality，而不只是“数学上独特”。
+对应：[`../arguments/absolute-orientation-epistemic-no-go.md`](../arguments/absolute-orientation-epistemic-no-go.md)。
 
-这一要求同样适用于 Global Relevance 路线：远程结构能够区分两个复制体，不代表远程差异有资格决定第一人称 actuality。
+---
 
-## Standpoint / perspectival pluralism 是否已经足够
+## 5. Bridge B — Reality → Absolute Orientation
 
-Lipman 式 standpoint pluralism 可以同时承认：
-
-- 第一人称事实真实；
-- 每个主体的自我特殊性真实；
-- 不同时刻的 temporal standpoint 真实；
-- 没有一个主体或时刻最终 metaphysically privileged。
-
-Solomyak 又把挑战推进一层：pluralism 甚至可以拒绝一个统一的 fundamental meta-perspective，并把 first-personal 与 impersonal perspective 本身看成 equally fundamental。
-
-因此现在需要分别检查：
-
-1. 全部 standpoint facts 联合后是否仍遗漏某种不可相对化的事实；
-2. “全部 standpoint facts 联合”这个操作本身是否已经预设了对手拒绝的 reality monism；
-3. radical perspectival pluralism 是否 coherent；
-4. modest perspectival pluralism 的 deeper reality 是否会自然产生 selector，还是只产生统一性。
-
-若这些 pluralist 模型已经足够，唯一绝对中心假说的解释必要性会明显下降。
-
-## Process Pluralism 是否已经足够
-
-Fundamental becoming 可以给 liveness 一个客观来源，同时允许多个主体都真实 live：
+正方最终仍需要：
 
 \[
-G\Longrightarrow\{L_1,L_2,\dots,L_n\}.
+\boxed{
+Reality
+\Rightarrow
+\Omega(E^*)\ ?
+}
 \]
 
-这形成比单纯 standpoint pluralism 更强的竞争模型。
-
-需要检查：
-
-- Dowker / causal-set becoming 是否真的能承担 liveness generation；
-- Forrest 式 frontier / causal-frisson 是否只是时间边界理论，还是能提供更强的意识桥梁；
-- 多个 live manifestations 是否已经足以解释全部第一人称现象；
-- absolute center 正方还能指出什么额外事实。
-
-## Actuality 类比是否能进一步推进
-
-Lewis 与 Bricker 的分歧提供了成熟平行：
+当前 derived route 必须通过：
 
 \[
-\text{indexical actuality}\quad\text{vs.}\quad\text{absolute actuality}.
+NaturalPointing
+\to
+IndependentDefinability
+\to
+PrivilegeSemantics
+\to
+NonPluralizability.
 \]
 
-需要研究该争论里的论证能否迁移到：
+现有 candidates 尚未通过全部门槛。
+
+但在继续设计新 mechanism 前，先满足一项前置条件：
 
 \[
-\text{indexical liveness}\quad\text{vs.}\quad\text{absolute liveness}.
+\boxed{\text{先找到 N-W 无法解释的 independent target。}}
 \]
 
-尤其值得检查：
+否则 Bridge B 即使构造成功，也可能只是在解释 theory 自己额外 postulate 的 \(\Omega\)。
 
-- absolute actuality 面临的任意性压力；
-- absolute actuality 面临的认识论压力；
-- primitive actuality 是否只有可构造性而缺乏来源解释；
-- “true at a world / true of a world”一类区分是否有 first-person analogue。
+---
 
-## 认识论对称压力
+## 6. Common-Explananda Compression
 
-若绝对 \(L\) 对体验结构产生可辨认影响，需要指出这种影响以及它和普通 standpoint facts 的差别。
-
-若 \(L\) 对体验内容与体验方式都没有可辨认影响，则当前“绝对感”本身不能单独区分：
+OIP：
 
 \[
-\mathcal P
+WorldActuality=AbsoluteI=AbsoluteNOW=\Omega
 \]
 
-与
+具有很强形式统一性。
+
+但真正问题：N-W 是否 independently需要：
 
 \[
-\mathcal P+L.
+AbsoluteI,
+\qquad
+AbsoluteNOW,
+\qquad
+PrimitiveActuality
 \]
 
-这不会直接证明 \(L\) 不存在，但会削弱从内省到 absolute ontology 的证据链。
+这些 explananda？
 
-## 绝对经验轨迹
+只有双方都必须承担的 primitives 被 \(\Omega\) 更低成本统一，才算真正 compression。
 
-若绝对中心具有某种展开，完整现实能否唯一决定一条轨迹 \(\Gamma^*\)？
-
-需要区分：
-
-- 轨迹由局部动力学和初始条件决定；
-- 轨迹由全局边界条件或极值原则决定；
-- 轨迹本身就是更基础结构的一部分。
-
-Locality–Duplication No-Go 还要求：若轨迹选择仅依赖每个事件的可复制局部 profile，则不能保证它是唯一 absolute trajectory。
-
-## 额外参数 w
-
-\(w\) 是否只是 \(\Gamma^*\) 的参数，还是具有独立物理或形而上含义？
-
-若 \(w\) 需要另一个参数解释其“当前性”，会产生元时间回归。
-
-在 reality monism 前提成立时，当前优先顺序仍是：
+所以必须建立：
 
 \[
-\mathcal R\rightarrow\Gamma^*\rightarrow w.
+\boxed{\text{Common-Explananda Compression Requirement}.}
 \]
 
-## 相对论兼容性
+避免 Unification Bootstrapping。
 
-理论应尽量以时空事件和不变量表述，避免预设一个全宇宙统一的普通时间坐标或特权参考系，除非理论能够给出独立理由。
+---
 
-Global Relevance 路线尤其需要证明用于唯一化的关系不是坐标或 gauge artefact。
+## 7. Surplus Structure Problem
 
-## 多元宇宙
+若 \(\Omega\) 同时满足：
 
-若存在多个宇宙，绝对第一人称不能简单按“每个宇宙一个”复制，否则更高层仍保留多个候选中心。
+1. no independent residual target；
+2. no discriminating evidence；
+3. no derived necessity；
+4. no genuine primitive replacement，
 
-若选择器依赖“完整全局结构”，还需要明确 complete domain 是否跨多个宇宙，以及为何该 domain 构成一个真实统一体。
-
-## 解释增益
-
-任何新增结构都要接受最后一项检查：
+则它受到：
 
 \[
-\text{新增结构是否真的带来第一人称绝对性的解释增益}
+\boxed{\text{Surplus Structure Pressure}.}
 \]
 
-如果一个新变量、维度、选择器、全局关系或极值函数只是把“这里的特殊性”改写成“该结构的特殊性”，研究没有前进。
+当前 primitive inert MAO 正处于这一状态。
+
+这不证明：
+
+\[
+\neg\Omega.
+\]
+
+但当前 closest-foil ranking 是：
+
+\[
+\boxed{N\text{-}W\succ_{prima\ facie}A\text{-}W_{primitive,inert}.}
+\]
+
+对应：[`../arguments/absolute-layer-surplus-pressure.md`](../arguments/absolute-layer-surplus-pressure.md)。
+
+---
+
+## 8. Strong-FPR 与 Abs 必须保持正交
+
+即使 Bridge A 最终成功：
+
+\[
+Phen\Rightarrow StrongFPR,
+\]
+
+它只会使 N-W/A-W weak ordinary layer 失败，并把 baseline 推向：
+
+\[
+P\text{-}F/P\text{-}MW.
+\]
+
+它不会自动得到：
+
+\[
+Abs.
+\]
+
+反过来，即使 Bridge B 成功，也不自动证明每个 ordinary subject 都有 StrongFPFact。
+
+所以两轴必须永远分开：
+
+\[
+\boxed{
+StrongFPR\quad\perp_{logical}\quad AbsoluteOrientation.
+}
+\]
+
+---
+
+## 9. 下游问题暂缓
+
+以下问题仍重要，但不是当前瓶颈：
+
+- fission 后 \(\Omega\) 如何 continuation；
+- death 后是否 terminate / transfer；
+- I–NOW trajectory \(\Gamma^*\)；
+- extra parameter \(w\)；
+- relativistic dynamics；
+- stochastic center actualization；
+- multiverse domain。
+
+在 Abs 的 independent motivation / evidence 尚未建立前，继续细化这些 dynamics 收益较低。
+
+---
+
+## 10. 当前研究顺序
+
+\[
+\boxed{
+Bridge\ A
+\to
+N\text{-}W\ residual\ search
+\to
+Epistemic\ signature
+\to
+Bridge\ B.
+}
+\]
+
+只有前三项中至少一项给 absolute layer 新的独立压力，复杂 derived center mechanism 才值得重新成为主线。
+
+---
+
+## 11. 当前核心问题一句话版
+
+项目最初问：
+
+> 为什么偏偏是我？
+
+当前已经推进成：
+
+> **在一个已经包含所有真实意识、所有普通第一人称体验、完整世界与现实发生的 N-W 中，到底还缺哪一件独立事实，迫使现实拥有一个唯一绝对方向？**
+
+这就是现在的真正瓶颈。
