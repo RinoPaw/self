@@ -48,7 +48,7 @@ Structural Selection 通常写成：
 
 Solomyak 式 radical perspectival pluralism 提供直接压力：fundamental reality 可能包含多个 equally fundamental perspectives，而没有更高的 fundamental meta-perspective 将它们 totalize。
 
-因此项目现在先增加一层前置问题：
+因此项目增加一层前置问题：
 
 \[
 \exists !\mathcal R_{fund}\ ?
@@ -212,7 +212,7 @@ B_G=\{E_1,E_2,\dots,E_n\},
 Live(E_1),Live(E_2),\dots,Live(E_n).
 \]
 
-因此原问题现在明确拆成：
+因此原问题明确拆成：
 
 \[
 \boxed{\text{Liveness Generation Problem}}
@@ -252,7 +252,78 @@ CSG 还有更直接的限制：用于计算的 total natural labeling 在标准�
 \boxed{\text{gauge ordering cannot carry absolute first-personhood without extra ontology}}.
 \]
 
-## 11. 当前最强竞争模型
+## 11. Locality–Duplication No-Go
+
+现在得到一个比全局自同构禁阻适用范围更广的条件性结果。
+
+对候选 liveness 机制 \(D\)，令 \(N_D(E)\) 表示该机制允许读取的、以意识事件 \(E\) 为根的完整局部 / 事件相对结构。如果统一规则只依赖 rooted isomorphism class：
+
+\[
+\Lambda_D(E)=F([N_D(E),E]),
+\]
+
+那么只要：
+
+\[
+(N_D(E_a),E_a)\cong(N_D(E_b),E_b),
+\]
+
+就必有：
+
+\[
+\boxed{\Lambda_D(E_a)=\Lambda_D(E_b)}.
+\]
+
+因此，即使完整宇宙没有任何非平凡自同构，两个相对于机制 \(D\) 的精确复制体仍然会得到相同的 LIVE 值。
+
+这意味着：
+
+\[
+\boxed{\text{local structural supervenience cannot guarantee one global LIVE center under duplication}}.
+\]
+
+该结果不要求两个事件在完整宇宙中的所有远程关系也相同，所以它比单纯的 global symmetry objection 更直接限制 neural、phenomenal、local-causal、frontier/process 等候选机制。
+
+详见 [`../research/arguments/locality-duplication-no-go.md`](../research/arguments/locality-duplication-no-go.md)。
+
+## 12. Global Relevance Requirement
+
+Locality–Duplication No-Go 留下一条重要的非 primitive 出路：让 LIVE 依赖事件在完整现实中的全局关系：
+
+\[
+LIVE(E)=F(\mathcal R,E).
+\]
+
+这可以利用远程 / 全局结构区分局部复制体，但仅有区分能力仍不够。
+
+任何这样的方案都必须解释：
+
+\[
+\boxed{\text{为什么这些全局关系与 liveness / privilege 有形而上相关性}}
+\]
+
+而不能只找到一个全局唯一的 canonical address。
+
+暂称这一新要求：
+
+\[
+\boxed{\text{Global Relevance Requirement}}.
+\]
+
+因此当前最窄的正方研究目标已经变成：寻找一种**真正全局、能够打破复制、同时自带 privilege bridge 的关系结构**。
+
+## 13. Duplication Quadrilemma
+
+对绝对中心的非循环唯一化，现在可以整理出四条路线：
+
+1. **Local supervenience**：精确复制体共享 LIVE，无法保证唯一性；
+2. **Global relational dependence**：尚未被排除，但承担 Global Relevance Requirement；
+3. **Primitive / haecceitistic asymmetry**：可以直接唯一化，但来源解释停止；
+4. **禁止真正复制**：可能得到每个事件的 individualization，仍未得到 privilege。
+
+因此项目下一阶段不再泛泛寻找 selector，而优先研究第 2 条。
+
+## 14. 当前最强竞争模型
 
 ### Standpoint / Perspectival Pluralism
 
@@ -261,8 +332,6 @@ CSG 还有更直接的限制：用于计算的 total natural labeling 在标准�
 Radical perspectival pluralism 进一步挑战统一 fundamental meta-perspective 本身。
 
 ### Process Pluralism
-
-现在出现一个更强版本：
 
 \[
 G_{universe}\Longrightarrow\{L_1,L_2,\dots,L_n\}.
@@ -277,7 +346,7 @@ G_{universe}\Longrightarrow\{L_1,L_2,\dots,L_n\}.
 
 这使正方无法只靠“liveness 有真实来源”取得胜利。
 
-## 12. Actuality 类比
+## 15. Actuality 类比
 
 Lewis 把 actuality 理解为 indexical；Bricker 允许 absolute actuality。
 
@@ -293,7 +362,7 @@ Lewis 把 actuality 理解为 indexical；Bricker 允许 absolute actuality。
 
 它证明 absolute privilege 可以被清楚表达，但没有提供来源机制。
 
-## 13. 关于 \(w\)
+## 16. 关于 \(w\)
 
 当前不把 \(w\) 当作普通第五维、第二时间或 CSG 的 total birth label。
 
@@ -305,7 +374,7 @@ Lewis 把 actuality 理解为 indexical；Bricker 允许 absolute actuality。
 
 任何 process-based \(w\) 还必须通过 gauge / covariance 检查。
 
-## 14. 当前研究顺序
+## 17. 当前研究顺序
 
 现在的逻辑顺序是：
 
@@ -326,7 +395,15 @@ Lewis 把 actuality 理解为 indexical；Bricker 允许 absolute actuality。
 \]
 
 \[
-\text{Global center uniqueness}
+\text{Locality / duplication no-go}
+\]
+
+\[
+\downarrow
+\]
+
+\[
+\text{Global relevance + center uniqueness}
 \]
 
 \[
@@ -345,4 +422,4 @@ Lewis 把 actuality 理解为 indexical；Bricker 允许 absolute actuality。
 w\text{ only if still needed}.
 \]
 
-下一阶段最值得攻的是第三层：寻找一种**不会靠 gauge total order、primitive pointer 或 standpoint-relative复制来完成的 center-uniqueness mechanism**。
+下一阶段最值得攻的是：**哪些全局关系能在不引入 primitive pointer 的前提下，同时承担 uniqueness 与 privilege，并说明远程结构为什么与这一处 LIVE 有关。**
