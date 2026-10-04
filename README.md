@@ -75,6 +75,7 @@ D\Rightarrow L.
 - [`research/arguments/standpoint-pluralism-challenge.md`](research/arguments/standpoint-pluralism-challenge.md) — 当前最强反方：真实但多元的 standpoint facts。
 - [`research/models/structural-selection.md`](research/models/structural-selection.md) — 从完整现实结构唯一确定 \(E^*\) / \(\Gamma^*\) 的模型框架。
 - [`research/models/generators-of-liveness.md`](research/models/generators-of-liveness.md) — 对 \(D\Rightarrow L\) 候选结构的第一轮系统筛选；当前重点保留 grounding / fundamentality。
+- [`research/models/priority-i-now.md`](research/models/priority-i-now.md) — 借 Priority Presentism 的 grounding 思路构造 I–NOW 联合特权模型。
 - [`research/models/w-flow.md`](research/models/w-flow.md) — \(w\) 流与元时间问题。
 
 ### 文献
