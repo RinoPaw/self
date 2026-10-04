@@ -1,16 +1,16 @@
 # Martin A. Lipman 2023 — Subjective Facts about Consciousness
 
-> 阅读层级：fulltext-read（PhilArchive open full text；元数据由 PhilArchive/PhilPapers 与期刊 DOI 信息交叉核验）。
+> 阅读层级：**fulltext-read**（Ergo publisher/open full text + PhilArchive；元数据交叉核验）。
 >
 > Martin A. Lipman, “Subjective Facts about Consciousness”, *Ergo: An Open Access Journal of Philosophy* 10 (2023): 530–553. DOI `10.3998/ergo.4649`。
 
 ## 1. 核心主张
 
-Lipman 的起点不是“subjects experience things differently”这种普通心理相对性，而是一个更强的 world-side metaphysical claim：
+Lipman 的起点不是普通心理相对性，而是更强的 world-side metaphysical claim：
 
 > subjects 是 metaphysical standpoints；一些 facts genuinely obtain relative to certain subjects。
 
-形式上他使用：
+形式上：
 
 \[
 @_s(p)
@@ -22,205 +22,319 @@ Lipman 的起点不是“subjects experience things differently”这种普通�
 p\text{ obtains relative to / from the perspective of subject }s.
 \]
 
-并把 subject 是 standpoint 写成大致：
+所以：
 
 \[
-Standpoint(s)\leftrightarrow\exists p\;@_s(p).
+\boxed{\text{subjectivity can enter the mode of obtaining itself}.}
 \]
 
-这对 `self` 项目非常关键，因为它直接展示了一种 **first-person-relevant obtaining ontology**，而且不需要 unique absolute subject。
+这已经比 ordinary self-location / representation 强很多。
 
 ---
 
-## 2. 与 ordinary experiential relation 的明确区分
+## 2. 与 ordinary experiential relation 的区分
 
-Lipman 特别区分：
+Lipman 明确区分：
 
 1. something obtains from the perspective of a subject；
-2. something is experienced by a subject。
+2. something is experienced / represented by a subject。
 
-前者是 metaphysical relativity，后者是 ordinary mental / experiential relation。
+前者是 metaphysical relativity，后者是 ordinary mental relation。
 
-因此他的模型不能被轻易打成：
+所以其 proposal 不能被消成：
 
 \[
-Experience(s,p)
+Experience(s,p).
 \]
 
-再说它只是把 subject 写成 relation argument。
-
-他的核心 proposal 是：world itself has subject-relative ways of being；不同 subjects 作为 standpoints 可以对应不同 genuinely obtaining facts。
+world itself has subject-relative ways of being。
 
 ---
 
 ## 3. Subjective variegation
 
-Lipman 增加 substantive thesis：
+不同 subjects 可以对应不同 genuinely obtaining facts：
 
 \[
-\exists p,q,s_1,s_2:
-@_{s_1}(p)\land\neg@_{s_1}(q)
-\land
-@_{s_2}(q)\land\neg@_{s_2}(p).
+@_{s_1}(p),
+\qquad
+@_{s_2}(q),
 \]
 
-也就是不同主体 standpoint 下 reality genuinely differs。
-
-这不是：
+甚至有 strong variation：
 
 \[
-\text{different access to one fixed set of facts},
+@_{s_1}(p),
+\qquad
+@_{s_2}(\neg p).
+\]
+
+所以这里不是：
+
+\[
+\text{different access to one fixed fact set},
 \]
 
 而是：
 
 \[
-\boxed{\text{subjective facts are themselves part of reality}.}
+\boxed{\text{subjective variation in reality itself}.}
 \]
-
-任何只用 “pluralist 只承认 representations，而正方承认 world-side perspectivality” 的论证都会失败。
 
 ---
 
-## 4. Consciousness 与 standpoint
+## 4. Phenomenal consciousness
 
-Lipman 用 subjective facts 来理解 phenomenal character。
-
-粗略说，对 conscious mental state \(m\)，存在某个 \(p\)，使 subject \(s\) 在 \(m\) 中与：
+Lipman 的 key metaphysical premise 大意是：对 conscious mental state \(m\)，存在某个 \(p\)，使：
 
 \[
-@_s(p)
+@s(p)
 \]
 
-有必要联系。
+属于 subject 在该 mental state 中的 phenomenal character。
 
-所以 conscious subject 的 first-person character 可以被解释为：
+更强的 `Subjective nature` principle 又加入：
 
 \[
-\boxed{\text{某些 phenomenal facts 只从该 subject standpoint obtain}.}
+@s(p)
 \]
 
-这比 ordinary self-location 强：它把 phenomenal subjectivity 放到 reality 的 standpoint-relative structure 里。
+和：
+
+\[
+p
+\]
+
+二者。
+
+也就是说，mental state 的 nature 不只涉及一个 relativized fact，还涉及该 phenomenal fact 本身 obtaining。
+
+这个额外 conjunct 正是其 metaphysical strength 的核心，也正是 A2 争论最值得盯住的地方。
 
 ---
 
-## 5. 为什么它是 Centered Actuality 的直接反模型
+## 5. Subjectless appearances
 
-当前项目区分：
+Lipman 的 preferred proposal 把 phenomenal facts 理解成 qualitative manifestation / appearance：
 
 \[
-\text{center in content}
+A(p)
+\]
+
+例如某物 phenomenally manifests as red。
+
+关键是：
+
+\[
+A(p)
+\]
+
+本身不 intrinsically 把 subject 写进 content；另有：
+
+\[
+@sA(p)
+\]
+
+表示该 appearance relative to subject \(s\) obtain。
+
+所以可区分：
+
+\[
+\boxed{\text{appearance itself}}
 \]
 
 与：
 
 \[
-\text{center in obtaining}.
+\boxed{\text{which subject-standpoint it obtains relative to}}.
 \]
 
-Lipman 说明：即使 first-person structure 已经到 **obtaining level**，仍然可以 pluralize。
+这和本项目的 `Center-in-Content / Center-in-Obtaining Gap` 直接对齐。
 
-有：
+---
+
+## 6. Factivity 是独立架构选择
+
+full text 最重要、此前项目没有充分抽出的地方，是 Lipman 明确承认：即使 `@_s(p)` framework 接受了，`@_s(p)` 与 `p` 的连接仍需要进一步 metaphysical principle。
+
+他列出三种：
+
+### Factivity restricted to appearances
 
 \[
-@_{s_1}(p_1),
-@_{s_2}(p_2),
-\ldots
+@sA(p)\Rightarrow A(p).
 \]
 
-每个 subject 都是真实 standpoint；没有因此得到：
+这允许 objective facts + 各 subjects relative-to 的 appearance facts。
+
+### Factivity restricted to oneself
 
 \[
-\exists!s\;Absolute(s).
+@s(p)\land s=oneself\Rightarrow p.
 \]
+
+这导向 solipsist-like / metaphysically centred picture：world simpliciter accords with one standpoint only。
+
+### Unrestricted factivity
+
+\[
+@_x(p)\Rightarrow p.
+\]
+
+对所有 standpoints 都成立。
+
+若 different subjects 有 contrary relative facts：
+
+\[
+@s_1(p),
+\quad
+@s_2(\neg p),
+\]
+
+unrestricted factivity 会给：
+
+\[
+p\land\neg p.
+\]
+
+因此必须由 fragmentalist / non-standard global architecture 承担 incoherence pressure。
+
+Lipman 自己指出 general picture closest to fragmentalism。
+
+---
+
+## 7. 关键新结论：subjective obtaining 不决定 global factivity
+
+所以即使已经接受：
+
+\[
+\boxed{\text{genuine subject-relative obtaining}}
+\]
+
+仍未决定：
+
+- 哪些 relative facts become facts simpliciter；
+- 是否只有 one standpoint factive；
+- 是否 all standpoints factive but fragmented；
+- 是否只有 appearance facts 获得 factivity。
 
 因此：
 
 \[
 \boxed{
-\text{subject-relative obtaining}
+\text{PerspectivalObtaining}
 \not\Rightarrow
-\text{simpliciter privileged obtaining}
-}
+\text{UniqueGlobalFactArchitecture}.}
 \]
 
-这正面击中 OIP 的 strongest non-relationalized reading。
+这比单纯 `obtaining-mode pluralization` 更细：**连从 relative obtaining 到 simpliciter fact 的 factivity policy 都是另一个独立层级。**
 
 ---
 
-## 6. 与 2026 *Standpoints* 的关系
+## 8. 对 Representation–Fact Gap 的影响
 
-Lipman 2026 的 *Standpoints: Time and Subjectivity* 把这一方案扩展成完整 standpoint pluralism / fragmentalism。
-
-出版社摘要明确主张：
-
-- 多个 temporal / subjective standpoints；
-- perspectival facts genuinely real；
-- 没有一个 time 或 subject ultimately metaphysically privileged；
-- consciousness 与 being oneself 可在这一 pluralist framework 内处理。
-
-所以 2023 paper 提供直接 formal / fulltext basis，2026 book 提供成熟总体架构。
-
-当前关于 2026 book 的细节使用仍应区分 publisher abstract / chapter abstract 与真正全文阅读。
-
----
-
-## 7. 对绝对第一人称正方的要求
-
-面对 Lipman，正方不能只证明：
+Perry-style view 可以停在：
 
 \[
-\text{first-person facts are real}
+IrreducibleFirstPersonRepresentation+OrdinaryFact.
 \]
 
-不能只证明：
+Lipman 跨进：
 
 \[
-\text{facts obtain from subjects}
+SubjectRelativeObtaining.
 \]
 
-甚至不能只证明：
+但 Lipman 自己随后还需要：
 
 \[
-\text{perspectival obtaining is metaphysically fundamental}.
+FactivityPolicy.
 \]
 
-因为 pluralist 可以全部接受。
-
-正方真正额外需要：
+所以从 ordinary first-person cognition 一路到 global fact ontology至少经历：
 
 \[
 \boxed{
-\exists!s^*\;Obtains_{simpliciter\text{-}from}(s^*)
+Representation
+\to
+PerspectivalObtaining
+\to
+FactivityArchitecture.
 }
 \]
 
-并说明为什么这个 `simpliciter-from` 不是另一个 primitive label。
+其中每一步独立。
+
+这让 Bridge A2 实际比此前认为的还长。
 
 ---
 
-## 8. 与现有项目概念的对应
+## 9. 对 absolute first-person 的直接意义
 
-Lipman 直接加强：
+如果使用：
 
-- `standpoint-pluralism-challenge.md`；
-- `residual-fact-problem.md`；
-- `center-content-obtaining-gap.md`；
-- `obtaining-mode-pluralization.md`。
+\[
+FactivityRestrictedToOneself,
+\]
 
-尤其是最新结论：
+可以得到一个非常接近 absolute / metaphysically centered world 的架构。
+
+但这时：
+
+\[
+\boxed{\text{“oneself” 的全局 privileged status 已经被 factivity rule 写进理论}.}
+\]
+
+它没有从 perspectival consciousness 自然推出 absolute center。
+
+如果使用 unrestricted factivity，则得到 strong plural/fragmentalist route。
+
+所以：
 
 \[
 \boxed{
-\text{Obtaining-level perspectivality itself is not the residual fact sought by absolute-first-person realism.}
-}
+\text{同一套 subjective-fact semantics 可以向 pluralism 或 metaphysical centering 分叉}.}
 \]
 
-绝对层需要的是一种**不可继续 pluralize / relativize 的 global orientation**。
+这说明 absolute orientation 不是 subjective-fact ontology 的内在结果。
 
-## 元数据与来源
+---
 
-- DOI: `10.3998/ergo.4649`。
-- PhilArchive / PhilPapers: *Ergo* 10 (2023), pp. 530–553。
-- Open full text read：包括 subjects as standpoints、`@_s(p)` formalism、subjective variegation、perspectival consciousness 等段落。
-- 2026 continuation: Martin Lipman, *Standpoints: Time and Subjectivity*, Oxford University Press, DOI `10.1093/9780198921318.001.0001`；当前项目对具体章节细节需继续标明 abstract/preview vs fulltext。
+## 10. 对 2026 *Standpoints* 的关系
+
+Lipman 2026 *Standpoints: Time and Subjectivity* 将该路线发展为 mature standpoint pluralism / fragmentalism。
+
+Ch.7 publisher abstract 继续明确：phenomenal appearances obtain relative to subjects，完整描述 phenomenal conscious state 是 relevant subject standpoint 下的描述。
+
+因此 2023 paper 是本项目 formal/fulltext basis，2026 book 提供总体架构。
+
+---
+
+## 11. 当前项目定位
+
+Lipman 2023 现在承担三个作用：
+
+1. **A2 positive model**：first-personality 可以进入 world-side obtaining；
+2. **Obtaining-mode pluralization**：world-side first-personality仍不产生 absolute singleton；
+3. **Factivity architecture fork**：even perspectival obtaining does not fix which facts obtain simpliciter。
+
+所以绝对正方真正额外需要：
+
+\[
+\boxed{
+\text{an independently motivated singular factivity / absolute-orientation principle}.}
+\]
+
+## 来源
+
+- Ergo publisher open full text: `https://journals.publishing.umich.edu/ergo/article/id/4649/`
+- DOI `10.3998/ergo.4649`。
+- PhilArchive open full text / version history。
+- Martin Lipman, *Standpoints: Time and Subjectivity* (OUP, 2026), DOI `10.1093/9780198921318.001.0001`。
+
+## 关联
+
+- [`../research/arguments/representation-fact-gap.md`](../research/arguments/representation-fact-gap.md)
+- [`../research/arguments/obtaining-mode-pluralization.md`](../research/arguments/obtaining-mode-pluralization.md)
+- [`../research/arguments/center-content-obtaining-gap.md`](../research/arguments/center-content-obtaining-gap.md)
+- [`../research/arguments/relative-first-person-demotion.md`](../research/arguments/relative-first-person-demotion.md)
