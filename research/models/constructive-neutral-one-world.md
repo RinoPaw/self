@@ -1,8 +1,8 @@
 # Constructive Neutral One-World Model (N-W+)
 
-> 状态：positive control model；不主张已成为完整 consciousness theory。
+> 状态：positive control architecture；不是完整 consciousness theory。
 >
-> 目标：让 N-W 不再只是“把 StrongFPR 与 \(\Omega\) 删除后的剩余物”，而拥有 ordinary subjectivity / local centering 的正面生成结构。
+> 最新修正：origin-tracking / egocentric registration 直接解释 local individuation 与 organization，不再被写成自动生成 phenomenal for-me-ness。N-W+ 分成 thin / thick 两个 ordinary-layer versions。
 
 ## 0. Motivation
 
@@ -12,19 +12,27 @@ Bare N-W：
 OM+Phen+1W+NF+\neg StrongFPR+\neg Abs
 \]
 
-可以作为逻辑 competitor，但仍可能被批评：
+只说明逻辑空间，还不够解释 ordinary subjectivity。
 
-> 它只是说 every subject has for-me-ness，却没解释为什么每个 experience 都围绕这个 subject 而不是别的 subject 组织。
+Sawyer 2026 与 Sá Pereira 2026 给两个互补 constructive mechanisms：
 
-Sawyer 2026 的 origin-tracking 给了一个可用的 constructive template。
+\[
+OriginTracking
+\]
 
-因此构造：
+和：
+
+\[
+EgocentricRegistration+SelfModel.
+\]
+
+因此建立：
 
 \[
 \boxed{N\text{-}W^+}
 \]
 
-使 ordinary first-person centering 有独立的 local structural source，同时全局没有 absolute orientation。
+作为没有 global absolute orientation 的 positive control。
 
 ---
 
@@ -33,7 +41,7 @@ Sawyer 2026 的 origin-tracking 给了一个可用的 constructive template。
 设一个 coherent world：
 
 \[
-W.
+W,
 \]
 
 其中有多个 embodied conscious systems：
@@ -42,13 +50,13 @@ W.
 S=\{S_1,S_2,\ldots,S_n\}.
 \]
 
-每个系统拥有 physical / causal organization：
+每个 system 有 physical / causal organization：
 
 \[
 B_i.
 \]
 
-世界级 ontology 不先加入：
+世界级 ontology 不预先加入：
 
 \[
 AbsoluteOrientation
@@ -60,17 +68,27 @@ AbsoluteOrientation
 StrongFPFact_i.
 \]
 
+意识本身由独立 psychophysical / consciousness theory 负责：
+
+\[
+L_C(B_i,\ldots)
+\Rightarrow
+Conscious(E_i).
+\]
+
+N-W+ 不把 ordinary centering mechanism 冒充 hard-problem solution。
+
 ---
 
-## 2. Origin-tracking layer
+## 2. Local origin architecture
 
-对每个 viable subject-system \(S_i\)，存在组织性结构：
+对每个 viable subject-system：
 
 \[
 O_i=OriginTrack(S_i).
 \]
 
-它完成至少三类区分：
+至少包含：
 
 ### Source discrimination
 
@@ -80,25 +98,29 @@ SelfGenerated_i(x)
 External_i(x).
 \]
 
+### Egocentric registration
+
+perceptual / bodily information 在 body-, limb-, head- or action-centered coordinates 中组织。
+
 ### Sensorimotor anchoring
 
-perception / prediction / action consequences 围绕同一个 embodied source coordinate 对齐。
+perception、prediction、action consequence 以同一 embodied source 为 reference frame。
 
 ### Integration
 
-多模态 input、action、interoception、memory update 等在一个持续的 organism-relative frame 中整合。
+multimodal input、interoception、memory、action update 围绕一个 persistent local origin 组织。
 
-这些 relations 共同定义：
+共同给出：
 
 \[
 \boxed{LocalOrigin_i.}
 \]
 
-这里的 “origin” 是 system-level organizational role，不是 universe-level metaphysical origin。
+这是 system-level organizational role，不是 universe-level metaphysical origin。
 
 ---
 
-## 3. Local first-person center emerges
+## 3. 直接得到什么
 
 从：
 
@@ -106,125 +128,174 @@ perception / prediction / action consequences 围绕同一个 embodied source co
 O_i
 \]
 
-得到：
-
-\[
-C_i=LocalCenter(S_i).
-\]
-
-形式上：
+最安全地得到：
 
 \[
 \boxed{
 O_i
 \Rightarrow
-C_i
-\Rightarrow
-ForMe_i+DeSe_i+Agency_i+Continuity_i.
+LocalSubjectIndividuation_i
++
+EgocentricOrganization_i
++
+DeSeArchitecture_i
++
+AgencyFrame_i.
 }
 \]
 
-其中：
+可以再支持：
 
-- `ForMe_i`：experience 对该 subject 的 first-personal givenness；
-- `DeSe_i`：first-person thought / self-location 以该 origin 为默认 coordinate；
-- `Agency_i`：action prediction / ownership 围绕同一 source；
-- `Continuity_i`：origin-tracking organization 跨时间保持足够结构连续性。
+\[
+Continuity_i
+\]
 
-这一层说明 ordinary “为什么我的视觉、痛感、行动和记忆都围绕我组织”可以拥有 local structural explanation。
+若 origin architecture 跨时间持续。
+
+这里**不再直接写**：
+
+\[
+O_i\Rightarrow PhenomenalForMeNess_i.
+\]
+
+`Origin-Tracking–Phenomenality Gap` 保持开放。
 
 ---
 
-## 4. Consciousness layer保持开放
+## 4. N-W\(_{thin}^+\)
 
-N-W+ 不主张：
+thin version 采用 Sá Pereira 风格 ordinary layer。
+
+接受：
 
 \[
-OriginTracking\Rightarrow Consciousness
+Conscious(E_i)
 \]
 
-已经由 Sawyer 或当前科学证明。
-
-更安全地写：
-
 \[
-PsychophysicalLaw(B_i,O_i,\ldots)
-\Rightarrow
-Conscious(E_i).
+SubjectInvolving(E_i,S_i)
 \]
 
-具体 consciousness theory 可替换：
-
-- biological / functional theories；
-- global workspace；
-- predictive-processing-compatible theory；
-- dualist psychophysical law；
-- other future theory。
-
-N-W+ 只要求：一旦 conscious experience 由该 system 实现，其 local first-person organization 可以由 \(O_i\) anchor。
-
-所以它不会把：
-
 \[
-\text{subject individuation}
+EgocentricOrganization(E_i,S_i)
 \]
 
-误写成：
-
 \[
-\text{full explanation of phenomenal consciousness}.
+FirstPersonAccess(E_i,S_i)
 \]
 
----
-
-## 5. Multiplicity is expected, not a bug
-
-如果有多个 conscious systems：
+以及 downstream：
 
 \[
-S_1,S_2,\ldots,S_n,
+SelfAscription,
+Memory,
+Agency,
+OwnershipJudgment.
 \]
 
-则：
+但拒绝把所有 conscious states 都附加一个 primitive phenomenally manifest：
 
 \[
-O_1,O_2,\ldots,O_n
-\]
-
-自然得到：
-
-\[
-C_1,C_2,\ldots,C_n.
+Mineness_{phen}(E_i,S_i).
 \]
 
 所以：
 
 \[
 \boxed{
-\forall i\;LocalCenter(S_i)
+N\text{-}W_{thin}^+
+=
+W+L_C+\{O_i\}+EgocentricRegistration+SelfModel.
 }
 \]
 
-是机制的正常结果。
-
-没有任何 local rule 推出：
-
-\[
-\exists!i\;AbsoluteCenter(S_i).
-\]
-
-这意味着 N-W+ 明确承认：
-
-\[
-\boxed{
-\text{ordinary centeredness is domain-local and naturally replicable}.}
-\]
-
-因此它通过 ordinary subjectivity explanation，却主动拒绝把 local asymmetry偷渡成 global singleton。
+它仍能解释为什么 perception/action/cognition around-one-body，而不需要 strong phenomenal mineness、StrongFPR 或 Abs。
 
 ---
 
-## 6. Perfect duplicate
+## 5. N-W\(_{thick}^+\)
+
+thick version 对 phenomenology 更慷慨。
+
+除 thin common core 外，再接受：
+
+\[
+\forall i\;ForMe_{phen}(E_i,S_i).
+\]
+
+甚至接受 Bogotá-style：
+
+\[
+EmbodiedMineness_i+BackgroundAgency_i(I\ can).
+\]
+
+所以每个 subject 都有真实 lived first-personal self-manifestation。
+
+但仍拒绝自动升级到：
+
+\[
+\forall i\;StrongFPFact_i
+\]
+
+或：
+
+\[
+\exists!E^*AbsoluteOrientation(E^*).
+\]
+
+因此：
+
+\[
+\boxed{
+\text{thick phenomenal subjectivity can pluralize without global absolute orientation}.}
+\]
+
+这是 absolute theory 必须面对的更强 control。
+
+---
+
+## 6. Multiplicity is expected
+
+多个 systems：
+
+\[
+S_1,S_2,\ldots,S_n
+\]
+
+自然给：
+
+\[
+O_1,O_2,\ldots,O_n
+\]
+
+以及多个：
+
+\[
+LocalOrigin_1,LocalOrigin_2,\ldots
+\]
+
+如果 thick version 为真，还给：
+
+\[
+ForMe_{phen,1},ForMe_{phen,2},\ldots
+\]
+
+所以：
+
+\[
+\boxed{
+\text{local centeredness is naturally replicable}.}
+\]
+
+没有 local mechanism 推出：
+
+\[
+\exists!AbsoluteCenter.
+\]
+
+---
+
+## 7. Perfect duplication
 
 构造：
 
@@ -232,22 +303,21 @@ C_1,C_2,\ldots,C_n.
 (B_A,O_A,E_A)\cong(B_B,O_B,E_B).
 \]
 
-N-W+ 给：
+N-W+ 给两个 local origins：
 
 \[
-C_A,
-\qquad
-C_B.
+C_A,C_B.
 \]
 
-每个都拥有：
+thin version 中二者都有相同 egocentric / de se / self-model architecture。
 
-- own for-me-ness；
-- own self-generated / external distinction；
-- own memory / agency frame；
-- own de se thought。
+thick version 中还可有：
 
-没有 further internal winner：
+\[
+ForMe_{phen}(A),ForMe_{phen}(B).
+\]
+
+没有 further winner：
 
 \[
 \neg Winner(A,B).
@@ -255,93 +325,97 @@ C_B.
 
 如果问：
 
-> “为什么这个 token 是我的？”
+> 为什么这个 experience 属于这个 local subject？
 
-N-W+ 通过 token / relational anchoring 回答：该 experience 就是由这一 local origin architecture 实现并整合的 token。
+N-W+ 用 token realization + local origin architecture 回答。
 
-如果进一步问：
+如果问：
 
-> “为什么这个 token 是 universe-simpliciter absolute?”
+> 为什么这个 token 是 universe-simpliciter absolute？
 
-N-W+ 拒绝前提：没有这样的进一步 global fact。
+N-W+ 拒绝 premise：没有进一步 global winner fact。
 
 ---
 
-## 7. A-W 与 N-W+ 的差异变得更纯
+## 8. A-W 与 N-W+ 的差异
 
-A-W 可以共享整个 local mechanism：
-
-\[
-W+\{O_i\}+PsychophysicalStructure+\{C_i\}.
-\]
-
-然后再加入：
+A-W 可以共享 thin 或 thick common core，再加入：
 
 \[
 \Omega[R;E^*].
 \]
 
-于是：
+所以：
 
 \[
 \boxed{
-T_{AW^+}=T_{NW^+}+\Omega.
+T_{AW^+}=T_{NW^+}+\Omega
 }
 \]
 
-现在 \(\Omega\) 不能再声称解释：
+仍是最佳 control comparison。
 
-- why experience has a local subject；
-- why perception/action are egocentrically organized；
-- why each subject has de se cognition；
-- why ordinary mineness/agency arises；
-- why subject continuity exists。
+`\Omega` 不能再声称解释：
 
-这些 jobs 已经被 common core 正面承担。
+- local subject individuation；
+- egocentric perspective；
+- source discrimination；
+- de se organization；
+- agency anchoring；
+- ordinary continuity；
+- thin version 的 first-person accessibility；
+- thick version 中甚至连 lived mineness 也已经有。
 
-因此 absolute layer 的 explanatory target 被进一步压缩到：
+因此 absolute layer 的 target 被压到：
 
 \[
 \boxed{
-\text{why one already-individuated local center is simpliciter actual/oriented}.}
+\text{why one already-real local center is simpliciter actual/oriented}.}
 \]
 
 ---
 
-## 8. Bridge A 在 N-W+ 中的位置
+## 9. Bridge A 在 N-W+ 中的位置
 
-如果未来证明：
+N-W+ 现在可以清楚映射到 Bridge A：
 
-\[
-ForMe/Me/Mine
-\Rightarrow
-StrongFPFact,
-\]
-
-N-W+ 的 weak fact ontology 会失败。
-
-但 origin-tracking 本身不决定这个 issue。
-
-因此：
+### A0w
 
 \[
-\boxed{
-N\text{-}W^+\text{ is constructive about centering, neutral about strong fact metaphysics}.}
+Consciousness\to SubjectInvolvement/Egocentricity
 \]
 
-若 Bridge A 为真，可把 origin-tracking machinery嵌入 P-F/P-MW，作为每个 local subject 的 individuation mechanism。
+thin / thick 都接受。
 
-这说明 ordinary subject individuation 与 global fact architecture 仍然是不同层。
+### A0s
+
+\[
+SubjectInvolvement\to PhenomenalForMeNess
+\]
+
+thin 拒绝必要性；thick 接受。
+
+### A1/A2
+
+thick version 即使接受 phenomenal mineness / ownership，也可继续拒绝：
+
+\[
+StrongFPFact.
+\]
+
+所以 neutral control 不依赖 Bridge A 的单一答案。
 
 ---
 
-## 9. Epistemology
+## 10. Epistemology
 
-N-W+ 很自然解释为什么每个 subject 都拥有强烈的：
+N-W+ 能解释可靠 local self-location：
 
-> “这里、这个身体、这条体验流是我的 origin。”
+\[
+Know_i(LocalOrigin_i).
+\]
 
-因为其 cognition / action / interoception 真的围绕：
+因为 cognition、action、interoception 与 memory 真正围绕：
 
 \[
 O_i
@@ -349,105 +423,100 @@ O_i
 
 组织。
 
-这会产生真实且可靠的 **local self-knowledge**：
-
-\[
-Know_i(LocalCenter_i).
-\]
-
-但没有产生：
+这不生成：
 
 \[
 Know_i(AbsoluteCenter_i).
 \]
 
-这为 Absolute-Orientation Epistemic No-Go 提供一个更强 competitor：ordinary certainty of “I am here” 可以被 N-W+ 正面解释，而不需要 \(\Omega\)。
+所以 ordinary certainty：
+
+> “我在这里 / 这是这条体验流的 origin”
+
+可以在无 \(\Omega\) 的模型中正面解释。
+
+这加强 `Absolute-Orientation Epistemic No-Go`：local self-knowledge 不构成 global center-discriminating evidence。
 
 ---
 
-## 10. Why-this-person / era
+## 11. Why-this-person / era
 
-在 N-W+ 中，为什么一个 subject 的 experience 发生在这个 organism / era，取决于：
+local question：
 
-\[
-\text{which token system realizes this local origin-tracking organization}.
-\]
+> 为什么这条 experience stream 在这个 body / era？
 
-subject token 的时代位置由其 causal history 给出。
+由 token causal history + local realization / anchoring 处理。
 
-所以 ordinary：
-
-> “为什么我的生活就在这个身体和这段时间？”
-
-可以分成 token identity/self-location问题。
-
-只有再加入：
+只有先加入：
 
 \[
 \exists!GlobalAbsoluteOpening
 \]
 
-才出现：
+才生成：
 
-> “为什么 universe-level winner 偏偏落在这里？”
+> 为什么 universe-level absolute opening 偏偏在这里？
 
-N-W+ 仍认为后者是 absolute theory 自己新增的 explanandum。
-
----
-
-## 11. 当前最强价值
-
-Bare N-W 只是证明：
-
-\[
-\neg Abs
-\]
-
-与 ordinary phenomenology 似乎相容。
-
-N-W+ 更进一步提供：
-
-\[
-\boxed{
-\text{a positive route from local structural asymmetry to ordinary first-person organization without a global absolute center}.}
-\]
-
-因此它把 absolute realist 的 explanatory burden再缩小：
-
-\[
-\boxed{
-\Omega\text{ must explain something beyond local subject individuation, agency, de se structure, for-me-ness organization and continuity}.}
-\]
-
-截至目前，剩下的唯一明确内容还是：
-
-\[
-\text{simpliciter absolute orientation itself}.
-\]
-
-若没有 independent residual，它继续受到 Surplus Pressure。
+N-W+ 仍认为后一问题属于 absolute theory 自己新增的 explanandum。
 
 ---
 
-## 12. Success conditions / limitations
+## 12. 当前最强价值
 
-N-W+ 要成为更成熟 competitor，还需：
+N-W+ 现在不再只有一个 version。
 
-1. 更完整阅读 Sawyer 2026，确认 origin-tracking 的 exact scope；
-2. 检查 schizophrenia / thought insertion / depersonalization 等 dissociation cases；
-3. 与 Zahavi/Guillot 的 phenomenal subjectivity distinction 对接；
-4. 明确 consciousness theory 接口，不把 structural selfhood误等于 phenomenality；
-5. 检查 fission / duplication 时 local origin identity 如何 formalize。
+### Thin control
 
-所以当前它是：
+证明：
 
 \[
-\boxed{\text{constructive control architecture, not completed theory of mind}.}
+\text{robust local perspectival organization}
 \]
+
+不需要 primitive phenomenal mineness 或 global Abs。
+
+### Thick control
+
+证明：即使把：
+
+\[
+\text{genuine lived for-me-ness / embodied mineness}
+\]
+
+全部给 opponent，也仍然不推出 global Abs。
+
+所以绝对理论必须解释：
+
+\[
+\boxed{
+\text{something beyond local subject individuation, egocentricity, self-access, agency, continuity, and even possibly lived mineness}.}
+\]
+
+截至目前明确剩下的只有：
+
+\[
+SimpliciterAbsoluteOrientation
+\]
+
+本身；若没有 independent residual，就继续受到 Surplus Pressure。
+
+---
+
+## 13. Remaining work
+
+1. 用 depersonalization / thought insertion 检查 thin/thick split；
+2. 检查 origin-tracking 与 Sá Pereira egocentric registration 是否只是近义重述，还是不同 mechanism；
+3. 对 fission formalize local origin identity；
+4. 保留 consciousness theory interface，不把 structural selfhood误等于 phenomenality；
+5. 继续寻找有没有 phenomenon 只被 thick version、而不能被 thin version解释。
 
 ## 文献连接
 
 - [`../../literature/sawyer-2026-origin-tracking.md`](../../literature/sawyer-2026-origin-tracking.md)
+- [`../../literature/sa-pereira-2026-for-me-ness-critique.md`](../../literature/sa-pereira-2026-for-me-ness-critique.md)
+- [`../../literature/bogota-2026-embodied-mineness.md`](../../literature/bogota-2026-embodied-mineness.md)
+- [`../arguments/a0-subjectivity-universalism-audit.md`](../arguments/a0-subjectivity-universalism-audit.md)
 - [`../arguments/bridge-a-factorization.md`](../arguments/bridge-a-factorization.md)
+- [`../arguments/origin-tracking-phenomenality-gap.md`](../arguments/origin-tracking-phenomenality-gap.md)
 - [`neutral-one-world-baseline.md`](neutral-one-world-baseline.md)
 - [`../arguments/absolute-layer-surplus-pressure.md`](../arguments/absolute-layer-surplus-pressure.md)
