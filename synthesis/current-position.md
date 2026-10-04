@@ -2,11 +2,11 @@
 
 > 状态：工作假说，不视为已证明结论。
 >
-> 最后更新：2026-10-05。本文件优先于旧 frontier；旧文件保留研究路径。
+> 最后更新：2026-10-05。本文件优先于旧 frontier。
 
 ## 1. 核心研究对象
 
-项目研究的不是 ordinary first-personhood，而是更强的可能性：
+项目研究更强于 ordinary first-personhood 的可能性：
 
 \[
 \exists!E^*\;AbsoluteOrientation(E^*),
@@ -18,7 +18,7 @@
 E^*=(s^*,p^*)
 \]
 
-优先理解为一个 conscious spacetime event / I–NOW locus。
+优先理解成 conscious spacetime event / I–NOW locus。
 
 多个其他主体必须仍 genuinely conscious：
 
@@ -26,63 +26,71 @@ E^*=(s^*,p^*)
 \exists S_i\neq S_j\;[Conscious(S_i)\land Conscious(S_j)].
 \]
 
-当前不再预先假定：每个 genuine conscious subject 都因此拥有 List/Fine 意义上的 irreducible first-person fact。这个桥现在本身成为研究问题。
+但现在严格区分：
+
+\[
+\boxed{\text{genuine consciousness}}
+\]
+
+与：
+
+\[
+\boxed{\text{irreducible strong first-person facts}}.
+\]
+
+一个主体有真实 for-me-ness / first-personal givenness，并不在当前研究中被直接定义成“该主体必然使 reality 包含一个 List/Fine 意义上的 irreducible FP fact”。这条桥本身是 substantive metaphysics。
 
 ---
 
 ## 2. 现象学只提供动机
 
-当前 experience 具有直接在场性；其他主体和同一主体其他时刻没有以相同方式在这里出现。
+经验具有 first-personal givenness / for-me-ness：
+
+\[
+Conscious(S)
+\Rightarrow
+LocalFPPhen(S)
+\]
+
+有很强 phenomenological support。
 
 但：
 
 \[
 \boxed{
-\text{phenomenological asymmetry}
-\not\Rightarrow
-\text{global absolute orientation}
+LocalFPPhen(S)
+\not\Rightarrow_{established}
+StrongFPFact(S)
 }
 \]
 
-Lipman / standpoint pluralism 可以把 local first-person specialness 当作真实 world-side perspectival facts；Eker 进一步允许 perspectivality进入 facts 的 mode of obtaining。
+List 把 strong first-person realism 当作初始 plausible claim，同时明确允许“拒绝 fact-level first-person realism、但保留 consciousness”的 quadrilemma escape route。Baker 等则为 strong bridge 提供 substantive positive metaphysics。
 
-因此：
+因此 first-personal phenomenal givenness 与 fact-level first-person realism必须分开。
 
-\[
-\text{ordinary first-person phenomenology}
-\]
-
-目前不能独立证明：
-
-\[
-\exists!E^*.
-\]
+详见 [`../research/arguments/consciousness-to-strong-fp-fact-gap.md`](../research/arguments/consciousness-to-strong-fp-fact-gap.md)。
 
 ---
 
-## 3. Centering 的三层已经固定
+## 3. Centering 的三层
 
 必须严格区分：
 
-### 3.1 Center in content
+### Center in content
 
 \[
 \langle W,c\rangle.
 \]
 
-center 是 state / fact content 的 constituent。
+center 是 fact/state content 的 constituent；容易发生 `Constituent Collapse`。
 
-这容易发生 `Constituent Collapse`：所有 centers 只是 ordinary relation arguments。
-
-### 3.2 Perspectival obtaining
+### Perspectival obtaining
 
 \[
 Obtaining_c(W).
 \]
 
-perspective 属于 reality / fact 如何 obtain，而不只是 content 里写了什么。
-
-Eker 的 constitutional perspectivalism 为这层提供成熟先例。
+perspective 属于 reality / fact 如何 obtain。Eker 给出成熟 constitutional-perspectivalist precedent。
 
 但：
 
@@ -90,25 +98,21 @@ Eker 的 constitutional perspectivalism 为这层提供成熟先例。
 \boxed{
 \text{perspectival obtaining}
 \not\Rightarrow
-\text{absolute singleton}
+\text{perspective singleton}.
 }
 \]
 
-多个 subjects / times 仍可对应多个 fundamental perspectival obtaining tokens。
-
-### 3.3 Singular absolute orientation
+### Singular absolute orientation
 
 项目真正需要：
 
 \[
 \boxed{
-\exists!c\;AbsoluteOrientation(R,c)
+\exists!c\;AbsoluteOrientation(R,c).
 }
 \]
 
-并且它不是多个 equally fundamental standpoint modes 中的一个。
-
-所以当前真正缺失的 bridge 是：
+所以当前真正缺失的箭头仍是：
 
 \[
 \boxed{
@@ -120,84 +124,76 @@ Eker 的 constitutional perspectivalism 为这层提供成熟先例。
 
 ---
 
-## 4. Strongest pluralist opponent
+## 4. Strong pluralism 的能力与成本
 
-当前最强反方不再是粗糙 indexicalism，而是 **Constitutional Obtaining Pluralism**：
+Lipman / Eker 允许 reality 本身深度 perspectival：
 
 \[
-R_{COP}=\langle W,S,M,A,T,\ldots\rangle,
+R_{COP}=\langle W,S,M,A,T,\ldots\rangle.
 \]
 
-其中允许：
-
-- objective structure；
-- multiple genuine subjects；
-- irreducible subject-relative / constitutional modes of obtaining；
-- first-person phenomenology；
-- perspective–event anchoring；
-- irreducible actuality / brute obtaining；
-- real passage / I–NOW standpoint structure if needed；
-- no globally privileged subject。
-
-这关闭了一个重要伪出口：
+这足以说明：
 
 \[
 \boxed{
-\text{reality can be deeply first-personal without having an absolute first-person}.}
+\text{deep first-personality does not force an absolute first-person}.}
 \]
+
+但如果 pluralist 进一步坚持每个 subject 都有 irreducible, perspective-non-invariant FP facts：
+
+\[
+\forall i\;F_i^{FP},
+\]
+
+List quadrilemma 迫使：
+
+\[
+FPR+NonSolipsism
+\Rightarrow
+\neg(OneWorld\land NonFragmentation).
+\]
+
+因此 strong pluralism 必须付出：
+
+- fragmentation；或
+- many first-personally centred worlds；或等价的 metaphysical-relativity machinery。
+
+它不是 cost-free one-world baseline。
 
 ---
 
-## 5. 但 strong pluralism 也不是免费 baseline
+## 5. Relative First-Person Demotion
 
-List 的 quadrilemma 带来一个关键修正。
-
-真正 irreducible first-person facts：
+旧 Two-Tier 写法曾试图用：
 
 \[
-F_A=\text{I am in }X,
-\qquad
-F_B=\text{I am in }Y
+F_i^{rel}=\text{“from }S_i\text{, ...”}
 \]
 
-对不同 subjects 可以 non-compossible。
+让所有 subjects 的 first-person facts globally compossible。
 
-若把它们改写成：
-
-\[
-F_A'=\text{there is an A-perspective from which “I am in X” is true},
-\]
-
-这些 meta-facts 可以 globally compossible，但它们在 subjective perspective shifts 下 invariant，因此可能已经是 third-personal facts。
+List 的直接 objection 说明：如果这种 statement 在 subjective perspective shifts 下保持 invariant，它只是关于 perspective 的 third-personal meta-fact，而不再是 strong FP fact。
 
 所以：
 
 \[
 \boxed{
-\text{relativizing enough to regain global compossibility may demote strong FP facts}.}
+\text{relativizing enough to regain compossibility may demote strong FP facts}.}
 \]
 
-这迫使我们分开：
+不能靠一个 `rel` 下标同时免费保留：
 
 \[
-\boxed{\text{genuine consciousness}}
+StrongFPR+OneWorld+NonFragmentation+NonSolipsism.
 \]
-
-与：
-
-\[
-\boxed{\text{universal strong first-person fact realism}}.
-\]
-
-二者不是同一个 premise。
 
 详见 [`../research/arguments/relative-first-person-demotion.md`](../research/arguments/relative-first-person-demotion.md)。
 
 ---
 
-## 6. Two-Tier architecture 已分裂成两种
+## 6. Two-Tier 已分成两个不同项目
 
-### 6.1 Two-Tier Phenomenology
+### Two-Tier Phenomenology
 
 \[
 \forall i\;LocalFPPhen(S_i)
@@ -209,45 +205,27 @@ F_A'=\text{there is an A-perspective from which “I am in X” is true},
 \exists!E^*\;AbsoluteOrientation(E^*).
 \]
 
-这可以与：
+可以与 one coherent world + non-solipsism 相容。
 
-\[
-OneWorld+NonFragmentation+NonSolipsism
-\]
-
-相容。
-
-其他主体真正有意识、真的会痛、拥有 for-me-ness 与 lived continuity；只是他们的 ordinary perspective structure 不一定对应 irreducible strong FP facts。
-
-### 6.2 Two-Tier Strong Fact Realism
-
-若坚持：
+### Two-Tier Strong Fact Realism
 
 \[
 \forall i\;F_i^{FP}
 \]
 
-且再加：
+再加：
 
 \[
-\exists!i\;F_i^{abs},
+\exists!i\;F_i^{abs}.
 \]
 
-则 List pressure 没消失：ordinary strong FP layer 自己就需要 fragmentalist / many-world architecture。
+则 ordinary layer 本身已经需要 fragmentation / many worlds。
 
-所以项目早期 slogan：
-
-\[
-\text{many strong ordinary FP facts}+\text{one absolute FP fact}
-\]
-
-仍可构造，但不是一个廉价 one-world package。
+所以早期 slogan “many ordinary first-persons + one absolute first-person” 必须先说明 `ordinary first-persons` 指 phenomenology，还是 strong irreducible facts。
 
 ---
 
 ## 7. 当前 theory matrix
-
-现在至少有五个主要 package。
 
 ### P-F — Fragmentalist pluralism
 
@@ -271,11 +249,7 @@ ManyConsciousSubjects+LocalFPPhen+OneWorld+NonFragmentation+Abs.
 
 ### A-F / A-MW — Absolute + strong ordinary-FP
 
-先支付 fragment / many-world cost，再额外加入：
-
-\[
-Abs.
-\]
+先支付 fragment / many-world cost，再额外加入 absolute orientation。
 
 ### D-* — Derived Absolute Orientation
 
@@ -291,27 +265,27 @@ D\Rightarrow\Omega(E^*).
 
 ---
 
-## 8. 当前最强正方：Minimal Absolute Opening
+## 8. 当前最干净正方：A-W / Minimal Absolute Opening
 
-若项目 non-negotiable 只是：
-
-\[
-\boxed{\text{other minds genuinely conscious}}
-\]
-
-而不要求：
+A-W 承认：
 
 \[
-\forall i\;F_i^{FP}
+\forall i\;Conscious(S_i)
 \]
 
-都在强 fact-level 成立，那么最干净的 positive survivor 是 A-W：
+和：
+
+\[
+\forall i\;LocalFPPhen(S_i),
+\]
+
+同时加入：
 
 \[
 \boxed{\Omega[R;E^*]}
 \]
 
-其中 \(\Omega\) 是 complete actuality 的 primitive singular orientation mode。
+作为 complete actuality 的 primitive singular orientation mode。
 
 identity thesis：
 
@@ -321,81 +295,78 @@ WorldActuality=AbsoluteI=AbsoluteNOW=\Omega.
 }
 \]
 
-这与 Nagai 的 *Opening* 最接近。
-
-它的优点：
-
-- no neutral actuality + later pointer；
-- one coherent world；
-- other minds remain genuinely conscious；
-- exact-one architecture clean；
-- I / NOW / actuality compressed into one primitive kind；
-- fission 可以有多个 conscious successors，但 absolute continuation 至多一个；
-- death 不逻辑要求 center transfer；
-- center 可写成 local spacetime event，而非 universal simultaneity slice。
-
-它明确不解释：
-
-- why this subject；
-- why this moment；
-- why actuality is singularly centered；
-- how introspection identifies the absolute center。
-
-所以它是：
+其他人仍真正会痛、感知颜色、拥有 for-me-ness、自我定位和 lived continuity。A-W 削弱的是：
 
 \[
-\boxed{\text{primitive-unificatory ontology, not derived explanation}.}
+\forall i\;StrongFPFact(S_i),
 \]
+
+不是 other minds consciousness。
+
+所以它的准确代价叫：
+
+\[
+\boxed{\text{Fact-Level First-Person Inegalitarianism}.}
+\]
+
+它仍然无法解释：
+
+- why this subject / moment；
+- why actuality is singularly oriented；
+- why phenomenal symmetry maps to fact-level metaphysical inequality；
+- how introspection identifies \(E^*\)。
 
 详见 [`../research/models/minimal-absolute-opening.md`](../research/models/minimal-absolute-opening.md)。
 
 ---
 
-## 9. Opening Identity Principle 的当前裁决
+## 9. A-W 为什么没有被 consciousness 直接淘汰
 
-OIP 必须分三种 reading。
-
-### Ordinary opening
-
-\[
-Open(R,s)=\text{facts obtain from standpoint }s.
-\]
-
-会 pluralize。
-
-### Primitive absolute opening
-
-\[
-Open^*(R,c)=\text{reality obtains simpliciter from }c.
-\]
-
-coherent，但 absolute semantics primitive。
-
-### Derived absolute opening
-
-\[
-D\Rightarrow Open^*(R,c).
-\]
-
-重新进入全部 grounding / structural 门槛。
-
-所以：
+当前文献地图给出的最稳结论是：
 
 \[
 \boxed{
-\text{ordinary opening}\Rightarrow pluralism;
-\quad
-\text{absolute opening}\Rightarrow primitive;
-\quad
-\text{derived opening}\Rightarrow Grounded Centering Ladder.
+Consciousness\Rightarrow FirstPersonalGivenness
 }
 \]
 
-当前没有第四条免费路线。
+很强；但：
+
+\[
+\boxed{
+FirstPersonalGivenness\Rightarrow IrreducibleFPFact
+}
+\]
+
+仍是一项 metaphysical thesis，而非当前已建立的逻辑定理。
+
+List 自己把拒绝 first-person realism视为正式 escape route；Baker / Fine / Lipman 等则代表接受 strong fact-level FPR 的路线。
+
+所以若要淘汰 A-W，必须证明更强的 Bridge A，而不能只重复“别人也有意识”。
 
 ---
 
-## 10. Derived route 仍受 Grounded Centering Ladder
+## 10. Opening Identity Principle 的当前裁决
+
+OIP 仍分三种 reading：
+
+\[
+\text{ordinary opening}\Rightarrow pluralism;
+\]
+
+\[
+\text{absolute opening by semantics}\Rightarrow primitive;
+\]
+
+\[
+\text{derived absolute opening}\Rightarrow GroundedCenteringLadder.
+\]
+
+primitive OIP / Minimal Absolute Opening 是当前最强 positive survivor，但不是 derivation。
+
+---
+
+## 11. Derived route 的门槛
 
 任何 non-primitive theory 仍必须通过：
 
@@ -411,49 +382,43 @@ NonPluralizability.
 }
 \]
 
-现有 candidates 分别失败在：
+现有候选分别被：
 
-- local rule → duplication；
-- process/becoming → many live loci；
-- priority/grounding → priority ≠ liveness；
-- unique structural role → individuation ≠ privilege；
-- global section → coherence ≠ center；
-- universal property → cosmicization or semantic thinness；
-- context centering → local proliferation；
-- global instantiation → bearer/content/type gaps；
-- constitutional perspectivality → obtaining-mode pluralization；
-- stochastic actualization → why-this-one = chance + liveness bridge remains。
+- symmetry；
+- local duplication；
+- process-to-center；
+- priority-liveness gap；
+- global-section-center gap；
+- universal-property manifestation dilemma；
+- instantiation-actuality gap；
+- obtaining-mode pluralization；
+- stochastic why-this-one / bridge gap
 
-所以：
+挡住。
 
-\[
-\boxed{D\Rightarrow\Omega(E^*)}
-\]
-
-仍是 highest-payoff but unfinished route。
+所以 derived \(D\Rightarrow\Omega\) 仍是 highest-payoff but unfinished route。
 
 ---
 
-## 11. Strong Pluralist Exhaustion Test
+## 12. Residual Fact Exhaustion
 
-我们已经把 strongest pluralist package 给到很厚，再逐项测试：
+对 strongest pluralist package，项目已经测试：
 
 - for-me-ness；
 - felt presence；
-- non-relational appearance；
+- non-relational current experience；
 - I–NOW coupling；
-- real passage；
+- passage；
 - actuality；
-- one world；
-- coherence；
-- perfect duplication；
+- one world / coherence；
+- duplication；
 - fission；
 - prudential asymmetry；
-- why-this-person / era；
+- “为什么这个人/时代”；
 - ineffability；
 - primitive presence。
 
-当前没有找到一个满足：
+当前仍没有找到：
 
 \[
 Independent(X)
@@ -463,7 +428,7 @@ Pluralism\not\models X
 AbsoluteTheory\models X.
 \]
 
-因此：
+所以：
 
 \[
 \boxed{
@@ -471,60 +436,44 @@ AbsoluteTheory\models X.
 }
 \]
 
-但 `Relative First-Person Demotion` 修正了它的 abductive后果：不能因此直接宣布 strong pluralism 更便宜，因为 strong FPR pluralism 必须支付 fragmentation / many-world / metaphysical-relativity cost。
-
-详见 [`../research/arguments/strong-pluralist-exhaustion-test.md`](../research/arguments/strong-pluralist-exhaustion-test.md)。
+这不是 `\neg\exists\Omega` 的证明。
 
 ---
 
-## 12. 当前 epistemic verdict
+## 13. 当前 epistemic verdict
 
-现在最公平的结论不是：
-
-\[
-Pluralism\ wins
-\]
-
-也不是：
-
-\[
-Absolute\ realism\ wins.
-\]
-
-而是：
+最公平的 verdict 是：
 
 \[
 \boxed{
 \text{evidential underdetermination + architecture-cost trade-off}.}
 \]
 
-条件性判断：
+条件性地：
 
-- 若 **universal strong FPR** 是核心承诺，P-F / P-MW 比 A-F / A-MW 更节约，因为目前没有 independent residual evidence 支持额外 \(\Omega\)；
-- 若 **one coherent world + genuine other minds** 是核心承诺，而 universal strong FPR 可以放弃，A-W 是非常干净的 absolute-first-person theory；
-- 若 absolute center 还必须有 **non-primitive explanation**，当前没有完成方案，D-* 仍开放。
+- 若 **universal strong FPR** 是 non-negotiable，P-F / P-MW 比 A-F / A-MW 更节约，因为目前没有 residual evidence 支持额外 \(\Omega\)；
+- 若 **one coherent world + genuine other minds + ordinary first-person phenomenology** 是 non-negotiable，而 universal strong FPR 可以放弃，A-W 是非常干净的 absolute-first-person theory；
+- 若 absolute center 还必须有 **non-primitive explanation**，当前没有完成方案。
+
+所以现在既不能说 pluralism 已胜，也不能说 absolute realism 已获证据。
 
 ---
 
-## 13. 当前两个最基础的桥
+## 14. 当前真正剩下的两座桥
 
-项目现在真正剩下的研究问题只有两个层级。
-
-### Bridge A — Consciousness-to-Strong-FP-Fact
+### Bridge A — Phenomenology → Strong FP Fact
 
 \[
 \boxed{
-Conscious(S)
+FirstPersonalGivenness(S)
 \Rightarrow
-\exists F_S^{FP}\ ?
+IrreducibleFirstPersonFact(S)\ ?
 }
 \]
 
-这究竟是概念真理、phenomenological necessity、metaphysical thesis，还是 strong FPR 的 substantive postulate？
+目前开放。它决定 ordinary layer 是 P-F/P-MW，还是 A-W 可以完整保留 other minds。
 
-它决定 ordinary subject layer 必须是 P-F / P-MW，还是 A-W 可以完整保留 other minds。
-
-### Bridge B — Reality-to-Absolute-Orientation
+### Bridge B — Reality → Absolute Orientation
 
 \[
 \boxed{
@@ -534,15 +483,15 @@ Reality
 }
 \]
 
-如果没有 derived bridge，\(\Omega\) 只能停在 primitive OIP / Minimal Absolute Opening。
+目前也开放。若无 derived bridge，正方停在 primitive OIP。
 
-这两个桥相互独立：第一个决定“每个人的 ordinary first-person metaphysics”；第二个决定“是否还有一个 absolute layer”。
+这两个桥相互独立。
 
 ---
 
-## 14. 当前总判断
+## 15. 当前总判断
 
-项目已经得到两条很强的条件性结果：
+现在已有两条稳健条件性结果：
 
 \[
 \boxed{
@@ -554,37 +503,30 @@ Reality
 
 \[
 \boxed{
-\text{strong first-person plurality cannot be made globally coherent merely by standpoint-labeling it}
+\text{strong first-person plurality cannot be made globally coherent merely by standpoint-labeling it}.
 }
 \]
 
-因此 absolute realism 与 pluralism 都有真实成本。
-
-截至目前：
+进一步，Bridge A 的文献调查显示：
 
 \[
 \boxed{
-\text{absolute first-person remains coherent but unproven; strong pluralism remains powerful but architecturally nontrivial.}
-}
+\text{first-personal givenness does not yet settle fact-level metaphysics}.}
 \]
 
-不再继续横向制造 selector。下一阶段优先研究：
+因此当前 endgame 已经非常清楚：
 
-\[
-Consciousness\to StrongFPFact
-\]
+- A-W 是 coherent but evidentially under-motivated positive ontology；
+- P-F / P-MW 是 strong-FPR-symmetric but architecturally costly opponents；
+- D-* 是 explanatory ideal but unfinished。
 
-与：
-
-\[
-IndependentResidualFact\to\Omega.
-\]
+不再横向制造 selector。后续研究只值得继续攻击 Bridge A 或寻找真正 independent residual fact / Bridge B。
 
 ## 最新入口
 
 - [`frontier-2026-10-05-endgame.md`](frontier-2026-10-05-endgame.md)
+- [`../research/arguments/consciousness-to-strong-fp-fact-gap.md`](../research/arguments/consciousness-to-strong-fp-fact-gap.md)
+- [`../literature/consciousness-first-person-fact-bridge.md`](../literature/consciousness-first-person-fact-bridge.md)
 - [`../research/arguments/relative-first-person-demotion.md`](../research/arguments/relative-first-person-demotion.md)
 - [`../research/models/endgame-theory-matrix.md`](../research/models/endgame-theory-matrix.md)
-- [`../research/models/two-tier-first-person-realism.md`](../research/models/two-tier-first-person-realism.md)
 - [`../research/models/minimal-absolute-opening.md`](../research/models/minimal-absolute-opening.md)
-- [`../research/arguments/strong-pluralist-exhaustion-test.md`](../research/arguments/strong-pluralist-exhaustion-test.md)
