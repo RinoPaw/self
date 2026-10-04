@@ -99,6 +99,13 @@
       "sources": ["openalex", "s2", "crossref"]
     },
     {
+      "name": "first-person-duplication",
+      "query": "perfect phenomenal duplication first person facts self location asymmetry",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
       "name": "grounding-first-person-priority",
       "query": "metaphysical grounding fundamentality priority presentism first person privilege consciousness",
       "semantic": true,
@@ -115,6 +122,13 @@
     {
       "name": "causal-set-consciousness",
       "query": "causal set quantum gravity consciousness live experience birth process Dowker",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "growing-block-consciousness",
+      "query": "growing block dead past consciousness causal frisson present edge",
       "semantic": true,
       "limit": 20,
       "sources": ["openalex", "s2", "crossref"]
