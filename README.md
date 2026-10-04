@@ -16,6 +16,7 @@
 - 区分 **Liveness Generation Problem**、**Absolute Center Uniqueness Problem** 与 **Global First-Person Transition Problem**；
 - 用精确复制压力检验所有 local / event-relative 的 liveness 机制；
 - 检验 local singleton 是否会在多个 competition domains 中复制，并寻找真正 global / non-factorizable 的 singleton mechanism；
+- 同时保留两类正方架构：从 uncentered history 产生 center 的 **Transition Architecture**，以及完整现实本身 irreducibly centered 的 **Constitutively Centered Architecture**；
 - 寻找既能打破复制、又能真正解释 privilege 的全局关系结构。
 
 ## 当前五道门槛
@@ -90,7 +91,7 @@ Fundamental becoming 已经提供了 `process -> liveness` 的真实邻近先例
 
 ### Global First-Person Transition Problem
 
-现在把完整链条进一步拆成：
+在 **Transition Architecture** 下，完整链条拆成：
 
 \[
 D
@@ -104,32 +105,75 @@ E^*
 LIVE(E^*).
 \]
 
-其中：
-
-- `H` 是 universe/history actuality；
-- `\mathcal C(H)` 是全部真实 conscious candidates；
-- `E*` 是候选中的 global singleton；
-- `LIVE(E*)` 才是最终 absolute first-person claim。
-
 Hartle–Srednicki 已表明完整 third-person theory 即使 deterministic，也可能不提供 first-person self-location；Page 已提供明确 psychophysical mapping，但输出 many perceptions；Albert–Loewer single-mind 能得到 per-observer determinate mind，却没有 global singleton。
 
 因此：
 
 \[
-\boxed{T_{U\to C}\not\Rightarrow T_{C\to A}}
+\boxed{T_{U\to C}\not\Rightarrow T_{C\to A}}.
 \]
 
-当前最尖锐的正向目标是找到一个非唯我论、非 primitive、非纯 epistemic 的：
+但最新研究增加 **Transition Factorization Challenge**：这条 staged chain 不是所有理论都必须接受。若 complete actual state \(R^*\) 本身 irreducibly centered，则可以有：
 
 \[
-\boxed{T_{C\to A}:\mathcal C(H)\to E^*}.
+P_U(R^*)=H,
+\qquad
+P_A(R^*)=E^*,
 \]
+
+而 uncentered \(H\) 只是把 center-related structure 投影掉后的描述。这时真正的问题从 `T_{C→A}` 转成：centeredness 是 complete reality 的可解释结构，还是 disguised primitive？
+
+## 最新前沿：Two Architectures
+
+当前正方保留两种架构，不预先规定哪一种最终正确。
+
+### Transition Architecture
+
+\[
+H\to\mathcal C(H)\xrightarrow{T_{C\to A}}E^*.
+\]
+
+目标是找到 global structural / generative / stochastic actualization mechanism。
+
+### Constitutively Centered Architecture
+
+\[
+R^*\xrightarrow{P_U}H,
+\qquad
+R^*\xrightarrow{P_A}E^*.
+\]
+
+目标是检验 complete reality 是否本身就可以是一个 **centered total state**。Soames 的 actuality-as-instantiation 提供邻近模板：actual world-state 是 universe 实际 instantiated 的 maximally informative state；项目尝试把这一结构推广到 maximally centered total state。
+
+两种架构都可以采用 **Two-Tier First-Person Realism**：
+
+\[
+\forall i\;F_i^{rel}
+\]
+
+保留所有主体的 ordinary first-person facts，同时：
+
+\[
+\exists!i\;F_i^{abs}
+\]
+
+研究是否还有一个 simpliciter first-person fact。
+
+List / Fine 型 first-person facts 的 non-compossibility 加上 single coherent reality，可能承担 **at-most-one**：
+
+\[
+|AbsoluteCenters|\le1.
+\]
+
+真正剩下的核心是 **at-least-one / which-one / why-actual**。
 
 ## 导航
 
 ### 当前综合
 
-- [`synthesis/current-position.md`](synthesis/current-position.md) — 当前研究立场；仓库中最接近“当前真相”的文档。
+- [`synthesis/current-position.md`](synthesis/current-position.md) — 当前研究立场；仓库中最接近“当前真相”的长期文档。
+- [`synthesis/frontier-2026-10-04-two-architectures.md`](synthesis/frontier-2026-10-04-two-architectures.md) — 最新前沿：Transition 与 Constitutively Centered 两种架构、Two-Tier FP、coherence 与 centered total state。
+- [`synthesis/frontier-2026-10-04-anchored-dominance.md`](synthesis/frontier-2026-10-04-anchored-dominance.md) — 上一阶段：Anchored Nested Dominance 与 role–realizer bridge。
 
 ### 概念
 
@@ -145,7 +189,15 @@ Hartle–Srednicki 已表明完整 third-person theory 即使 deterministic，�
 - [`research/arguments/locality-duplication-no-go.md`](research/arguments/locality-duplication-no-go.md) — 局部复制为何阻止统一 local rule 产生一个 global LIVE center。
 - [`research/arguments/local-to-global-singleton-obstruction.md`](research/arguments/local-to-global-singleton-obstruction.md) — local winner / per-domain singleton 为什么无法自动升级成 global singleton。
 - [`research/arguments/first-person-transition-gap.md`](research/arguments/first-person-transition-gap.md) — third-person universe、conscious candidates、global first-person actuality 之间的两级 transition 缺口。
-- [`research/arguments/global-first-person-transition-escape-map.md`](research/arguments/global-first-person-transition-escape-map.md) — 在 non-solipsism 下压缩 global singleton 的主要逻辑路线。
+- [`research/arguments/global-first-person-transition-escape-map.md`](research/arguments/global-first-person-transition-escape-map.md) — 在 non-solipsism 下压缩 global singleton 的主要 transition 路线。
+- [`research/arguments/transition-factorization-challenge.md`](research/arguments/transition-factorization-challenge.md) — 检验 `H→C→E*` 是否误把 uncentered history 当作先验完整现实。
+- [`research/arguments/coherence-based-singleton.md`](research/arguments/coherence-based-singleton.md) — 用 first-person fact incompatibility + coherent reality 推出 absolute layer 的 at-most-one。
+- [`research/arguments/anchoring-correlation-gap.md`](research/arguments/anchoring-correlation-gap.md) — objective facts、perspectives 与其 anchoring relation 的区分。
+- [`research/arguments/top-domain-center-gap.md`](research/arguments/top-domain-center-gap.md) — top whole、top competition domain 与 unique center 的多层欠定。
+- [`research/arguments/non-solipsistic-actuality-quadrilemma.md`](research/arguments/non-solipsistic-actuality-quadrilemma.md) — existence、becoming、priority、primitive actuality 四类成熟 privilege 策略在 first-person 迁移中的代价。
+- [`research/arguments/privilege-recombination-problem.md`](research/arguments/privilege-recombination-problem.md) — fundamental privilege property 为什么不自动保证 unique bearer。
+- [`research/arguments/instantiation-actuality-gap.md`](research/arguments/instantiation-actuality-gap.md) — Soames 式 actuality-as-instantiation 迁移到 first-person 后的 local/global instantiation gap。
+- [`research/arguments/absolutization-epistemic-fork.md`](research/arguments/absolutization-epistemic-fork.md) — absolute status 若 phenomenally active / inert 分别承担什么认识论代价。
 - [`research/arguments/history-actualization-exhaustion.md`](research/arguments/history-actualization-exhaustion.md) — actualization 的六路线 schema。
 - [`research/arguments/history-actualization-partition.md`](research/arguments/history-actualization-partition.md) — 六路线的条件性 partition 与分类域。
 - [`research/arguments/rank-tie-priority-liveness-gap.md`](research/arguments/rank-tie-priority-liveness-gap.md) — grounding rank 为什么既不保证 singleton，也不自动推出 absolute liveness。
@@ -153,6 +205,13 @@ Hartle–Srednicki 已表明完整 third-person theory 即使 deterministic，�
 - [`research/arguments/symmetry-obstruction.md`](research/arguments/symmetry-obstruction.md) — 结构性唯一选择面对的全局自同构禁阻。
 - [`research/arguments/symmetry-pressure.md`](research/arguments/symmetry-pressure.md) — 多中心方案面对的对称性压力。
 - [`research/arguments/standpoint-pluralism-challenge.md`](research/arguments/standpoint-pluralism-challenge.md) — 强反方：真实但多元的 standpoint facts。
+
+### 模型
+
+- [`research/models/two-tier-first-person-realism.md`](research/models/two-tier-first-person-realism.md) — many local FP + one possible simpliciter FP 的两层模型。
+- [`research/models/centered-total-state.md`](research/models/centered-total-state.md) — complete reality 本身 irreducibly centered，并借 actuality-as-instantiation 表达 global actuality。
+- [`research/models/anchored-nested-dominance.md`](research/models/anchored-nested-dominance.md) — world / perspectives / anchoring / dominance / role-realizer 拆分后的 Nested Dominance v2。
+- [`research/models/nested-dominance.md`](research/models/nested-dominance.md) — local dominance 与 top-level dominance 的第一版架构。
 - [`research/models/actualization-route-matrix.md`](research/models/actualization-route-matrix.md) — 分离 universe/history actuality 与 first-person actuality 的路线组合。
 - [`research/models/stochastic-actualization.md`](research/models/stochastic-actualization.md) — objective chance 能否产生唯一 token center，以及 Selection-Process Requirement。
 - [`research/models/structural-selection.md`](research/models/structural-selection.md) — 从完整现实结构唯一确定 \(E^*\) / \(\Gamma^*\) 的模型框架。
@@ -165,11 +224,14 @@ Hartle–Srednicki 已表明完整 third-person theory 即使 deterministic，�
 ### 文献
 
 - [`literature/index.md`](literature/index.md) — 人工综合后的核心文献地图。
+- [`literature/self-location-centered-worlds.md`](literature/self-location-centered-worlds.md) — Lewis / Stalnaker / Pagin / List：centered worlds、self-location 与 correlation gap。
 - [`literature/builes-2024-first-person-realism.md`](literature/builes-2024-first-person-realism.md) — First-Person Realism 的系统论证地图。
 - [`literature/lipman-2026-standpoints.md`](literature/lipman-2026-standpoints.md) — standpoint pluralism。
 - [`literature/solomyak-2024-perspectival-pluralism.md`](literature/solomyak-2024-perspectival-pluralism.md) — radical / modest perspectival pluralism。
 - [`literature/actuality-analogy.md`](literature/actuality-analogy.md) — indexical actuality 与 absolute actuality。
+- [`literature/grounding-consciousness-role-realizer.md`](literature/grounding-consciousness-role-realizer.md) — Merlo horizontal grounding 与 Mørch phenomenal powers 对 role–realizer bridge 的启发。
 - [`literature/grounding-and-priority-cosmopsychism.md`](literature/grounding-and-priority-cosmopsychism.md) — grounding、fundamentality、priority monism / cosmopsychism。
+- [`literature/superpsychism-2026.md`](literature/superpsychism-2026.md) — global conscious foundation 作为 Top-Winner Localization 的压力测试。
 - [`literature/dowker-causal-set-becoming.md`](literature/dowker-causal-set-becoming.md) — causal-set becoming、live experience 与 gauge / covariance 压力。
 - [`literature/canonical-history-selection-physics.md`](literature/canonical-history-selection-physics.md) — Cauchy history、Dixon worldline、Janus point、Wentaculus / GRWf 等 physical selection precedents。
 - [`literature/first-person-transition-precedents.md`](literature/first-person-transition-precedents.md) — Hartle–Srednicki、Page、Albert–Loewer 的 universe-to-first-person bridge 先例。
@@ -185,25 +247,30 @@ Hartle–Srednicki 已表明完整 third-person theory 即使 deterministic，�
 
 ## 当前研究顺序
 
+现在不再预设只有一条线性链，而是并行维护：
+
 ```text
+Architecture T
 Reality totalization?
         ↓
-Universe/history actualization route
+Universe/history actualization
         ↓
 Consciousness map T_U→C
-        ↓
-Locality / duplication / local-to-global no-go
         ↓
 Global first-person transition T_C→A
         ↓
 Privilege / liveness bridge
-        ↓
-I–NOW dynamics / Γ*
-        ↓
-w only if still needed
+
+Architecture C
+Complete centered reality R*
+        ├──→ uncentered history H
+        ├──→ ordinary perspectives Π
+        └──→ absolute center E*
+              ↓
+       centeredness / actuality explanation
 ```
 
-`w` 当前不承担唯一化工作，也不直接等同于 causal-set 的 total birth label。
+两条路线随后都要继续处理 I–NOW dynamics / \(\Gamma^*\)。`w` 当前不承担唯一化工作，也不直接等同于 causal-set 的 total birth label。
 
 ## 仓库约定
 
