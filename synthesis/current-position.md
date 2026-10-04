@@ -120,17 +120,17 @@ g(E^*)=E^*.
 \text{privilege}.
 \]
 
-所以当前最深的结构问题之一是：
+因此：
 
 \[
-\boxed{\text{可区分性怎样进一步产生绝对特权}}
+\boxed{\text{individualization}\not\Rightarrow\text{privilege}}
 \]
 
 ## 6. 当前主线二：Residual Fact Problem
 
-当前最强反方是 standpoint pluralism：现实可以包含多个真实、不可还原的 perspectival facts，同时没有一个 standpoint 在最终层面被特权化。
+当前最强反方允许多个真实、不可还原的 standpoint-relative facts，同时拒绝一个最终被特权化的 standpoint。
 
-设所有 standpoint-relative 第一人称事实的总结构为 \(\mathcal P\)。绝对第一人称正方需要证明，在 \(\mathcal P\) 之外仍存在某种不能继续相对化的：
+设全部 standpoint-relative 第一人称事实为 \(\mathcal P\)。正方需要证明，在 \(\mathcal P\) 之外仍有不能继续相对化的：
 
 \[
 L=\text{liveness / actuality simpliciter}.
@@ -142,51 +142,13 @@ L=\text{liveness / actuality simpliciter}.
 \text{Live-from}(S_i,S_i),
 \]
 
-并且同样模式对每个 standpoint 都成立，那么理论只得到多中心 perspectival reality，没有得到全局唯一的：
+并且相同模式对每个 standpoint 都成立，则只得到多中心 perspectival reality。
 
-\[
-\exists !S^*\;\text{Live-simpliciter}(S^*).
-\]
+把这一压力称为 **Relativization Collapse**。
 
-把这一压力暂称为 **Relativization Collapse**。
+## 7. Privilege Bridge Requirement
 
-## 7. 关于 \(L\) 的三条路线
-
-### A. \(L\) 还原到 standpoint facts
-
-如果这种还原最终只是把绝对在场性翻译成各 standpoint 的相对在场性，理论会坍缩回 pluralism。
-
-### B. \(L\) 是 primitive
-
-这种模型完全可构造。Hare 的 monadic presence、Bricker 的 absolute actuality 都提供了邻近先例。
-
-本项目暂不在这里停下，因为目前仍希望解释这种特权的来源。
-
-### C. 更深结构 \(D\) 支持 \(L\)
-
-当前优先路线为：
-
-\[
-D\Rightarrow L.
-\]
-
-其中 \(D\) 不能用 \(L\) 自身定义，也不能只是 standpoint facts 的重新命名；同时必须能够承担唯一性、I–NOW、复制、多元宇宙和相对论等约束。
-
-因此，研究目标进一步收紧为：
-
-\[
-\boxed{\text{寻找不能被 standpoint-relative 化、又能由更深结构支持的 }L}
-\]
-
-## 8. Privilege Bridge Requirement
-
-当前新增一个更严格的要求：
-
-\[
-\text{individualization}\not\Rightarrow\text{privilege}.
-\]
-
-因此，\(D\) 不能只提供“某个事件在结构上唯一”。它还需要包含一种独立于 absolute-first-person 定义、同时本身具有本体论方向或优先意义的结构角色。
+\(D\) 若要推出 \(L\)，只提供结构唯一性还不够。它还需要包含独立于 absolute-first-person 定义、同时本身具有本体论方向或优先意义的结构角色。
 
 暂称：
 
@@ -194,25 +156,18 @@ D\Rightarrow L.
 \boxed{\text{Privilege Bridge Requirement}}
 \]
 
-这条要求把很多候选直接降级：
+这条要求使 canonical selector、纯极值、普通因果轨迹、acquaintance / for-me-ness 等方案无法单独完成任务。
 
-- canonical selector / 极值函数只能唯一化；
-- 因果与动力学轨迹只能给方向与历史；
-- acquaintance / for-me-ness 会复制到每个主体；
-- primitive actuality / presentness 可以给特权，但解释在目标性质处停止。
+## 8. Grounding 路线与 Priority I–NOW
 
-目前第一次真正有资格承担桥接工作的候选是 **grounding / fundamentality**。
+Grounding / fundamentality 第一次提供了真实的形而上优先方向。
 
-## 9. Grounding 路线与 Priority I–NOW
+时间哲学中 Sam Baron 的 Priority Presentism 提供先例：过去、现在、未来都存在，但 present entities 可以在 grounding 意义上更 fundamental。
 
-现代 grounding 理论把某些事实之间的“in virtue of / more fundamental than”关系作为真实的形而上优先结构。与纯描述唯一性相比，它自带方向性。
-
-时间哲学中已有直接先例：Sam Baron 的 **Priority Presentism** 主张过去、现在、未来都存在，但 present entities 在相关意义上 fundamental，past / future entities 由 present grounding。
-
-因此可以尝试把同一策略扩展到第一人称：
+第一人称推广暂写为：
 
 \[
-\exists !E^*\;Fundamental_{I\text{-}NOW}(E^*),
+\exists !E^*\;Fundamental_{I\text{-}NOW}(E^*)
 \]
 
 并尝试：
@@ -221,109 +176,161 @@ D\Rightarrow L.
 Fundamental_{I\text{-}NOW}(E^*)\Longrightarrow LIVE(E^*).
 \]
 
-这形成当前第一个真正跨过“唯一性不等于特权”第一步的模型：**Priority I–NOW**。
+主要困难：
 
-它仍有严重困难：
+1. **Grounding Source Problem**：还没有独立理由支持某个局部意识事件 grounding 其他主体的 first-person facts；
+2. **Moving Fundamentality**：若绝对经验变化，fundamentality status 也必须变化；
+3. **NOW 回归**：用额外 \(w\) 决定当前 grounding root 会重新引入元时间；
+4. **相对论压力**：不能直接预设全局绝对 present hypersurface。
 
-1. **Grounding Source Problem**：目前没有独立理由说明一个具体局部意识事件为何 grounding 其他主体的 first-person facts；
-2. **Moving Fundamentality**：如果绝对经验事件随时间甚至跨主体变化，fundamentality 本身也必须迁移；
-3. **NOW 回归**：如果再用 \(w\) 决定当前哪一个 grounding root 有效，元时间问题会重新出现；
-4. **相对论**：不能未经论证引入一个全局绝对 present hypersurface。
+Grounding 因而是重要候选，但目前仍未给出完整答案。
 
-因此 grounding 目前是最强候选，但还没有成为答案。
+## 9. Fundamental Process 路线：新的真实先例
 
-详见：[`../research/models/generators-of-liveness.md`](../research/models/generators-of-liveness.md) 与 [`../research/models/priority-i-now.md`](../research/models/priority-i-now.md)。
+进一步研究发现，causal set theory 提供了一个非常接近的物理邻近模型。
 
-## 10. Actuality 类比
+Rideout–Sorkin 的 Classical Sequential Growth 用离散 birth process 描述 causal set 的生成；Fay Dowker 随后把该过程和 objective becoming、时间流逝以及 live experience 联系起来。2022 年她明确提出：live experience 可以理解成宇宙客观 birth process 在 neural correlates of consciousness 所在事件中的内部视角。
 
-模态形而上学提供了一个高度同构的成熟分歧。
-
-Lewis 把 “actual” 当成 indexical：所有可能世界在存在方式上平权，每个世界都能从自身位置称自己为 actual。
-
-Bricker 则允许多个可能世界真实存在，同时承认一个世界具有 absolute actuality。
-
-因此可以作工作类比：
+这给出一个罕见的先例：
 
 \[
-\text{standpoint pluralism}\sim\text{indexical actuality}
+\boxed{\text{fundamental becoming}\Longrightarrow\text{liveness}}
+\]
+
+因此，生成过程 \(G\) 的确有资格承担 Privilege Bridge 的一部分。
+
+详见：[`../research/models/fundamental-process-frontier.md`](../research/models/fundamental-process-frontier.md) 与 [`../literature/dowker-causal-set-becoming.md`](../literature/dowker-causal-set-becoming.md)。
+
+## 10. Process-to-Center Gap
+
+这一轮同时得到新的禁阻：
+
+\[
+\boxed{\exists !G\not\Rightarrow\exists !E^*\;LIVE(E^*)}
+\]
+
+一个唯一 fundamental process 可以让多个意识事件都真实 live。
+
+若生成前沿为：
+
+\[
+B_G=\{E_1,E_2,\dots,E_n\},
+\]
+
+而 liveness 来自参与生成，则自然得到多个：
+
+\[
+Live(E_1),Live(E_2),\dots,Live(E_n).
+\]
+
+所以“liveness 的来源”与“全局唯一 live center”已经明确分成两个不同问题：
+
+\[
+\boxed{\text{Liveness Generation Problem}\neq\text{Absolute Center Uniqueness Problem}}
+\]
+
+详见：[`../research/arguments/process-to-center-gap.md`](../research/arguments/process-to-center-gap.md)。
+
+## 11. Frontier Multiplicity 与 gauge 压力
+
+Relativistic / causal partial order 很容易拥有多个彼此不可比较的前沿事件。因而：
+
+\[
+|B_G\cap\mathcal E_C|>1
+\]
+
+是完全自然的情形。
+
+若再从前沿中加入二次选择器：
+
+\[
+S(B_G)=E^*,
+\]
+
+Structural Selection Problem 会完整返回。
+
+另外，CSG 用于描述逐步生长的 total natural labeling 在标准解释中属于 gauge。离散广义协变要求物理结果不依赖具体 labeling。因此，直接把 birth label 当作真实 \(w\) 并让它逐点选择 absolute center，会加入额外 ontology：
+
+\[
+\boxed{\text{gauge ordering cannot carry absolute first-personhood without extra structure}}
+\]
+
+这对此前的 \(w\) 方案形成很强约束。
+
+## 12. 新的强反方：Process Pluralism
+
+Standpoint Pluralism 现在可以被进一步加强：
+
+\[
+G_{universe}\Longrightarrow\{L_1,L_2,\dots,L_n\}.
+\]
+
+该模型可以同时承认：
+
+- live experience 有真实本体论来源；
+- temporal becoming 有真实本体论来源；
+- 多个主体都真实 live；
+- 全局不存在唯一 absolute center。
+
+这比“绝对感只是错觉”强很多，也比纯 standpoint pluralism 多了一个共同的生成基础。
+
+暂称 **Process Pluralism**。
+
+绝对第一人称正方以后必须同时击败 standpoint pluralism 与 process pluralism。
+
+## 13. Actuality 类比
+
+Lewis 把 actuality 理解为 indexical；Bricker 则允许 absolute actuality。对应到当前研究：
+
+\[
+\text{standpoint/process pluralism}\sim\text{indexical or multiply realized liveness}
 \]
 
 \[
 \text{absolute first-person realism}\sim\text{absolute actuality}.
 \]
 
-这说明“多个真实候选 + 一个 simpliciter 特权中心”在形而上学上是可表达的。它没有解决本项目更关心的来源问题。
+这继续证明“多个真实候选 + 一个 simpliciter 特权中心”可以被明确表达，但来源解释仍然开放。
 
-## 11. 当前最强反方：Standpoint Pluralism
+## 14. 关于额外参数 \(w\)
 
-现在不再把反方只写成“绝对感是一种错觉”。Martin Lipman 的 standpoint pluralism 提供了更强模型：
+当前不把 \(w\) 当作普通第五维、第二时间或 CSG 的 natural birth label。
 
-- 第一人称特殊性可以是真实的 perspectival fact；
-- 不同主体和不同时刻可以各自承载真实 standpoint-relative facts；
-- 现实无需进一步选出一个最终被特权化的主体或时刻。
-
-因此竞争关系已经升级成：
+更谨慎的顺序仍是：
 
 \[
-\text{唯一 absolute liveness}
+\mathcal R\rightarrow\Gamma^*\rightarrow w.
 \]
 
-对
+若未来采用 process ontology，\(w\) 还必须通过 gauge / covariance 检查，不能仅靠 total ordering 制造唯一性。
+
+## 15. 认识论限制
+
+目前最稳固的是现象学层面的不对称。尚未证明：
 
 \[
-\text{真实但多元的 standpoint-relative liveness}.
-\]
-
-绝对第一人称正方需要说明：把所有 standpoint facts 都纳入以后，仍然遗漏了哪项不可继续相对化的现实结构。
-
-## 12. 关于额外参数 \(w\)
-
-曾考虑引入 \(w\) 描述绝对经验的流逝：
-
-\[
-E^*(w)=\Gamma^*(w)
-\]
-
-当前暂不把 \(w\) 当作普通第五维或第二时间。若 \(w\) 自身也需要一个“当前 \(w\)”来实际化，就会把原问题提升一层。
-
-更有希望的顺序仍是：
-
-\[
-\mathcal R \rightarrow \Gamma^* \rightarrow w
-\]
-
-也就是先由完整现实决定唯一轨迹，再用 \(w\) 参数化该轨迹。
-
-## 13. 认识论限制
-
-目前最稳固的是现象学层面的不对称：当前经验具有直接在场性。
-
-尚未证明：
-
-\[
-\text{现象学不对称}\Rightarrow\text{唯一的本体论绝对中心}
+\text{现象学不对称}\Rightarrow\text{唯一的本体论绝对中心}.
 \]
 
 同样尚未证明：
 
 \[
-\text{全部真实 standpoint facts}\not\Rightarrow\text{完整第一人称现象}.
+\text{真实 standpoint facts + objective becoming}\not\Rightarrow\text{完整第一人称现象}.
 \]
 
-如果 \(L\) 对体验结构产生可辨认影响，需要进一步找出这种影响；如果完全没有可辨认差异，当前“绝对感”本身不能单独区分 \(\mathcal P\) 与 \(\mathcal P+L\)。
+如果 Process Pluralism 已经能够完整解释 live experience，那么唯一 absolute center 的解释必要性会进一步下降。
 
-因此正方当前最重要的任务，是找到一个**非循环、不可相对化、具有解释增益**的结构或事实。
-
-## 14. 下一阶段判据
+## 16. 当前下一阶段判据
 
 任何新模型优先接受以下检查：
 
 1. 是否通过自同构/对称性禁阻；
 2. 是否把“可区分”错误地当成“被特权化”；
 3. 是否通过 Privilege Bridge Requirement；
-4. 是否把 absolute liveness 偷偷相对化到每个 standpoint；
-5. 是否同时覆盖 I 与 NOW；
-6. 是否兼容相对论的坐标不变性；
-7. 是否在多元宇宙或复制情形中重新产生多个最终中心；
-8. 是否比 standpoint pluralism 多解释了真实现象；
-9. 是否只是把原问题搬到新的变量、维度或层级上。
+4. 是否真正解释 liveness 的生成；
+5. 是否进一步保证 global center uniqueness；
+6. 是否把 absolute liveness 相对化或复制到多个 standpoint / frontier event；
+7. 是否同时覆盖 I 与 NOW；
+8. 是否兼容相对论、gauge invariance 与坐标不变性；
+9. 是否在多元宇宙或复制情形中重新产生多个最终中心；
+10. 是否只是把原问题搬到新的变量、维度、过程或层级上。
