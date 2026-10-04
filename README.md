@@ -11,7 +11,19 @@
 - 同时处理主体与当前时刻的 I–NOW 不对称；
 - 检查相对论、多元宇宙、完全复制和精确对称下的理论约束；
 - 研究完整现实结构是否可能唯一决定一个绝对经验事件 \(E^*\) 或一条绝对经验轨迹 \(\Gamma^*\)；
-- 保留“绝对性只是普通第一人称结构产生的主观效果”这一竞争解释。
+- 用 standpoint pluralism 等强反方检验“唯一 absolute center”是否真的提供额外解释力。
+
+## 当前主线：Structural Selection Problem
+
+暂时把下一阶段核心问题写成：
+
+\[
+\mathcal R\Longrightarrow E^*\quad\text{或}\quad\mathcal R\Longrightarrow\Gamma^*.
+\]
+
+这里 \(\mathcal R\) 表示完整现实结构。研究目标是在不预设第一人称特权的情况下，判断现实能否**典范且唯一**地确定一个绝对经验事件或轨迹。
+
+目前已经得到一个必要约束：若选择规则纯粹由结构决定，它必须尊重 \(\mathcal R\) 的自同构；因此，被选中的 \(E^*\) 必须被所有相关自同构固定。即使这一对称性门槛通过，仍然存在“可区分性不等于特权”的第二道困难。
 
 ## 导航
 
@@ -28,12 +40,15 @@
 
 - [`research/questions/core-problems.md`](research/questions/core-problems.md) — 当前未决问题。
 - [`research/arguments/symmetry-pressure.md`](research/arguments/symmetry-pressure.md) — 多中心方案面对的对称性压力。
+- [`research/arguments/symmetry-obstruction.md`](research/arguments/symmetry-obstruction.md) — 结构性唯一选择面对的自同构禁阻。
+- [`research/arguments/standpoint-pluralism-challenge.md`](research/arguments/standpoint-pluralism-challenge.md) — 当前最强反方：真实但多元的 standpoint facts。
 - [`research/models/structural-selection.md`](research/models/structural-selection.md) — 从完整现实结构唯一确定 \(E^*\) / \(\Gamma^*\) 的模型框架。
 - [`research/models/w-flow.md`](research/models/w-flow.md) — \(w\) 流与元时间问题。
 
 ### 文献
 
 - [`literature/index.md`](literature/index.md) — 第一人称、自我定位、liveness、I–NOW、moving spotlight 等文献地图。
+- [`literature/lipman-2026-standpoints.md`](literature/lipman-2026-standpoints.md) — Martin Lipman 的 standpoint pluralism，作为当前最高优先级反方。
 
 ### 研究日志
 
