@@ -2,11 +2,11 @@
 
 > 状态：工作假说，不视为已证明结论。
 >
-> 最后更新：2026-10-05。本文件优先于旧 frontier。
+> 最后更新：2026-10-05。本文件优先于旧 frontier；详细论证保留在 `research/arguments/`。
 
-## 1. 核心研究对象
+## 1. 核心问题
 
-项目研究更强于 ordinary first-personhood 的可能性：
+项目研究比 ordinary first-personhood 更强的可能性：完整现实中是否存在唯一 simpliciter orientation：
 
 \[
 \exists!E^*\;AbsoluteOrientation(E^*),
@@ -18,47 +18,56 @@
 E^*=(s^*,p^*)
 \]
 
-优先理解成 conscious spacetime event / I–NOW locus。
+优先理解成一个 conscious spacetime event / I–NOW locus。
 
-多个其他主体必须仍 genuinely conscious：
+同时坚持：
 
 \[
 \exists S_i\neq S_j\;[Conscious(S_i)\land Conscious(S_j)].
 \]
 
-现在严格区分：
+即其他主体必须 genuinely conscious。
+
+当前最重要的纪律是持续区分：
 
 \[
-\boxed{\text{genuine consciousness}}
+\boxed{
+\text{consciousness}
+\neq
+\text{local first-person organization}
+\neq
+\text{phenomenal mineness}
+\neq
+\text{strong FP fact}
+\neq
+\text{absolute orientation}.}
 \]
 
-与：
-
-\[
-\boxed{\text{irreducible strong first-person facts}}.
-\]
-
-一个主体有真实 for-me-ness / first-personal givenness，不被直接定义成“该主体必然使 reality 包含一个 List/Fine 意义上的 irreducible FP fact”。这条桥本身是 substantive metaphysics。
+这些层级之间没有任何一条桥可以靠术语直接获得。
 
 ---
 
-## 2. Bridge A 已被拆成四步
+## 2. Bridge A 已拆成五层
 
-旧形式：
+旧问题：
 
 \[
 FirstPersonalGivenness
 \Rightarrow
-IrreducibleFirstPersonFact\ ?
+IrreducibleFirstPersonFact?
 \]
 
-现在结合 Zahavi、Guillot、List 更准确地写成：
+仍然太粗。
+
+当前 ladder：
 
 \[
 \boxed{
 Consciousness
-\xrightarrow{A_0}
-ForMeNess
+\xrightarrow{A_{0w}}
+SubjectInvolvement/Egocentricity
+\xrightarrow{A_{0s}}
+PhenomenalForMeNess
 \xrightarrow{A_1}
 Me/MineStructure
 \xrightarrow{A_2}
@@ -68,63 +77,140 @@ Irreducibility.
 }
 \]
 
-### A0 — Consciousness → For-me-ness
+### A0w — weak subject-involvement
 
-Zahavi 等给出很强 phenomenological support：conscious experience 不是 anonymous event，而以特殊方式给予其 subject。
+\[
+PhenConscious(E)
+\Rightarrow
+SubjectInvolving(E,S)?
+\]
 
-### A1 — For-me-ness → Me-ness / Mineness
+这里仅要求 experience 有 bearer、token anchoring、egocentric/perspectival organization 与 first-person accessibility。
 
-Guillot 2017 表明这不是概念必然。subject 对 experience 的特殊 awareness 不自动推出 subject 同时 awareness of self 或 awareness of ownership。
+当前状态：**comparatively robust**。
 
-### A2 — Me/Mine structure → Strong FP fact
+### A0s — strong phenomenal mineness
 
-目前最关键的开放箭头。丰富 mineness 可以被 relational、representational、acquaintance 或 perspectival-obtaining ontology 实现；尚未证明必须升级成 perspective-non-invariant fundamental fact。
+\[
+SubjectInvolving(E,S)
+\Rightarrow
+ForMe_{phen}(E,S)?
+\]
 
-### A3 — Strong FP fact → Irreducibility
+要求 lived experience 本身 phenomenally self-manifests as “for me / mine”。
 
-List 的 non-invariance argument 给这一步强 conditional support：若 genuine FP fact 随 subjective perspective shift 改变，而 third-person facts 固定，则它不 supervene on those third-person facts。
+2026 年已经有成熟正反架构：
 
-所以当前最稳判断：
+- Bogotá：embodied mineness + background agency；
+- Sá Pereira：egocentric registration + self-model 足以解释 relevant phenomena，无需 primitive phenomenal mineness；
+- Khan：psychedelic evidence 尚不足以提供 decisive counterexample。
+
+因此：
+
+\[
+\boxed{A_{0s}\text{ is an active dispute}.}
+\]
+
+### A1 — for-me → self/ownership
+
+Guillot 表明：
+
+\[
+ForMe
+\not\Rightarrow_{conceptual}
+MeNess/Mineness.
+\]
+
+### A2 — first-person structure → strong FP fact
+
+这是当前 fact-ontology 的主要开放桥：
+
+\[
+Me/Mine/DeSe
+\Rightarrow
+StrongFPFact?
+\]
+
+最新 `Representation–Fact Gap` 进一步说明，即使 first-person representation 本身不可还原，也不推出 fact ontology 必须 first-personal。
+
+### A3 — strong FP fact → irreducibility
+
+若接受 List 的 perspective-non-invariance criterion，则：
+
+\[
+StrongFPFact+PerspectiveNonInvariance
+\Rightarrow
+Irreducibility
+\]
+
+是目前很强的 conditional lemma。
+
+所以当前排序：
 
 \[
 \boxed{
-A_0\text{ strong};\quad A_1\text{ non-trivial};\quad A_2\text{ open};\quad A_3\text{ strong conditional}.
-}
+A_{0w}\text{ comparatively robust};
+\quad
+A_{0s}\text{ contested};
+\quad
+A_1\text{ non-trivial};
+\quad
+A_2\text{ deeply open};
+\quad
+A_3\text{ strong conditional}.}
 \]
-
-详见 [`../research/arguments/bridge-a-factorization.md`](../research/arguments/bridge-a-factorization.md)。
 
 ---
 
-## 3. Phenomenology 不再被允许直接决定 fact ontology
+## 3. Representation–Fact Gap
 
-固定主体的 ordinary phenomenal/cognitive profile：
+Perry-style essential-indexical theory给了一个关键 countermodel。
+
+可以同时有：
 
 \[
-P_S=\langle Qualia,ForMe,Me,Mine,Memory,Agency,Report,\ldots\rangle.
+\boxed{IrreducibleFirstPersonRepresentation}
 \]
 
-当前至少存在多种 coherent-looking metaphysical realizations：
+和：
 
-- relational phenomenal structure；
-- acquaintance / self-manifestation；
-- perspectival obtaining；
-- strong first-person fact realism。
+\[
+\boxed{OrdinaryImpersonalFactTruthmaker}.
+\]
 
-截至目前没有独立 phenotype \(X\) 被证明只在最后一种 realization 中可能。
+例如 `I am F` 的 cognitive significance 不能由第三人称 description 替换，但它仍可和 `Smith is F` 由同一个 worldly fact：
 
-因此当前工作结论：
+\[
+F(Smith)
+\]
+
+为真。
+
+所以：
 
 \[
 \boxed{
-\text{ordinary first-person phenomenology underdetermines fact-level metaphysics}.}
+IrreducibleFirstPersonRepresentation
+\not\Rightarrow
+IrreducibleFirstPersonFact.}
 \]
 
-这不证明 StrongFPR 错误；它提高了 Bridge A 的论证负担。
+List/Lipman 代表更强 positive ontology：perspective 不只属于 representation，而属于 facts / obtaining itself。
+
+因此 A2 的真正裁决点已经变成：
+
+\[
+\boxed{
+\text{为什么 first-personality 必须从 mode of representation 进入 mode of obtaining?}}
+\]
+
+不能再靠 essential indexicality、de se action、self-location、IEM 等 cognitive phenomena完成这一步。
+
+详见 [`../research/arguments/representation-fact-gap.md`](../research/arguments/representation-fact-gap.md)。
 
 ---
 
-## 4. Centering 的三层仍必须严格区分
+## 4. Centering 仍有三层
 
 ### Center in content
 
@@ -132,7 +218,7 @@ P_S=\langle Qualia,ForMe,Me,Mine,Memory,Agency,Report,\ldots\rangle.
 \langle W,c\rangle.
 \]
 
-center 是 fact/state content 的 constituent；容易发生 Constituent Collapse。
+center 是 state/content constituent。
 
 ### Perspectival obtaining
 
@@ -140,64 +226,51 @@ center 是 fact/state content 的 constituent；容易发生 Constituent Collaps
 Obtaining_c(W).
 \]
 
-perspective 属于 reality/fact 如何 obtain。Eker/Lipman 等给出成熟 world-side perspectival models。
+perspective 属于 reality/fact 怎样 obtain。
 
-但：
+### Singular absolute orientation
+
+\[
+\exists!c\;AbsoluteOrientation(R,c).
+\]
+
+关键结果仍是：
 
 \[
 \boxed{
 \text{perspectival obtaining}
 \not\Rightarrow
-\text{perspective singleton}.
-}
+\text{perspective singleton}.}
 \]
 
-### Singular absolute orientation
+即使 Lipman/Eker 式 world-side perspectivality成立，也可以自然 pluralize。
 
-项目真正需要：
-
-\[
-\boxed{
-\exists!c\;AbsoluteOrientation(R,c).
-}
-\]
-
-所以仍缺：
+所以 Bridge B 仍独立存在：
 
 \[
-\boxed{
-\text{perspectival obtaining}
-\to
-\text{singular absolute orientation}.
-}
+\boxed{Reality\Rightarrow\Omega(E^*)?}
 \]
 
 ---
 
-## 5. Relative First-Person Demotion 仍成立
+## 5. Relative First-Person Demotion
 
-若把：
-
-\[
-F_i^{FP}
-\]
-
-改写成：
+若把 strong first-person fact 改写成：
 
 \[
-\text{“there is a perspective }S_i\text{ from which }p_i\text{”},
+\text{“there is a standpoint }S_i\text{ from which }p_i\text{”}
 \]
 
-并让这些 statements 在所有 perspective shifts 下同样成立，它们按 List 的判准已经变成 third-personal meta-facts。
+并让这句话从所有 standpoints 都同样为真，它就可能只是 third-personal meta-fact。
 
 所以：
 
 \[
 \boxed{
-\text{relativizing enough to regain compossibility may demote strong FP facts}.}
+\text{relativizing enough to regain global compossibility may demote strong FP facts}.}
 \]
 
-不能靠一个 `relative` 下标免费保留：
+不能靠一个 `rel` 下标免费保留：
 
 \[
 StrongFPR+NonSolipsism+OneWorld+NonFragmentation.
@@ -205,56 +278,111 @@ StrongFPR+NonSolipsism+OneWorld+NonFragmentation.
 
 ---
 
-## 6. 新的 control theory：N-W
+## 6. Neutral One-World 已成为主要 control
 
-此前矩阵漏掉了最重要的最近反方。
-
-### Neutral One-World Baseline
+旧 bare baseline：
 
 \[
-\boxed{
 N\text{-}W:
 OM+Phen+1W+NF+\neg StrongFPR+\neg Abs.
-}
 \]
 
-也就是：
+现在又得到 constructive versions。
 
-- many genuinely conscious subjects；
-- real ordinary first-person phenomenology；
-- one coherent non-fragmented world；
-- no universal strong FP facts；
-- no absolute orientation。
-
-这正对应 List quadrilemma 中“放弃 first-person realism、保留 non-solipsism + non-fragmentation + one world”的 horn，也接近许多 standard analytic consciousness theories 的结构。
-
-N-W 不是否认 consciousness，也不否认 for-me-ness。它只拒绝两次额外 ontologization：
+### N-W\(_{thin}^+\)
 
 \[
-Phen\to StrongFPR
+Consciousness
++
+SubjectInvolvement
++
+OriginTracking/EgocentricRegistration
++
+SelfModel
++
+\neg StrongFPR
++
+\neg Abs.
+\]
+
+它承认 robust local first-person organization，却不 postulate primitive phenomenal mineness。
+
+### N-W\(_{thick}^+\)
+
+在 thin common core 上再接受：
+
+\[
+\forall i\;ForMe_{phen}(E_i,S_i),
+\]
+
+甚至 embodied mineness / background agency，仍拒绝：
+
+\[
+\forall i\;StrongFPFact_i
 \]
 
 和：
 
 \[
-Reality\to Abs.
+\exists!AbsoluteOrientation.
 \]
 
-详见 [`../research/models/neutral-one-world-baseline.md`](../research/models/neutral-one-world-baseline.md)。
+因此：
+
+\[
+\boxed{
+\text{even thick lived first-personality can naturally pluralize}.}
+\]
+
+这是当前 absolute theory 的最强 closest foil 之一。
 
 ---
 
-## 7. Theory matrix 现在是二维的
+## 7. Constructive N-W+ 的作用边界
 
-### Axis A — ordinary first-person ontology
+Sawyer-style origin tracking 可以解释：
+
+- local subject individuation；
+- self/external discrimination；
+- egocentric organization；
+- de se architecture；
+- agency frame；
+- some continuity structure。
+
+但：
 
 \[
-WeakFactOntology
-\quad vs\quad
-StrongFPR.
+\boxed{
+OriginTracking
+\not\Rightarrow_{established}
+PhenomenalConsciousness/ForMeNess.}
 \]
 
-### Axis B — absolute orientation
+需要独立 consciousness / psychophysical interface。
+
+这一缺口属于 N-W 与 A-W 的 common core；除非 \(\Omega\) 本身解释 consciousness，否则不能拿 common-core hard problem 当 absolute theory 的证据。
+
+这形成：
+
+\[
+\boxed{\text{Common-Core Deficit Principle}.}
+\]
+
+---
+
+## 8. 当前 theory matrix
+
+现在有两条主要轴：
+
+### ordinary FP ontology
+
+\[
+Weak/Representational/Phenomenal
+\quad vs\quad
+StrongFactRealism
+\]
+
+### absolute axis
 
 \[
 \neg Abs
@@ -264,199 +392,207 @@ Abs.
 
 主要 packages：
 
-### N-W
+- **N-W thin/thick**：one coherent world，无 absolute orientation；
+- **A-W**：N-W common core + \(\Omega\)；
+- **P-F**：strong FPR + fragmentalism，无 \(\Omega\)；
+- **P-MW**：strong FPR + many centred worlds，无 \(\Omega\)；
+- **A-F / A-MW**：strong ordinary-FP architecture 再加 \(\Omega\)；
+- **D-***：尝试由 independent structure 推导 \(\Omega\)。
 
-\[
-(Weak,\neg Abs).
-\]
-
-### A-W
-
-\[
-(Weak,Abs).
-\]
-
-### P-F / P-MW
-
-\[
-(Strong,\neg Abs).
-\]
-
-### A-F / A-MW
-
-\[
-(Strong,Abs).
-\]
-
-### D-*
-
-任何 ordinary layer 上再尝试：
-
-\[
-D\Rightarrow\Omega(E^*).
-\]
-
-这样两座桥终于完全解耦。
-
-详见 [`../research/models/endgame-theory-matrix.md`](../research/models/endgame-theory-matrix.md)。
+Bridge A 与 Bridge B 因而彻底分离。
 
 ---
 
-## 8. A-W / Minimal Absolute Opening 仍是最干净正方
+## 9. A-W / Minimal Absolute Opening
 
-A-W：
-
-\[
-ManyConsciousSubjects+LocalFPPhen+OneWorld+NonFragmentation+\Omega.
-\]
-
-其中：
+当前最干净正方仍是：
 
 \[
 \boxed{\Omega[R;E^*]}
 \]
 
-是 complete actuality 的 primitive singular orientation mode。
+其中 complete actuality 本身以一个 conscious event 为 singular I–NOW orientation。
 
 identity thesis：
 
 \[
 \boxed{
-WorldActuality=AbsoluteI=AbsoluteNOW=\Omega.
-}
+WorldActuality=AbsoluteI=AbsoluteNOW=\Omega.}
 \]
 
-其他 subjects 仍真的痛、看见颜色、有 for-me-ness、自我定位和 lived continuity。
+它可以放在 N-W\(_{thin}^+\) 或 N-W\(_{thick}^+\) 上。
 
-A-W 的准确代价是：
+所以 A-W 不必否认：
+
+- other minds；
+- local subjectivity；
+- de se cognition；
+- thick lived mineness。
+
+它额外声称的是：
 
 \[
-\boxed{\text{Fact-Level First-Person Inegalitarianism}.}
+\boxed{
+\text{one already-real local center is also reality-simpliciter oriented}.}
 \]
 
-不是 denial of other minds。
-
-但 A-W 现在必须主要和 N-W 比，而不是只和 P-F/P-MW 比。
+该额外声称目前仍 primitive。
 
 ---
 
-## 9. Closest-foil correction：A-W 最大优势被削弱
+## 10. Closest-foil correction
 
-此前 A-W 看起来可以说：
+A-W 不能再用：
 
-> 如果不用 absolute one-world，就得付 fragmentation / many-world cost。
+> “否则就必须 fragment reality / many worlds”
 
-这个说法现在被 N-W 阻断。
+为自己的 absolute layer辩护。
 
 因为：
 
 \[
-\boxed{
-N\text{-}W\text{ 也保留 one coherent world，而且不需要 }\Omega.
-}
+\boxed{N\text{-}W\text{ already provides one coherent world without }\Omega.}
 \]
 
-最直接地：
+最直接 comparison：
 
 \[
 T_{AW}=T_{NW}+\Omega.
 \]
 
-所以检验 absolute layer 时，真正问题是：
+所以 Bridge B 的问题被压成：
 
 \[
 \boxed{
-\text{same conscious one-world reality why needs }\Omega?
-}
+\text{同一个已经有意识、有 local subjectivity 的 one-world reality，为什么还需要 }\Omega?}
 \]
-
-Fragment/MW cost 只属于 Bridge A 的 strong-FPR 争论，不能再替 Bridge B 辩护。
 
 ---
 
-## 10. Absolute Orientation 的 epistemic no-go
+## 11. Absolute-Orientation Epistemic No-Go
 
-若 orientation hypotheses：
+若 orientation variants：
 
 \[
 H_i=K+\Omega(E_i)
 \]
 
-共享全部 evidence-bearing common core，并且：
+共享全部 evidence-bearing facts，并且：
 
 \[
-P(e\mid H_i)=P(e\mid H_j)
+P(e\mid H_i)=P(e\mid H_j),
 \]
 
-对任意 evidence \(e\) 成立，则：
+则：
 
 \[
 BF_{ij}(e)=1.
 \]
 
-因此 ordinary evidence 不改变不同 orientation hypotheses 的 prior odds。
+普通 evidence 无法 discriminatively选择哪个 center bears \(\Omega\)。
 
-暂称：
-
-\[
-\boxed{\text{Absolute-Orientation Likelihood Indifference (AOLI)}.}
-\]
-
-这不是说 priors 必须相等，也不是说 \(\Omega\) 不存在。
-
-它说：如果 \(\Omega\) 对 phenomenology、cognition、memory、reports、introspection 等全部 evidence channels inert，那么 ordinary evidence 不能 discriminatively确认哪个 center bears \(\Omega\)。
-
-详见 [`../research/arguments/absolute-orientation-epistemic-no-go.md`](../research/arguments/absolute-orientation-epistemic-no-go.md)。
-
----
-
-## 11. Absolute-Orientation Epistemic Trilemma
-
-若 absolute status 还要求 first-person knowability，大体三条路线：
-
-### E1 — inert
-
-\[
-\Omega\not\Rightarrow\Delta Evidence.
-\]
-
-结果：AOLI / epistemic silence。
-
-### E2 — locally active
-
-\[
-\Omega\Rightarrow Sig_{local}(E^*).
-\]
-
-必须找到 unique non-replicating mental signature；否则 perfect duplicates 复制 signature。
-
-### E3 — sui generis absolute acquaintance
-
-\[
-Acq_{abs}(S^*,\Omega).
-\]
-
-可以给 knowledge，但 epistemology 本身增加 absolute-sensitive primitive relation；来源问题只是迁移。
-
-因此：
+因此 absolute epistemology 仍面对：
 
 \[
 \boxed{
-\text{silence}
+\text{evidential silence}
 \;|\;
-\text{unique mental signature}
+\text{unique non-replicating mental signature}
 \;|\;
-\text{primitive absolute acquaintance}.
-}
+\text{primitive absolute acquaintance}.}
 \]
 
-Builes 的 skeptical-objection reply 明确属于 E2：privileged subject 若有不同 mental states，可以通过 self-knowledge 知道 privilege。
+这不证明 \(\Omega\) 不存在；它限制从普通“绝对感”到 orientation identity 的证据链。
 
 ---
 
-## 12. Derived route 的门槛不变
+## 12. Residual / Explanatory Delta
 
-任何 non-primitive theory 仍必须通过：
+对 absolute layer 的当前 gold-standard test：
+
+寻找 independently specified：
+
+\[
+X
+\]
+
+使：
+
+\[
+Independent(X)
+\land
+T_{NW}\not\models X
+\land
+T_{AW}\models X.
+\]
+
+已经测试过：
+
+- for-me-ness；
+- felt presence；
+- I–NOW coupling；
+- temporal passage；
+- actuality；
+- one-world coherence；
+- duplication；
+- fission；
+- prudential asymmetry；
+- “为什么这个人/时代”；
+- ineffability；
+- primitive presence。
+
+截至当前仍没有一个 independent residual 稳定通过。
+
+---
+
+## 13. Two-Stage Explanatory Discipline
+
+现在 ordinary subjectivity 与 absolute orientation 都出现同一种结构。
+
+第一阶段：
+
+\[
+K_0
+\to
+K_0+M
+\]
+
+其中 \(M\) 可是 primitive phenomenal mineness。
+
+第二阶段：
+
+\[
+K_0+M
+\to
+K_0+M+\Omega.
+\]
+
+每一步都必须单独 earning explanatory keep：
+
+\[
+\Delta E(M)>0
+\]
+
+不能自动支持：
+
+\[
+\Delta E(\Omega)>0.
+\]
+
+反之，即使 thin theory 最终无法解释 lived mineness，那个 common-core gap 也不会自动支持 \(\Omega\)。
+
+所以以后禁止：
+
+\[
+\boxed{
+\text{用 local subjectivity 的未决问题给 global absolute orientation 代偿举证}.}
+\]
+
+---
+
+## 14. Derived route
+
+若要 non-primitive absolute theory，仍必须通过：
 
 \[
 \boxed{
@@ -466,23 +602,10 @@ IndependentDefinability
 \to
 PrivilegeSemantics
 \to
-NonPluralizability.
-}
+NonPluralizability.}
 \]
 
-现有 candidates 分别被：
-
-- symmetry；
-- local duplication；
-- process-to-center；
-- priority-liveness gap；
-- global-section-center gap；
-- universal-property manifestation dilemma；
-- instantiation-actuality gap；
-- obtaining-mode pluralization；
-- stochastic why-this-one / bridge gap
-
-挡住。
+现有 candidates 被 symmetry、duplication、process-to-center、priority-liveness、global-section、universal-property、instantiation-actuality、obtaining-mode pluralization、stochastic why-this-one 等压力阻断。
 
 所以：
 
@@ -490,142 +613,24 @@ NonPluralizability.
 D\Rightarrow\Omega
 \]
 
-仍是 highest-payoff but unfinished route。
+仍是最高潜在解释收益、最低当前完成度的路线。
 
 ---
 
-## 13. Residual Fact Exhaustion 现在要对 N-W 重做最近比较
+## 15. 当前 abductive verdict
 
-此前 strongest pluralist test 已检查：
+### Bridge A / ordinary subjectivity axis
 
-- for-me-ness；
-- felt presence；
-- non-relational current experience；
-- I–NOW coupling；
-- passage；
-- actuality；
-- one world/coherence；
-- duplication；
-- fission；
-- prudential asymmetry；
-- “为什么这个人/时代”；
-- ineffability；
-- primitive presence。
+仍开放，而且现在比以前更细：
 
-目前没有：
+- A0s 本身已有成熟正反 theory；
+- A2 又有 Perry vs List/Lipman 的 Representation–Fact Gap。
 
-\[
-Independent(X)
-\land
-Pluralism\not\models X
-\land
-AbsoluteTheory\models X.
-\]
+因此 universal StrongFPR 的论证负担明显增加。
 
-N-W 比 strong pluralism 更接近 A-W，因此 criterion 应进一步收紧成：
+### Bridge B / absolute axis
 
-\[
-\boxed{
-Independent(X)
-\land
-T_{NW}\not\models X
-\land
-T_{AW}\models X.
-}
-\]
-
-截至目前仍没有找到这样的 \(X\)。
-
----
-
-## 14. Absolute-Layer Surplus Pressure
-
-对 primitive inert \(\Omega\)，当前同时有：
-
-1. no independent residual explanandum；
-2. no discriminating ordinary evidence；
-3. no successful derivation；
-4. no demonstrated replacement of an equally costly N-W primitive。
-
-因此 \(\Omega\) 当前面临：
-
-\[
-\boxed{\text{Surplus Structure Pressure}.}
-\]
-
-这不是 eliminability theorem，也不推出：
-
-\[
-\neg\Omega.
-\]
-
-它是 abductive verdict：A-W 当前比 N-W 多一个尚未 earning explanatory keep 的 primitive orientation。
-
-详见 [`../research/arguments/absolute-layer-surplus-pressure.md`](../research/arguments/absolute-layer-surplus-pressure.md)。
-
----
-
-## 15. OIP 的 unification 优势必须重新记账
-
-OIP：
-
-\[
-WorldActuality=AbsoluteI=AbsoluteNOW=\Omega.
-\]
-
-仍是强统一模型。
-
-但 compression 只能计算双方都 independently need 的 explananda。
-
-N-W 不必先承认：
-
-\[
-AbsoluteI
-\]
-
-或：
-
-\[
-AbsoluteNOW
-\]
-
-作为 primitives，甚至不必把 actuality 当成额外 unary property。
-
-所以不能：
-
-1. 先由 A-W 引入三种 absolute explananda；
-2. 再把三者 identity；
-3. 然后把“统一了三个事实”当作独立 evidence。
-
-这就是：
-
-\[
-\boxed{\text{Common-Explananda Compression Requirement}.}
-\]
-
----
-
-## 16. 当前 abductive verdict 已经改变
-
-旧 verdict：
-
-\[
-\text{evidential underdetermination + architecture-cost trade-off}.
-\]
-
-现在应分轴判断。
-
-### Bridge A / Strong-FPR axis
-
-N-W vs P-F/P-MW：仍是开放的 metaphysical-fidelity / architecture-cost trade-off。
-
-Guillot 让 Bridge A 更难，因为 for-me-ness 到 me/mineness 本身都不是概念必然，更不用说直接到 strong facts。
-
-### Bridge B / Absolute axis
-
-N-W vs primitive inert A-W：当前存在明显 abductive non-symmetry。
-
-因为：
+N-W vs primitive inert A-W 当前存在 non-symmetry：
 
 \[
 T_{AW}=T_{NW}+\Omega
@@ -634,7 +639,7 @@ T_{AW}=T_{NW}+\Omega
 而：
 
 - independent residual 未找到；
-- epistemic signature 未找到；
+- ordinary discriminating evidence 未找到；
 - derived source 未找到；
 - genuine replacement/compression 未证明。
 
@@ -642,143 +647,142 @@ T_{AW}=T_{NW}+\Omega
 
 \[
 \boxed{
-N\text{-}W\text{ has a prima facie abductive advantage over primitive inert A-W.}
-}
+N\text{-}W\text{ has a prima facie abductive advantage over primitive inert A-W}.}
 \]
 
-这是目前项目第一次在 absolute axis 上得到比“双方都可能”更强的比较结论。
+这仍不是：
 
-它仍不是 absolute-first-person 不存在的证明。
+\[
+\neg AbsoluteOrientation
+\]
+
+的证明。
 
 ---
 
-## 17. 什么能让 absolute theory 翻盘
-
-至少需要一种突破：
-
-### Residual discovery
-
-找到：
+## 16. OIP 的当前定位
 
 \[
-Independent(X)
+WorldActuality=AbsoluteI=AbsoluteNOW=\Omega
 \]
 
-且：
+仍是目前最优雅的 primitive positive model。
+
+但其 unification benefit 只能计算双方 independently recognize 的 explananda。
+
+不能：
+
+1. 先 postulate `AbsoluteI`、`AbsoluteNOW`、centered actuality；
+2. 再 identify 三者；
+3. 把统一自己引入的 explananda 当作独立 evidence。
+
+因此继续受：
 
 \[
-N\text{-}W\not\models X,
-\qquad
-A\text{-}W\models X.
+\boxed{\text{Common-Explananda Compression Requirement}.}
 \]
-
-### Bridge B
-
-找到 independently motivated：
-
-\[
-D\Rightarrow\Omega(E^*).
-\]
-
-### Epistemic signature
-
-找到 non-replicating、truth-sensitive：
-
-\[
-Evidence(\Omega(E^*)).
-\]
-
-### Real replacement
-
-证明 \(\Omega\) 真正替代 N-W 已必须承担的 primitive，并降低总理论成本。
-
-如果四条都长期失败，primitive absolute orientation 会越来越接近 surplus metaphysical structure。
 
 ---
 
-## 18. 当前真正剩下的研究顺序
+## 17. 当前研究顺序
 
-### 第一优先：完成 Bridge A 审计
+现在只值得沿窄路径继续：
 
-尤其攻击：
+### 1. 继续攻击 A2
 
 \[
-Me/MineStructure\Rightarrow StrongFPFact?
+\boxed{
+\text{representation/access}
+\to
+\text{world-side subjective fact?}}
 \]
 
-### 第二优先：N-W vs A-W residual test
+重点寻找 `Truth/Obtaining Delta`，而不再搜 ordinary first-person cognition。
 
-不再用 strong pluralism 做唯一反方。
+### 2. N-W thin vs thick
 
-### 第三优先：Epistemic signature search
+找有没有 independently identified phenomenon 迫使：
 
-检查是否存在不 local-replicate 的 absolute-sensitive evidence。
+\[
+EgocentricOrganization
+\to
+PhenomenalMineness.
+\]
 
-### 第四优先：Bridge B
+但这一争论不能被拿来替 \(\Omega\) 举证。
 
-只有在找到 independent explanatory target 后，再继续投入复杂 global derivation。
+### 3. Bridge B residual
 
-不再横向制造 selector。
+继续寻找 N-W 真正遗漏的 independent fact / evidence / structure。
+
+### 4. Derived \(\Omega\)
+
+只有发现独立 target 后，再投入复杂 selector / dynamics。
+
+暂不优先研究 death-transfer、\(\Gamma^*\)、额外参数 \(w\)、随机 center 等下游问题。
 
 ---
 
-## 19. 当前总判断
+## 18. 当前总判断
 
-目前最稳的几条结果：
+目前最稳的结果可以压成六句：
 
 \[
 \boxed{
-\text{first-personality can be deep / obtaining-level without being absolute}
-}
+\text{deep first-personality can exist without absolute singleton}.}
 \]
 
 \[
 \boxed{
-\text{strong first-person plurality cannot be made globally coherent merely by standpoint-labeling it}
-}
+\text{local subjectivity itself has thin and thick metaphysical readings}.}
 \]
 
 \[
 \boxed{
-\text{for-me-ness does not by itself settle self/mineness, much less fact-level metaphysics}
-}
+\text{irreducible first-person representation does not force irreducible first-person fact}.}
 \]
-
-以及最新的：
 
 \[
 \boxed{
-\text{one coherent world does not itself motivate an absolute orientation, because N-W already supplies that architecture}.}
+\text{strong FP plurality cannot be made globally coherent merely by standpoint-labeling it}.}
 \]
 
-所以当前 theory ranking 是：
+\[
+\boxed{
+\text{one coherent conscious world does not itself motivate }\Omega.}
+\]
 
-- **N-W**：当前 absolute-axis control baseline，prima facie abductive leader；
-- **A-W / MAO**：coherent, elegant, but currently surplus-pressured positive ontology；
-- **P-F / P-MW**：若 Bridge A 最终为真，则成为 strongest nonabsolute strong-FPR options；
+以及：
+
+\[
+\boxed{
+\text{the absolute realist now owes an independent Truth/Obtaining or Absolute-Orientation delta}.}
+\]
+
+当前 ranking：
+
+- **N-W thin/thick**：absolute-axis closest controls，prima facie abductive leaders；
+- **A-W / MAO**：coherent、elegant、但 surplus-pressured；
+- **P-F / P-MW**：若 A2 最终关闭，则是 strongest nonabsolute StrongFPR options；
 - **D-***：若 Bridge B 成功，则可能成为最强 explanatory absolute theory。
 
-项目仍未证明：
-
-\[
-\neg AbsoluteOrientation.
-\]
-
-但已经把正方的举证责任压到一个非常窄的位置：
+项目仍未证明 absolute first-person 不存在；但正方的举证责任已经被压缩到：
 
 \[
 \boxed{
-\text{找到 N-W 真正遗漏的 independent fact / evidence / structure。}
+\text{找到 neutral one-world controls 真正遗漏的 independent world-side fact。}
 }
 \]
 
 ## 最新入口
 
+- [`../research/arguments/a0-subjectivity-universalism-audit.md`](../research/arguments/a0-subjectivity-universalism-audit.md)
 - [`../research/arguments/bridge-a-factorization.md`](../research/arguments/bridge-a-factorization.md)
-- [`../literature/guillot-2017-i-me-mine.md`](../literature/guillot-2017-i-me-mine.md)
-- [`../research/models/neutral-one-world-baseline.md`](../research/models/neutral-one-world-baseline.md)
+- [`../research/arguments/representation-fact-gap.md`](../research/arguments/representation-fact-gap.md)
+- [`../research/models/constructive-neutral-one-world.md`](../research/models/constructive-neutral-one-world.md)
+- [`../literature/sa-pereira-2026-for-me-ness-critique.md`](../literature/sa-pereira-2026-for-me-ness-critique.md)
+- [`../literature/bogota-2026-embodied-mineness.md`](../literature/bogota-2026-embodied-mineness.md)
+- [`../literature/perry-lipman-representation-fact-gap.md`](../literature/perry-lipman-representation-fact-gap.md)
 - [`../research/arguments/absolute-orientation-epistemic-no-go.md`](../research/arguments/absolute-orientation-epistemic-no-go.md)
-- [`../literature/builes-2024-center-indifference-epistemic.md`](../literature/builes-2024-center-indifference-epistemic.md)
 - [`../research/arguments/absolute-layer-surplus-pressure.md`](../research/arguments/absolute-layer-surplus-pressure.md)
-- [`../research/models/endgame-theory-matrix.md`](../research/models/endgame-theory-matrix.md)
 - [`../research/models/minimal-absolute-opening.md`](../research/models/minimal-absolute-opening.md)
