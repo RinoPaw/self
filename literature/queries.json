@@ -29,6 +29,13 @@
       "sources": ["openalex", "s2", "crossref"]
     },
     {
+      "name": "reality-monism-meta-perspective",
+      "query": "metaphysical perspectival pluralism reality monism fundamental perspectives meta perspective",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
       "name": "subjective-facts-consciousness",
       "query": "subjective facts consciousness metaphysical standpoint feltness first person",
       "semantic": true,
@@ -66,6 +73,41 @@
     {
       "name": "symmetry-structural-selection",
       "query": "symmetry automorphism invariance structural individuation canonical selection",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "grounding-first-person-priority",
+      "query": "metaphysical grounding fundamentality priority presentism first person privilege consciousness",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "causal-set-becoming",
+      "query": "causal set sequential growth becoming passage time birth spacetime atoms",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "causal-set-consciousness",
+      "query": "causal set quantum gravity consciousness live experience birth process Dowker",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "process-liveness-actuality",
+      "query": "process metaphysics becoming actuality liveness consciousness temporal passage",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "coevent-evolving-reality",
+      "query": "quantum measure coevent evolving reality single history causal set",
       "semantic": true,
       "limit": 20,
       "sources": ["openalex", "s2", "crossref"]
