@@ -22,6 +22,7 @@
     {"name":"psychophysical-laws-consciousness","query":"psychophysical laws physical states conscious experience naturalistic dualism organizational invariance functional duplication","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
     {"name":"single-mind-quantum","query":"single mind interpretation quantum mechanics determinate mental state stochastic mental dynamics Albert Loewer Barrett","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
     {"name":"global-first-person-selection","query":"global first person observer selection unique conscious center psychophysical law self location consciousness","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
+    {"name":"liang-first-person-actuality","query":"Chuming Liang first person actuality Nagai actual I public language selection reassignment grounding","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
     {"name":"quantum-non-solipsism","query":"quantum mechanics non solipsism one observer first person realism heptalemma consciousness","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
     {"name":"subjective-facts-consciousness","query":"subjective facts consciousness metaphysical standpoint feltness first person","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
     {"name":"many-worlds-consciousness","query":"many worlds theory consciousness first personally centred worlds first person realism","semantic":true,"limit":20,"sources":["openalex","s2","crossref"]},
