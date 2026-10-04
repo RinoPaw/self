@@ -2,11 +2,11 @@
 
 > 状态：当前理论空间对照表。
 >
-> 目的：在 `Obtaining-Mode Pluralization`、`Strong Pluralist Exhaustion Test` 与 `Relative First-Person Demotion` 之后，停止把“pluralism”和“absolute realism”各自压成单一方案。
+> 重要修正：加入 **N-W — Neutral One-World Baseline**。它是 A-W 的最近反方，也是检验 absolute layer 是否有独立解释价值的 control theory。
 
 ## 1. 评价维度
 
-当前至少要分开以下承诺：
+当前至少分开：
 
 - **OM** — 多个 genuine conscious subjects；
 - **Phen** — 每个主体都有 ordinary first-person phenomenology / for-me-ness；
@@ -15,13 +15,76 @@
 - **NF** — non-fragmentation / global compossibility；
 - **Abs** — one simpliciter absolute orientation；
 - **Derived** — Abs 是否由 independent structure 推导；
-- **Primitive cost** — 是否新增 primitive metaphysical structure；
-- **Fragment/MW cost** — 是否需要 fragments 或 many first-person worlds；
-- **Residual support** — 是否已有 independent residual fact 迫使该额外结构。
+- **Primitive cost**；
+- **Fragment/MW cost**；
+- **Residual support** — 是否有 independently identified explanandum 迫使额外结构。
+
+这几个维度中最重要的两条独立轴是：
+
+\[
+\boxed{Phenomenology\Rightarrow StrongFPR?}
+\]
+
+与：
+
+\[
+\boxed{Reality\Rightarrow AbsoluteOrientation?}
+\]
 
 ---
 
-## 2. P-F — Fragmentalist Pluralism
+## 2. N-W — Neutral One-World Baseline
+
+核心：
+
+\[
+\boxed{
+OM+Phen+1W+NF+\neg StrongFPR+\neg Abs.
+}
+\]
+
+N-W 保留：
+
+- many genuinely conscious subjects；
+- real pains / colours / emotions；
+- for-me-ness / first-personal givenness；
+- ordinary self-location / memory / agency；
+- one coherent non-fragmented world。
+
+它只拒绝：
+
+- universal List/Fine-style strong first-person facts；
+- one further simpliciter absolute orientation。
+
+List 的 quadrilemma明确把这类结构作为正式 horn：放弃 first-person realism，同时保留 non-solipsism、non-fragmentation 与 one world。多数标准 analytic theories of consciousness 至少在 List 的 framing 下落在这个 family。
+
+### 价值
+
+N-W 是两座桥都回答“No”的 control theory：
+
+\[
+Phen\not\Rightarrow StrongFPR,
+\]
+
+\[
+Reality\not\Rightarrow Abs.
+\]
+
+它不需要 fragment / many-world machinery，也不需要 \(\Omega\)。
+
+### 当前压力
+
+若 Baker / List/Fine 式 strong fact realism最终证明 Bridge A，则 N-W 被淘汰。
+
+若 independent residual fact 或 Bridge B 最终证明 Abs，则 N-W 也被淘汰。
+
+当前两项都尚未完成。
+
+详见 [`neutral-one-world-baseline.md`](neutral-one-world-baseline.md)。
+
+---
+
+## 3. P-F — Fragmentalist Pluralism
 
 核心：
 
@@ -29,26 +92,24 @@
 StrongFPR+OM+1W+\neg NF+\neg Abs.
 \]
 
-每个主体都保留 genuine irreducible first-person facts；不选择一个最终 privileged standpoint。
+每个主体都有 genuine irreducible first-person facts；现实不朝任何 single perspective 最终定向。
 
 优点：
 
-- 最大程度保留 universal strong FPR；
-- 不需要 absolute orientation；
-- Lipman / Fine / Calosi–Iaquinto–Loss 提供成熟邻近架构；
-- 能把 I / NOW / passage 放入 standpoint / fragment structure。
+- universal strong FPR；
+- subject-level metaphysical parity；
+- Fine / Lipman / fragmentalist literature 有成熟架构。
 
 代价：
 
-- reality 不能被一个全局 compossible fact-set 穷尽；
-- 需要 fragment / metaphysical-relativity machinery；
-- “one world” 的 unity 必须在 fragment structure 下重新说明。
+- incompatible facts require fragmentation / metaphysical relativity；
+- global world-unity 需要重解释。
 
-当前证据：没有 independent residual fact 迫使它再加入 \(\Omega\)。
+它相对 N-W 多付出的结构，是对 Bridge A 的肯定回答。
 
 ---
 
-## 3. P-MW — Many-World First-Person Realism
+## 4. P-MW — Many-World First-Person Realism
 
 核心：
 
@@ -56,61 +117,69 @@ StrongFPR+OM+1W+\neg NF+\neg Abs.
 StrongFPR+OM+NF+\neg1W+\neg Abs.
 \]
 
-不同 first-personally centred worlds 分别承载不同 subject facts。
+不同 first-personally centred worlds 分别承载不同 subjects 的 strong first-person facts。
 
 优点：
 
-- strong FPR for all；
-- 每个 centred world 内可以保持 coherence；
-- List 的 many-world solution 有直接成熟模板。
+- universal strong FPR；
+- each centered world locally coherent；
+- List 有直接成熟模板。
 
 代价：
 
 - 放弃 one world；
-- 需要解释 centred worlds 与共享 objective structure 的关系；
-- ontological multiplication 明显。
-
-当前证据：同样没有 independent residual fact 迫使再 privilege 一个 world/center。
+- ontological multiplication；
+- 需要解释 centered worlds 与共享 objective structure 的关系。
 
 ---
 
-## 4. A-W — Absolute One-World / Weak Ordinary-FP
+## 5. A-W — Absolute One-World / Weak Ordinary-FP
 
 核心：
 
 \[
-OM+Phen+1W+NF+Abs
+OM+Phen+1W+NF+Abs+\neg UniversalStrongFPR.
 \]
 
-但：
+所有 subjects genuinely conscious；只有一个 simpliciter absolute orientation：
 
 \[
-\neg UniversalStrongFPR.
+\Omega[R;E^*].
 \]
-
-所有其他主体 genuinely conscious，拥有 ordinary first-person phenomenology；只有一个 absolute orientation。对 nonabsolute subjects 的第一人称 structure 可以被 objective / relational / contextual facts完整描述，而不承诺 List/Fine 意义上的 irreducible FP fact。
 
 优点：
 
 - one coherent world；
 - other minds fully conscious；
-- primitive Minimal Absolute Opening 可以非常简洁；
-- 不需要 fragment / many-world machinery；
-- I / NOW / actuality 可以由一个 \(\Omega\) primitive 统一。
+- no fragment / many-world cost；
+- Minimal Absolute Opening 可把 actual world / I / NOW 压成一个 primitive orientation kind。
 
 代价：
 
-- 明确是 first-person metaphysical inegalitarianism；
-- 其他主体的 strong first-person fact status 被削弱；
+- Fact-Level First-Person Inegalitarianism；
 - \(\Omega\) 目前没有 independent residual evidence；
-- phenomenal-inert 版本认识论沉默；
+- default inert version faces epistemic silence；
 - why-this-one brute。
 
-这是目前 **最干净的 absolute one-world package**，但它比项目早期“everyone has strong ordinary FP facts”弱。
+### 关键新比较
+
+A-W 的最近反方不是 P-F/P-MW，而是：
+
+\[
+\boxed{N\text{-}W.}
+\]
+
+最直接地：
+
+\[
+T_{AW}=T_{NW}+\Omega.
+\]
+
+所以 A-W 不能以“否则必须 fragmentation / many worlds”为 \(\Omega\) 辩护。N-W 已经保留 one coherent world 而没有 \(\Omega\)。
 
 ---
 
-## 5. A-F — Absolute + Fragmentalist Strong-FPR
+## 6. A-F — Absolute + Fragmentalist Strong-FPR
 
 核心：
 
@@ -118,24 +187,15 @@ OM+Phen+1W+NF+Abs
 StrongFPR+OM+1W+\neg NF+Abs.
 \]
 
-先用 fragmentalism 保留每个主体的 irreducible FP facts，再额外规定一个 fragment / standpoint / opening 是 simpliciter absolute。
+先保留所有 subjects 的 strong FP facts，再额外 privilege one orientation。
 
-优点：
+优点：最大程度忠实于“many strong first-persons + one further absolute first-person”。
 
-- 最忠实于项目最初强直觉：many genuine strong first-persons + one further absolute first-person；
-- 不需要 demote other subjects 的 strong first-person facts。
-
-代价：
-
-- 同时支付 fragmentalist cost 与 absolute-orientation cost；
-- absolute privilege 仍需 derived / primitive / stochastic source；
-- 如果没有 residual evidence，\(\Omega\) 很像在已有 rich pluralist ontology 上再加 surplus structure。
-
-截至目前这是**成本最高的正方 package**。
+代价：同时支付 fragmentalist cost 与 absolute-layer cost；当前无 residual evidence 要求额外 \(\Omega\)。
 
 ---
 
-## 6. A-MW — Absolute + Many-World Strong-FPR
+## 7. A-MW — Absolute + Many-World Strong-FPR
 
 核心：
 
@@ -143,25 +203,13 @@ StrongFPR+OM+1W+\neg NF+Abs.
 StrongFPR+OM+NF+\neg1W+Abs.
 \]
 
-多个 first-personally centred worlds 都 real，再 privilege 其中一个 as absolute opening/world-center。
+多个 first-personally centred worlds 都 real，再 privilege 一个 as absolute。
 
-优点：
-
-- strong FPR for all；
-- local coherence；
-- absolute layer表达最直接。
-
-代价：
-
-- many worlds + absolute actuality 两层 privilege architecture；
-- 和 Bricker-style absolute actuality 的成本高度相似；
-- why one centred world is absolutely actual 仍 primitive / derived gap。
-
-如果没有新的 residual fact，它通常比 P-MW 多一个未被迫使的 absolute layer。
+代价：many-world ontology + absolute actuality 双层结构；若无 residual fact，通常严格多于 P-MW。
 
 ---
 
-## 7. D — Derived Absolute Orientation
+## 8. D-* — Derived Absolute Orientation
 
 目标：
 
@@ -169,11 +217,11 @@ StrongFPR+OM+NF+\neg1W+Abs.
 D\Rightarrow\Omega(E^*).
 \]
 
-可以和 A-W、A-F 或 A-MW 的 ordinary layer结合。
+可以与 A-W/A-F/A-MW 的 ordinary layer 结合。
 
-理论收益：如果成功，它会是最强 explanation，因为 absolute orientation 不是 primitive stipulation。
+成功时解释收益最高，因为 Abs 不再是 bare primitive。
 
-当前门槛：
+当前必须通过：
 
 \[
 \boxed{
@@ -183,135 +231,191 @@ IndependentDefinability
 \to
 PrivilegeSemantics
 \to
-NonPluralizability
+NonPluralizability.
 }
 \]
 
-同时还需通过：
+并通过 symmetry、duplication、global relevance、mode-type/token、cosmic-subject、relativity/gauge、fission/dynamics 等测试。
 
-- symmetry；
-- duplication；
-- global relevance；
-- mode-type/token gap；
-- cosmic-subject pressure；
-- relativity / gauge；
-- fission / dynamics。
-
-截至目前没有成熟 candidate 全部通过。
-
-所以 D 是 **最高潜在解释收益、最低当前完成度** 的路线。
+目前没有完成 candidate。
 
 ---
 
-## 8. 当前矩阵
+## 9. 当前矩阵
 
-| Package | OM | Phen | Strong-FPR all | 1W | NF | Abs | 主要成本 | 当前 residual support |
+| Package | OM | Phen | Strong-FPR all | 1W | NF | Abs | 主要新增成本 | 当前状态 |
 |---|---:|---:|---:|---:|---:|---:|---|---|
-| P-F | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | fragmentation / metaphysical relativity | 不需 Abs |
-| P-MW | ✓ | ✓ | ✓ | ✗ | ✓ | ✗ | many centred worlds | 不需 Abs |
-| A-W | ✓ | ✓ | ✗/弱 | ✓ | ✓ | ✓ | primitive/derived absolute orientation | **未建立** |
-| A-F | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | fragmentation + absolute layer | **未建立** |
-| A-MW | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | many worlds + absolute layer | **未建立** |
-| D-* | 取决 ordinary layer | ✓ | 取决 ordinary layer | 取决 | 取决 | ✓ | difficult global derivation | 若成功可提供 |
+| **N-W** | ✓ | ✓ | ✗ | ✓ | ✓ | ✗ | weak fact ontology | **control baseline** |
+| P-F | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | fragmentation / metaphysical relativity | Bridge A positive |
+| P-MW | ✓ | ✓ | ✓ | ✗ | ✓ | ✗ | many centred worlds | Bridge A positive |
+| A-W | ✓ | ✓ | ✗/弱 | ✓ | ✓ | ✓ | primitive/derived \(\Omega\) | **Abs support 未建立** |
+| A-F | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ | fragment + \(\Omega\) | 成本高 |
+| A-MW | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | many worlds + \(\Omega\) | 成本高 |
+| D-* | 取决 ordinary layer | ✓ | 取决 | 取决 | 取决 | ✓ | difficult derivation | unfinished |
 
 ---
 
-## 9. 一个关键非对称
+## 10. Closest-Foil Principle
 
-`Strong Pluralist Exhaustion Test` 表明：
-
-\[
-\boxed{\text{尚无 independent residual fact 迫使 }Abs.}
-\]
-
-`Relative First-Person Demotion` 又表明：
+对一个额外结构 \(X\) 的 explanatory burden，应优先比较：
 
 \[
-\boxed{\text{strong pluralism 自身并不免费；它必须支付 fragment / many-world cost}.}
-\]
-
-所以当前不能简单说：
-
-\[
-\text{pluralism wins by parsimony}.
-\]
-
-也不能说：
-
-\[
-\text{absolute theory wins by one-world coherence}.
-\]
-
-因为后者若想同时保留 universal strong FPR，也会继承 fragment / many-world pressure。
-
-真正的 trade-off 是：
-
-\[
-\boxed{
-\text{strong FP facts for everyone}
-\quad vs\quad
-\text{one coherent world with only one irreducible FP orientation}
-}
-\]
-
-而 `genuine consciousness for everyone` 并不单独决定这一选择。
-
----
-
-## 10. 当前最有信息量的条件性判断
-
-### 若只把 other minds genuine consciousness + ordinary phenomenology 设为 non-negotiable
-
-A-W 变得出乎意料地干净：
-
-\[
-ManyConsciousSubjects+OneWorld+OnePrimitiveOpening.
-\]
-
-它仍缺 residual evidence，但 ontology 成本没有此前想象得那么高。
-
-### 若坚持每个主体都必须有 irreducible strong first-person facts
-
-P-F / P-MW 是较自然 baseline；A-F / A-MW 在此基础上再加 \(\Omega\)，因此若没有独立 residual evidence，absolute layer 的 abductive burden 更重。
-
-### 若要求 absolute center 还必须有 non-primitive source
-
-只有 D 路线达标；当前尚未完成。
-
----
-
-## 11. 当前 endgame
-
-项目现在的争论已经不能只写成：
-
-\[
-Pluralism\quad vs\quad AbsoluteFirstPerson.
-\]
-
-更准确的是二维选择：
-
-\[
-\boxed{
-\text{How strong is ordinary first-person realism?}
-}
+T
 \]
 
 和：
 
 \[
+T+X,
+\]
+
+而不是先和一个在其他轴上也更昂贵的 theory 比。
+
+因此：
+
+### 测 Bridge A
+
+比较：
+
+\[
+\boxed{N\text{-}W\quad vs\quad P\text{-}F/P\text{-}MW.}
+\]
+
+问题是：ordinary phenomenology 是否强迫 strong fact-level FPR？
+
+### 测 Bridge B / absolute layer
+
+比较：
+
+\[
+\boxed{N\text{-}W\quad vs\quad A\text{-}W.}
+\]
+
+问题是：same conscious reality 为什么还需要 \(\Omega\)？
+
+这比旧的 “pluralism vs absolute realism” 一维对比精确得多。
+
+---
+
+## 11. 当前 abductive ranking
+
+### Bridge A
+
+当前：
+
+\[
+Consciousness\Rightarrow ForMeNess
+\]
+
+有强 support；
+
+\[
+ForMe/Me/Mine\Rightarrow StrongFPFact
+\]
+
+仍开放。
+
+所以 N-W 没有被 phenomenology 淘汰。
+
+### Bridge B
+
+当前 residual-fact search 尚未找到：
+
+\[
+Independent(X)
+\land
+N\text{-}W\not\models X
+\land
+A\text{-}W\models X.
+\]
+
+MAO 默认 inert \(\Omega\) 还面对 evidence-indistinguishability。
+
+因此在当前信息下：
+
+\[
 \boxed{
-\text{Is there an additional absolute orientation?}
+N\text{-}W\text{ has a prima facie abductive advantage over primitive A-W.}
 }
 \]
 
-第一维决定 fragmentation / many-world pressure；第二维决定 primitive/derived absolute burden。
+这不是证明：
 
-这两维独立以后，很多旧争论才不再互相偷渡。
+\[
+\neg Abs.
+\]
+
+它只是 closest-foil comparison 下的当前理论评价。
+
+---
+
+## 12. A-W 如何重新取得优势
+
+至少需要一个突破：
+
+1. **Residual X**：N-W 缺失、A-W 独立解释的事实；
+2. **Derived \(\Omega\)**：Bridge B；
+3. **Epistemic signature**：non-replicating truth-sensitive evidence；
+4. **Real replacement/compression**：证明 \(\Omega\) 替代 N-W 本来就必须承担的 primitive，而非只增加新 primitive。
+
+在此之前，A-W 最准确的状态是：
+
+\[
+\boxed{\text{coherent positive possibility, not currently best-supported explanation}.}
+\]
+
+---
+
+## 13. 当前 endgame
+
+现在真正的 theory map 是二维的：
+
+### Axis A — ordinary first-person ontology
+
+\[
+WeakFactOntology
+\quad vs\quad
+StrongFPR.
+\]
+
+### Axis B — absolute orientation
+
+\[
+\neg Abs
+\quad vs\quad
+Abs.
+\]
+
+N-W 位于：
+
+\[
+(Weak,\neg Abs),
+\]
+
+A-W 位于：
+
+\[
+(Weak,Abs),
+\]
+
+P-F/P-MW 位于：
+
+\[
+(Strong,\neg Abs),
+\]
+
+A-F/A-MW 位于：
+
+\[
+(Strong,Abs).
+\]
+
+这四象限比以前的单轴分类更稳定。
 
 ## 关联
 
-- [`../arguments/relative-first-person-demotion.md`](../arguments/relative-first-person-demotion.md)
-- [`../arguments/strong-pluralist-exhaustion-test.md`](../arguments/strong-pluralist-exhaustion-test.md)
-- [`two-tier-first-person-realism.md`](two-tier-first-person-realism.md)
+- [`neutral-one-world-baseline.md`](neutral-one-world-baseline.md)
+- [`../arguments/bridge-a-factorization.md`](../arguments/bridge-a-factorization.md)
+- [`../arguments/absolute-orientation-epistemic-no-go.md`](../arguments/absolute-orientation-epistemic-no-go.md)
 - [`minimal-absolute-opening.md`](minimal-absolute-opening.md)
 - [`../../synthesis/current-position.md`](../../synthesis/current-position.md)
