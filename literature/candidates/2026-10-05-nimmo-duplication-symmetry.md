@@ -1,147 +1,74 @@
-# Candidate — Kent Nimmo 2026 on first-person symmetry under duplication
+# Candidate audit — Kent Nimmo 2026 on first-person symmetry under duplication
 
-> 状态：**candidate only**。两篇均为 2026 PhilArchive manuscripts，尚无成熟期刊发表记录；当前只按 abstract / archive full-text excerpts 使用，不能直接升级为项目立场。
+> 状态：**已审计并部分升级**。
 >
-> 进入 candidate 的理由：它们几乎正面命中 `self` 的 Perfect-Duplicate / Further-First-Person-Fact 问题，但作者与论证链尚需独立审计。
+> `Relational Individuation and No Further First-Person Fact under Perfect Phenomenal Duplication` 已于 2026-08-27 在线发表于 *Philosophical Explorations*，不再只是未发表 manuscript。正式项目笔记见：[`../nimmo-2026-relational-individuation.md`](../nimmo-2026-relational-individuation.md)。
+>
+> `First-Person Symmetry Under Perfect Phenomenal Duplication` 当前仍按 PhilArchive manuscript 处理。
 
-## 1. First-Person Symmetry Under Perfect Phenomenal Duplication
+## 审计结论
 
-Kent Nimmo, manuscript, PhilArchive version uploaded 2026-02-26。
+Nimmo 的两篇工作形成两层结果：
 
-摘要主张：若两个 experiential events 具有完全相同 phenomenal character；强化版再要求全部 uncentered publicly specifiable correlates 相同，则 shared profile 内没有东西能够把一个 instance privilege 成 uniquely mine。
+1. **First-Person Symmetry Lemma**：perfectly duplicated phenomenal profile 内没有 internal selector 能把一个 duplicate privilege 成 uniquely mine；
+2. **Relational Individuation (RI)**：若再接受 restricted anti-haecceitism，则 duplicated phenomenal + structural profile 固定后，不存在额外 internal first-person thisness。
 
-作者称其为 **First-Person Symmetry Lemma**。
-
-粗略形式：
-
-\[
-Profile(E_A)\cong Profile(E_B)
-\]
-
-则：
+因此：
 
 \[
 \boxed{
-\neg\exists Q_{profile}[Q(E_A)\land\neg Q(E_B)]
+\text{phenomenal / mineness completeness}
+\not\Rightarrow
+\text{unique centered individuation}.}
+\]
+
+而在 RI 条件下：
+
+\[
+\boxed{
+RI+PerfectDuplication
+\Rightarrow
+\neg FurtherInternalFPFact.
 }
 \]
 
-若仍要求 determinate self-location：
+关键边界仍然是：这并不推出没有 external or primitive asymmetry-maker。
+
+所以：
 
 \[
-I=E_A
+\boxed{Nimmo\not\Rightarrow\neg AbsoluteOrientation.}
 \]
 
-则需要一个不由 shared phenomenal profile 承载的 external index。
+Role-First Centered Actuality 可以接受全部 local duplication result，再把 \(\Omega\) 放在 duplicated phenomenal profile 之外。
 
-### 与仓库关系
+## 对当前 endgame 的影响
 
-这和 `Locality–Duplication No-Go` 很近，但结论更集中于 first-person individuation：
+- **CC1**：unchanged；没有新增 independent completion witness。
+- **CC2**：unchanged；没有证明 Neutral Actuality incoherent。
+- **CC3**：sharpened；若 centered primitive 在 duplicate case 中做 winner-selection，它携带 genuine asymmetry content，不能说只是 phenomenal profile 的重述。
+- **Derived route**：明显受约束；任何从 phenomenal / mineness / self-model profile 派生唯一 center 的路线都必须通过 duplication stress test。
+
+因此当前 verdict 不变：
 
 \[
-\boxed{
-\text{phenomenal completeness does not itself yield unique centered individuation under duplication}.}
+\boxed{\text{Completion Underdetermination remains}.}
 \]
 
-它支持一个边界，而不自动支持 absolute center：external index 可以只是 ordinary self-location coordinate，也可以是 primitive asymmetry-maker。
+## 为什么升级
 
----
+第二篇已经正式同行评审发表，并且对 duplicated base、token multiplicity、presence-individuation、external indexing 的区分足够精确，可以进入正式 literature map。
 
-## 2. Relational Individuation and No Further First-Person Fact under Perfect Phenomenal Duplication
+正式阅读笔记：
 
-Kent Nimmo, manuscript, PhilArchive version uploaded 2026-04-06。
+- [`../nimmo-2026-relational-individuation.md`](../nimmo-2026-relational-individuation.md)
 
-这篇在第一篇基础上加入 restricted anti-haecceitist premise：
+## 核验边界
 
-> 一旦 occurrent experience 的 phenomenal + structural profile 固定，不再存在一个额外 internal first-person thisness 去 privilege 某个 perfect duplicate。
+本次环境中 PhilArchive / PhilPapers PDF endpoint 返回 403，因此 reading level 保持：
 
-作者称该立场 **Relational Individuation (RI)**。
+- publication metadata；
+- abstract；
+- indexed full-text excerpts。
 
-于是：
-
-\[
-PhenStructuralProfile(E_A)
-=
-PhenStructuralProfile(E_B)
-\]
-
-加 restricted anti-haecceitism 后，不再推出：
-
-\[
-\exists FurtherInternalFPFact.
-\]
-
-相反，若仍主张 further fact：
-
-\[
-AbsoluteMine(E_A),
-\]
-
-则需要：
-
-\[
-\boxed{
-\text{primitive asymmetry-maker external to duplicated profile}.}
-\]
-
----
-
-## 3. 对 `self` 的潜在价值
-
-### A. 支持 Phenomenology–Fact Underdetermination
-
-perfect duplicate case 说明：即使 phenomenal profile 最大化，仍可能只得到多个 token / centers，而没有内部 winner。
-
-这与：
-
-\[
-Phenomenology\not\Rightarrow AbsoluteOrientation
-\]
-
-高度一致。
-
-### B. 强化 N-W
-
-N-W 可以说：多个 duplicate subjects 各自拥有完整 ordinary phenomenology；token individuation / self-location 由 relational/external structure完成，不需要一个 further absolute fact。
-
-### C. 对 A-W 的 exact pressure
-
-A-W 完全可以接受 Nimmo 的 local result，然后说：
-
-\[
-\Omega
-\]
-
-就是 external primitive asymmetry-maker。
-
-所以这些论文不会驳倒 MAO。
-
-它们更像把 MAO 的代价写死：
-
-\[
-\boxed{
-\text{absolute difference is not recoverable from duplicated phenomenal/structural profile}.}
-\]
-
-这正与 MAO 当前的 primitive/inert stance 一致，也与 Surplus Pressure 联动。
-
----
-
-## 4. 当前不可直接升级的原因
-
-1. 两篇都是 2026 manuscripts，尚未经过成熟发表/回应链检验；
-2. “restricted anti-haecceitism” 本身是 substantive premise；
-3. `external index` 可以有多种解释，不能直接等同于 N-W；
-4. 第二篇的 “no further internal fact” 只在其 anti-haecceitist condition 下成立；
-5. 项目还需检查其 centered-world、token-reflexive、spacetime individuation objections 是否真的被充分回应。
-
-所以当前只记为：
-
-\[
-\boxed{\text{high-relevance candidate, not established support}.}
-\]
-
-## 来源
-
-- Kent Nimmo, “First-Person Symmetry Under Perfect Phenomenal Duplication”, manuscript, PhilArchive, uploaded 2026-02-26。
-- Kent Nimmo, “Relational Individuation and No Further First-Person Fact under Perfect Phenomenal Duplication”, manuscript, PhilArchive, uploaded 2026-04-06。
+没有把本次审计标记为逐页 `fulltext-read`。
