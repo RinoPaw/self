@@ -16,6 +16,7 @@
 - 区分 **Liveness Generation Problem** 与 **Absolute Center Uniqueness Problem**；
 - 用精确复制压力检验所有 local / event-relative 的 liveness 机制；
 - 检验 local singleton 是否会在多个 competition domains 中复制，并寻找真正 global / non-factorizable 的 singleton mechanism；
+- 检验 grounding priority 能否跨过 rank tie 与 Priority–Liveness Gap；
 - 寻找既能打破复制、又能真正解释 privilege 的全局关系结构。
 
 ## 当前四道门槛
@@ -98,6 +99,20 @@ LIVE(E)=F(\mathcal R,E),
 
 让 LIVE 依赖真正的全局关系，并满足 **Non-Factorization Requirement**、**Global Coupling Requirement** 与 **Global Relevance Requirement**：全局差异必须和 liveness / privilege 有独立的形而上关联，不能只是一个 canonical address。
 
+Grounding rank 可以提供 global priority comparison，但仍有：
+
+\[
+\text{unique priority order}\not\Rightarrow\text{unique minimum}
+\]
+
+以及：
+
+\[
+\text{more fundamental}\not\Rightarrow\text{more live / more actual}.
+\]
+
+这两道压力分别记为 **Rank-Tie Obstruction** 与 **Priority–Liveness Gap**。
+
 ## 导航
 
 ### 当前综合
@@ -117,6 +132,8 @@ LIVE(E)=F(\mathcal R,E),
 - [`research/arguments/process-to-center-gap.md`](research/arguments/process-to-center-gap.md) — 唯一生成过程为何仍不足以推出唯一 live center。
 - [`research/arguments/locality-duplication-no-go.md`](research/arguments/locality-duplication-no-go.md) — 局部复制为何阻止统一 local rule 产生一个 global LIVE center，并提出 Global Relevance Requirement。
 - [`research/arguments/local-to-global-singleton-obstruction.md`](research/arguments/local-to-global-singleton-obstruction.md) — local winner / per-domain singleton 为什么无法自动升级成全局 singleton，并提出 Non-Factorization / Global Coupling Requirements。
+- [`research/arguments/rank-tie-priority-liveness-gap.md`](research/arguments/rank-tie-priority-liveness-gap.md) — grounding rank 为什么既不保证 singleton，也不自动推出 absolute liveness。
+- [`research/arguments/relevance-dependence-trilemma.md`](research/arguments/relevance-dependence-trilemma.md) — 全局 singleton 性质在 descriptive、constitutive 与 primitive 三条路线之间的压力。
 - [`research/arguments/symmetry-obstruction.md`](research/arguments/symmetry-obstruction.md) — 结构性唯一选择面对的全局自同构禁阻。
 - [`research/arguments/symmetry-pressure.md`](research/arguments/symmetry-pressure.md) — 多中心方案面对的对称性压力。
 - [`research/arguments/standpoint-pluralism-challenge.md`](research/arguments/standpoint-pluralism-challenge.md) — 强反方：真实但多元的 standpoint facts。
@@ -157,7 +174,9 @@ Locality / duplication no-go
         ↓
 Global non-factorization / coupling
         ↓
-Singleton mechanism + privilege bridge
+Singleton mechanism
+        ↓
+Priority–liveness bridge
         ↓
 I–NOW dynamics / Γ*
         ↓
