@@ -73,6 +73,9 @@ D\Rightarrow L.
 - [`literature/builes-2024-first-person-realism.md`](literature/builes-2024-first-person-realism.md) — First-Person Realism 的系统论证地图及其与“绝对第一人称”的边界。
 - [`literature/lipman-2026-standpoints.md`](literature/lipman-2026-standpoints.md) — Martin Lipman 的 standpoint pluralism，作为当前最高优先级反方。
 - [`literature/actuality-analogy.md`](literature/actuality-analogy.md) — Lewis 的 indexical actuality 与 Bricker 的 absolute actuality，对应当前核心分歧。
+- [`literature/pipeline.md`](literature/pipeline.md) — AI 文献发现、引用扩展、核验与入库流程。
+- [`literature/queries.json`](literature/queries.json) — 当前研究主线的可复用检索集合。
+- [`tools/literature.py`](tools/literature.py) — OpenAlex + Semantic Scholar + Crossref 自动检索工具。
 
 ### 研究日志
 
