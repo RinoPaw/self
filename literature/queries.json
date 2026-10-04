@@ -1,0 +1,46 @@
+{
+  "queries": [
+    {
+      "name": "first-person-privilege",
+      "query": "first person realism metaphysical privilege subjectivism consciousness",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "de-se-self-location",
+      "query": "de se self location centered worlds essential indexical",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "standpoint-pluralism",
+      "query": "standpoint pluralism perspectival facts subjectivity metaphysical relativity",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "i-now",
+      "query": "I Now perspective personalized A theory time first person",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "moving-spotlight-relativity",
+      "query": "moving spotlight theory relativity temporal passage supertime",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "symmetry-structural-selection",
+      "query": "symmetry automorphism invariance structural individuation canonical selection",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    }
+  ]
+}
