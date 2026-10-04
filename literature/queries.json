@@ -36,6 +36,27 @@
       "sources": ["openalex", "s2", "crossref"]
     },
     {
+      "name": "priority-monism-internal-structure",
+      "query": "priority monism fundamental whole internal structure grounding heterogeneity complexity",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "derived-asymmetry-grounding",
+      "query": "fundamentality derived asymmetry generative operations grounding asymmetric networks symmetric relations",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
+      "name": "boundary-symmetry-breaking",
+      "query": "symmetry breaking asymmetric boundary conditions canonical selection Past Hypothesis fundamental asymmetry",
+      "semantic": true,
+      "limit": 20,
+      "sources": ["openalex", "s2", "crossref"]
+    },
+    {
       "name": "subjective-facts-consciousness",
       "query": "subjective facts consciousness metaphysical standpoint feltness first person",
       "semantic": true,
