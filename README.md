@@ -11,15 +11,14 @@
 - 同时处理主体与当前时刻的 I–NOW 不对称；
 - 检查相对论、多元宇宙、完全复制和精确对称下的理论约束；
 - 检验是否有理由假定一个统一的 fundamental reality structure，而非 irreducibly plural perspectives；
-- 研究完整现实结构是否可能唯一决定一个绝对经验事件 \(E^*\) 或一条绝对经验轨迹 \(\Gamma^*\)；
-- 用 standpoint / perspectival pluralism 与 process pluralism 等强反方检验“唯一 absolute center”是否真的提供额外解释力；
-- 区分 **Liveness Generation Problem** 与 **Absolute Center Uniqueness Problem**；
+- 区分 universe/history actuality 与 first-person actuality，避免从“一个世界”偷渡到“一个绝对体验者”；
+- 用 standpoint / perspectival pluralism、process pluralism、xerographic self-location 与 psychophysical-law models 做强反方压力测试；
+- 区分 **Liveness Generation Problem**、**Absolute Center Uniqueness Problem** 与 **Global First-Person Transition Problem**；
 - 用精确复制压力检验所有 local / event-relative 的 liveness 机制；
 - 检验 local singleton 是否会在多个 competition domains 中复制，并寻找真正 global / non-factorizable 的 singleton mechanism；
-- 检验 grounding priority 能否跨过 rank tie 与 Priority–Liveness Gap；
 - 寻找既能打破复制、又能真正解释 privilege 的全局关系结构。
 
-## 当前四道门槛
+## 当前五道门槛
 
 ### Stage 0：Meta-Perspective / Reality-Monism Challenge
 
@@ -79,39 +78,52 @@ Fundamental becoming 已经提供了 `process -> liveness` 的真实邻近先例
 \Lambda_D(E)=F([N_D(E),E]),
 \]
 
-则任何两个 rooted-isomorphic 复制体必有：
+则 rooted-isomorphic 复制体必有相同输出。
 
-\[
-\Lambda_D(E_a)=\Lambda_D(E_b).
-\]
-
-进一步，若 singleton mechanism 只在多个相互独立的 competition domains 内分别运行，则每个 domain 都可能产生一个 local winner：
+进一步，若 singleton mechanism 只在多个独立 competition domains 内分别运行，则：
 
 \[
 \boxed{\text{local singleton}\not\Rightarrow\text{global singleton}}.
 \]
 
-所以剩下最重要的非 primitive 路线是：
+因此剩下最重要的非 primitive 路线必须读取 genuinely global、non-factorizable structure，并满足 Global Relevance Requirement。
+
+### Global First-Person Transition Problem
+
+现在把完整链条进一步拆成：
 
 \[
-LIVE(E)=F(\mathcal R,E),
+D
+\longrightarrow
+H
+\xrightarrow{T_{U\to C}}
+\mathcal C(H)
+\xrightarrow{T_{C\to A}}
+E^*
+\xrightarrow{Privilege\ Bridge}
+LIVE(E^*).
 \]
 
-让 LIVE 依赖真正的全局关系，并满足 **Non-Factorization Requirement**、**Global Coupling Requirement** 与 **Global Relevance Requirement**：全局差异必须和 liveness / privilege 有独立的形而上关联，不能只是一个 canonical address。
+其中：
 
-Grounding rank 可以提供 global priority comparison，但仍有：
+- `H` 是 universe/history actuality；
+- `\mathcal C(H)` 是全部真实 conscious candidates；
+- `E*` 是候选中的 global singleton；
+- `LIVE(E*)` 才是最终 absolute first-person claim。
+
+Hartle–Srednicki 已表明完整 third-person theory 即使 deterministic，也可能不提供 first-person self-location；Page 已提供明确 psychophysical mapping，但输出 many perceptions；Albert–Loewer single-mind 能得到 per-observer determinate mind，却没有 global singleton。
+
+因此：
 
 \[
-\text{unique priority order}\not\Rightarrow\text{unique minimum}
+\boxed{T_{U\to C}\not\Rightarrow T_{C\to A}}
 \]
 
-以及：
+当前最尖锐的正向目标是找到一个非唯我论、非 primitive、非纯 epistemic 的：
 
 \[
-\text{more fundamental}\not\Rightarrow\text{more live / more actual}.
+\boxed{T_{C\to A}:\mathcal C(H)\to E^*}.
 \]
-
-这两道压力分别记为 **Rank-Tie Obstruction** 与 **Priority–Liveness Gap**。
 
 ## 导航
 
@@ -130,18 +142,24 @@ Grounding rank 可以提供 global priority comparison，但仍有：
 - [`research/arguments/meta-perspective-challenge.md`](research/arguments/meta-perspective-challenge.md) — 统一 fundamental reality structure 的前置门槛。
 - [`research/arguments/residual-fact-problem.md`](research/arguments/residual-fact-problem.md) — 全部 standpoint facts 给出以后是否仍残留 absolute liveness。
 - [`research/arguments/process-to-center-gap.md`](research/arguments/process-to-center-gap.md) — 唯一生成过程为何仍不足以推出唯一 live center。
-- [`research/arguments/locality-duplication-no-go.md`](research/arguments/locality-duplication-no-go.md) — 局部复制为何阻止统一 local rule 产生一个 global LIVE center，并提出 Global Relevance Requirement。
-- [`research/arguments/local-to-global-singleton-obstruction.md`](research/arguments/local-to-global-singleton-obstruction.md) — local winner / per-domain singleton 为什么无法自动升级成全局 singleton，并提出 Non-Factorization / Global Coupling Requirements。
+- [`research/arguments/locality-duplication-no-go.md`](research/arguments/locality-duplication-no-go.md) — 局部复制为何阻止统一 local rule 产生一个 global LIVE center。
+- [`research/arguments/local-to-global-singleton-obstruction.md`](research/arguments/local-to-global-singleton-obstruction.md) — local winner / per-domain singleton 为什么无法自动升级成 global singleton。
+- [`research/arguments/first-person-transition-gap.md`](research/arguments/first-person-transition-gap.md) — third-person universe、conscious candidates、global first-person actuality 之间的两级 transition 缺口。
+- [`research/arguments/global-first-person-transition-escape-map.md`](research/arguments/global-first-person-transition-escape-map.md) — 在 non-solipsism 下压缩 global singleton 的主要逻辑路线。
+- [`research/arguments/history-actualization-exhaustion.md`](research/arguments/history-actualization-exhaustion.md) — actualization 的六路线 schema。
+- [`research/arguments/history-actualization-partition.md`](research/arguments/history-actualization-partition.md) — 六路线的条件性 partition 与分类域。
 - [`research/arguments/rank-tie-priority-liveness-gap.md`](research/arguments/rank-tie-priority-liveness-gap.md) — grounding rank 为什么既不保证 singleton，也不自动推出 absolute liveness。
 - [`research/arguments/relevance-dependence-trilemma.md`](research/arguments/relevance-dependence-trilemma.md) — 全局 singleton 性质在 descriptive、constitutive 与 primitive 三条路线之间的压力。
 - [`research/arguments/symmetry-obstruction.md`](research/arguments/symmetry-obstruction.md) — 结构性唯一选择面对的全局自同构禁阻。
 - [`research/arguments/symmetry-pressure.md`](research/arguments/symmetry-pressure.md) — 多中心方案面对的对称性压力。
 - [`research/arguments/standpoint-pluralism-challenge.md`](research/arguments/standpoint-pluralism-challenge.md) — 强反方：真实但多元的 standpoint facts。
+- [`research/models/actualization-route-matrix.md`](research/models/actualization-route-matrix.md) — 分离 universe/history actuality 与 first-person actuality 的路线组合。
+- [`research/models/stochastic-actualization.md`](research/models/stochastic-actualization.md) — objective chance 能否产生唯一 token center，以及 Selection-Process Requirement。
 - [`research/models/structural-selection.md`](research/models/structural-selection.md) — 从完整现实结构唯一确定 \(E^*\) / \(\Gamma^*\) 的模型框架。
 - [`research/models/generators-of-liveness.md`](research/models/generators-of-liveness.md) — 对 \(D\Rightarrow L\) 候选结构的系统筛选。
 - [`research/models/fundamental-process-frontier.md`](research/models/fundamental-process-frontier.md) — fundamental process / live frontier 模型与 Frontier Multiplicity。
 - [`research/models/priority-i-now.md`](research/models/priority-i-now.md) — grounding / Priority Presentism 向 I–NOW 的推广。
-- [`research/models/singleton-architecture.md`](research/models/singleton-architecture.md) — 把 absolute-center theory 拆成 Generation + Global Singleton + Privilege，并比较 global rank、experiential bottleneck、自显现等机制。
+- [`research/models/singleton-architecture.md`](research/models/singleton-architecture.md) — 把 absolute-center theory 拆成 Generation + Global Singleton + Privilege。
 - [`research/models/w-flow.md`](research/models/w-flow.md) — \(w\) 流与元时间问题。
 
 ### 文献
@@ -153,8 +171,10 @@ Grounding rank 可以提供 global priority comparison，但仍有：
 - [`literature/actuality-analogy.md`](literature/actuality-analogy.md) — indexical actuality 与 absolute actuality。
 - [`literature/grounding-and-priority-cosmopsychism.md`](literature/grounding-and-priority-cosmopsychism.md) — grounding、fundamentality、priority monism / cosmopsychism。
 - [`literature/dowker-causal-set-becoming.md`](literature/dowker-causal-set-becoming.md) — causal-set becoming、live experience 与 gauge / covariance 压力。
+- [`literature/canonical-history-selection-physics.md`](literature/canonical-history-selection-physics.md) — Cauchy history、Dixon worldline、Janus point、Wentaculus / GRWf 等 physical selection precedents。
+- [`literature/first-person-transition-precedents.md`](literature/first-person-transition-precedents.md) — Hartle–Srednicki、Page、Albert–Loewer 的 universe-to-first-person bridge 先例。
+- [`literature/psychophysical-laws-duplication.md`](literature/psychophysical-laws-duplication.md) — Chalmers / Saad psychophysical laws 与 duplication pressure。
 - [`literature/exclusion-unity-selection.md`](literature/exclusion-unity-selection.md) — IIT exclusion、GNWT winner-take-all、phenomenal unity、fixed point 与 causal-set post 对 singleton-selection 的边界。
-- [`literature/candidates/2026-10-04-duplication-frontier.md`](literature/candidates/2026-10-04-duplication-frontier.md) — Nimmo 2026、Forrest 2004 / Grandjean 2022 的 duplication / frontier 候选笔记；尚未自动提升为核心文献。
 - [`literature/pipeline.md`](literature/pipeline.md) — AI 文献发现、引用扩展、核验与入库流程。
 - [`literature/queries.json`](literature/queries.json) — 可复用检索集合。
 - [`tools/literature.py`](tools/literature.py) — OpenAlex + Semantic Scholar + Crossref 自动检索工具。
@@ -168,15 +188,15 @@ Grounding rank 可以提供 global priority comparison，但仍有：
 ```text
 Reality totalization?
         ↓
-Liveness generation
+Universe/history actualization route
         ↓
-Locality / duplication no-go
+Consciousness map T_U→C
         ↓
-Global non-factorization / coupling
+Locality / duplication / local-to-global no-go
         ↓
-Singleton mechanism
+Global first-person transition T_C→A
         ↓
-Priority–liveness bridge
+Privilege / liveness bridge
         ↓
 I–NOW dynamics / Γ*
         ↓
