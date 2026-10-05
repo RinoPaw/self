@@ -60,7 +60,7 @@ Presence route 已关闭为 independent CC1 witness；其价值只保留为 cond
 - [`frontier-2026-10-05-unitary-singularity.md`](frontier-2026-10-05-unitary-singularity.md)
 - [`frontier-2026-10-05-arity-singularity-localization.md`](frontier-2026-10-05-arity-singularity-localization.md)
 
-这里得到 Unitariy Singularity Lemma：在 centered existence + unitary reality 条件下，exact-one 不再需要独立 brute selector。
+这里得到 Unitary Singularity Lemma：在 centered existence + unitary reality 条件下，exact-one 不再需要独立 brute selector。
 
 ### 4. Locality / Universal-I / subject bearer
 

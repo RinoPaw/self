@@ -112,7 +112,7 @@ perspective\ singleton.
 
 ### Christian List — first-person realism quadrilemma
 
-List 的冲突结构经反向使用，支持项目的 Unitariy Singularity Lemma：若 one world、non-fragmentation 与 first-person non-compossibility成立，则 irreducible openings 至多一个。
+List 的冲突结构经反向使用，支持项目的 Unitary Singularity Lemma：若 one world、non-fragmentation 与 first-person non-compossibility成立，则 irreducible openings 至多一个。
 
 这给了当前 strongest positive conditional result：Centered Actuality 若提供 at-least-one，则 unitary reality 可进一步导出 exact-one。
 
