@@ -1,17 +1,15 @@
 # Synthesis 导航
 
-`synthesis/` 保存 authority、frontier 与 handoff。历史 frontier 记录研究如何推进；**历史文件不自动代表当前立场**。
+`synthesis/` 保存 authority、frontier 与 handoff。历史 frontier 记录研究推进；**历史文件不自动代表当前立场**。
 
 ## 当前入口
 
 1. [`current-position.md`](current-position.md) — 当前 authority。
-2. [`frontier-2026-10-05-plural-opening-model.md`](frontier-2026-10-05-plural-opening-model.md) — 最新 frontier；Plural Opening Manifold survived。
-3. [`handoff-2026-10-05-plural-opening-model.md`](handoff-2026-10-05-plural-opening-model.md) — 下一轮操作边界。
-4. [`core-argument-neutral-vs-centered-actuality.md`](core-argument-neutral-vs-centered-actuality.md) — reader-facing core；若与 current-position 冲突，以 authority 为准。
+2. [`frontier-2026-10-05-evaluation-locus-gap.md`](frontier-2026-10-05-evaluation-locus-gap.md) — 最新 frontier；singularity burden 下压到 MEP。
+3. [`handoff-2026-10-05-evaluation-locus.md`](handoff-2026-10-05-evaluation-locus.md) — 下一轮默认交接。
+4. [`core-argument-neutral-vs-centered-actuality.md`](core-argument-neutral-vs-centered-actuality.md) — reader-facing core；若与 authority 冲突，以 current-position 为准。
 
-## 最新结构
-
-当前 ontology space 至少三分：
+## 当前 theory space
 
 \[
 \boxed{
@@ -23,67 +21,77 @@ SingularCentered.
 }
 \]
 
-最新结果是：
+Plural Opening Manifold 已给 C1 一个 explicit constructive model。
+
+## 当前 singularity chain
+
+最新拆分：
 
 \[
 \boxed{
-OneActuality
-+PluralIrreducibleFirstPersonModes
+MEP
++IntersectionCompossibility
+\Rightarrow SPC
 }
 \]
 
-存在 coherent-looking constructive model。
+\[
+SPC+LE\Rightarrow FPNC
+\]
 
-它采用 mode-preserving global coherence，拒绝 List-style **Single-Perspective Closure**。因此它属于 one-world fragmentalist / standpoint-pluralist family，而不是 List quadrilemma 的反例。
+\[
+FPNC+NF_{SPC}\Rightarrow AtMostOne
+\]
 
-当前 singularity 的核心问题：
+\[
+AtMostOne+ALO\Rightarrow ExactlyOne.
+\]
+
+### MEP — Monocentric Evaluation Principle
+
+每个 maximal first-person truth/evaluation locus 恰有一个 perspective。
+
+List 的 centered-world formalism `〈ω,π〉` 明确采用 monocentric locus，因此其 empty-intersection / non-compossibility result在该语义架构内成立。
+
+最新 gap：
+
+\[
+\boxed{PerspectiveVariance\not\Rightarrow MEP.}
+\]
+
+所以当前 deepest question：
 
 \[
 \boxed{
-Why\ must\ complete\ actuality\ satisfy\ Single\!\!\text{-}\!Perspective\ Closure?
+Why\ must\ complete\ actuality\ be\ monocentric\ at\ the\ first\!\!\text{-}\!person\ evaluation\ level?
 }
 \]
 
-## Frontier 地图
+## Current frontiers
 
-### Current
+- [`frontier-2026-10-05-evaluation-locus-gap.md`](frontier-2026-10-05-evaluation-locus-gap.md) — **latest**；MEP / polycentric semantics。
+- [`frontier-2026-10-05-plural-opening-model.md`](frontier-2026-10-05-plural-opening-model.md) — Plural Opening Manifold survives；SPC isolated。
+- [`frontier-2026-10-05-fpnc-accommodation-audit.md`](frontier-2026-10-05-fpnc-accommodation-audit.md) — FPNC audit + accommodation criterion。
+- [`frontier-2026-10-05-presence-route-closure.md`](frontier-2026-10-05-presence-route-closure.md) — Presence route closure。
 
-- [`frontier-2026-10-05-plural-opening-model.md`](frontier-2026-10-05-plural-opening-model.md) — C1 constructive survival；singularity burden 压缩到 SPC。
-- [`frontier-2026-10-05-fpnc-accommodation-audit.md`](frontier-2026-10-05-fpnc-accommodation-audit.md) — FPNC 重审与 Neutral Accommodation 标准。
+Older frontier files preserve the argument history and are superseded where they conflict with the entries above.
 
-### Immediate predecessors
+## Evidence rule
 
-- [`frontier-2026-10-05-presence-route-closure.md`](frontier-2026-10-05-presence-route-closure.md) — Presence route 关闭为 independent witness。
-- [`frontier-2026-10-05-actuality-endgame.md`](frontier-2026-10-05-actuality-endgame.md) — Neutral vs Centered actuality 前一阶段 endgame。
-- [`frontier-2026-10-05-unitary-singularity.md`](frontier-2026-10-05-unitary-singularity.md) — 历史 USL frontier；读取时必须以最新 SPC audit 修正。
-- [`frontier-2026-10-05-arity-singularity-localization.md`](frontier-2026-10-05-arity-singularity-localization.md) — 早期 arity/singularity/localization 拆分。
-
-### Historical selector / grounding / locality work
-
-其余 `frontier-*` 保留研究史价值，包括 structural selection、dominance、nomological privilege、role-first completion、Universal-I、subject bearer、manifestation、ALO 等。除非 current authority 重新引用，不应直接当作 live conclusion。
-
-## 当前判准
-
-任何支持 Singular Centered Actuality 的新 witness `X`，必须比较：
+C2 evidence must defeat the best non-singular rival：
 
 \[
-BestSingularCenteredExplanation(X)
+Independent(X)
+\land NaturalFit(C2,X)
+\land \neg CheapNonSingularAccommodation(X).
 \]
 
-与：
+A result absorbed by C1 supports first-person arity only, not singular absolute privilege.
 
-\[
-BestNonSingularExplanation(X),
-\]
+## Handoff rule
 
-其中后者同时包括 subject-neutral actuality 与 plural irreducible first-person actuality。
+Use only the latest default handoff：
 
-仅击败 neutral C0、却被 C1 吸收的结果，只支持 first-person arity，不支持 unique absolute center。
+[`handoff-2026-10-05-evaluation-locus.md`](handoff-2026-10-05-evaluation-locus.md)
 
-## Handoff 规则
-
-只使用最新：
-
-[`handoff-2026-10-05-plural-opening-model.md`](handoff-2026-10-05-plural-opening-model.md)
-
-作为下一轮默认交接。
+unless the user explicitly asks to reopen an older conditional route.

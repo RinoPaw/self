@@ -1,53 +1,53 @@
 # Perspective Closure Principle
 
-> 状态：2026-10-05 singularity bridge refinement。
+> 状态：2026-10-05 re-audited after Evaluation-Locus Cardinality Gap。
 >
-> 目标：把旧 `FPNC` 拆成更小的 premises，明确 exact-one 到底依赖哪一个真正有争议的 unity principle。
+> 目标：说明 SPC 在 singularity chain 中的角色，并明确它现在不是 deepest primitive：MEP / monocentric evaluation 位于其上游。
 
-## 0. Result
+## 0. Core
 
-旧写法：
+旧：
 
 \[
 FPNC:\quad DistinctIrreducibleOpenings\Rightarrow NonCompossibility.
 \]
 
-过于压缩。
-
-更精确地，singularity pressure 来自两步：
-
-1. distinct complete first-person states 对同一 perspective mutually exclusive；
-2. 若 first-person facts 要在 one nonfragmented actuality 中共同成立，它们必须能从 **one perspective** jointly obtain。
-
-第二步才是真正关键。
-
-将其命名为：
+当前拆分：
 
 \[
-\boxed{SPC\text{ — Single-Perspective Closure}.}
+\boxed{LE+SPC\Rightarrow FPNC.}
+\]
+
+其中：
+
+- `LE` = Local Exclusivity；
+- `SPC` = Single-Perspective Closure。
+
+再往上：
+
+\[
+\boxed{MEP+Pointwise/IntersectionCompossibility\Rightarrow SPC.}
+\]
+
+所以完整 chain：
+
+\[
+\boxed{
+MEP\to SPC\to FPNC\to AtMostOne\to ExactlyOne(+ALO).
+}
 \]
 
 ---
 
 ## 1. Local Exclusivity
 
-设 opening fact：
-
-\[
-O(c,X)
-\]
-
-表示 center \(c\) 的 complete irreducible first-person state 为 \(X\)。
-
-对 distinct complete token states：
+对 mutually exclusive complete first-person states：
 
 \[
 X\perp Y.
 \]
 
-定义：
-
-### LE — Local Exclusivity
+### LE
 
 \[
 \boxed{
@@ -57,9 +57,7 @@ X\perp Y
 }
 \]
 
-LE 很弱：同一个 first-person standpoint 不能同时完整地是两个 mutually exclusive conscious states。
-
-Plural Opening Manifold 接受 LE。
+LE 只限制 **one standpoint**；Plural Opening Manifold 也接受。
 
 ---
 
@@ -77,13 +75,13 @@ Compossible_{global}(F,G)
 }
 \]
 
-直观上：如果两个 first-person facts 真能共同属于一个 nonfragmented actuality，那么必须存在一个 single perspective，从它那里二者同时 obtain。
+即：若两个 first-person facts qua first-person facts globally compossible，则必须有一个 single perspective 从中它们 jointly obtain。
 
-这正是 List-style first-person compossibility 的核心。
+这是 List-style first-person compossibility 的核心。
 
 ---
 
-## 3. FPNC decomposition
+## 3. SPC + LE yields FPNC
 
 设：
 
@@ -91,23 +89,17 @@ Compossible_{global}(F,G)
 F_X=m_a\Vdash X,
 \qquad
 F_Y=m_b\Vdash Y,
-\]
-
-且：
-
-\[
-a\neq b,
 \qquad
 X\perp Y.
 \]
 
-若假设二者 globally compossible，由 SPC：
+若二者 compossible，由 SPC：
 
 \[
 \exists m\;[m\Vdash X\land m\Vdash Y].
 \]
 
-但由 LE：
+由 LE：
 
 \[
 \neg\exists m\;[m\Vdash X\land m\Vdash Y].
@@ -121,67 +113,50 @@ X\perp Y.
 \boxed{LE+SPC\Rightarrow FPNC.}
 \]
 
-这说明旧 FPNC 不是一块不可分析 primitive；其 anti-plurality 内容主要来自 SPC。
-
 ---
 
-## 4. Singularity theorem 的新形式
+## 4. FPNC + List-style NF yields at-most-one
 
-再加入：
+定义：
 
 ### NF-SPC
 
-一个 actual totality 中全部 obtaining first-person facts globally compossible：
+actual totality中的 first-person facts 全部 globally compossible，且 compossibility 使用 SPC criterion。
+
+若有两个 distinct complete openings，FPNC 说二者 non-compossible；NF-SPC 又要求 compossible。
+
+所以：
 
 \[
-\forall F,G\in Facts_{FP}(R),\;Compossible_{global}(F,G).
+\boxed{
+LE+SPC+NF_{SPC}
+\Rightarrow AtMostOneOpening.
+}
 \]
 
-则：
-
-\[
-LE+SPC+NF\text{-}SPC
-\Rightarrow AtMostOneCompleteOpening.
-\]
-
-若还有：
+再加：
 
 \[
 ALO:\quad \exists c\;Opening(c),
 \]
 
-则：
+得到：
 
 \[
-\boxed{
-ALO+LE+SPC+NF\text{-}SPC
-\Rightarrow ExactlyOneOpening.
-}
-\]
-
-`OneWorld` 可以提供 actuality-count constraint，但真正排除 plurality 的逻辑核心是：
-
-\[
-\boxed{SPC+LE.}
+\boxed{ExactlyOneOpening.}
 \]
 
 ---
 
 ## 5. Mode-Preserving alternative
 
-Plural Opening Manifold 使用另一种 coherence：
+Plural Opening Manifold 使用：
 
 ### MPGC — Mode-Preserving Global Coherence
 
-若存在一个 single actual structure \(R\)，其中：
+一个 single actual structure 可以包含多个 mode-local consistent first-person fact sets，并保留 mode typing。
 
-- 每个 mode-local fact set internally consistent；
-- 所有 modes 共属于一个 actual totality；
-- cross-mode facts 保留 mode typing；
-
-则这些 facts 可以 jointly constitute reality。
-
-形式上：
+所以：
 
 \[
 \boxed{
@@ -191,269 +166,193 @@ MPGC(F,G)
 }
 \]
 
-因此：
+从而：
 
 \[
-LE+MPGC
-\not\Rightarrow FPNC.
+LE+MPGC\not\Rightarrow FPNC.
 \]
 
-直接 countermodel：
-
-\[
-m_a\Vdash X,
-\qquad
-m_b\Vdash Y,
-\qquad
-X\perp Y,
-\]
-
-并且：
-
-\[
-Actual(R)
-\land
-MPGC(F_X,F_Y).
-\]
-
-无 contradiction。
+这说明 SPC 是 substantive unity condition，不是 ordinary logic theorem。
 
 ---
 
-## 6. The Unity Criterion Fork
+## 6. Why SPC is natural in List semantics
 
-singularity 现在可以重写成一个明确 fork：
-
-### U-SPC — single-perspective unity
-
-现实之所以是 one coherent actuality，要求其 first-person facts ultimately one-perspective-co-obtainable。
-
-结果：
+List 表示 first-personally centred world 为：
 
 \[
-PluralCompleteOpenings\text{ excluded}.
+\langle\omega,\pi\rangle.
 \]
 
-### U-MPGC — mode-preserving manifold unity
+first-person facts对应 sets of such centered worlds。
 
-现实之所以是 one coherent actuality，只要求所有 perspectival obtaining modes属于 one structured actuality，并在各自 mode 内一致。
-
-结果：
+若 compossibility由 proposition intersection / one evaluation point joint satisfaction 表示，则 joint witness 必然是一个：
 
 \[
-PluralCompleteOpenings\text{ permitted}.
+\langle\omega,\pi\rangle
 \]
 
-所以当前最精确的问题是：
+而只含 one \(\pi\)。
+
+因此在该 architecture 中：
+
+\[
+SPC
+\]
+
+非常自然。
+
+---
+
+## 7. MEP upstream of SPC
+
+显式定义：
+
+### MEP — Monocentric Evaluation Principle
 
 \[
 \boxed{
-U\text{-}SPC\quad|\quad U\text{-}MPGC
+Every\ maximal\ first\!\!\text{-}\!person\ evaluation\ locus
+contains\ exactly\ one\ perspective.
 }
 \]
 
-而不是笼统地问：
+配合 standard pointwise/intersection compossibility：
 
-> reality fragmented or not?
+\[
+\boxed{MEP\Rightarrow SPC.}
+\]
 
-因为 `fragmented` 正取决于选哪一种 compossibility / unity criterion。
+更准确说：
+
+\[
+MEP+PointwiseJointSatisfaction\Rightarrow SPC.
+\]
+
+所以 SPC 的自然性部分来自 **candidate joint truth loci 被预先限定为 monocentric**。
+
+详见 [`evaluation-locus-cardinality-gap.md`](evaluation-locus-cardinality-gap.md)。
 
 ---
 
-## 7. Is SPC uniqueness-loaded?
+## 8. Perspective variance does not yield MEP
 
-SPC 不直接写：
-
-\[
-\exists!c.
-\]
-
-因此它不是 trivial restatement of uniqueness。
-
-它可以允许：
-
-- 一个 perspective 中多个 mutually compatible first-person facts；
-- diachronic facts，若 theory 允许同一 perspective/path 跨时间；
-- 一个 Universal-I 包含多个 local experiences，只要这些 experiences属于 one numerical perspective。
-
-所以 SPC 有独立 content。
-
-但对**distinct complete simultaneous first-person openings**，SPC 与 LE 联合后会直接产生 at-most-one。
-
-因此：
+first-person fact 非 perspective-invariant：
 
 \[
-\boxed{
-SPC\text{ is not definitionally uniqueness, but it is uniqueness-producing.}
-}
+\exists\pi_i,\pi_j\;[V(F,\pi_i)\neq V(F,\pi_j)].
 \]
 
-这正是它必须被独立辩护的原因。
+这只要求 evaluation 保留 perspective dependence。
 
----
-
-## 8. Why OneWorld does not give SPC
-
-`OneWorld` 最多给：
-
-\[
-\exists!R\;ActualWorld(R).
-\]
-
-它没有直接规定 \(R\) 的内部 fact-typing。
-
-以下两个 structures 都只有 one actual world：
-
-### Monocentric structure
-
-\[
-R=\langle W,m,F_m\rangle.
-\]
-
-### Plural-mode structure
-
-\[
-R=\langle W,m_a,m_b,F_a,F_b\rangle.
-\]
+它没有规定 complete actuality state 的 perspective cardinality。
 
 所以：
 
 \[
-\boxed{OneWorld\not\Rightarrow SPC.}
+\boxed{
+PerspectiveVariance\not\Rightarrow MEP.
+}
 \]
 
-要从 world-count 推 perspective-count，需要额外 bridge。
+这也是为什么 SPC 不能仅由 `first-person facts are subjective` 免费得到。
 
 ---
 
-## 9. Why ordinary logical consistency does not give SPC
+## 9. Polycentric alternative
 
-普通 consistency 只禁止：
-
-\[
-p\land\neg p
-\]
-
-在同一 evaluation context 下共同成立。
-
-Plural-mode theory 保留：
+允许 maximal actuality：
 
 \[
-\neg[m_a\Vdash p\land m_a\Vdash\neg p].
+\mathfrak R=\langle\omega,\Pi,\mathcal V,A\rangle,
+\qquad |\Pi|>1.
 \]
 
-它只拒绝从：
+其中每个 \(\pi_i\) 仍有 irreducible first-person valuation / obtaining mode。
+
+若这种结构 genuine，而非 third-personized collection，则：
 
 \[
-m_a\Vdash p,
-\quad m_b\Vdash q
+\boxed{\neg MEP\land OneActuality\land PluralIrreducibleFP}
 \]
 
-推出：
+coherent-looking。
+
+因此当前真正 positive burden 是证明 polycentric structure不够资格成为 complete actuality。
+
+---
+
+## 10. OneWorld remains weaker
 
 \[
-m\Vdash p\land q.
+OneWorld:\quad \exists!R\;ActualWorld(R)
 \]
+
+不规定 \(R\) 内部有 one perspective 还是 many perspective modes。
 
 所以：
 
 \[
-\boxed{ClassicalLocalConsistency\not\Rightarrow SPC.}
+\boxed{OneWorld\not\Rightarrow MEP\not\Rightarrow SPC.}
 \]
 
-SPC 是 metaphysical unity principle，不是 ordinary logic theorem。
+world-count 与 evaluation-locus cardinality 必须分开。
 
 ---
 
-## 10. Relation to List
+## 11. Current singularity theorem
 
-List 的 quadrilemma 可以精确重读为：
-
-\[
-FPR+NS+NF_{SPC}+OW\Rightarrow\bot.
-\]
-
-其中 `NF_SP C` 的 first-person application使用 SPC-style compossibility。
-
-因此 List 的 theorem 保留。
-
-本项目的新结论只是：
+保留条件式：
 
 \[
 \boxed{
-NF_{SPC}\text{ is one substantive unity conception among live alternatives}.
+ALO+LE+SPC+NF_{SPC}
+\Rightarrow ExactlyOneOpening.
 }
 \]
 
-Standpoint pluralism / fragmentalism明确选择另一 horn：多个 perspectival fact stacks皆真实，而 reality 不 privileged one standpoint。
+更底层：
 
----
+\[
+\boxed{
+ALO+MEP+PointwiseCompossibility+LE+NF_{SPC}
+\Rightarrow ExactlyOneOpening.
+}
+\]
 
-## 11. Positive burden for singularity
+但当前没有独立 proof：
 
-要重新建立 exactly-one，当前至少需要一种独立 defense：
-
-### S1 — Metaphysical unity defense
-
-证明 one actuality 本质上必须满足 SPC，而 MPGC 不够资格叫 complete actuality。
-
-### S2 — Fact identity defense
-
-证明真正 irreducible first-person facts的 identity conditions 本身要求 single-perspective joint instantiation。
-
-### S3 — Collapse theorem
-
-证明任何 MPGC-style plural-mode model若保留 genuine first-person irreducibility，就会发生 contradiction / regress / world-splitting / illicit meta-perspective。
-
-### S4 — Independent global orientation
-
-从其他 independently motivated structure直接得到 one global perspective，再由此支持 SPC。
-
-当前均未完成。
+\[
+CompleteActuality\Rightarrow MEP.
+\]
 
 ---
 
 ## 12. Current verdict
 
-旧：
+SPC 仍是有效、重要的 singularity bridge，但不再是 deepest unexplained premise。
 
-\[
-FPNC\text{ is the key unexplained premise}.
-\]
-
-新：
+最新层级：
 
 \[
 \boxed{
-FPNC\text{ can be decomposed; the deepest live premise is SPC.}
+MEP\text{ is upstream of SPC.}
 }
 \]
 
-因此 singularity frontier 进一步收缩：
+所以 current question：
 
 \[
 \boxed{
-Why\ must\ global\ actuality\ be\ single\!\!\text{-}\!perspective\ closed?
+Why\ must\ maximal\ first\!\!\text{-}\!person\ actuality\ be\ monocentric?
 }
 \]
 
-Plural Opening Manifold 给出：
-
-\[
-\boxed{
-\neg SPC
-\land OneActuality
-\land PluralIrreducibleFP
-}
-\]
-
-的 coherent-looking witness。
-
-在击穿这个 witness 前，exact-one 只能保持为 SPC-conditional result。
+在 MEP 或 polycentric-collapse theorem 建立前，Plural Opening Manifold remains live。
 
 ## 关联
 
+- [`evaluation-locus-cardinality-gap.md`](evaluation-locus-cardinality-gap.md)
 - [`../models/plural-opening-manifold.md`](../models/plural-opening-manifold.md)
 - [`first-person-non-compossibility-audit.md`](first-person-non-compossibility-audit.md)
 - [`unitary-singularity-lemma.md`](unitary-singularity-lemma.md)
-- [`obtaining-mode-pluralization.md`](obtaining-mode-pluralization.md)
