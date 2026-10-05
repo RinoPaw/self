@@ -1,76 +1,88 @@
 # Research 导航
 
-`research/` 放项目自己的问题、论证与模型。大量文件是探索过程中留下的压力测试；**文件存在不表示该路线仍 live**。
+`research/` 放项目自己的问题、论证与模型。历史文件保留推导过程；**当前 authority 先看 [`../synthesis/current-position.md`](../synthesis/current-position.md)**。
 
-当前 authority：[`../synthesis/current-position.md`](../synthesis/current-position.md)。
+## 当前 theory space
 
-## 当前核心问题
-
-最上游仍是：
+最新 frontier 不再用简单 binary 表示全部 ontology：
 
 \[
-\boxed{NeutralActuality\quad|\quad IntrinsicallyCenteredActuality}
+\boxed{
+C0\;SubjectNeutral
+\quad|\quad
+C1\;PluralFirstPerson
+\quad|\quad
+C2\;SingularCentered.
+}
 \]
 
-但最新 audit 增加了两个必须单独处理的研究关口。
+- **C0**：actuality 无 irreducible first-person obtaining mode。
+- **C1**：actuality 含多个 irreducible first-person modes，但无 globally privileged singleton。
+- **C2**：actuality 本身具有 one singular global first-person orientation。
 
-### 1. Singularity / FPNC
+original absolute-first-person target 是 C2，因此必须同时击败 C0 与 C1。
 
-Centered horn 只直接给：
+## 当前最高优先级
+
+### Singularity / unity criterion
+
+- [`models/plural-opening-manifold.md`](models/plural-opening-manifold.md) — **当前 strongest C1 constructive model**；one actuality + plural irreducible first-person modes。
+- [`arguments/perspective-closure-principle.md`](arguments/perspective-closure-principle.md) — **当前 deepest singularity bridge**；把 FPNC 分解为 Local Exclusivity + Single-Perspective Closure。
+- [`arguments/first-person-non-compossibility-audit.md`](arguments/first-person-non-compossibility-audit.md) — FPNC / List-style compossibility 审计。
+- [`arguments/unitary-singularity-lemma.md`](arguments/unitary-singularity-lemma.md) — 条件 singularity theorem；不要把它解释成 one-world unity 自动给 exact-one。
+- [`arguments/obtaining-mode-pluralization.md`](arguments/obtaining-mode-pluralization.md) — constitutional perspectivality / obtaining-mode plurality 的前置压力测试。
+- [`arguments/actuality-arity-singularity-gap.md`](arguments/actuality-arity-singularity-gap.md) — first-person/subjective arity 不推出 singularity。
+
+当前最精确问题：
 
 \[
-CenteredActuality\Rightarrow AtLeastOneOpening.
+\boxed{
+Why\ Single\!\!\text{-}\!Perspective\ Closure
+rather\ than\ Mode\!\!\text{-}\!Preserving\ Global\ Coherence?
+}
 \]
 
-进一步 exact-one 的条件式是：
+### Completion discrimination
 
-\[
-ALO+OneWorld+NF+FPNC\Rightarrow ExactlyOneOpening.
-\]
+- [`arguments/neutral-accommodation-test.md`](arguments/neutral-accommodation-test.md) — witness 必须抵抗 best non-singular accommodation。
+- [`arguments/centered-completion-witness-exhaustion.md`](arguments/centered-completion-witness-exhaustion.md) — 旧 CC1 witness exhaustion；现在按 accommodation 标准重读。
+- [`arguments/neutral-actuality-incoherence-audit.md`](arguments/neutral-actuality-incoherence-audit.md) — C0 尚无 contradiction。
+- [`arguments/primitive-actuality-replacement-test.md`](arguments/primitive-actuality-replacement-test.md) — primitive replacement comparison。
+- [`arguments/actuality-arity-orthogonality.md`](arguments/actuality-arity-orthogonality.md) — actuality thickness / primitiveness 不推出 first-person arity。
 
-现在 `FPNC` 被明确列为独立 burden；singularity 不再视为已解决。
-
-### 2. Completion discrimination / accommodation
-
-旧标准 `N \not\models X` 过弱。未来候选 `X` 必须通过：
+新 witness `X` 需要通过：
 
 \[
 Independent(X)
-\land NaturalFit(C,X)
-\land \neg CheapNeutralAccommodation(N,X).
+\land NaturalFit(C2,X)
+\land \neg CheapNonSingularAccommodation(X).
 \]
 
-也就是 Centered 要自然解释 `X`，且 strongest still-neutral theory 不能低成本吸收它。
+这里 `NonSingular` 同时包含 C0 与 C1。
 
-## `arguments/` — 当前最高优先级
+## Presence / phenomenology
 
-### Singularity
+默认关闭为 unique-absolute witness：
 
-- [`arguments/first-person-non-compossibility-audit.md`](arguments/first-person-non-compossibility-audit.md) — **当前 live**。审计 FPNC / List-style first-person compossibility 是否独立成立。
-- [`arguments/unitary-singularity-lemma.md`](arguments/unitary-singularity-lemma.md) — re-audited USL；条件式保留，但 singularity 降级为依赖 FPNC/LFPC。
-- [`arguments/actuality-arity-singularity-gap.md`](arguments/actuality-arity-singularity-gap.md) — arity 不推出 singularity。
-- [`arguments/obtaining-mode-pluralization.md`](arguments/obtaining-mode-pluralization.md) — constitutional perspectivality 仍可 pluralize。
-- [`arguments/standpoint-pluralism-challenge.md`](arguments/standpoint-pluralism-challenge.md) — plural genuine standpoint baseline。
-
-### Completion / theory discrimination
-
-- [`arguments/neutral-accommodation-test.md`](arguments/neutral-accommodation-test.md) — **当前 live**。新的 CC1+ / theory-discrimination 标准。
-- [`arguments/completion-condition-fork.md`](arguments/completion-condition-fork.md) — Neutral vs Centered completion。
-- [`arguments/completion-underdetermination-result.md`](arguments/completion-underdetermination-result.md) — underdetermination 主结果；其旧 U3 由 Neutral Accommodation Test 强化。
-- [`arguments/centered-completion-witness-exhaustion.md`](arguments/centered-completion-witness-exhaustion.md) — 历史 witness sweep；其中 `N-ACT absorption` 结果继续有效，但 bare entailment criterion 已 superseded。
-- [`arguments/neutral-actuality-incoherence-audit.md`](arguments/neutral-actuality-incoherence-audit.md) — CC2 未找到 neutral contradiction。
-- [`arguments/primitive-actuality-replacement-test.md`](arguments/primitive-actuality-replacement-test.md) — CC3；strongest neutral actuality 已能很厚，centered 仍欠 subject-arity-specific payoff。
-- [`arguments/actuality-arity-orthogonality.md`](arguments/actuality-arity-orthogonality.md) — actuality strength 不自动推出 FP arity。
-
-### Presence / phenomenology
-
-- [`arguments/presence-route-four-way-closure.md`](arguments/presence-route-four-way-closure.md) — Presence route 已关闭为 independent witness。
+- [`arguments/presence-route-four-way-closure.md`](arguments/presence-route-four-way-closure.md)
 - [`arguments/presence-simpliciter-independence-failure.md`](arguments/presence-simpliciter-independence-failure.md)
+- [`arguments/presence-to-globality-gap.md`](arguments/presence-to-globality-gap.md)
 - [`arguments/representation-fact-gap.md`](arguments/representation-fact-gap.md)
 
-这些路线只有在产生 FPNC theorem 或 accommodation-resistant `X` 时才值得重新提升。
+即使 future phenomenology 迫使 first-person arity，也必须再问 C1 能否吸收；若能，就没有得到 singularity。
 
-### Locality / Universal-I
+## Models
+
+当前优先：
+
+- [`models/neutral-actuality-core.md`](models/neutral-actuality-core.md) — strongest C0 family。
+- [`models/plural-opening-manifold.md`](models/plural-opening-manifold.md) — strongest explicit C1 model。
+- [`models/role-first-absolute-opening.md`](models/role-first-absolute-opening.md) — strongest C2 model；当前 hard-codes unique global-role occupant。
+- [`models/endgame-theory-matrix.md`](models/endgame-theory-matrix.md) — historical comparison matrix；读取时以 current authority 修正。
+
+## Locality / Universal-I
+
+当前下游：
 
 - [`arguments/phenomenal-field-individuation-principle.md`](arguments/phenomenal-field-individuation-principle.md)
 - [`arguments/bearer-discrimination-principle.md`](arguments/bearer-discrimination-principle.md)
@@ -78,33 +90,10 @@ Independent(X)
 - [`arguments/global-subject-maximality-burden.md`](arguments/global-subject-maximality-burden.md)
 - [`arguments/primitive-cosmic-bearer-assignment-equivalence.md`](arguments/primitive-cosmic-bearer-assignment-equivalence.md)
 
-这些结果仍保留，但现在是 downstream conditional architecture；不要假设 exact-one 已经独立建立。
+在 singularity 独立建立前，不应把这些当成最上游主线。
 
-## `models/`
+## 默认关闭路线
 
-优先比较：
+除非能产生 SPC theorem、MPGC collapse 或同时击败 C0/C1 的 discriminator，默认不再重复：structural/causal/informational winner、ordinary mineness/immediacy、generic passage/presence、bare actuality thickness、self-manifestation bottleneck、duplicate token lottery、death transfer、generic cosmic subject、bare simplicity。
 
-- [`models/neutral-actuality-core.md`](models/neutral-actuality-core.md) — strongest neutral package。
-- [`models/role-first-absolute-opening.md`](models/role-first-absolute-opening.md) — strongest centered package；注意它当前直接 hard-code exact-one occupant，因此不能同时把 USL 当作 exact-one primitive 的消除证明。
-- [`models/constructive-neutral-one-world.md`](models/constructive-neutral-one-world.md)
-- [`models/endgame-theory-matrix.md`](models/endgame-theory-matrix.md)
-
-## 当前研究顺序
-
-默认顺序：
-
-1. 构造 / 击穿 one-actuality + plural irreducible openings 的 stress model；
-2. 审计 FPNC/LFPC 的独立依据；
-3. 用 Neutral Accommodation Test 检验任何新 candidate `X`；
-4. 只有 singularity 真正升级后，再把 Locality / Universal-I 拉回主线。
-
-## 默认关闭条件
-
-不要重复 generic structural winner、ordinary phenomenology/mineness、ordinary presence、bare actuality、self-manifestation bottleneck、generic causal unity、primitive Universal-I、exact duplicate lottery、death transfer。
-
-新工作首先问两句：
-
-- 它是否独立支持 FPNC / singularity？
-- 它是否产生 Neutral 无法低成本保持中性地解释的 `X`？
-
-若两者都否，就不改变当前 theory ranking。
+最新操作入口：[`../synthesis/handoff-2026-10-05-plural-opening-model.md`](../synthesis/handoff-2026-10-05-plural-opening-model.md)。

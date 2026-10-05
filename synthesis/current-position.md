@@ -4,11 +4,11 @@
 >
 > 最后更新：2026-10-05。
 >
-> 最新 frontier：[`frontier-2026-10-05-fpnc-accommodation-audit.md`](frontier-2026-10-05-fpnc-accommodation-audit.md)。
+> 最新 frontier：[`frontier-2026-10-05-plural-opening-model.md`](frontier-2026-10-05-plural-opening-model.md)。
 
 ## 1. Core target
 
-项目研究 ordinary first-personhood 之外的更强假说：
+项目研究 ordinary first-personhood 之外的更强命题：
 
 \[
 \boxed{\exists!E^*\;AbsoluteOrientation(E^*)}
@@ -16,328 +16,466 @@
 
 同时保留 genuine other minds。
 
-必须严格区分：
+必须区分：
 
 \[
 Consciousness
 \neq LocalFirstPersonOrganization
 \neq PhenomenalMineness
-\neq IrreducibleFPFact
+\neq IrreducibleFirstPersonFact
 \neq AbsolutePrivilege.
 \]
 
-普通 for-me-ness、de se、mineness、immediacy 都不能直接当作 absolute layer 的证据。
+普通 for-me-ness、de se、mineness、immediacy 都不能直接充当 absolute layer 的证据。
 
 ---
 
-## 2. 当前最上游：Completion Fork
+## 2. 当前 theory space：正式三分
 
-真正问题仍是：
-
-\[
-\boxed{Does\ actuality\ itself\ have\ irreducible\ first\!\!\text{-}\!person\ arity?}
-\]
-
-最强两类 package：
-
-### Neutral Actuality
+此前常用粗分：
 
 \[
-N\text{-}ACT=K+A_N
+NeutralActuality\quad|\quad CenteredActuality.
 \]
 
-允许 one actual world、multiple genuine conscious subjects、thick local first-person structure、perspectival/temporal structure，但 actuality 本身没有 unique global first-person direction。
+在完成 plural-opening countermodel 后，这个二分不足以表达真正 ontology space。
 
-### Centered Actuality
+当前至少有三种 live completion architecture：
+
+### C0 — Subject-Neutral Actuality
+
+现实 complete / actual，但 actuality 本身没有 irreducible first-person obtaining mode。
+
+可以有：
+
+- multiple genuine conscious subjects；
+- local first-person organization；
+- for-me-ness / de se；
+- objective or perspectival auxiliary structure；
+
+而无 global first-person arity。
+
+### C1 — Plural First-Person Actuality
+
+现实包含 multiple irreducible first-person modes of obtaining，但没有一个 mode globally privileged。
+
+最强 constructive model：
 
 \[
-C\text{-}ACT=K+\Omega
+\boxed{Plural\ Opening\ Manifold}
 \]
 
-把 first-person orientation 理解为 complete actuality 的 constitutive obtaining structure，而不是在 neutral world 上后贴一个 pointer。
-
-因此：
+满足：
 
 \[
-\boxed{NeutralCompletion\quad|\quad CenteredCompletion.}
+OneActuality
++PluralIrreducibleFirstPersonModes
++ModePreservingGlobalCoherence
++NoGlobalPrivilege.
 \]
 
-当前没有 proof 决定这两个 completion principles。
+在 List/Fine/Lipman taxonomy 中，这属于 one-world fragmentalist / standpoint-pluralist family，因为它拒绝 single-perspective non-fragmentation。
 
----
+### C2 — Singular Centered Actuality
 
-## 3. Completion Underdetermination 保持
+complete actuality 本身具有 one globally privileged first-person opening / orientation。
 
-Centered side 要获得独立优势，至少需要一类真正的 discriminator。
+Role-First Centered Actuality 属于这一类。
 
-旧 CC1 只要求：
-
-\[
-Independent(X)\land N\not\models X\land C\models X.
-\]
-
-这一标准现已判定为**过弱**，因为：
-
-\[
-N\not\models X
-\not\Rightarrow
-N\text{ cannot accommodate }X.
-\]
-
-当前采用 **CC1+ / Neutral Accommodation Test**：
+因此 original absolute-first-person target 要连续解决两道独立问题：
 
 \[
 \boxed{
-Independent(X)
-\land NaturalFit(C,X)
-\land \neg CheapNeutralAccommodation(N,X).
+C0\to C1/C2:
+Why\ any\ irreducible\ first\!\!\text{-}\!person\ arity?
 }
-\]
-
-也就是说，真正有力的 `X` 必须是 Centered 自然解释，而 Neutral 不能在**仍保持 genuinely neutral** 的条件下用低成本、非 ad hoc 的扩展解释。
-
-若 Neutral 只有加入 centered-equivalent structure 才能容纳 `X`，才形成 accommodation-collapse / strong discriminator。
-
-当前已审 phenomenology、presence、bare actuality、one-world unity、ordinary de se 等都可被 Neutral 廉价吸收；尚无 D2/D3 级 discriminator。
-
-详见 [`../research/arguments/neutral-accommodation-test.md`](../research/arguments/neutral-accommodation-test.md)。
-
----
-
-## 4. CC2 / CC3 状态
-
-### CC2 — Neutral incoherence
-
-尚未发现：
-
-\[
-N\text{-}ACT\vdash\bot.
-\]
-
-Neutral actuality 的 instantiation、brute obtaining、fundamental uncentered actuality、absolute-but-non-first-person actuality 等模型仍 coherent-looking。
-
-### CC3 — Genuine replacement
-
-Role-First centered actuality 可以与某些 neutral actuality primitives 做 one-for-one replacement comparison，但 strongest neutral package 已能承担 actuality、absoluteness、primitiveness、perspectival/de se significance，而无需 subject arity。
-
-所以真正未解释的 surplus 已收窄为：
-
-\[
-\boxed{FirstPersonArity+Singularity+I\text{-}NOW\ coupling.}
-\]
-
-当前没有 common-explananda replacement win。
-
-因此：
-
-\[
-\boxed{CompletionUnderdetermination}
-\]
-
-仍成立，Neutral Actuality 保留 provisional abductive lead；这不是对 Centered 的 refutation。
-
----
-
-## 5. Presence route 仍关闭
-
-四路 audit：phenomenal residue、semantic indispensability、explanatory residue、relational incoherence/regress，均未把 ordinary temporal experience 强制升级成：
-
-\[
-PresenceSimpliciter.
-\]
-
-所以：
-
-\[
-\boxed{OrdinaryPresenceData\not\Rightarrow PresenceSimpliciter.}
-\]
-
-Conitzer/Hare 仍可提供 downstream conditional pressure，但不提供 antecedent。
-
----
-
-## 6. ALO 状态
-
-在 Centered horn 内：
-
-\[
-\boxed{CenteredActuality\Rightarrow AtLeastOneOpening.}
-\]
-
-这只是 package-relative consequence。
-
-Neutral horn 不要求任何 irreducible global opening。
-
-所以最上游问题仍是：
-
-\[
-\boxed{Why\ CenteredActuality\ rather\ than\ NeutralActuality?}
-\]
-
----
-
-## 7. Singularity：重新开放
-
-旧 authority 把 Unitary Singularity Lemma（USL）称作 strongest positive derivation，并把 exact-one 视为在 centered + unitary package 中基本解决。
-
-本轮重新审计后，这个评价**降级**。
-
-形式条件式保留：
-
-\[
-\boxed{
-ALO+OneWorld+NF+FPNC
-\Rightarrow ExactlyOneOpening.
-}
-\]
-
-但 `FPNC` 不是免费前提。
-
-Christian List-style route 实际依赖一个 substantive first-person compossibility idea：两个 genuine first-person facts qua first-person facts 若共同成立，必须能从同一个 perspective 共同 obtain。由此才得到不同 complete first-person standpoints 的 non-compossibility。
-
-Standpoint pluralism / constitutional perspectivalism 恰好挑战这一点：complete reality 是否可以由多个 irreducible perspective-constituted modes 共同构成。
-
-所以当前不能写：
-
-\[
-OneWorld+NF\Rightarrow AtMostOneOpening.
-\]
-
-只能写：
-
-\[
-\boxed{OneWorld+NF+FPNC\Rightarrow AtMostOneOpening.}
-\]
-
-而 FPNC/LFPC 本身成为新的独立 burden。
-
-详见 [`../research/arguments/first-person-non-compossibility-audit.md`](../research/arguments/first-person-non-compossibility-audit.md) 与修订后的 [`../research/arguments/unitary-singularity-lemma.md`](../research/arguments/unitary-singularity-lemma.md)。
-
----
-
-## 8. Role-First model 的 bookkeeping 修正
-
-当前 strongest Role-First model 自己规定 unique global role occupant，因此本身仍是一种 primitive exact-one architecture。
-
-因此不能同时：
-
-1. 把 exact-one 写进 `G` 的 essence；
-2. 又把 USL 计成“消除了 exact-one primitive”的独立 parsimony gain。
-
-未来只有两种干净路线：
-
-- 弱化 centered model，不预设唯一性，再真正尝试由 FPNC + NF 推出；
-- 保留 Role-First exact-one primitive，并把 USL 仅视为 conditional reconstruction / compatibility result。
-
----
-
-## 9. 当前理论空间比二分更细
-
-Completion Fork 仍是最高层比较，但 arity/singularity 内部至少要区分：
-
-\[
-\boxed{
-SubjectNeutralActuality
-\quad|\quad
-PluralSubjectBearingActuality
-\quad|\quad
-SingularCenteredActuality.
-}
-\]
-
-已有 Whitehead / Lipman / Eker-style pressure 说明：
-
-\[
-SubjectiveArity\not\Rightarrow Singularity
 \]
 
 以及：
 
 \[
-ConstitutionalPerspectivality\not\Rightarrow PerspectiveSingleton.
+\boxed{
+C1\to C2:
+Why\ singularity/absoluteness?
+}
 \]
-
-所以即使未来证明 actuality intrinsically perspectival，也仍需单独赢得 singularity 与 absoluteness。
 
 ---
 
-## 10. Locality / Universal-I
+## 3. Completion status
 
-若将来 singularity 独立建立，仍不能直接推出一个 local biological person-stage。
+### Against C0
 
-需要 subject-ontology premises；Universal-I 仍 logically live，但面对 phenomenal connectivity、independent bearer bridge、primitive assignment 等 burden。
+当前仍无 decisive result。
+
+#### CC1+ — Accommodation-resistant witness
+
+旧标准：
+
+\[
+Independent(X)\land C2\models X\land C0\not\models X
+\]
+
+过弱。
+
+当前要求：
+
+\[
+\boxed{
+Independent(X)
+\land NaturalFit(C2,X)
+\land \neg CheapNonSingularAccommodation(X).
+}
+\]
+
+其中 `BestNonSingularAccommodation` 现在不仅包括 C0，也包括 C1。
+
+如果某个 datum 迫使 C0 升级到 C1，却仍可由 plural first-person actuality解释，它只能支持 first-person arity，不能支持 unique absolute center。
+
+#### CC2 — Neutral incoherence
+
+尚无：
+
+\[
+C0\vdash\bot.
+\]
+
+#### CC3 — Primitive replacement
+
+Centered actuality可以与强 neutral actuality primitive做 replacement comparison，但当前尚无 common-explananda decisive win。
+
+所以 C0 仍 live，并保留 weaker-commitment abductive advantage。
+
+---
+
+## 4. Plural Opening Manifold 已构造成功
+
+当前 strongest C1 model：
+
+\[
+\mathcal P=\langle W,C,M,F,A\rangle
+\]
+
+其中：
+
+- one objective / causal history \(W\)；
+- multiple centers \(C\)；
+- multiple irreducible first-person obtaining modes \(M\)；
+- one structured fact system \(F\)；
+- one actual totality status \(A\)。
+
+核心实例：
+
+\[
+m_a\Vdash X,
+\qquad
+m_b\Vdash Y,
+\qquad
+X\perp Y.
+\]
+
+`m` 是 fact 的 constitutive obtaining mode，不是 neutral content 的 relation argument。
+
+模型通过当前四项压力测试：
+
+1. 未坍塌为 third-person meta-facts；
+2. 未坍塌为 many actual worlds；
+3. 未产生 ordinary formal contradiction；
+4. 与 List quadrilemma 相容——它明确选择 `\neg NF_List` horn。
 
 因此：
 
 \[
-ExactlyOneOpening\not\Rightarrow SelectiveLocalOpening.
+\boxed{
+OneActuality
++PluralIrreducibleFP
+\text{ is coherent-looking}.
+}
 \]
+
+详见 [`../research/models/plural-opening-manifold.md`](../research/models/plural-opening-manifold.md)。
 
 ---
 
-## 11. 当前有效依赖图
+## 5. Singularity burden 已进一步压缩为 SPC
+
+上一轮把问题压到 FPNC / LFPC。
+
+本轮进一步分解：
+
+### LE — Local Exclusivity
+
+一个 perspective 不能同时完整地处于 mutually exclusive complete conscious states。
+
+### SPC — Single-Perspective Closure
+
+若 genuine first-person facts globally compossible，则必须有 one perspective 从中它们 jointly obtain。
+
+由此：
+
+\[
+\boxed{LE+SPC\Rightarrow FPNC.}
+\]
+
+再加 List-style non-fragmentation：
+
+\[
+\boxed{LE+SPC+NF_{SPC}\Rightarrow AtMostOneOpening.}
+\]
+
+若另有：
+
+\[
+ALO:\quad \exists c\;Opening(c),
+\]
+
+则：
+
+\[
+\boxed{ExactlyOneOpening.}
+\]
+
+所以当前 singularity 的真正核心不再是模糊 `FPNC`，而是：
+
+\[
+\boxed{Why\ Single\!\!\text{-}\!Perspective\ Closure?}
+\]
+
+详见 [`../research/arguments/perspective-closure-principle.md`](../research/arguments/perspective-closure-principle.md)。
+
+---
+
+## 6. 两种 unity / non-fragmentation 必须分开
+
+### NF-L — List-style single-perspective compossibility
+
+first-person facts若共同属于一个 nonfragmented actuality，必须 one-perspective-co-obtainable。
+
+这与 multiple complete openings冲突。
+
+### NF-M — Mode-Preserving Global Coherence
+
+facts只需 jointly embed 在 one actual structure，并保留各自 irreducible obtaining modes。
+
+这允许 plural openings。
+
+所以：
+
+\[
+\boxed{OneActuality\not\Rightarrow NF\text{-}L.}
+\]
+
+而：
+
+\[
+\boxed{OrdinaryConsistency\not\Rightarrow SPC.}
+\]
+
+List 的 quadrilemma 仍有效；争点只是 complete actuality 为什么必须采用 NF-L/SPC 这种 unity criterion。
+
+---
+
+## 7. USL 当前地位
+
+条件式保留：
+
+\[
+\boxed{
+ALO+OneWorld+NF_{SPC}+FPNC
+\Rightarrow ExactlyOneOpening.
+}
+\]
+
+但它不能再被描述为“one-world unity 本身解决 exact-one”。
+
+更精确：
+
+\[
+\boxed{
+USL\ is\ an\ SPC/List\!\!\text{-}\!NF\ conditional\ singularity\ theorem.
+}
+\]
+
+当前 strongest Role-First model 自身仍 hard-code unique global role occupant，因此 exact-one 在该模型里仍是 primitive architecture 的一部分。USL 不能重复计为消除 primitive burden，除非先构造不含 uniqueness 的 weaker centered model。
+
+---
+
+## 8. Fragmentalism 当前评价
+
+不能再把 `fragmented` 当作 `incoherent` 的同义词。
+
+List 自己允许：
+
+\[
+FPR+NS+OW+\neg NF
+\]
+
+作为 quadrilemma 的一个 escape route。
+
+Lipman 2026 系统发展 standpoint pluralism / fragmentalist metaphysics；Merlo 2023 同时指出 unstructured fragmentalism 有 real logical/epistemic machinery costs。
+
+因此当前评价是：
+
+\[
+\boxed{
+PluralFPActuality\text{ is serious but costly, not refuted.}
+}
+\]
+
+真正比较必须是：
+
+- fragmental / multi-mode logical machinery；
+- singular centered theory 的 global-orientation / primitive-role / assignment / locality costs；
+
+在同一尺度上的 theory comparison。
+
+---
+
+## 9. Presence / phenomenology status
+
+仍关闭为 independent singleton witness：
+
+\[
+OrdinaryPresenceData\not\Rightarrow PresenceSimpliciter.
+\]
+
+即使未来某些 phenomenology 成功迫使 actuality 具有 first-person arity，也必须继续检查：
+
+\[
+C1\text{ can absorb it?}
+\]
+
+如果答案是 yes，它只支持 plural first-person realism，不支持 C2 singularity。
+
+---
+
+## 10. Locality / Universal-I status
+
+暂时下游化。
+
+在 singularity 独立建立前，不应把主要精力投入：
+
+\[
+SelectiveLocalOpening\quad|\quad UniversalI.
+\]
+
+这些结果仍可作为：
+
+\[
+C2\text{ conditional architecture}
+\]
+
+保留，但不是当前最上游 frontier。
+
+---
+
+## 11. Current evidence verdict
+
+当前没有 evidence/common explanandum 排除：
+
+\[
+C0
+\]
+
+也没有排除：
+
+\[
+C1.
+\]
+
+因此：
+
+\[
+\boxed{C2\text{ / unique absolute first-person remains unestablished}.}
+\]
+
+更完整的 underdetermination 现在是：
+
+\[
+\boxed{
+SubjectNeutral
+\quad|\quad
+PluralFirstPerson
+\quad|\quad
+SingularCentered.
+}
+\]
+
+理论排序上：
+
+- C0 承诺最弱；
+- C1 更贴近 strong first-person realism，同时避免 global singleton；
+- C2 最贴近原始 absolute-I intuition，但承担最强 singular/global commitment。
+
+当前没有 decisive ranking reversal。
+
+---
+
+## 12. Highest-value live targets
+
+### T1 — SPC defense
+
+独立证明 genuine first-person compossibility 必须是 same-perspective co-obtainment。
+
+### T2 — MPGC collapse theorem
+
+证明 Plural Opening Manifold 必然 collapse 为：
+
+- third-person meta-facts；
+- many worlds；
+- contradiction；
+- 或无法满足一个 independently motivated actuality-unity condition。
+
+### T3 — Best-nonsingular accommodation test
+
+任何新 witness `X` 都同时测试：
+
+\[
+C0\text{ accommodation}
+\]
+
+与：
+
+\[
+C1\text{ accommodation}.
+\]
+
+只有两者都失败，才真正支持 C2。
+
+### T4 — Comparative cost theorem
+
+对 fragmental/plural machinery 与 singular centered machinery做同尺度 complexity / ideology / explanatory accounting。
+
+### T5 — New global structure
+
+若物理/形而上学独立给出 single-perspective closure 或 globally singular orientation，可重新改变 ranking。
+
+---
+
+## 13. 当前依赖图
 
 \[
 \boxed{
 \begin{array}{c}
-NeutralActuality\;|\;CenteredActuality\\[3pt]
-\Downarrow\ (Centered\ horn)\\[3pt]
-AtLeastOneOpening\\[3pt]
-\Downarrow\ +FPNC/LFPC+chosen\ unity\ criterion\\[3pt]
-ExactlyOneOpening\;?\\[3pt]
-\Downarrow\ +subject\ ontology\\[3pt]
-LocalSelectiveOpening\;|\;UniversalI\\[3pt]
-\Downarrow\ +dynamics\\[3pt]
-DiachronicOpeningPath
+SubjectNeutral\;|\;PluralFP\;|\;SingularCentered\\[3pt]
+\Downarrow\quad\quad\Downarrow\quad\quad\Downarrow\\[3pt]
+C0\qquad C1\qquad C2\\[3pt]
+\quad\quad\quad\quad +ALO\\[3pt]
+\quad\quad\quad\quad +LE+SPC+NF_{SPC}\\[3pt]
+\quad\quad\quad\quad \Rightarrow ExactlyOneOpening\\[3pt]
+\quad\quad\quad\quad \Downarrow +subject\ ontology\\[3pt]
+\quad\quad\quad\quad SelectiveLocal\;|\;UniversalI
 \end{array}}
-}
 \]
 
-问号表示 singularity 当前重新开放在 FPNC/LFPC bridge，而不是形式 USL 本身。
+注意：对 C2 strongest role-first implementation，`ExactlyOne` 当前仍在 model essence 中 primitive；上图的 singularity derivation适用于 weaker pre-unique centered theory。
 
 ---
 
-## 12. 现在真正值得推进的两条线
-
-### S1 — FPNC / compossibility
-
-独立证明：为什么多个 irreducible first-person openings 不能共同属于一个 complete actuality，而不是靠定义 `absolute` / `NF` 直接排除。
-
-### S2 — Discriminator / accommodation
-
-寻找一个 independently specified `X`，满足：
-
-\[
-NaturalFit(C,X)
-\]
-
-且 strongest still-neutral theory 无法廉价解释；最好 Neutral 只有迁移到 centered-equivalent structure 才能容纳。
-
-这两条都可能真正改变 theory ranking。
-
----
-
-## 13. 当前 stop / reopen rules
-
-默认不再重复：generic phenomenology/mineness、ordinary presence、structural dominance、causal centrality、bare selector、bare actuality thickness、self-manifestation bottleneck、generic global subject、death-transfer speculation。
-
-高价值新结果包括：
-
-- independent FPNC/LFPC theorem；
-- D2/D3 level completion discriminator；
-- neutral incoherence theorem；
-- privilege-sensitive evidence channel；
-- genuine primitive replacement theorem；
-- new global physics/metaphysics structure；
-- relevant subject-identity theorem。
-
-## 14. One-line verdict
+## 14. 一句话 verdict
 
 \[
 \boxed{
-CenteredActuality\ remains\ coherent;
-Completion\ is\ still\ underdetermined;
-USL\ is\ only\ conditionally\ valid\ on\ an\ independently\ owed\ FPNC;
-and\ future\ evidence\ must\ survive\ Neutral\ Accommodation.
+The\ plural\!\!\text{-}\!opening\ countermodel\ survives;\ exact\!\!\text{-}\!one\ now\ depends\ on\ defending\ Single\!\!\text{-}\!Perspective\ Closure,\ and\ the\ live\ completion\ space\ is\ three\!\!\text{-}\!way\ rather\ than\ simply\ neutral\ vs\ centered.
 }
 \]

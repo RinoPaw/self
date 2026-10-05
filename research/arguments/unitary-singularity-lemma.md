@@ -1,329 +1,342 @@
-# Unitary Singularity Lemma — Re-audited
+# Unitary Singularity Lemma — SPC-Conditional Form
 
-> 状态：2026-10-05 re-audit 后的条件性结果。
+> 状态：2026-10-05 re-audited after Plural Opening Manifold。
 >
-> 旧版本把 singularity 的正面分量写高了。当前保留形式推导，但把 `First-Person Non-Compossibility`（FPNC）明确恢复为独立 burden。
+> 旧版本把 `FPNC` 当作一个整体前提；当前版本进一步分解为 `Local Exclusivity + Single-Perspective Closure`。
 
 ## 0. Target
 
-令预唯一性的 opening predicate 为：
+要推出：
 
 \[
-Open(\sigma),
+ExactlyOneOpening.
 \]
 
-它只表示 `σ` 是一个 irreducible first-person opening，不包含 `unique`。
-
-当前要检验：在什么额外条件下能从：
+拆成：
 
 \[
-\exists\sigma\;Open(\sigma)
-\]
-
-得到：
-
-\[
-\exists!\sigma\;Open(\sigma).
-\]
-
----
-
-## 1. Premises
-
-### ALO — At Least One Opening
-
-\[
-\exists\sigma\;Open(\sigma).
-\]
-
-在 current Centered Actuality package 内，这可以作为 constitutive consequence：
-
-\[
-CenteredActuality\Rightarrow ALO.
-\]
-
-### OW — One World
-
-\[
-\exists!w\;RealityWorld(w).
-\]
-
-### NF — Non-Fragmentation
-
-actuality 中共同 obtaining 的 facts 满足所采用的 compossibility criterion。
-
-注意：`NF` 的具体 compossibility 标准本身不能模糊处理；它与 FPNC 的内容紧密相关。
-
-### FPNC — First-Person Non-Compossibility
-
-对 distinct irreducible openings：
-
-\[
-\boxed{
-\sigma_i\neq\sigma_j
-\land Open(\sigma_i)
-\land Open(\sigma_j)
-\Rightarrow
-\neg Compossible(Open_i,Open_j).
-}
-\]
-
----
-
-## 2. Conditional theorem
-
-若：
-
-\[
-OW+NF+FPNC,
-\]
-
-则同一 nonfragmented actuality 中不能有两个 distinct openings。
-
-所以：
-
-\[
-\boxed{
-OW+NF+FPNC\Rightarrow AtMostOneOpening.
-}
-\]
-
-再加 ALO：
-
-\[
-\boxed{
-ALO+OW+NF+FPNC\Rightarrow ExactlyOneOpening.
-}
-\]
-
-这一形式条件式保留，称为 **Unitary Singularity Lemma (USL)**。
-
----
-
-## 3. 这次 re-audit 改了什么
-
-以前容易把结果概括为：
-
-\[
-AtLeastOneOpening+UnitaryReality\Rightarrow ExactlyOneOpening.
-\]
-
-这会隐藏真正的 substantive premise。
-
-更准确：
-
-\[
-\boxed{
 AtLeastOneOpening
-+UnitaryReality
-+FPNonCompossibility
-\Rightarrow ExactlyOneOpening.
-}
++
+AtMostOneOpening.
 \]
 
-其中 anti-plurality content 主要来自：
-
-\[
-FPNC.
-\]
-
-`NF` 的作用是：如果两个 opening 按 FPNC 不可共存，那么 one nonfragmented actuality 不能同时包含它们。
-
-所以 `OneWorld + NF` 不能单独计作 uniqueness theorem。
+`ALO` 负责前者；本文件只审计后者。
 
 ---
 
-## 4. List-style support 的准确范围
+## 1. ALO
 
-Christian List 的 quadrilemma 为 FPNC 提供一个认真来源，但它依赖 genuine first-person fact 的 compossibility 概念。
+在 centered actuality package 内，可以条件接受：
 
-可抽成：
+\[
+\boxed{ALO:\quad \exists c\;Opening(c).}
+\]
+
+这只是 package-relative consequence，不证明 Centered Actuality 优于其他 completion theories。
+
+---
+
+## 2. Local Exclusivity
+
+对 complete first-person states：
+
+\[
+X\perp Y
+\]
+
+表示 same perspective 不可能同时 instantiate 二者。
+
+### LE
+
+\[
+\boxed{
+X\perp Y
+\Rightarrow
+\neg\exists m\;[m\Vdash X\land m\Vdash Y].
+}
+\]
+
+这是一项 local constraint；Plural Opening Manifold 也接受。
+
+---
+
+## 3. Single-Perspective Closure
+
+### SPC
 
 \[
 \boxed{
 Compossible_{FP}(F,G)
 \Rightarrow
-\exists p\;[ObtainsFrom(F,p)\land ObtainsFrom(G,p)].
+\exists m\;[m\Vdash F\land m\Vdash G].
 }
 \]
 
-即两个 first-person facts qua first-person facts 若共同成立，必须能从同一个 perspective 共同 obtain。
+即 genuine first-person facts 若 qua first-person facts globally compossible，必须能从 one perspective jointly obtain。
 
-对于 mutually exclusive complete conscious states，这会推出 non-compossibility。
-
-但本项目不能把这个标准当作 theory-neutral truth。Standpoint pluralism / constitutional perspectivalism 正会挑战：complete reality 是否可以 fundamental 地包含多个 perspective-constituted modes of obtaining。
-
-因此：
-
-\[
-\boxed{
-List\ provides\ a\ conditional\ FPNC\ route,
-\ not\ a\ premise-free\ global\ singularity\ theorem.
-}
-\]
-
-详见 [`first-person-non-compossibility-audit.md`](first-person-non-compossibility-audit.md)。
+这正是 Christian List-style compossibility 的核心读取。
 
 ---
 
-## 5. Plural-opening stress test
+## 4. FPNC as a derived premise
 
-考虑：
-
-\[
-R_P=\langle W,C,M,A\rangle
-\]
-
-其中 `W` 是 one objective history，`C` 是 multiple centers，`M` 是 multiple irreducible perspectival obtaining modes，`A` 是 one actuality structure。
-
-若该模型 coherent，则：
+若：
 
 \[
-OneReality+PluralIrreducibleCenters
+F_X=m_a\Vdash X,
+\qquad
+F_Y=m_b\Vdash Y,
+\qquad
+X\perp Y,
 \]
 
-至少不是由 `OneWorld` alone 排除。
-
-List-style theorist可以把它分类为 fragmented；但这只说明：
+假设：
 
 \[
-PluralOpening\Rightarrow\neg NF_{List}
+Compossible_{FP}(F_X,F_Y),
 \]
 
-而不是：
+由 SPC：
 
 \[
-PluralOpening\vdash\bot
+\exists m\;[m\Vdash X\land m\Vdash Y],
 \]
 
-simpliciter。
+与 LE 冲突。
 
-所以当前真正问题是 unity/compossibility criterion，而非形式推导本身。
+所以：
+
+\[
+\boxed{LE+SPC\Rightarrow FPNC.}
+\]
+
+当前不再把 FPNC 当作不可分析的 primitive bridge。
 
 ---
 
-## 6. 与 Role-First centered model 的关系
+## 5. Non-Fragmentation under SPC
 
-当前 Role-First model 直接规定：
+定义：
 
-\[
-\exists!L_i\;Occupies(L_i,G)
-\]
+### NF-SPC
 
-以及：
+一个 actual totality中的 obtaining first-person facts均 globally compossible，且 compossibility 使用 SPC criterion。
 
-\[
-|Occupants(G)|=1.
-\]
-
-因此它已经是一种 primitive exact-one architecture。
-
-要让 USL 真正承担 derivational work，有两种干净做法：
-
-### Route A — Weaken the positive model
-
-先只 postulate：
+于是若存在两个 distinct complete openings：
 
 \[
-\exists G\;GlobalOpening(G)
+Opening(a,X)
+\land
+Opening(b,Y),
+\qquad
+X\perp Y,
 \]
 
-以及至少一个 occupant，不预设唯一性；再尝试由 FPNC + NF 得到 exactly-one。
+由 NF-SPC 二者必须 compossible；由 LE+SPC 又 non-compossible。
 
-### Route B — Keep Role-First exact-one primitive
+矛盾。
 
-承认 strongest positive model 本身把 exact-one 放进 essence；USL 只提供与 List-style unitary metaphysics 的 reconstruction / consistency support，不再计算为独立 parsimony gain。
+所以：
 
-当前仓库不得同时使用两种 bookkeeping。
+\[
+\boxed{
+LE+SPC+NF_{SPC}
+\Rightarrow
+AtMostOneOpening.
+}
+\]
 
 ---
 
-## 7. 与 Arity–Singularity Gap 的关系
+## 6. Exactly-one corollary
 
-已有结果：
-
-\[
-SubjectiveArity\not\Rightarrow Singularity,
-\]
-
-以及：
-
-\[
-ConstitutionalPerspectivality\not\Rightarrow PerspectiveSingleton.
-\]
-
-USL 不否定这些结果。它增加的是：
-
-\[
-FPNC.
-\]
-
-所以统一后的结构为：
+与 ALO 合并：
 
 \[
 \boxed{
-Perspectival/first\!\!\text{-}\!person\ arity
-\not\Rightarrow Singularity;
-\quad
-Arity+FPNC+NF\Rightarrow AtMostOne.
+ALO+LE+SPC+NF_{SPC}
+\Rightarrow
+ExactlyOneOpening.
 }
 \]
 
-singularity burden 因此转化为：**FPNC 是否有独立依据？**
+这保留 **Unitary Singularity Lemma** 的形式核心，但现在必须明确称为：
+
+\[
+\boxed{SPC\text{-conditional singularity theorem}.}
+\]
 
 ---
 
-## 8. Current status
+## 7. Role of OneWorld
 
-### Proven conditionally
-
-\[
-\boxed{
-ALO+OW+NF+FPNC\Rightarrow ExactlyOneOpening.
-}
-\]
-
-### Not established
+`OneWorld` 可以要求：
 
 \[
-\boxed{
-ALO+OW+NF\Rightarrow ExactlyOneOpening.
-}
+\exists!R\;ActualWorld(R).
 \]
 
-### Also not established
+但它本身不规定 reality 内部允许多少 irreducible obtaining modes。
+
+Plural Opening Manifold 是直接 witness：
 
 \[
-\boxed{
-CenteredActuality\Rightarrow ExactlyOneOpening
-}
+OneWorld
++PluralIrreducibleFPModes
++ModePreservingGlobalCoherence.
 \]
 
-unless exact-one is simply built into that centered package.
+所以：
+
+\[
+\boxed{OneWorld\not\Rightarrow SPC.}
+\]
+
+`OneWorld` 仍可作为 theory package 的 world-count commitment，但不承担 singularity 的核心工作。
 
 ---
 
-## 9. New research burden
+## 8. The countermodel
 
-以后 singularity 只在以下结果出现时升级：
+Plural Opening Manifold：
 
-1. independent defense of List-style first-person compossibility；
-2. proof that plural irreducible perspective modes cannot belong to one complete actuality；
-3. proof that attempts to index the two centers necessarily demote them to merely relative/meta facts；
-4. independent unity theorem that fixes the relevant compossibility standard。
+\[
+\mathcal P=\langle W,C,M,F,A\rangle
+\]
 
-在此之前：
+允许：
+
+\[
+m_a\Vdash X,
+\qquad
+m_b\Vdash Y,
+\qquad
+X\perp Y,
+\]
+
+并保持：
+
+\[
+\exists!R\;Actual(R).
+\]
+
+它使用：
+
+\[
+MPGC\text{ — Mode-Preserving Global Coherence}
+\]
+
+而非 SPC。
+
+因此它不违反 ordinary logic，只违反 List-style NF / SPC。
+
+这证明：
 
 \[
 \boxed{
-Singularity\text{ is reopened at FPNC, not solved.}
+OneActuality+IrreducibleFP+LE
+\not\Rightarrow
+AtMostOne.
 }
+\]
+
+---
+
+## 9. Relation to List quadrilemma
+
+List 的：
+
+\[
+FPR+NS+NF+OW
+\Rightarrow\bot
+\]
+
+仍成立于其 compossibility conception。
+
+Plural model选择：
+
+\[
+FPR+NS+OW+\neg NF_{SPC}.
+\]
+
+所以它不是 counterexample to List；它是 List landscape 中一个 explicit one-world plural horn。
+
+这也说明：
+
+\[
+\boxed{List\ theorem\ does\ not\ by\ itself\ choose\ which\ horn\ reality\ occupies.}
+\]
+
+---
+
+## 10. Role-First bookkeeping
+
+当前 strongest `role-first-absolute-opening.md` 规定：
+
+\[
+\exists!L_i\;Occupies(L_i,G).
+\]
+
+因此其 exact-one 已经是 primitive model essence。
+
+不能同时：
+
+1. 在 model definition 中 hard-code unique occupant；
+2. 再把 USL 当作消除 exact-one primitive 的 independent theoretical gain。
+
+若要获得 genuine derivation credit，需要另建：
+
+\[
+PreUniqueCenteredActuality
+\]
+
+只提供 `ALO/first-person arity`，不预设 one occupant，然后再由 SPC theorem推出 at-most-one。
+
+---
+
+## 11. Current burden
+
+要把 USL 从 conditional theorem 升级为 strong positive result，需要独立 defend 至少一项：
+
+1. genuine first-person compossibility constitutively requires SPC；
+2. one actuality itself requires SPC；
+3. MPGC / plural-opening model secretly collapses into third-person facts or many worlds；
+4. MPGC violates an independently motivated stronger unity principle；
+5. a global structure independently yields one perspective and thereby SPC。
+
+当前均未完成。
+
+---
+
+## 12. Verdict
+
+保留：
+
+\[
+\boxed{
+ALO+LE+SPC+NF_{SPC}
+\Rightarrow ExactlyOneOpening.
+}
+\]
+
+拒绝过强表述：
+
+\[
+\boxed{
+OneWorld+FirstPersonArity
+\Rightarrow ExactlyOneOpening.
+}
+\]
+
+当前最深 singularity question：
+
+\[
+\boxed{Why\ SPC?}
 \]
 
 ## 关联
 
+- [`perspective-closure-principle.md`](perspective-closure-principle.md)
+- [`../models/plural-opening-manifold.md`](../models/plural-opening-manifold.md)
 - [`first-person-non-compossibility-audit.md`](first-person-non-compossibility-audit.md)
 - [`actuality-arity-singularity-gap.md`](actuality-arity-singularity-gap.md)
-- [`obtaining-mode-pluralization.md`](obtaining-mode-pluralization.md)
-- [`../models/role-first-absolute-opening.md`](../models/role-first-absolute-opening.md)
-- [`../../literature/list-2025-quadrilemma-unitary-opening.md`](../../literature/list-2025-quadrilemma-unitary-opening.md)
