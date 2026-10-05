@@ -12,14 +12,7 @@
 AAP:\quad CompleteActuality(R)\Rightarrow\exists!s\;SubjectArity(R,s).
 \]
 
-其中 `SubjectArity(R,s)` 不能只是：
-
-- 有 subjects 存在；
-- 有 subject-relative facts；
-- 某些 experiences 属于 s；
-- s 有 de se access。
-
-它必须说明：**actuality itself** 的 complete metaphysical form 含一个不可消掉的 subject place。
+其中 `SubjectArity(R,s)` 不能只是：有 subjects 存在、有 subject-relative facts、某些 experiences 属于 s、或 s 有 de se access。它必须说明：**actuality itself** 的 complete metaphysical form 含一个不可消掉的 subject place。
 
 若目标进一步是项目的 absolute-first-person thesis，还需要：
 
@@ -37,7 +30,7 @@ LOC:\quad SubjectArity(R,s)\Rightarrow\exists!E^*\;LocalAbsoluteLocus(E^*,s).
 \boxed{
 Actuality
 \xrightarrow{B_1}
-Manifestation
+SelfManifestation
 \xrightarrow{B_2}
 Subjectivity
 \xrightarrow{B_3}
@@ -49,12 +42,12 @@ OneLocalAbsoluteLocus.
 
 其中：
 
-- \(B_1\)：Actuality–Manifestation Bridge；
-- \(B_2\)：Manifestation–Subjectivity Bridge；
+- \(B_1\)：Actuality–Self-Manifestation Bridge；
+- \(B_2\)：Self-Manifestation–Subjectivity Bridge；
 - \(B_3\)：Subjectivity–Global-Unity Bridge；
 - \(B_4\)：Global-Subject–Local-Locus Bridge。
 
-此前很多 positive arguments 实际只完成了其中一段，却被自然语言压成：
+此前很多 positive arguments 只完成其中一段，却被自然语言压成：
 
 \[
 Actuality\Rightarrow AbsoluteI.
@@ -64,53 +57,102 @@ Actuality\Rightarrow AbsoluteI.
 
 ---
 
-## 2. B1 — Actuality → Manifestation
+## 2. B1 — Actuality → Self-Manifestation
 
-### Positive motivation
+### 2.1 Hegelian positive precedent
 
-Nagai-style opening、Gentile-style pure act、某些 phenomenological / idealist routes 都拒绝把 complete actuality理解成一份完全 self-contained、从任何 standpoint 都不需要“显现/发生/实现”的 bare inventory。
+本轮新增的最重要资源是 Hegelian `Wirklichkeit`。在该框架里，actuality 不是 inert fact inventory；actuality / absolute 的成熟形态包含 self-expression / self-manifestation，essence 与 existence、inner 与 outer 在 actuality 中以 reflexive form 统一。
 
-可提出：
-
-\[
-B_1:\quad CompleteActuality(R)\Rightarrow FundamentalManifestation(R).
-\]
-
-其直觉是：
-
-> 若 complete actuality 完全不含任何“actual presentation / actual happening / actual self-showing”，则它似乎只给出了一个 maximally specified possibility，而没有给出 reality 的 actuality。
-
-### Current pressure
-
-Bricker / Soames / Adams 已提供 subject-neutral actuality concepts：
-
-- primitive absolute actuality property；
-- universe instantiating a maximally informative world-state；
-- fundamental monadic actuality。
-
-这些都允许：
-
-\[
-Actuality\land\neg ManifestationAsSubjectiveShowing.
-\]
-
-所以 B1 目前没有被概念分析建立。
-
-若要推进，正方必须证明：
+所以存在一条成熟的体系内分析：
 
 \[
 \boxed{
-Actuality\text{ without manifestation is only possibility in disguise}.
+B_{1H}:\quad Actuality_H(R)\Rightarrow SelfManifestation(R).
 }
 \]
 
-当前无 theorem。
+这使 B1 的地位发生变化：此前它主要是 Nagai / Gentile 式 positive intuition；现在至少有一个系统性的 metaphysics of actuality 把 reflexivity / self-manifestation 写进 actuality 本身的结构。
+
+### 2.2 但真正需要的是 general B1
+
+项目不能把 Hegelian definition 当作 neutral premise。真正需要：
+
+\[
+\boxed{
+B_{1G}:\quad CompleteActuality(R)\Rightarrow SelfManifestation(R)
+}
+\]
+
+其中 `CompleteActuality` 必须让 Bricker / Soames / Adams 一侧也承认是在讨论同一个 target。
+
+目前：
+
+- Bricker：primitive absolute actuality property；
+- Soames：universe instantiates a maximally informative world-state；
+- Adams：fundamental monadic actuality；
+
+都允许一种 coherent-looking：
+
+\[
+Actuality\land\neg SelfManifestation.
+\]
+
+因此：
+
+\[
+B_{1H}\not\Rightarrow B_{1G}.
+\]
+
+### 2.3 Cottingham pressure
+
+Cottingham 2024 对 actual existence 的讨论提供直接反向约束：不能通过 conscious perception 来定义 actual existence；phenomenalist reduction 本身已经依赖 actual existence。
+
+所以正方若说：
+
+\[
+Actuality=ManifestToConsciousness,
+\]
+
+会过强并循环。
+
+更有希望的版本必须是：
+
+\[
+SelfManifestation_{metaphysical}
+\]
+
+而非：
+
+\[
+ManifestationToAnEmpiricalObserver.
+\]
+
+这使 B1 的 exact fight 变成：
+
+\[
+\boxed{
+ThinActuality
+\quad vs\quad
+ReflexiveActuality.
+}
+\]
+
+### 2.4 What would establish B1G
+
+正方需要证明至少一项：
+
+1. thin actuality 不能区分 actuality 与 maximally specified possibility；或
+2. actual obtaining necessarily has a reflexive / self-showing form；或
+3. actuality 的 truthmaking / obtaining job 本身要求 manifestation，而 manifestation 不能被 externalized；或
+4. Bricker / Soames / Adams package 在说明“为什么这是 reality rather than merely a possible specification”时 covertly presupposes reflexive actuality。
+
+目前没有 theorem。
 
 ---
 
-## 3. B2 — Manifestation → Subjectivity
+## 3. B2 — Self-Manifestation → Subjectivity
 
-这是本轮第一次找到真正强的 positive bridge。
+这是目前最成熟的 positive bridge。
 
 ### Husserl / transcendental constitution
 
@@ -124,21 +166,21 @@ WorldAsWorld(W)\Rightarrow ConstitutingSubjectivity(W).
 
 ### Michel Henry
 
-Henry 路线更直接：fundamental appearing 不是 free-floating display；appearing 的最原初条件是 auto-affection / self-appearing，而 self-appearing 就具有 ipseity / transcendental subjectivity。
+Henry 路线更直接：fundamental appearing 的最原初条件是 auto-affection / self-appearing，而 self-appearing 具有 ipseity / transcendental subjectivity。
 
 可写：
 
 \[
 \boxed{
-FundamentalManifestation
-\Rightarrow
 SelfManifestation
 \Rightarrow
-Ipseity.
+Ipseity
+\Rightarrow
+Subjectivity.
 }
 \]
 
-这给出当前 strongest B2：
+因此当前：
 
 \[
 \boxed{B_2\text{ has serious independent philosophical support}.}
@@ -156,7 +198,7 @@ Ipseity.
 Subjectivity(R)\Rightarrow\exists!s
 \]
 
-显然不成立。Lipman/Eker/ordinary plural minds 都给 plural subjectivity countermodels。
+不成立。Lipman/Eker/ordinary plural minds 都给 plural subjectivity countermodels。
 
 因此 B3 需要一个 **global unity premise**。
 
@@ -174,7 +216,7 @@ GroundIsSelfRelatingSubjectivity(R)
 \exists!s_f\;FundamentalSubject(s_f).
 \]
 
-Gentile 提供最强历史 realization：
+Gentile 提供强历史 realization：
 
 \[
 Reality=PureActOfSelfConsciousThinking.
@@ -192,7 +234,7 @@ ConsciousFundamentalWhole
 \exists!s_c\;CosmicFundamentalSubject(s_c).
 \]
 
-这说明 B3 不是 incoherent；它有 contemporary analytic implementation。
+这说明 B3 有 contemporary analytic implementation。
 
 ### Cost
 
@@ -208,7 +250,7 @@ subjecthood 来自：
 Idealism / FundamentalConsciousness.
 \]
 
-两者都不是由 actuality 本身推出。
+两者都没有由 actuality 本身推出。
 
 所以：
 
@@ -251,7 +293,7 @@ OnePrivilegedLocalSubject.
 }
 \]
 
-这就是新的 **Global-Subject / Local-Locus Gap**。
+这就是 **Global-Subject / Local-Locus Gap**。
 
 Nagai / Hare 可以直接 postulate local privilege，但没有从 global subject unity 独立推出它。
 
@@ -261,17 +303,21 @@ Nagai / Hare 可以直接 postulate local privilege，但没有从 global subjec
 
 当前可构造：
 
-### Premise A1 — Self-manifesting actuality
+### Premise A1 — Reflexive actuality
 
 \[
-CompleteActuality(R)\Rightarrow FundamentalManifestation(R).
+CompleteActuality(R)\Rightarrow SelfManifestation(R).
 \]
 
-### Premise A2 — Ipseity of manifestation
+Hegelian `Wirklichkeit` 是最强 precedent，但 generalization 仍待证明。
+
+### Premise A2 — Ipseity of self-manifestation
 
 \[
-FundamentalManifestation(R)\Rightarrow FundamentalSubjectivity(R).
+SelfManifestation(R)\Rightarrow FundamentalSubjectivity(R).
 \]
+
+Henry 是 strongest support。
 
 ### Premise A3 — Ground unity
 
@@ -307,9 +353,9 @@ CompleteActuality(R)
 
 ## 7. SMAA 的四个压力点
 
-### P1 — Manifestation Inflation
+### P1 — Reflexivity Inflation
 
-A1 可能把 `actuality` 未经论证升级成 `manifest actuality`。
+A1 可能把 `actuality` 未经论证升级成 Hegelian `reflexive actuality`。
 
 Bricker-style absolute primitive actuality是直接 countermodel。
 
@@ -317,7 +363,7 @@ Bricker-style absolute primitive actuality是直接 countermodel。
 
 A2 即使对 phenomenality / appearing 成立，也未必决定 reality simpliciter 的 ontology。
 
-Skirke 对 transcendental phenomenology 的 framing尤其提醒：phenomenology可以研究 constitution，而不自动承诺某个 all-there-is ontology。
+transcendental phenomenology可以研究 constitution，而不自动承诺某个 all-there-is ontology。
 
 ### P3 — Unity-to-Singularity Gap
 
@@ -343,7 +389,7 @@ L_{self}=G.
 FundamentalSubjectArity,
 \]
 
-而不是当前项目的：
+而非当前项目的：
 
 \[
 UniqueLocalAbsoluteOrientation.
@@ -358,10 +404,10 @@ UniqueLocalAbsoluteOrientation.
 SMAA 如果成功，会给第一个真正新的 witness：
 
 \[
-X=FundamentalManifestation/Subjectivity.
+X=SelfManifestingForm/Subjectivity.
 \]
 
-也就是说 neutral actuality可能遗漏的不是某个 local quale，而是 reality 的 **self-manifesting form**。
+neutral actuality可能遗漏的将不再是某个 local quale，而是 reality 的 **reflexive self-manifesting form**。
 
 这是本轮最重要的新 opening。
 
@@ -370,18 +416,18 @@ X=FundamentalManifestation/Subjectivity.
 若能证明：
 
 \[
-Actuality\land\neg Manifestation
+Actuality\land\neg SelfManifestation
 \]
 
 概念不稳定，则 neutral actuality core 会被直接攻击。
 
-目前 Bricker/Soames 使该 proof 很困难。
+Hegel 给 positive precedent；Bricker/Soames/Adams/Cottingham 使 general proof 仍然困难。
 
 ### CC3 — Replacement
 
-若 actuality 必须 self-manifest，并且 self-manifestation必须 ipseic，那么 centered/subjective actuality就可能第一次获得 **common-job advantage**：它解释 actuality 的 manifestation job，而 thin neutral actuality不能。
+若 actuality 必须 self-manifest，并且 self-manifestation必须 ipseic，那么 centered/subjective actuality可能第一次获得 **common-job advantage**：它解释 actuality 的 reflexive manifestation job，而 thin neutral actuality不能。
 
-但这只有在 manifestation job independently required 时成立。
+但该 advantage 只有在 self-manifestation 被 independently established 为 actuality 的 common job 后才成立。
 
 ---
 
@@ -393,11 +439,11 @@ Actuality\land\neg Manifestation
 \boxed{AAP\text{ proven}.}
 \]
 
-但第一次找到一个不依赖 local phenomenology 的、真正可继续推进的 positive architecture：
+但 positive architecture 现在比上一版更强：
 
 \[
 \boxed{
-Actuality
+Actuality_H
 \to
 SelfManifestation
 \to
@@ -407,25 +453,40 @@ GroundUnity.
 }
 \]
 
-最值得继续的 exact question 已经改变成：
+并且 B1 已经从“只有直觉”升级成：
 
 \[
 \boxed{
-Is complete actuality essentially self-manifesting?
+\text{Hegelian serious precedent + neutral generalization gap}.}
+\]
+
+当前真正的决战可以写成：
+
+\[
+\boxed{
+ThinActuality
+\quad vs\quad
+ReflexiveSelfManifestingActuality.
 }
 \]
 
-只要 B1 失败，整个新路线停住。
+若 thin actuality coherent 且完成所有 common jobs，AAP 没有获得入口。
 
-若 B1 成功，B2 已有 Henry / transcendental phenomenology 提供成熟资源；此时真正剩余问题才是 B3/B4 的 globality / localization。
+若能证明 complete actuality necessarily reflexive，则 B2 已有 Henry / transcendental phenomenology 提供成熟资源；之后真正剩下 B3/B4 的 globality / localization。
 
-因此当前优先级：
+因此当前优先级仍是：
 
 \[
 \boxed{B_1 > B_3 > B_4.}
 \]
 
-B2 暂时不再是主要瓶颈。
+但 B1 的研究问题已经精确化为：
+
+\[
+\boxed{
+\text{Can thin actuality do the actuality job without covert self-manifestation?}
+}
+\]
 
 ## 关联
 
