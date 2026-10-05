@@ -122,6 +122,27 @@ UnitaryReality\text{ exerts abductive pressure toward Presence Monism}.}
 
 不是 theorem。
 
+### 6.1 Fragmentalism's explicit cost profile
+
+Calosi–Iaquinto–Loss 对 fragmentalism 的最新系统图把结构写得很清楚：
+
+- coherent unitism：`Unity + Coherence + Normality`；
+- fragmentalism：`Fragmentation + Incoherence + Normality`；
+- incoherent unitism：`Unity + Incoherence + Absurdity`。
+
+fragmentalism 之所以避免 worldly contradiction，正是因为 incompatible facts 不共同组成一个 coherent whole，而被分到不同 fragments；不同版本还必须决定 conjunction / negation 是 local 还是 global operations。
+
+因此 Opening Monism 可以主张的真实 abductive benefit 不是“1 比 many 简单”这种裸数量直觉，而是：
+
+\[
+\boxed{
+\text{global coherence + global unitary actuality without fragment-local logical machinery}.}
+\]
+
+这属于 common theory-cost comparison，因为双方都要给 complete reality 的 fact architecture 一个说明。
+
+但 fragmentalist 可以接受这个成本，因此它仍不是 refutation。
+
 ---
 
 ## 7. Current three-way theory space
@@ -186,7 +207,8 @@ OneOpeningLaw
 1. **global NOW 不再是核心 burden**；local I–NOW足够；
 2. `I` 与 `NOW` 的 coupling已有 serious conditional derivation；
 3. 真正剩余 hard gap 是 **singularity / unitism**；
-4. fragmentalism把这个 gap变成明确 metaphysical fork，而非简单 consistency objection。
+4. fragmentalism把这个 gap变成明确 metaphysical fork，而非简单 consistency objection；
+5. Opening Monism 当前第一次获得一个非循环的 abductive selling point：保留 one coherent global fact-totality，避免 fragment-local conjunction/negation machinery。
 
 因此当前最底问题是：
 
@@ -203,4 +225,4 @@ Why\ is\ complete\ reality\ one\ coherent\ opening\ rather\ than\ many\ equally\
 - Bradford Skow, `Experience and the Passage of Time`, *Philosophical Perspectives* 2011.
 - Nikk Effingham, `Now, Again and Again: The Metaphysics of Many Presents`, *Pacific Philosophical Quarterly* 2026.
 - Martin Lipman, *Standpoints: Time and Subjectivity*, OUP 2026.
-- `Fragmentalism: Putting All the Pieces Together`, *Australasian Journal of Philosophy* 2025/2026 publication cycle.
+- Claudio Calosi, Samuele Iaquinto & Roberto Loss, `Fragmentalism: Putting All the Pieces Together`, *Australasian Journal of Philosophy*, DOI `10.1080/00048402.2025.2515850`.
