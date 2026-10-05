@@ -1,10 +1,10 @@
-# Frontier — Self-Manifesting Actuality
+# Frontier — Self-Manifesting / Subject-Bearing Actuality
 
 > 日期：2026-10-05
 >
-> 状态：新的 positive frontier；不改写 `current-position.md` 的 Completion Underdetermination verdict。
+> 状态：positive frontier 已由 `self-manifesting actuality` 进一步精炼为 **vacuity → arity → singularity → localization**。不改写 Completion Underdetermination 的总体 verdict，但理论空间已由二分升级成三分。
 
-## 1. 为什么这条线值得单独开 frontier
+## 1. 为什么 frontier 又发生了一次收缩
 
 Actuality-metaphysics sweep 已经得到：
 
@@ -12,279 +12,382 @@ Actuality-metaphysics sweep 已经得到：
 ABS+PRIM+PERSP+DESE\not\Rightarrow FPAR.
 \]
 
-Bricker-style actuality 可以 absolute、primitive、perspectival，并支持 de se actuality knowledge，而不含 first-person subject argument。
+Bricker-style actuality 可以 absolute、primitive、perspectival，并支持 de se actuality knowledge，而没有 subject-level first-person argument。
 
-所以单靠：
-
-- actuality is absolute；
-- actuality is primitive；
-- actuality is perspectival；
-- actuality supports de se knowledge；
-
-都不能得到 absolute first-person。
-
-新的正方机会来自另一维度：
+随后 Hegel / Henry 路线打开：
 
 \[
-\boxed{\text{actuality as reflexive / self-manifesting}.}
+Actuality
+\to
+SelfManifestation
+\to
+Subjectivity.
 \]
+
+现在 Whitehead 又给出一个更直接的 metaphysical rival：他明确拒绝 **vacuous actuality**，即：
+
+\[
+Actuality\land\neg SubjectiveImmediacy.
+\]
+
+其 actual entities 是 `subject-superject`；concrete actuality 在体系内已经包含 experiential / prehensive interiority。
+
+因此 `Thin Actuality` 第一次有了一个成熟、直接、非纯 idealist 的 ontology-level challenger。
 
 ---
 
-## 2. 新的四桥结构
+## 2. Whitehead 把 B1+B2 压成 WAAP
 
-AAP 不再写成一个模糊的：
-
-\[
-Actuality\Rightarrow AbsoluteI.
-\]
-
-而拆成：
+旧结构：
 
 \[
-\boxed{
 Actuality
 \xrightarrow{B_1}
 SelfManifestation
 \xrightarrow{B_2}
-Subjectivity
-\xrightarrow{B_3}
-OneFundamentalSubject
-\xrightarrow{B_4}
-OneLocalAbsoluteLocus.
-}
+Subjectivity.
 \]
 
-### B1 — Actuality → SelfManifestation
+Whitehead 提醒我们可以先争一个更弱、也更容易精确化的 principle：
 
-当前 strongest precedent：Hegelian `Wirklichkeit`。
-
-Hegel-style actuality 是 reflexive / self-manifesting actuality，不是 inert fact inventory。
-
-但：
-
-\[
-Actuality_H\Rightarrow SelfManifestation
-\]
-
-尚未升级成：
-
-\[
-CompleteActuality\Rightarrow SelfManifestation.
-\]
-
-Bricker / Soames / Adams 提供 thin actuality rivals；Cottingham-style pressure 也反对把 actual existence还原成 conscious manifestation。
-
-### B2 — SelfManifestation → Subjectivity
-
-当前 strongest support：Michel Henry。
-
-\[
-SelfManifestation
-\Rightarrow
-AutoAffection
-\Rightarrow
-Ipseity/Subjectivity.
-\]
-
-Husserl-style transcendental constitution提供另一种 weaker support：world/objectivity as such 指向 constituting subjectivity。
-
-所以 B2 目前不再是主要瓶颈。
-
-### B3 — Subjectivity → OneFundamentalSubject
-
-可由 Fichte / Gentile / priority cosmopsychism构造：
-
-\[
-OneUltimateGround
-+
-FundamentalSubjectivity
-\Rightarrow
-OneFundamentalSubject.
-\]
-
-但 uniqueness 来自 monism / ground-unity；subjecthood来自 idealism / consciousness-first。premise cost 很高。
-
-### B4 — OneFundamentalSubject → OneLocalAbsoluteLocus
-
-目前最弱。
-
-cosmic / transcendental / absolute subject 不会自动选择某一个 ordinary human locus：
-
-\[
-OneFundamentalSubject
-\not\Rightarrow
-OnePrivilegedLocalSubject.
-\]
-
-这留下：
-
-\[
-\boxed{\text{Global-Subject / Local-Locus Gap}.}
-\]
-
----
-
-## 3. 当前 strongest positive argument
-
-暂称 **Self-Manifesting Actuality Argument (SMAA)**：
-
-\[
-A1:\quad CompleteActuality(R)\Rightarrow SelfManifestation(R)
-\]
-
-\[
-A2:\quad SelfManifestation(R)\Rightarrow FundamentalSubjectivity(R)
-\]
-
-\[
-A3:\quad CompleteActuality(R)\Rightarrow OneUltimateGround(R)
-\]
-
-\[
-A4:\quad OneUltimateGround(R)+FundamentalSubjectivity(R)
-\Rightarrow
-\exists!s_f\;FundamentalSubject(s_f)
-\]
-
-于是：
+### WAAP — Weak Actuality-Arity Principle
 
 \[
 \boxed{
 CompleteActuality(R)
 \Rightarrow
-\exists!s_f\;FundamentalSubject(s_f).
+SubjectiveArity(R).
 }
 \]
 
-这仍没有给：
+即完整 actuality 不能是完全没有 subjective immediacy / experiential interiority 的 `vacuous actuality`。
+
+Whitehead 不提供 ordinary conceptual theorem：
+
+\[
+Meaning(Actual)\vdash Subjectivity.
+\]
+
+他提供的是：
+
+\[
+WhiteheadPackage\vdash\neg VacuousActuality,
+\]
+
+其中 package 包括：
+
+- reformed subjectivist principle；
+- principle of relativity；
+- causal efficacy / objectification / prehension；
+- 对 substance-quality ontology 的批评；
+- process / concrescence metaphysics。
+
+所以 WAAP 现在是 serious positive hypothesis，但仍然 contested。
+
+---
+
+## 3. 最重要的新限制：Arity ≠ Singularity
+
+Whitehead ontology 同时是 pluralist。
+
+许多 actual occasions 都有自己的 subjective immediacy / prehensive perspective。
+
+所以可以：
+
+\[
+\forall x\,[ActualEntity(x)\Rightarrow Subjective(x)]
+\]
+
+同时：
+
+\[
+\neg\exists!s\;GlobalSubject(s).
+\]
+
+因此：
+
+\[
+\boxed{
+ActualityHasSubjectiveArity
+\not\Rightarrow
+OneGlobalSubject.
+}
+\]
+
+这就是新的 **Actuality Arity–Singularity Gap**。
+
+它和 Lipman / Eker 的结果从不同方向收敛：
+
+- Lipman / Eker：perspectival obtaining 可以 pluralize；
+- Whitehead：甚至 actuality 自身若带 subjectivity，也可以 pluralize。
+
+所以“证明 actuality 不是 vacuous”离“证明只有一个 absolute first person”仍然隔着整整一层。
+
+---
+
+## 4. 理论空间现在必须三分
+
+此前容易写成：
+
+\[
+NeutralActuality
+\quad vs\quad
+CenteredActuality.
+\]
+
+现在至少要区分：
+
+### C0 — Subject-neutral actuality
+
+\[
+Complete(R)\land\neg SubjectiveArity(R).
+\]
+
+邻近模型：Bricker / Soames / Adams。
+
+### C1 — Plural subject-bearing actuality
+
+\[
+Complete(R)
+\land
+SubjectiveArity(R)
+\land
+\neg\exists!s\;GlobalSubjectPole(R,s).
+\]
+
+邻近模型：Whitehead；在 obtaining level 与 Lipman / Eker 形成结构同盟。
+
+### C2 — Singular centered actuality
+
+\[
+Complete(R)
+\land
+\exists!s\;GlobalSubjectPole(R,s).
+\]
+
+目标模型：Role-First / Nagai-style centered actuality。
+
+因此 centered theory 要连续赢两场：
+
+\[
+C0\to C1
+\]
+
+再：
+
+\[
+C1\to C2.
+\]
+
+最后还要解决：
+
+\[
+C2\to OneLocalAbsoluteLocus.
+\]
+
+---
+
+## 5. 新的三原则架构
+
+### WAAP — defeat vacuity
+
+\[
+CompleteActuality(R)
+\Rightarrow
+SubjectiveArity(R).
+\]
+
+当前 strongest resource：Whitehead；Hegel/Henry 是邻近支撑。
+
+### SAP — defeat plurality
+
+\[
+SubjectiveArity(R)
+\Rightarrow
+\exists!s\;GlobalSubjectPole(R,s).
+\]
+
+当前 resources：Fichte / Gentile / priority cosmopsychism。
+
+但 uniqueness 来自 monism / whole-priority / absolute-I commitment，而不是 WAAP 本身。
+
+### LOC — defeat delocalization
+
+\[
+\exists!s\;GlobalSubjectPole(R,s)
+\Rightarrow
+\exists!E^*\;LocalAbsoluteLocus(E^*,s).
+\]
+
+当前没有 mature independent derivation。
+
+所以 strongest positive chain 现在写成：
+
+\[
+\boxed{
+Vacuity
+\xrightarrow{WAAP}
+Arity
+\xrightarrow{SAP}
+Singularity
+\xrightarrow{LOC}
+Localization.
+}
+\]
+
+---
+
+## 6. Whitehead 对 CC1 / CC2 / CC3 的真实影响
+
+### CC1 — Independent completion witness
+
+新的 candidate witness：
+
+\[
+X=NonVacuousSubjectiveImmediacy.
+\]
+
+如果能证明 subject-neutral actuality 只是把 concrete actuality 抽空成 bare fact/specification，那么 C0 不再 complete。
+
+这是目前最值得打的正方目标。
+
+### CC2 — Neutral incoherence
+
+Whitehead 最强批评是：`vacuous actuality` 是 abstraction 被错误提升为 fundamental metaphysical category。
+
+但目前仍只有：
+
+\[
+WhiteheadPackage\vdash\neg VacuousActuality,
+\]
+
+没有：
+
+\[
+SubjectNeutralActuality\vdash\bot.
+\]
+
+Bricker / Soames 因此仍是 live rivals。
+
+### CC3 — Replacement
+
+若 subjective immediacy 是 actuality 的 independently required common job，那么 C1 会第一次对 C0 获得 genuine explanatory advantage。
+
+但这个 advantage不能整包转给 C2，因为：
+
+\[
+WAAP\not\Rightarrow SAP.
+\]
+
+Centered actuality 仍必须为：
+
+\[
+ExactOneSubject
++
+GlobalSubjectUnity
++
+Localization
+\]
+
+提供独立收益。
+
+---
+
+## 7. 这反而让原始问题更清楚
+
+如果最终 C0 失败、C1 成功，我们会得到一个很强的中间世界观：
+
+\[
+\boxed{PluralSubjectBearingActuality}.
+\]
+
+它可以承认：
+
+- reality genuinely has interiority；
+- actuality is not a vacuous bare inventory；
+- every/various actualities may have real perspectival or experiential form；
+- other subjects are fully real；
+- yet no single subject is absolute simpliciter。
+
+这会吸收用户最初 intuition 中相当大一部分“现实不像纯第三人称死清单”的压力，同时拒绝：
 
 \[
 \exists!E^*\;AbsoluteOrientation(E^*).
 \]
 
-因为还缺 B4。
+因此真正最困难的 positive burden 已经从：
 
----
+> actuality 有没有 subjectivity？
 
-## 4. 当前真正的 B1 对决
-
-新的核心竞争：
-
-### Thin Actuality
-
-\[
-A_T=\text{actual obtaining / instantiation / primitive actuality}
-\]
-
-不要求 reflexivity。
-
-### Reflexive Actuality
-
-\[
-A_R=\text{actuality whose complete form is self-manifestation}.
-\]
-
-AAP 需要先让：
-
-\[
-A_T
-\]
-
-失去 complete-actuality资格，或证明：
-
-\[
-A_T
-\]
-
-实际上 covertly presupposes：
-
-\[
-A_R.
-\]
-
-所以当前 highest-value question 是：
+逐渐转向：
 
 \[
 \boxed{
-\text{Can thin actuality do the actuality job without covert self-manifestation?}
+\text{Why must subject-bearing actuality be globally singular?}
 }
 \]
 
----
-
-## 5. 什么结果会真正改变当前 verdict
-
-### Positive breakthrough
-
-若证明：
-
-\[
-Actuality\land\neg SelfManifestation
-\]
-
-不能解释 actual obtaining 与 merely complete possibility 的区别，则 B1 获得 independent support。
-
-这会第一次给 CC1 一个 candidate common witness：
-
-\[
-X=SelfManifestingForm.
-\]
-
-并可能给 CC3 一个 common-job advantage：centered / subjective actuality解释一个 neutral thin actuality遗漏的 actuality job。
-
-### Negative closure
-
-若能给 thin actuality 一个完整模型，使它：
-
-- genuinely distinguishes actual from possible；
-- grounds actual truth / obtaining；
-- unifies the actual totality；
-- 不依赖 manifestation / subjectivity；
-
-则 B1 失败，SMAA 在第一步封死。
-
-此后从 actuality 本身推 subject arity 的路线会显著收窄。
+这可能比 B1 更接近最终核心。
 
 ---
 
-## 6. 当前裁决
+## 8. 当前裁决
 
-目前：
-
-\[
-\boxed{AAP\text{ remains unproven}.}
-\]
-
-但正方第一次有了一个不依赖 local phenomenology / selector 的成熟研究架构。
-
-新的 frontier 不再是：
+现在可以更精确地说：
 
 \[
-\text{Is first-personality real?}
+\boxed{WAAP\text{ has serious positive support but is unproven}.}
 \]
-
-也不再只是：
 
 \[
-\text{Is actuality absolute?}
+\boxed{SAP\text{ has coherent models but no independent support}.}
 \]
 
-而是：
+\[
+\boxed{LOC\text{ remains largely open}.}
+\]
+
+所以 strong AAP / absolute-first-person thesis仍未建立。
+
+但 frontier 已明显推进：
+
+此前只有：
+
+\[
+ThinActuality\quad vs\quad ReflexiveActuality.
+\]
+
+现在真正值得连续追问的是：
 
 \[
 \boxed{
-\text{Is actuality essentially reflexive / self-manifesting?}
+\text{Can actuality be genuinely vacuous?}
 }
 \]
 
-如果答案为否，AAO/Neutral Actuality 继续占优。
+若不能：
 
-如果答案为是，AAP 第一个真正 independent bridge 才打开；然后项目进入 B3/B4 的 globality 与 localization 阶段。
+\[
+\boxed{
+\text{Why must its subjectivity be one rather than many?}
+}
+\]
+
+若必须是一：
+
+\[
+\boxed{
+\text{Why must that one subject localize here?}
+}
+\]
+
+三关必须分开赢。
 
 ## 入口
 
+- [`../literature/whitehead-vacuous-actuality.md`](../literature/whitehead-vacuous-actuality.md)
 - [`../research/arguments/actuality-arity-principle-audit.md`](../research/arguments/actuality-arity-principle-audit.md)
+- [`../research/arguments/actuality-arity-singularity-gap.md`](../research/arguments/actuality-arity-singularity-gap.md)
 - [`../research/arguments/actuality-arity-orthogonality.md`](../research/arguments/actuality-arity-orthogonality.md)
 - [`../literature/actuality-subject-arity-sweep.md`](../literature/actuality-subject-arity-sweep.md)
 - [`../literature/actuality-metaphysics-sweep.md`](../literature/actuality-metaphysics-sweep.md)
