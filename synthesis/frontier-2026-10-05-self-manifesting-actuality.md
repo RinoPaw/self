@@ -2,7 +2,7 @@
 
 > 日期：2026-10-05
 >
-> 状态：positive frontier 已由 `self-manifesting actuality` 进一步精炼为 **vacuity → arity → singularity → localization**。不改写 Completion Underdetermination 的总体 verdict，但理论空间已由二分升级成三分。
+> 状态：positive frontier 已由 `vacuity → arity → singularity → localization` 进一步精炼为 **vacuity → arity → global experiential unity → global subject → localization**。不改写 Completion Underdetermination 的总体 verdict，但 singularity route 已获得新的 conditional support。
 
 ## 1. 为什么 frontier 又发生了一次收缩
 
@@ -14,17 +14,17 @@ ABS+PRIM+PERSP+DESE\not\Rightarrow FPAR.
 
 Bricker-style actuality 可以 absolute、primitive、perspectival，并支持 de se actuality knowledge，而没有 subject-level first-person argument。
 
-随后 Hegel / Henry 路线打开：
+随后 Hegel / Henry / Whitehead 路线打开：
 
 \[
 Actuality
 \to
-SelfManifestation
+SelfManifestation/Experience
 \to
 Subjectivity.
 \]
 
-现在 Whitehead 又给出一个更直接的 metaphysical rival：他明确拒绝 **vacuous actuality**，即：
+Whitehead尤其明确拒绝 **vacuous actuality**，即：
 
 \[
 Actuality\land\neg SubjectiveImmediacy.
@@ -33,6 +33,8 @@ Actuality\land\neg SubjectiveImmediacy.
 其 actual entities 是 `subject-superject`；concrete actuality 在体系内已经包含 experiential / prehensive interiority。
 
 因此 `Thin Actuality` 第一次有了一个成熟、直接、非纯 idealist 的 ontology-level challenger。
+
+随后 Christmann 2026 又给 singularity route 增加一个此前缺失的中间桥：如果 reality 已经是 one global co-conscious phenomenal structure，那么它会受到 genuine **global-subject pressure**。
 
 ---
 
@@ -86,7 +88,7 @@ WhiteheadPackage\vdash\neg VacuousActuality,
 
 ---
 
-## 3. 最重要的新限制：Arity ≠ Singularity
+## 3. 最重要的新限制：Arity ≠ Global Unity
 
 Whitehead ontology 同时是 pluralist。
 
@@ -101,7 +103,7 @@ Whitehead ontology 同时是 pluralist。
 同时：
 
 \[
-\neg\exists!s\;GlobalSubject(s).
+\neg GlobalExperientialUnity(R).
 \]
 
 因此：
@@ -110,29 +112,84 @@ Whitehead ontology 同时是 pluralist。
 \boxed{
 ActualityHasSubjectiveArity
 \not\Rightarrow
-OneGlobalSubject.
+GlobalExperientialUnity.
 }
 \]
 
-这就是新的 **Actuality Arity–Singularity Gap**。
+这比旧的 `Arity ≠ Singularity` 更精确，因为 singularity 前还隔着一个全局 experiential-unity 层。
 
-它和 Lipman / Eker 的结果从不同方向收敛：
+它和 Lipman / Eker / IIT 从不同方向收敛：
 
 - Lipman / Eker：perspectival obtaining 可以 pluralize；
-- Whitehead：甚至 actuality 自身若带 subjectivity，也可以 pluralize。
+- Whitehead：actuality 自身若带 subjectivity，也可以 pluralize；
+- IIT：local maximal consciousness可以形成多个 disjoint complexes。
 
-所以“证明 actuality 不是 vacuous”离“证明只有一个 absolute first person”仍然隔着整整一层。
+所以“证明 actuality 不是 vacuous”离“证明只有一个 absolute first person”仍然隔着至少两层。
 
 ---
 
-## 4. 理论空间现在必须三分
+## 4. Christmann 2026：Global Experiential Unity → Global Subject Pressure
 
-此前容易写成：
+Christmann针对 Yetter-Chappell-style phenomenal tapestry：physical reality本身由 all possible sensory perspectives、co-consciousness、property-binding、spatial-temporal experiential relations构成一个 single global phenomenal structure。
+
+在这个 antecedent下，他提出两条 pressure。
+
+### Thin Mind dilemma
+
+若整个 global tapestry genuine experienced，则需要一个 experiencer of the whole。
+
+若 experiencer只是 grammatical placeholder，就无法承担 genuine experiencing role；若 genuine承担该 role，则它已经具有 determinate global experiential scope，成为 non-trivial globally unifying subject。
+
+因此：
 
 \[
-NeutralActuality
-\quad vs\quad
-CenteredActuality.
+\boxed{
+GlobalExperientialUnity+GenuineExperiencer
+\Rightarrow
+GlobalSubjectPressure.
+}
+\]
+
+### Synchronic pattern problem
+
+整个 tapestry 的 co-consciousness pattern极其具体。Christmann认为 temporal laws不自动解释 why this synchronic phenomenal pattern，而 brute pattern又失去 explanatory virtue。
+
+one unified experiential act则可以把该 pattern解释成 one subject's intentional content。
+
+于是 abductively：
+
+\[
+\boxed{
+GlobalExperientialUnity+SpecificPattern
+\Rightarrow_{abductive}
+UnifiedGlobalAct
+\Rightarrow
+GlobalSubjectPressure.
+}
+\]
+
+这使“global unity → subject”第一次有了 contemporary direct argument。
+
+但他没有证明：
+
+\[
+SubjectiveArity\Rightarrow GlobalExperientialUnity.
+\]
+
+因此新的真正瓶颈是 **GEUP**。
+
+---
+
+## 5. 理论空间现在必须四分
+
+此前三分：
+
+\[
+SubjectNeutral
+\;|\;
+PluralSubjectBearing
+\;|\;
+OneGlobalSubject.
 \]
 
 现在至少要区分：
@@ -152,12 +209,28 @@ Complete(R)
 \land
 SubjectiveArity(R)
 \land
-\neg\exists!s\;GlobalSubjectPole(R,s).
+\neg GlobalExperientialUnity(R).
 \]
 
 邻近模型：Whitehead；在 obtaining level 与 Lipman / Eker 形成结构同盟。
 
-### C2 — Singular centered actuality
+### C2 — Globally unified experiential actuality
+
+\[
+Complete(R)
+\land
+GlobalExperientialUnity(R).
+\]
+
+邻近模型：Yetter-Chappell-style phenomenal tapestry。
+
+Christmann 2026说明这一层会受到 serious：
+
+\[
+GlobalSubjectPressure.
+\]
+
+### C3 — Singular global-subject actuality
 
 \[
 Complete(R)
@@ -165,29 +238,23 @@ Complete(R)
 \exists!s\;GlobalSubjectPole(R,s).
 \]
 
-目标模型：Role-First / Nagai-style centered actuality。
+邻近模型：priority cosmopsychism / idealist monism / global-subject reading。
 
-因此 centered theory 要连续赢两场：
+Role-First / Nagai-style target还比 C3更强，因为最终需要：
 
 \[
-C0\to C1
+C3\to OneLocalAbsoluteLocus.
 \]
 
-再：
+所以 positive theory现在要连续赢四场：
 
 \[
-C1\to C2.
-\]
-
-最后还要解决：
-
-\[
-C2\to OneLocalAbsoluteLocus.
+C0\to C1\to C2\to C3\to LocalAbsoluteOrientation.
 \]
 
 ---
 
-## 5. 新的三原则架构
+## 6. 新的四原则架构
 
 ### WAAP — defeat vacuity
 
@@ -199,17 +266,27 @@ SubjectiveArity(R).
 
 当前 strongest resource：Whitehead；Hegel/Henry 是邻近支撑。
 
-### SAP — defeat plurality
+### GEUP — defeat experiential plurality
 
 \[
 SubjectiveArity(R)
 \Rightarrow
-\exists!s\;GlobalSubjectPole(R,s).
+GlobalExperientialUnity(R).
 \]
 
-当前 resources：Fichte / Gentile / priority cosmopsychism。
+当前 **没有 independent support**。Whitehead/Lipman/IIT 提供直接 pluralization pressure。
 
-但 uniqueness 来自 monism / whole-priority / absolute-I commitment，而不是 WAAP 本身。
+### GSP — global unity generates subject pressure
+
+\[
+GlobalExperientialUnity(R)
+\Rightarrow
+GlobalSubjectPressure(R).
+\]
+
+当前 strongest resource：Christmann 2026。
+
+这是 serious conditional support，不是 theorem；primitive global unity relation仍是理论选项。
 
 ### LOC — defeat delocalization
 
@@ -228,8 +305,10 @@ SubjectiveArity(R)
 Vacuity
 \xrightarrow{WAAP}
 Arity
-\xrightarrow{SAP}
-Singularity
+\xrightarrow{GEUP}
+GlobalExperientialUnity
+\xrightarrow{GSP}
+GlobalSubject
 \xrightarrow{LOC}
 Localization.
 }
@@ -237,101 +316,105 @@ Localization.
 
 ---
 
-## 6. Whitehead 对 CC1 / CC2 / CC3 的真实影响
+## 7. 对 CC1 / CC2 / CC3 的真实影响
 
 ### CC1 — Independent completion witness
 
-新的 candidate witness：
+第一候选 witness：
 
 \[
-X=NonVacuousSubjectiveImmediacy.
+X_1=NonVacuousSubjectiveImmediacy.
 \]
 
-如果能证明 subject-neutral actuality 只是把 concrete actuality 抽空成 bare fact/specification，那么 C0 不再 complete。
+若成功，只把 C0推向 C1。
 
-这是目前最值得打的正方目标。
+第二候选 witness现在是：
+
+\[
+X_2=GlobalExperientialUnity.
+\]
+
+若能 independently established，它才会把 C1推向 C2，并让 Christmann 的 GSP启动。
+
+但目前 X2 不是 common explanandum。
 
 ### CC2 — Neutral incoherence
 
-Whitehead 最强批评是：`vacuous actuality` 是 abstraction 被错误提升为 fundamental metaphysical category。
+Whitehead若成功，最多证明 C0不完整。
 
-但目前仍只有：
+C1仍是完整 competitor。
 
-\[
-WhiteheadPackage\vdash\neg VacuousActuality,
-\]
-
-没有：
+因此 centered singular theory现在还必须额外证明：
 
 \[
-SubjectNeutralActuality\vdash\bot.
+SubjectiveArity+\neg GEU
 \]
 
-Bricker / Soames 因此仍是 live rivals。
+也不够完整。
+
+当前没有这种 incoherence proof。
 
 ### CC3 — Replacement
 
-若 subjective immediacy 是 actuality 的 independently required common job，那么 C1 会第一次对 C0 获得 genuine explanatory advantage。
+若 subjective immediacy 是 actuality 的 independently required common job，C1会对 C0获得 genuine explanatory advantage。
 
-但这个 advantage不能整包转给 C2，因为：
+若 GEU进一步成为 common job，C2又会对 C1获得优势，并让 global subject获得 Christmann-style explanatory pressure。
 
-\[
-WAAP\not\Rightarrow SAP.
-\]
+但这些 advantage不能整包直接转给 Role-First Ω，因为 LOC / I–NOW unity仍需独立论证。
 
-Centered actuality 仍必须为：
+所以 Ω 的 residual burden现在可以按层级记账：
 
 \[
-ExactOneSubject
-+
-GlobalSubjectUnity
-+
-Localization
+SubjectiveArity
+\to
+GlobalUnity
+\to
+GlobalSubject
+\to
+AbsoluteLocalization/I\text{-}NOW.
 \]
-
-提供独立收益。
 
 ---
 
-## 7. 这反而让原始问题更清楚
+## 8. 这反而让原始问题更清楚
 
-如果最终 C0 失败、C1 成功，我们会得到一个很强的中间世界观：
+如果最终 C0 失败、C1 成功，我们得到：
 
 \[
 \boxed{PluralSubjectBearingActuality}.
 \]
 
-它可以承认：
+它可以承认现实绝非纯第三人称死清单，同时拒绝一个 simpliciter absolute subject。
 
-- reality genuinely has interiority；
-- actuality is not a vacuous bare inventory；
-- every/various actualities may have real perspectival or experiential form；
-- other subjects are fully real；
-- yet no single subject is absolute simpliciter。
+如果 C1 再失败、C2 成功，那么 Christmann使 global subject不再完全 gratuitous。
 
-这会吸收用户最初 intuition 中相当大一部分“现实不像纯第三人称死清单”的压力，同时拒绝：
+但即使 C3 成功，仍有：
 
 \[
-\exists!E^*\;AbsoluteOrientation(E^*).
+GlobalSubject
+\not\Rightarrow
+ThisLocalAbsoluteLocus.
 \]
 
-因此真正最困难的 positive burden 已经从：
+所以用户最初的“为什么偏偏这里？”最终还是被隔离到 LOC。
+
+当前最困难的 positive burden已经从：
 
 > actuality 有没有 subjectivity？
 
-逐渐转向：
+进一步转成：
 
 \[
 \boxed{
-\text{Why must subject-bearing actuality be globally singular?}
+\text{Why must all fundamental subjectivity form one global co-conscious unity?}
 }
 \]
 
-这可能比 B1 更接近最终核心。
+这现在是最值得追的 singularity 问题。
 
 ---
 
-## 8. 当前裁决
+## 9. 当前裁决
 
 现在可以更精确地说：
 
@@ -340,7 +423,11 @@ Localization
 \]
 
 \[
-\boxed{SAP\text{ has coherent models but no independent support}.}
+\boxed{GEUP\text{ is the main unresolved singularity bottleneck}.}
+\]
+
+\[
+\boxed{GSP\text{ has serious conditional support from Christmann 2026}.}
 \]
 
 \[
@@ -349,45 +436,23 @@ Localization
 
 所以 strong AAP / absolute-first-person thesis仍未建立。
 
-但 frontier 已明显推进：
+frontier 现在真正值得连续追问：
 
-此前只有：
+1. Can actuality be genuinely vacuous?
+2. If not, why must plural subjectivity form one global experiential unity?
+3. If globally unified, does that unity require one subject rather than primitive relation structure?
+4. If one global subject exists, why must it localize here?
 
-\[
-ThinActuality\quad vs\quad ReflexiveActuality.
-\]
-
-现在真正值得连续追问的是：
-
-\[
-\boxed{
-\text{Can actuality be genuinely vacuous?}
-}
-\]
-
-若不能：
-
-\[
-\boxed{
-\text{Why must its subjectivity be one rather than many?}
-}
-\]
-
-若必须是一：
-
-\[
-\boxed{
-\text{Why must that one subject localize here?}
-}
-\]
-
-三关必须分开赢。
+四关必须分开赢。
 
 ## 入口
 
 - [`../literature/whitehead-vacuous-actuality.md`](../literature/whitehead-vacuous-actuality.md)
+- [`../literature/christmann-2026-global-subject-pressure.md`](../literature/christmann-2026-global-subject-pressure.md)
+- [`../literature/subject-singularity-sweep.md`](../literature/subject-singularity-sweep.md)
 - [`../research/arguments/actuality-arity-principle-audit.md`](../research/arguments/actuality-arity-principle-audit.md)
-- [`../research/arguments/actuality-arity-singularity-gap.md`](../research/arguments/actuality-arity-singularity-gap.md)
+- [`../research/arguments/subject-arity-singularity-gap.md`](../research/arguments/subject-arity-singularity-gap.md)
+- [`../research/arguments/global-experiential-unity-route.md`](../research/arguments/global-experiential-unity-route.md)
 - [`../research/arguments/actuality-arity-orthogonality.md`](../research/arguments/actuality-arity-orthogonality.md)
 - [`../literature/actuality-subject-arity-sweep.md`](../literature/actuality-subject-arity-sweep.md)
 - [`../literature/actuality-metaphysics-sweep.md`](../literature/actuality-metaphysics-sweep.md)
