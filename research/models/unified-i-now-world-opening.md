@@ -1,8 +1,8 @@
 # Unified I–NOW–WORLD Opening Model (UIWO)
 
-> 状态：2026-10-05 positive model / NOM refinement。
+> 状态：2026-10-05 positive model / NOM refinement，已通过 Factorization Test 修正。
 >
-> 目标：把 NOM 中的 `Opening` 从只承担 local absolute-I selection，提升为一个统一 modal / temporal / first-person privilege 的 centered order parameter；检验该统一是否产生真正 explanatory compression。
+> 目标：把 NOM 中的 `Opening` 建模为 modal / temporal / first-person privilege 的统一 centered order parameter，同时严格区分 genuine unification 与 mere conjunction。
 
 ## 0. Core coordinate
 
@@ -15,24 +15,22 @@ c=\langle w,t,s\rangle,
 其中：
 
 - \(w\)：possible-world coordinate；
-- \(t\)：time / person-stage temporal coordinate；
+- \(t\)：time / person-stage coordinate；
 - \(s\)：subject / first-person coordinate。
 
-定义统一 relation：
+定义：
 
 \[
-O(c)=O(w,t,s).
+O(c)=O(w,t,s),
 \]
 
 intended semantics：
 
 \[
-\boxed{O(w,t,s)=\text{the complete reality is actual/open as this world, now, through this first-person locus}.}
+\boxed{
+O(w,t,s)=\text{complete reality is actual/open as this world, now, through this first-person locus}.
+}
 \]
-
----
-
-## 1. One-hot complete opening
 
 最强版本规定：
 
@@ -42,286 +40,429 @@ intended semantics：
 }
 \]
 
-三个 familiar privilege predicates成为 projections：
-
-### World actuality
+三个 privilege aspects 为 projections：
 
 \[
-Actual(w)
-\iff
-\exists t,s\;O(w,t,s).
+Actual(w)\iff\exists t,s\;O(w,t,s),
 \]
-
-### Objective NOW
 
 \[
-Present(t)
-\iff
-\exists w,s\;O(w,t,s).
+Present(t)\iff\exists w,s\;O(w,t,s),
 \]
-
-### Absolute I
 
 \[
-AbsoluteI(s)
-\iff
-\exists w,t\;O(w,t,s).
+AbsoluteI(s)\iff\exists w,t\;O(w,t,s).
 \]
-
-所以不是：
-
-\[
-A(w)+P(t)+I(s)
-\]
-
-三个无关 primitive marks，而是：
-
-\[
-\boxed{O(w,t,s)}
-\]
-
-的三个 aspect / projection。
 
 ---
 
-## 2. Literature-backed motivation
+## 1. Literature-backed motivation
+
+UIWO 不是任何一个现有作者的完整理论，而是几条 literature lines 的 intersection。
 
 ### Builes
 
-modal / temporal / perspectival privilege具有明确 structural analogy：actual world、present time、first-person perspective各自可被理解为 privileged member。
+modal / temporal / perspectival privilege 有明确 structural analogy：
+
+\[
+ActualWorld:PossibleWorlds,
+\]
+
+\[
+PresentTime:Times,
+\]
+
+\[
+MyPerspective:Perspectives.
+\]
+
+但 analogy 本身不是 identity。
 
 ### Deasy
 
-Contingent Spotlight把 modal actuality做成 Moving Spotlight的 analogue：one fundamental actuality property picks actual world；Moving Spotlight用 fundamental presentness pick present time。
+Contingent Spotlight 把 modal actuality 做成 Moving Spotlight 的 analogue：one fundamental actuality property 产生 actual-world privilege；Moving Spotlight 使用 fundamental presentness。
 
 ### Conitzer
 
-A-theory与 distinguished-I theory不应完全分开；combined `I-Now` 在若干 A-theory argument上优于 only-NOW model。
+A-theory 的若干动机对 combined `I–NOW` 比对 `NOW` alone 更强；distinguished I + distinguished Now 也直接产生一个 distinguished centered location / Here。
+
+这最后一点对 UIWO 很重要：它支持 joint motivation，同时也说明 mere centered coincidence 不需要额外第四 primitive。
 
 ### Nagai
 
 最强 identity template：
 
 \[
+\boxed{
 WorldActuality=AbsoluteI=AbsoluteNOW=Opening.
+}
 \]
 
-因此 UIWO 是 literature intersection上的 project construction，而非纯 formal trick。
+Nagai 因而是 UIWO 真正 non-factorizable reading 的主要 semantic ancestor。
 
 ---
 
-## 3. Relation to Nomological Opening Model
+## 2. Relation to Nomological Opening Model
 
-NOM 原式：
+旧 NOM：
 
 \[
 \Lambda_O:\quad CompleteActuality(R)\Rightarrow\exists!s\;Open(R,s).
 \]
 
-UIWO refinement：
+UIWO：
 
 \[
 \boxed{
-\Lambda_{UIWO}:\quad
-CompleteReality\Rightarrow
-\exists!\langle w,t,s\rangle O(w,t,s).
+\Lambda_{UIWO}:\quad CompleteReality\Rightarrow\exists!\langle w,t,s\rangle O(w,t,s).
 }
 \]
 
-NOM 的 local opening成为三维 opening 的 subject projection。
+如果 world actuality 与 objective NOW 本来就在 theory package 中，UIWO 尝试让它们成为同一 Opening 的 projections，而不是增加一个纯 I-selector。
 
-因此 NOM不必另加：
-
-\[
-ActualWorld(w^*),
-\qquad
-Present(t^*).
-\]
-
-若这些 privileges本来就在 theory package 中，它们由同一 Opening realization给出。
+但这只有在 Opening 通过下面的 Factorization Gate 时才有 explanatory significance。
 
 ---
 
-## 4. Symmetry-breaking implementation
+## 3. Factorization correction
 
-neutral / privilege-free base可以包含多个：
+最初模型有一个过强说法：three separate exactly-one spotlights 还需要额外 `Coincidence(w*,t*,s*)` primitive。
 
-\[
-w_i,t_j,s_k
-\]
+这一般不成立。
 
-候选，并允许 permutations / automorphisms。
-
-令 group：
+设 rival 已有：
 
 \[
-G=G_W\times G_T\times G_S
+\exists!w^*\;A(w^*),
 \]
-
-作用于 centered triples。
-
-law：
 
 \[
-\Lambda_{UIWO}
+\exists!t^*\;P(t^*),
 \]
-
-在 candidate space 上保持 covariance，但 complete realization：
 
 \[
-O^*
+\exists!s^*\;I(s^*),
 \]
 
-只标记 one centered triple。
+并有双方共享的 ordinary compatibility relation：
+
+\[
+C(w,t,s).
+\]
+
+则可直接定义：
+
+\[
+\boxed{
+O_\times(w,t,s)
+:=A(w)\land P(t)\land I(s)\land C(w,t,s).
+}
+\]
+
+只要 privileged members compatible，就自动有 one centered triple。
 
 所以：
 
 \[
 \boxed{
-LawSymmetry
-+
-OneCenteredAsymmetricRealization.
+ThreeUniquePrivileges
+\not\Rightarrow
+ExtraCoincidencePrimitive.
 }
 \]
 
-Halvorson-style extension semantics允许 base symmetry不必延伸到 complete structure，而无需预先给 world/time/subject candidates primitive cross-world labels。
+因此 UIWO 不能靠 “three predicates become one ternary predicate” 获得 credit。
 
 ---
 
-## 5. Why this is stronger than three independent spotlights
+## 4. Projection–Factorization Result
 
-Separate model：
-
-\[
-A_W(w^*)
-+
-P_T(t^*)
-+
-I_S(s^*).
-\]
-
-即使每个 predicate各自 exactly-one，也还要额外保证：
+若：
 
 \[
-\boxed{Coincidence(w^*,t^*,s^*)}
+O(w,t,s)
+\equiv
+A(w)\land P(t)\land I(s)\land C(w,t,s),
 \]
 
-或至少说明：为什么 actual world中的 privileged NOW 与 privileged I构成同一个 centered actuality。
+则 `O` 称为 **factorizable**。
 
-UIWO则：
+在这种情况下：
+
+\[
+\boxed{
+FactorizableOpening
+\text{ has no explanatory gain merely from arity compression}.
+}
+\]
+
+因为：
+
+- `O` 的 truth conditions 完全由 separate predicates 决定；
+- exactly-one triple 由 exactly-one marginals 自动给出；
+- projections 没有增加 modal / counterfactual content；
+- one relation symbol vs three predicate symbols 只是表示选择。
+
+这是 UIWO 必须遵守的 **Projection–Factorization Result (PFR)**。
+
+---
+
+## 5. Genuine UIWO must be non-factorizable
+
+真正的 Unified Opening 需要：
+
+\[
+\boxed{O\neq O_\times.}
+\]
+
+至少需要以下一种 cross-domain coupling。
+
+### U1 — Combination exclusion
+
+有些 world/time/subject privilege values 在 marginals 上分别允许，却不能 jointly instantiate one Opening：
+
+\[
+Possible[A(w_i)]
+\land Possible[P(t_j)]
+\land Possible[I(s_k)]
+\]
+
+但：
+
+\[
+\neg Possible[O(w_i,t_j,s_k)].
+\]
+
+### U2 — Joint counterfactual dependence
+
+改变 one privilege aspect 会 lawfully constrain others：
+
+\[
+do(O_w=w')
+\Rightarrow
+Constraint(O_t,O_s).
+\]
+
+### U3 — Non-product chance
+
+若 Opening stochastic：
+
+\[
+\boxed{
+P_O(w,t,s)
+\neq
+P_A(w)P_P(t)P_I(s).
+}
+\]
+
+且 correlation 来自 independently motivated law，而不是手工关联。
+
+### U4 — One common ground
+
+存在 independently characterized `G`：
+
+\[
+G\Rightarrow Actual(w^*)+Present(t^*)+AbsoluteI(s^*),
+\]
+
+并且三个 independent grounds 无法同样好地解释共同现象。
+
+### U5 — Shared explanatory residual
+
+竞争双方都承认某个跨域 explanandum `X`，而：
+
+\[
+Explain(O,X)
+\land
+\neg Explain(A+P+I,X).
+\]
+
+只有 U1–U5 这类内容才能让 Opening 真正承担 unification work。
+
+---
+
+## 6. Symmetry-breaking implementation
+
+privilege-free base可含多个候选：
+
+\[
+w_i,t_j,s_k,
+\]
+
+并有 symmetry group：
+
+\[
+G=G_W\times G_T\times G_S.
+\]
+
+Opening law 在 candidate level 可保持 covariance，但 realized complete structure只含 one root：
+
+\[
+\exists!c^*\;O(c^*).
+\]
+
+Halvorson-style model-extension semantics允许：
+
+\[
+Aut(R)\ni\phi,
+\qquad
+\phi\notin Aut(R+O),
+\]
+
+即 symmetric base 获得 asymmetric rooted completion，而不必预先给 candidate tokens primitive haecceities。
+
+因此 symmetry breaking 仍是 UIWO / NOM 的重要 architecture。
+
+但：
+
+\[
+\boxed{
+SymmetryBreaking
+\not\Rightarrow
+CrossDomainUnification.
+}
+\]
+
+它解决 realization form，不解决 Opening 是否可 factorize。
+
+---
+
+## 7. Analogy-to-Identity Gap
+
+Builes / Deasy / Conitzer 显示：
+
+\[
+ModalPrivilege\sim TemporalPrivilege\sim FirstPersonPrivilege.
+\]
+
+但：
+
+\[
+\boxed{
+PrivilegeAnalogy
+\not\Rightarrow
+PrivilegeIdentity.
+}
+\]
+
+world–time literature本身也警告 analogy 有断点。Ulrich Meyer 2006 明确论证 worlds 与 times 的 formal parallels 不能无限推广，并反对简单把 presentism 当作 actualism 的 tense analogue。Iaquinto 2026 继续把 time/modality parallel当重要研究框架，但这仍是 analogy map，不是 identity theorem。
+
+所以 Nagai-style identity 仍是 extra metaphysical content。
+
+---
+
+## 8. Conitzer's real contribution after PFR
+
+PFR 不削掉 Conitzer 的核心价值。
+
+Conitzer 的 result 更准确写成：
+
+\[
+\boxed{
+Motivation(A\text{-}theory)
+\Rightarrow
+PressureTowardPersonalizedA\text{-}theory.
+}
+\]
+
+其主要理由包括：
+
+- presence simpliciter 对 distinguished I 与 NOW 同时施压；
+- `Thank goodness` / self-bias cases 对 I–NOW 更有解释力；
+- 某些针对 global NOW 的 relativity objections 对 local I–NOW 版本更弱。
+
+这给的是 **joint explanatory motivation**，可能帮助 UIWO 建立 U5。
+
+它尚未给：
+
+\[
+O\neq O_\times.
+\]
+
+---
+
+## 9. Nagai's role after PFR
+
+Nagai 是当前 strongest non-factorization template。
+
+他的主张不是：
+
+\[
+Actual(w^*)\land Present(t^*)\land I(s^*).
+\]
+
+而是：
+
+\[
+\boxed{
+WorldActualization
+=
+NOWActualization
+=
+IActualization
+=
+OneOpening.
+}
+\]
+
+若这一 identity 被接受，Opening 确实不是 conjunction。
+
+但项目仍要问：
+
+\[
+\boxed{
+Why\ identity\ rather\ than\ factorization?
+}
+\]
+
+Nagai 允许 sheer contingency / primitive opening，因此给成熟 endpoint，却没有从 neutral ground 推出 non-factorization。
+
+---
+
+## 10. Dynamic vs atemporal variants
+
+### Atemporal UIWO
 
 \[
 O(w^*,t^*,s^*)
 \]
 
-直接使 coincidence constitutive。
+作为 complete centered structure 的 distinguished coordinate。
 
-因此其潜在 advantage不仅是 primitive-number compression，还包括：
-
-\[
-\boxed{RoleCoincidenceByConstruction.}
-\]
-
-这正是 Nagai opening identity 的 strongest structural content。
-
----
-
-## 6. Cross-domain constraint
-
-真正的 unification不能只改名。UIWO必须给跨域 constraints。
-
-至少包括：
-
-### C1 — Actuality/Open coincidence
-
-只有 belonging to \(w^*\) 的 totality被 world-actuality projection覆盖。
-
-### C2 — I–NOW coincidence
-
-absolute I总与 opening-now配对，不允许：
-
-\[
-AbsoluteI(s^*)
-\land
-Present(t^*)
-\]
-
-却没有 unified centered stage \(\langle t^*,s^*\rangle\)。
-
-### C3 — No orphan privilege
-
-不能有：
-
-\[
-Actual(w_1)
-\]
-
-但无任何 opening time/subject；也不能有 `AbsoluteI` detached from actual-world opening。
-
-### C4 — Joint counterfactual variation
-
-若 opening realization变化：
-
-\[
-O(w,t,s)\to O(w',t',s'),
-\]
-
-三种 privilege aspects随同一个 change变化，而不是三套 independently varying primitive selectors。
-
-这使 UIWO 至少原则上具有 real modal content beyond abbreviation。
-
----
-
-## 7. Dynamic vs atemporal variants
-
-### Atemporal UIWO
-
-完整 centered totality一次性满足：
-
-\[
-O(w^*,t^*,s^*).
-\]
-
-`NOW` 是 complete structure 的 distinguished temporal coordinate。
-
-优点：避免 meta-time。
+优点：避免 meta-time / passage-rate problem。
 
 ### Dynamic UIWO
-
-若采用 moving I–NOW：
 
 \[
 O(w^*,t(\tau),s(\tau)).
 \]
 
-需要更高参数 \(\tau\) 或另一种 dynamical semantics。
-
-Conitzer personalized moving spotlight说明这种 model coherent-looking，但会重开：
+需要 supertime 或另一种 dynamical semantics，并重开：
 
 - rate of passage；
-- transfer / jump；
+- subject transfer / jump；
 - relativity；
 - trajectory continuity。
 
-项目当前 default选择 **atemporal structural opening**，除非 passage本身独立成为 common explanandum。
+当前项目 default 仍是 **atemporal rooted Opening**，除非 objective passage 本身独立成为 common explanandum。
 
 ---
 
-## 8. Other minds remain genuine
+## 11. Other minds remain genuine
 
-UIWO只给 one opening coordinate，不要求：
+UIWO 不要求：
 
 \[
 \forall s\neq s^*\;\neg Conscious(s).
 \]
 
-所以保持：
+仍可有：
 
 \[
 \forall s_i\in S(w^*)\;LocalConscious(s_i).
 \]
 
-区别是：
+并严格区分：
 
 \[
 LocalFirstPerson(s_i)
@@ -330,47 +471,16 @@ LocalFirstPerson(s_i)
 与：
 
 \[
-AbsoluteI(s^*)
+AbsoluteI(s^*).
 \]
 
-分层。
-
-这避免把 Nagai/Hare-style absolute orientation简单做成 ordinary solipsism。
+所以 UIWO 是 two-tier model，不等于 ordinary solipsism。
 
 ---
 
-## 9. Exact-one is still substantive
+## 12. Epistemic projection
 
-UIWO把：
-
-\[
-\exists!c\;O(c)
-\]
-
-写进 law/constitution。
-
-因此它没有从更薄的 principle推出 exact-one。
-
-可选的 deeper motivations：
-
-- one actual world；
-- one objective NOW；
-- one complete actuality token；
-- Nagai opening non-pluralizability。
-
-但这些仍需 independent defense。
-
-所以：
-
-\[
-\boxed{Unification\neq DerivationOfUniqueness.}
-\]
-
----
-
-## 10. Epistemic consequence
-
-如果 opening bearer具有 factive acquaintance：
+若 Opening bearer 有 factive acquaintance：
 
 \[
 O(w^*,t^*,s^*)
@@ -378,92 +488,123 @@ O(w^*,t^*,s^*)
 K_{s^*}[O(w^*,t^*,s^*)],
 \]
 
-那么一种 single epistemic relation可同时给：
+同一 relation可投影成：
 
-- de se：I am \(s^*\)；
-- de nunc：now is \(t^*\)；
-- actuality acquaintance：this world is \(w^*\)。
+- de se acquaintance；
+- de nunc acquaintance；
+- actuality acquaintance。
 
-这形成 potential **epistemic unification**。
+这有 potential epistemic-unification value。
 
-但若 ordinary evidence仍 permutation-invariant，Bayesian BF结果保持；factive access不能自动变成 publicly discriminative evidence。
+但如果三类 knowledge 本来也可以分别由 status-sensitive entitlement 给出，仍需通过 PFR 对应的 epistemic non-factorization test。
+
+普通 evidence permutation-invariant 时：
+
+\[
+BF=1
+\]
+
+结果保持。
 
 ---
 
-## 11. Main payoff candidate
+## 13. Revised compression comparison
 
-NOM之前最大的 objection：
+### Separate package
 
-> Opening Law只是为了制造 Absolute-I，因此像 law-shaped restatement。
+\[
+T_{sep}=K+A+P+I.
+\]
 
-UIWO给一个更强 response：
+### Factorized opening
+
+\[
+T_{fact}=K+O_\times.
+\]
+
+其中：
+
+\[
+O_\times\equiv A\land P\land I\land C.
+\]
+
+则：
+
+\[
+\boxed{T_{fact}\approx T_{sep}}
+\]
+
+在 explanatory content 上没有明显 gain。
+
+### Genuine unified opening
+
+\[
+T_{open}=K+O,
+\qquad
+O\neq O_\times.
+\]
+
+只有当 `O` 带来 independently motivated cross-domain coupling，才可能：
 
 \[
 \boxed{
-Opening\ is\ not\ only\ an\ I\text{-}selector;
-\ it\ is\ a\ unified\ actuality/presentness/first\!\!\text{-}\!person\ role.
+Compression(T_{open})>Compression(T_{sep}).
 }
-\]
-
-若 modal actuality和 objective NOW已经有 independent motivation，那么 Opening law开始承担跨域 explanatory work。
-
-因此首次出现：
-
-\[
-\boxed{ConditionalIndependentPayoff.}
 \]
 
 ---
 
-## 12. Current verdict
+## 14. Current verdict
 
-UIWO 是 NOM 的 strongest current refinement。
+UIWO 仍是 NOM 最值得保留的 positive refinement，但其 claim 需要明显收窄。
 
-它把 previous ultimate question：
-
-\[
-Why\ obey\ an\ Opening\ Law?
-\]
-
-变成可分解 comparison：
-
-### If rival accepts only neutral actuality
-
-UIWO content明显更厚，无 free win。
-
-### If rival accepts actual-world + objective-NOW privileges
-
-UIWO有真实 unification candidate：
+旧强 claim：
 
 \[
-A_W+P_T
+A+P+I+Coincidence
 \quad vs\quad
-O(w,t,s).
+O.
 \]
 
-### If rival also accepts broad first-person privilege
-
-UIWO的 strongest comparison becomes：
+现改为：
 
 \[
 \boxed{
-A_W+P_T+I_S+Coincidence
+A+P+I
 \quad vs\quad
-O(w,t,s).
+O.
 }
 \]
 
-这时 one Opening relation可能获得真正 compression / role-coincidence advantage。
-
-但 verdict仍 conditional：
+而且：
 
 \[
 \boxed{
-UIWO\text{ gives the first credible unification payoff for NOM, not a universal proof of Opening}.}
+O\text{ only wins if independently non-factorizable}.}
 \]
+
+因此：
+
+\[
+\boxed{
+\text{UIWO has a live unification opportunity, not yet a demonstrated compression win}.}
+\]
+
+最值得继续找的已经非常具体：
+
+\[
+\boxed{
+\text{a real cross-domain law tying world actuality, NOW, and absolute-I together}.
+}
+\]
+
+找不到它，`Opening(w,t,s)` 很可能只是 elegant notation。
+
+找到它，NOM 才第一次拥有 neutral-rival-recognizable explanatory content。
 
 ## 关联
 
+- [`../arguments/opening-factorization-test.md`](../arguments/opening-factorization-test.md)
 - [`../../literature/deasy-conitzer-privilege-unification.md`](../../literature/deasy-conitzer-privilege-unification.md)
 - [`../../literature/nagai-2007-2010-opening-actuality.md`](../../literature/nagai-2007-2010-opening-actuality.md)
 - [`nomological-opening-model.md`](nomological-opening-model.md)
