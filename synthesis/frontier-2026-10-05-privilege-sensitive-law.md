@@ -1,12 +1,12 @@
-# Frontier — Privilege-Sensitive Law
+# Frontier — Nomological Opening / Privilege-Sensitive Law
 
 > 日期：2026-10-05
 >
-> 状态：`Derived PLP Near-Closure` 之后的新 reopening。此前接近封口的是 **derived structural PLP**；本轮找到的 opening 是 **nomological / stochastic PLP**。
+> 状态：`Derived PLP Near-Closure` 之后的 strongest reopening。当前最强 positive architecture 已从 bare stochastic selector 升级为 **Nomological Opening Model (NOM)**。
 
-## 1. 一句话更新
+## 1. 最新一句话
 
-此前最硬结果：
+此前最硬结果保持：
 
 \[
 \boxed{
@@ -17,51 +17,61 @@ UniqueStructuralLocalization
 AbsoluteFirstPersonPrivilege.}
 \]
 
-这仍成立。
+所以 **derived structural PLP** 仍 near-closed。
 
-但它没有排除一种完全不同的 architecture：
+但现在有一个不同的 live architecture：
 
 \[
 \boxed{
-R
-\xrightarrow{\Lambda_\Omega}
-\exists!E^*\;AbsoluteOrientation(E^*),
+SubjectBearingReality
++
+\Lambda_O
+\Rightarrow
+\exists!E^*\;Open(R,E^*)
+\equiv
+AbsoluteOrientation(E^*).
 }
 \]
 
-其中 `ΛΩ` 是 fundamental psychophysical / privilege-sensitive law，而非从 neutral structural dominance推导 privilege。
+这里 `Open` 不再是 ordinary structural winner mark，而解释成：
 
-因此最新 verdict：
+\[
+\boxed{\text{complete actuality is actual/open through this first-person locus}.}
+\]
+
+因此当前精确 verdict：
 
 \[
 \boxed{
-\text{Derived structural PLP is near-closed; nomological PLP is live.}
+FullyDerivedPLP\text{ near-closed};
+\quad
+Nomological/ConstitutivePLP\text{ live}.
 }
 \]
 
 ---
 
-## 2. 为什么 privilege-sensitive law 不是凭空发明
+## 2. 为什么 law-family 是严肃选项
 
-本轮文献把 mind/physics laws 至少分出四层。
+已有 mind/physics literature 至少允许三种 law work：
 
-### LQ — phenomenal-quality law
+### LQ — phenomenal quality
 
 \[
 PhysicalState\to PhenomenalQuality.
 \]
 
-Chalmers-style psychophysical-law framework给一般先例。
+### LS — subject individuation / pairing
 
-### LS — subject law
+Schmid 2026 的 subject harmony把 subject number、bearer pairing、persistence等放进 psychophysical principles 的解释范围：
 
 \[
 PhysicalCandidates\to SubjectBearers.
 \]
 
-Schmid 2026 的 **subject harmony** 明确把 subject数量、bearer pairing、persistence 等放进 psychophysical principles 的解释范围；Cutter 的 Many-Subjects Argument又说明，一个 ordinary physical system周围天然有大量 overlapping / near-duplicate subject candidates。
+### LD — determinate experiential outcome
 
-### LD — determinate-experience law
+Albert–Loewer single-mind route允许：
 
 \[
 CandidateMentalOutcomes
@@ -69,360 +79,375 @@ CandidateMentalOutcomes
 OneActualMentalOutcome.
 \]
 
-Albert–Loewer single-mind interpretation给成熟 precedent：同一 physical superposition不预先决定一个 determinate mental outcome，而 mental dynamics stochasticly realize one。
+所以一个进一步的：
 
-### LΩ — target privilege law
+### LΩ — absolute-orientation law
 
 \[
 GenuineLocalSubjects
-\xrightarrow{\Lambda_\Omega}
-OneAbsoluteOrientation.
+\xrightarrow{\Lambda_O}
+OneAbsoluteOpening
 \]
 
-前三类都有严肃既有邻域；第四类没有直接 established theory，但它位于一个真实的 law-family 延伸方向上。
+不是已有 established theory，但属于一个真实的 subject-sensitive law family 延伸。
 
 ---
 
-## 3. Stochastic Absolute-Orientation Law
+## 3. Halvorson：exact symmetry 不封死 asymmetric complete reality
 
-令：
+此前 deterministic PLP 被 automorphism obstruction卡死：若 base `R` 完全交换两个 candidates，就不存在 invariant deterministic rule unique-pick one。
 
-\[
-S(R)=\{E_1,\ldots,E_N\}
-\]
+Halvorson–Manchak–Weatherall 2026 给更细 formal picture：initial structure 的 symmetry可以无法延伸成 full-model symmetry；理解这种 indeterminism不必先诉诸 primitive haecceitistic world-differences。
 
-为完整 non-absolute base `R` 中的 genuine local conscious loci。
-
-定义：
+项目映射：
 
 \[
-P_\Omega(E_i\mid R)
-=\frac{w(E_i;R)}{\sum_jw(E_j;R)}.
+Aut(R)\ni g,
+\qquad
+g\notin Aut(\Omega[R;E^*]).
 \]
-
-一次 objective realization：
-
-\[
-E^*\sim P_\Omega,
-\]
-
-并由 law-content规定：
-
-\[
-\boxed{AbsoluteOrientation(E^*).}
-\]
-
-所以：
-
-\[
-\boxed{\exists!E^*\;AbsoluteOrientation(E^*).}
-\]
-
-这是 **Stochastic Absolute-Orientation Law (SAOL)**。
-
----
-
-## 4. 它真正绕开的 obstacle
-
-此前 symmetry obstruction针对 deterministic structural selector：
-
-\[
-Aut(R)\text{ exchanges }E_A,E_B
-\Rightarrow
-\text{no invariant deterministic rule can uniquely choose A over B}.
-\]
-
-SAOL可以对 exact duplicates给 equal chance：
-
-\[
-P_\Omega(E_A\mid R)=P_\Omega(E_B\mid R)=1/2,
-\]
-
-同时实际 complete world仍实现 exactly-one marked locus。
 
 因此：
 
 \[
 \boxed{
-ExactSymmetry
-\not\Rightarrow
-NoUniqueLawGovernedOutcome.
+SymmetricBase
++
+AsymmetricCompleteReality
 }
 \]
 
-这里 stochasticity的解释角色与 fundamental decay/collapse chance 同型：law解释 outcome-space与 chances，而不是预先编码 winner-specific asymmetry。
+可以作为 structural symmetry-breaking completion。
+
+这使旧二叉：
+
+\[
+TokenHaecceitisticLottery
+\;|\;
+QuotientEverything
+\]
+
+不再 exhaustive。
+
+新增：
+
+\[
+\boxed{
+H3:\ StructuralSymmetryBreakingExtension.
+}
+\]
+
+详见 [`../literature/halvorson-2026-symmetry-indeterminism.md`](../literature/halvorson-2026-symmetry-indeterminism.md)。
 
 ---
 
-## 5. Halvorson 2026：symmetry breaking 不必等于 primitive haecceitism
+## 4. SAOB：Spontaneous Absolute-Orientation Breaking
 
-一个初始担忧是：perfect duplicates A/B 中，“A absolute” 与 “B absolute” 是否只能靠 primitive token thisness区分。
-
-Halvorson 2026 的 symmetric-model analysis提供第三种 formal option：initial structure可具有一个 automorphism，而该 automorphism不能延伸成 complete model的 automorphism。
-
-本项目可写：
+令：
 
 \[
-Aut(R)\ni\phi,
-\qquad
-\phi\notin Aut(\Omega[R;E^*]).
+S(R)=\{E_1,\ldots,E_n\}.
 \]
 
-所以 complete centered actuality可理解成：
+定义 order parameter：
 
 \[
-\boxed{\text{a rooted / marked relational completion of a symmetric base}}
+A:S(R)\to\{0,1\},
 \]
 
-而不必说 root-bearing token 在 base 中已经拥有 primitive haecceity。
+并由 law 约束：
 
-这给 SAOL 一个更强的 anti-haecceitist reading。
+\[
+\boxed{\sum_iA(E_i)=1.}
+\]
 
-但它没有解决 chance semantics：若不同 rooted completions作为 unlabelled structures彼此 isomorphic，objective probability究竟 over 什么 sample space，仍需形式化。
+law 对 `Aut(R)` covariant，但 actual completed world只实现一个 one-hot configuration。
+
+所以：
+
+\[
+\boxed{
+LawSymmetry
++
+ActualAsymmetry.
+}
+\]
+
+这和 spontaneous symmetry breaking 的形式相邻，但必须避免偷渡：
+
+\[
+\boxed{Symmetry\not\Rightarrow Probability.}
+\]
+
+若要 numerical objective chance，还要独立 measure / dynamics；Liu 2003 对 classical SSB + chance正好提供这个方法论边界。
+
+详见 [`../research/models/spontaneous-absolute-orientation-breaking.md`](../research/models/spontaneous-absolute-orientation-breaking.md)。
 
 ---
 
-## 6. Bitbol 给“正确语义”，single-mind 给“正确动力学形状”
+## 5. Order-Parameter Semantics：现在有 coherent positive closure candidate
 
-Kadić路线的问题是：
+只说 `A(E^*)=1` 还不够；普通 marked node没有 first-person privilege semantics。
+
+四类候选中：
+
+- Hare presence：直接给 monadic privilege semantics，但本身 primitive；
+- acquaintance：解释 winner如何直接知道自己的状态，不解释 privilege本身；
+- Bitbol identification：给 `my point of view` semantics，但没有 selection law；
+- **Nagai opening**：给 strongest semantic role——`WorldActuality = AbsoluteI = AbsoluteNOW = Opening`。
+
+所以可以定义：
 
 \[
-\text{selection mechanism without privilege semantics}.
+Open(R,E^*)
 \]
 
-Michel Bitbol 的 One-Mind / many-points-of-view construction反过来接近：
+不是“E*很中央”，而是：
 
 \[
-AvailablePOVs(R)+OneMind
-\to
-Identification(M,E^*).
+\boxed{
+E^*\text{ is the locus through which the complete totality is actual/open}.
+}
 \]
 
-被 adopted 的 POV 从内部不再只是 `one viewpoint among others`，而成为 self-referred `my point of view`。
+这意味着 `Order-Parameter Semantics Gap` 已经有 coherent closure candidate。
 
-但 Bitbol没有给 objective physical/psychophysical selection dynamics；identification也不被他当 ordinary physical transition。
-
-因此两条资源可以组合成一个项目新模型：
-
-### Stochastic Identification Model (SIM)
+但必须精确说：
 
 \[
-P(Identification(M,E_i)\mid R)
-=P_\Omega(E_i\mid R).
+\boxed{
+SemanticNonArbitrariness
+\neq
+IndependentMotivation.
+}
+\]
+
+Nagai给 role content；没有从 neutral actuality证明 reality 必须有这种 Opening relation。
+
+详见 [`../research/arguments/order-parameter-semantics-audit.md`](../research/arguments/order-parameter-semantics-audit.md)。
+
+---
+
+## 6. NOM — 当前 strongest positive model
+
+把资源组合：
+
+\[
+\boxed{
+Nagai\ Opening
++
+Halvorson\ structural\ indeterminism
++
+SAOB\ law\ form
++
+Bitbol\ identification\ semantics
++
+psychophysical\ subject\ law\ precedent.
+}
+\]
+
+得到 **Nomological Opening Model**：
+
+\[
+\boxed{
+\Lambda_O:\quad
+CompleteActuality(R)
+\Rightarrow
+\exists!E^*\;Open(R,E^*).
+}
 \]
 
 其中：
 
-- Bitbol-like identification supplies first-person semantics；
-- single-mind/objective-chance precedent supplies stochastic selection form；
-- subject-harmony literature supplies legitimacy of subject-sensitive laws；
-- Halvorson supplies a possible non-haecceitistic symmetry-breaking reading。
+\[
+Open(R,E^*)
+\equiv
+AbsoluteOrientation(E^*).
+\]
 
-SIM 是本项目 construction，不反写成这些作者原本共同主张。
+NOM默认是 **atemporal constraint**，不讲一个 neutral actual world先存在、后来 lottery选人。`R` 可以只是从 complete structure抽去 Opening relation后的 abstraction。
+
+因此它避免把 actuality-selection误建模成 physical-time process。
+
+NOM 同时保持：
+
+\[
+\forall i\;LocalConscious(E_i),
+\]
+
+所以 genuine other minds 不需要牺牲。
+
+详见 [`../research/models/nomological-opening-model.md`](../research/models/nomological-opening-model.md)。
 
 ---
 
-## 7. Absolute-Subject Harmony
+## 7. `why this one?` 被重新分解
 
-Schmid/Cutter-style ordinary subject harmony：
+### Q1 — 为什么有 exactly-one opening？
 
-\[
-PhysicalStructure
-\xrightarrow{L_S}
-SubjectBearers.
-\]
-
-可扩展一个 target hypothesis：
+NOM回答：
 
 \[
-SubjectStructure(R)
-\xrightarrow{\Lambda_\Omega}
-AbsoluteBearer(E^*).
+\Lambda_O
 \]
 
-若再加入 winner-specific factive access：
+规定 complete actuality 的 one-opening form。
+
+### Q2 — 为什么 symmetric base 最终不对称？
+
+回答：complete actuality是 symmetry-broken extension；law本身可以 symmetry-respecting。
+
+### Q3 — 为什么是预先叫 A 的 numerical token？
+
+anti-haecceitist H3 reading拒绝这里必须存在一个额外 transworld token fact。actual world只含：
 
 \[
-Absolute(E^*)
-\Rightarrow
-AcquaintedWithAbsoluteStatus(E^*),
+\boxed{the\ opening\ bearer}
 \]
 
-则形成：
+与其他 non-opening local subjects。
 
-\[
-\boxed{\text{ontic–epistemic absolute harmony}.}
-\]
+### Q4 — 为什么这个 role 是 absolute-I？
 
-这与此前 Bricker-style：
+Nagai/Bitbol-style semantics给 model-internal answer：`Opening / Identification` 本来就是 actual first-person locus，而不是从 centrality推 privilege。
 
-\[
-SameEvidence\not\Rightarrow SameEpistemicStatus
-\]
+### Q5 — 为什么 complete actuality服从 Opening Law？
 
-兼容：ordinary evidence可保持 symmetric，absolute bearer仍因其 actual law-status获得不同 factive epistemic relation。
-
-这可以解释“如果 absolute subject存在，它如何可能知道自己的地位”，但还没有给 independent evidence证明这种 law实际存在。
-
----
-
-## 8. SAOL 没解决什么
-
-### 8.1 Privilege-content primitiveness
-
-SAOL直接把：
-
-\[
-AbsoluteOrientation
-\]
-
-写进 law-output。
-
-所以它绕过 DPB，不是 derivationally解出 DPB。
-
-真正问题变成：
+这才是新的 ultimate burden：
 
 \[
 \boxed{
-Why is AbsoluteOrientation a fundamental nomic property at all?
+Why\ should\ complete\ actuality\ obey\ \Lambda_O\ at\ all?
 }
 \]
 
-如果没有 independent work，`ΛΩ` 可能只是把 primitive centered actuality改写成 primitive law。
-
-### 8.2 Empirical / explanatory idleness
-
-若 absolute bearer与 non-absolute subjects在所有 physical、phenomenal、behavioral、ordinary epistemic respects都完全相同，`ΛΩ` 可能没有可观测 consequences。
-
-则需要回答 lawhood criterion：一个完全 privilege-only 的 fundamental law凭什么比 primitive fact更好？
-
-### 8.3 Chance ontology over automorphic candidates
-
-perfect duplicates有三种 reading：
-
-1. token-level distinct outcomes → haecceitistic pressure；
-2. quotient all automorphic outcomes → `why my token?` reappears；
-3. Halvorson-style rooted relational completions → anti-haecceitism更有希望，但 objective chance sample-space仍需正式化。
-
-所以 stochasticity解决 deterministic canonicality，不自动解决 metaphysical semantics。
-
-### 8.4 No sufficient reason for the exact winner
-
-SAOL允许：
-
-\[
-\text{law + chance + actual outcome}
-\]
-
-就是 explanation 的终点。
-
-如果项目要求一个 further sufficient reason：
-
-\[
-Why\ E_A\ rather\ than\ perfect\ duplicate\ E_B?
-\]
-
-SAOL明确不给；它采用 fundamental chance 作为 stopping point。
-
 ---
 
-## 9. 与 Role-First Ω 的公平比较
+## 8. NOM 相对 Role-First Ω 的真实差别
 
-### Constitutive route
+### Constitutive endpoint
 
 \[
 \Omega[R;E^*].
 \]
 
-center/orientation是 complete actuality 的 constitutive aspect。
-
-### Nomological route
+### Nomological Opening
 
 \[
-R+\Lambda_\Omega+Outcome(E^*)
-\Rightarrow
-\Omega[R;E^*].
+R+\Lambda_O\to(R,Open^*).
 \]
 
-SAOL增加：
+NOM多给：
 
-- cross-world generality；
-- objective chance；
-- counterfactual/modal profile；
-- symmetry-respecting outcome law。
+- cross-world / model-class generality；
+- symmetry discipline；
+- formal non-unique extension；
+- optional chance；
+- explicit semantics of opening/identification。
 
-但同时增加：
+它也多付：
 
-- fundamental law ontology；
-- chance ontology；
-- law-output privilege semantics。
+- law ontology；
+- possible chance ontology；
+- Opening Identity commitment。
 
-因此当前不能简单说 SAOL比 Role-First Ω更省或更解释性。
+所以不能靠 primitive count判断胜负。
 
-真正 comparison criterion 是：
+真正的 CC3-style question是：
 
 \[
 \boxed{
-\text{Does }\Lambda_\Omega\text{ do independent explanatory work beyond restating centered actuality?}
+Does\ \Lambda_O\ do\ independent\ explanatory\ work,
+\text{ or merely reorganize primitive centered actuality?}
 }
 \]
 
 ---
 
-## 10. 最新研究裁决
+## 9. Epistemic coupling remains optional
 
-此前：
+可加入：
 
 \[
-\boxed{\text{Derived PLP Near-Closure}.}
+Open(R,E^*)
+\Rightarrow
+FactiveAcquaintance(E^*,Open(R,E^*)).
 \]
 
-现在必须精确收窄：
+若 acquaintance不改变 ordinary phenomenology：
+
+\[
+SameEvidence\not\Rightarrow SameEpistemicStatus,
+\]
+
+但 likelihood仍不变，`BF=1`。
+
+若存在 unique phenomenal signature：
+
+\[
+\sigma_O,
+\]
+
+才会第一次成为 privilege-sensitive evidence channel。
+
+当前没有 independent evidence证明我们拥有这种 signature。
+
+---
+
+## 10. Current verdict
+
+项目现在必须明确区分两类 PLP：
 
 \[
 \boxed{
-\text{Derived structural PLP remains near-closed}.}
-\]
-
-但：
-
-\[
-\boxed{
-\text{Nomological / stochastic PLP is a live new opening}.}
-\]
-
-这是本轮真正的 advance。
-
-它第一次允许我们说：exact structural symmetry本身不再封死 absolute-first-person theory；一个 fundamental, permutation-covariant psychophysical chance law原则上可以产生 exactly-one rooted centered completion。
-
-不过目前仍无 independent evidence支持现实中存在 `ΛΩ`。
-
-所以最新 target 已经进一步压缩成两个问题：
-
-### Q1 — Nomic Content
-
-\[
-\boxed{
-What independent explanatory role requires a law whose outcome is AbsoluteOrientation?
+PLP_D:\ DerivedStructuralPrivilege
 }
 \]
 
-### Q2 — Anti-Haecceitist Chance Semantics
+与：
 
 \[
 \boxed{
-How should objective chance over automorphic local candidates be formalized without primitive token thisness?
+PLP_N:\ Nomological/ConstitutiveOpening.
 }
 \]
 
-如果 Q1 获得 positive answer，SAOL会从“coherent rescue architecture”升级成真正的 explanatory competitor。
+当前：
 
-如果 Q1 长期无答案，则 nomological route 很可能只是把 primitive privilege从 `fact` 移到 `law`。
+\[
+\boxed{
+PLP_D\text{ remains near-closed};
+\quad
+PLP_N\text{ is a serious live architecture}.}
+\]
+
+这没有证明 absolute-first-person thesis。
+
+它真正改变的是：
+
+- exact symmetry 不再构成 general no-go；
+- anti-haecceitism 不再构成 general no-go；
+- first-person semantics 不再只能由 structural dominance偷渡；
+- positive side现在有一个完整、可压力测试的 law + actuality model。
+
+最终 frontier 被压缩成：
+
+\[
+\boxed{
+Does\ complete\ actuality\ independently\ require\ an\ Opening\ relation?
+}
+\]
+
+如果 yes，NOM是目前最强实现。
+
+如果 no，NOM仍只是一个 coherent but unsupported organization of primitive centered actuality。
 
 ## 最新入口
 
-- [`../literature/psychophysical-subject-selection-laws.md`](../literature/psychophysical-subject-selection-laws.md)
+- [`../research/models/nomological-opening-model.md`](../research/models/nomological-opening-model.md)
+- [`../research/models/spontaneous-absolute-orientation-breaking.md`](../research/models/spontaneous-absolute-orientation-breaking.md)
+- [`../research/arguments/order-parameter-semantics-audit.md`](../research/arguments/order-parameter-semantics-audit.md)
 - [`../research/arguments/stochastic-absolute-orientation-law.md`](../research/arguments/stochastic-absolute-orientation-law.md)
+- [`../literature/halvorson-2026-symmetry-indeterminism.md`](../literature/halvorson-2026-symmetry-indeterminism.md)
+- [`../literature/psychophysical-subject-selection-laws.md`](../literature/psychophysical-subject-selection-laws.md)
 - [`frontier-2026-10-05-dominance-privilege-near-closure.md`](frontier-2026-10-05-dominance-privilege-near-closure.md)
-- [`../research/arguments/dominance-privilege-bridge-audit.md`](../research/arguments/dominance-privilege-bridge-audit.md)
-- [`../research/models/maximal-fusion-dominant-locus.md`](../research/models/maximal-fusion-dominant-locus.md)
