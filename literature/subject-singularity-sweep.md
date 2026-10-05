@@ -36,7 +36,7 @@ LAP:\quad FundamentalGlobalSubject(R,s)\Rightarrow\exists!E^*\;LocalAbsoluteLocu
 
 ---
 
-## 1. Priority cosmopsychism：当前最强 conditional SAP construction
+## 1. Priority cosmopsychism：strong conditional construction
 
 Nagasawa & Wager 的 priority cosmopsychism明确从 Schaffer-style priority monism 出发：cosmos 作为 whole 是 fundamental，parts derivative；再加入 panpsychistic foundation，即 cosmos as a whole is phenomenally propertied。
 
@@ -74,7 +74,71 @@ priority cosmopsychism是 **conditional construction**，不是从 subjectivity 
 
 ---
 
-## 2. Albahari：fundamental consciousness 仍可 aperspectival
+## 2. Christmann 2026：strong conditional pressure argument
+
+John Alton Christmann 2026直接针对 Yetter-Chappell-style nontheistic idealism。目标 theory 把 physical reality理解成一个 global phenomenal tapestry：all possible sensory perspectives由 co-consciousness、property-binding、spatial-temporal experiential relations织成一个 single global structure。
+
+Christmann给两条 pressure。
+
+### Thin Mind dilemma
+
+若整个 tapestry 的 experiences genuine 被 experienced，那么它需要一个 experiencer of global scope。
+
+若该 experiencer只是 grammatical / logical placeholder，它不能承担 genuine experiencing role；若它 genuine承担该 role，则它已经是一个 non-trivial globally unifying subject。
+
+所以：
+
+\[
+\boxed{
+GlobalExperientialUnity+GenuineExperiencer
+\Rightarrow
+GlobalSubjectPressure.
+}
+\]
+
+### Synchronic pattern problem
+
+整个 tapestry 的 co-consciousness pattern极其具体：哪些 phenomenal threads共同出现、哪些 properties bind、怎样形成一个 coherent world。
+
+Christmann认为 ordinary temporal laws没有自动解释这个 synchronic phenomenal pattern；brute pattern又失去 explanatory virtue。
+
+一个 unified experiential act则能把该 pattern解释为 one subject's intentional content。
+
+因此 abductively：
+
+\[
+\boxed{
+GlobalExperientialUnity+SpecificPattern
+\Rightarrow_{abductive}
+UnifiedGlobalAct
+\Rightarrow
+GlobalSubjectPressure.
+}
+\]
+
+这比 priority cosmopsychism更有 derivational value：subject不是直接写进初始 package，而是从 global experiential structure受到压力而出现。
+
+但它严格是 **conditional**：Whitehead/Lipman-style plural subjective actuality没有承诺 one global co-conscious tapestry。
+
+因此 Christmann并未证明：
+
+\[
+SubjectiveArity\Rightarrow OneGlobalSubject.
+\]
+
+他支持的是：
+
+\[
+\boxed{
+GlobalExperientialUnity\Rightarrow GlobalSubjectPressure.
+}
+\]
+
+专门笔记：[`christmann-2026-global-subject-pressure.md`](christmann-2026-global-subject-pressure.md)
+
+---
+
+## 3. Albahari：fundamental consciousness 仍可 aperspectival
 
 Albahari 2024 的 Perennial Idealism明确把 ground 描述成 pure, unconditioned, universal consciousness；同时其讨论允许该 ground 是 **aperspectival consciousness**，localized subjects 从其上产生。
 
@@ -106,7 +170,7 @@ ConsciousGround\Rightarrow SubjectGround.
 
 ---
 
-## 3. Miller：cosmic subject 与 local subjects 的 de-combination problem
+## 4. Miller：cosmic subject 与 local subjects 的 de-combination problem
 
 Miller 2018专门攻击 cosmopsychism把 combination problem倒过来之后是否真的更轻松。
 
@@ -137,7 +201,7 @@ TransparentCompositionOfLocalSubjects.
 
 ---
 
-## 4. IIT Exclusion：maximality 不能给 global singleton
+## 5. IIT Exclusion：maximality 不能给 global singleton
 
 IIT 4.0 的 Exclusion postulate最像一个形式化的 `winner rule`：重叠 candidate substrates 中，maximally irreducible 的 system成为 complex，较低的 overlapping candidates被排除。
 
@@ -169,7 +233,7 @@ OneGlobalSubject.
 
 ---
 
-## 5. Subject Maximality 与 Global Maximality 必须区分
+## 6. Subject Maximality 与 Global Maximality 必须区分
 
 因此要从 plural subjectivity得到 singularity，需要的不是：
 
@@ -199,79 +263,101 @@ GlobalSingleton
 
 ---
 
-## 6. Three distinct bridges now exposed
+## 7. SAP must now be factorized through global experiential unity
 
-本轮文献迫使 SAP 进一步拆分：
+本轮文献显示，简单写：
+
+\[
+SubjectiveArity\Rightarrow OneGlobalSubject
+\]
+
+太粗。
+
+更准确：
 
 \[
 \boxed{
-OneFundamentalWhole
-\xrightarrow{S_1}
-FundamentalConsciousness
-\xrightarrow{S_2}
-FundamentalSubject
-\xrightarrow{S_3}
-OneFundamentalSubject.
+SubjectiveArity
+\xrightarrow{G_1}
+GlobalExperientialUnity
+\xrightarrow{G_2}
+GlobalSubjectPressure.
 }
 \]
 
-### S1 — Whole → Consciousness
+其中：
 
-priority cosmopsychism / idealism提供 positive models，但 premise-heavy。
+### G1 — Subjective arity → global experiential unity
 
-### S2 — Consciousness → Subject
+Whitehead、Lipman、IIT-style multiple complexes都给 countermodel pressure。
 
-Albahari-style aperspectival universal consciousness直接表明该箭头不必成立。
-
-### S3 — Subject → One Subject
-
-priority monism可以把 `one` 放进 whole；但 subjecthood仍需额外 premise。IIT-style exclusion只给 local maximality，不给 global singleton。
-
-因此：
+当前：
 
 \[
-\boxed{SAP\text{ remains unproven}.}
+\boxed{G_1\text{ unproven}.}
+\]
+
+### G2 — global experiential unity → global subject pressure
+
+Christmann 2026提供 serious contemporary support。
+
+当前：
+
+\[
+\boxed{G_2\text{ conditionally supported}.}
+\]
+
+所以 SAP 的新 exact bottleneck已经从 `why one subject?` 缩成：
+
+\[
+\boxed{
+Why must all fundamental subjectivity form one global co-conscious structure?
+}
 \]
 
 ---
 
-## 7. Strongest current positive construction
+## 8. Strongest current positive routes
 
-目前最强可写成：
+目前有两条不同 positive route。
 
-\[
-P1:\quad\exists!W_f\;FundamentalConcreteWhole(W_f)
-\]
+### Construction route
 
 \[
-P2:\quad Consciousness(W_f)
+PriorityMonism
++
+CosmosConscious
++
+SubjectBearer
+\Rightarrow
+OneFundamentalCosmicSubject.
 \]
+
+优点：模型清楚。
+
+缺点：singularity / subjecthood 都 heavily premised。
+
+### Pressure route
 
 \[
-P3:\quad Consciousness(W_f)\Rightarrow Subject(W_f)
+GlobalExperientialUnity
++
+SpecificCoConsciousPattern
+\Rightarrow
+GlobalSubjectPressure.
 \]
 
-于是：
+优点：subject不是直接 stipulate，而是承担 bearer / pattern-grounding work。
 
-\[
-\exists!s_f\;FundamentalSubject(s_f).
-\]
+缺点：antecedent 已经是很强的 global phenomenal ontology。
 
-这就是 priority cosmopsychism-style SAP。
-
-但每一步都 substantive：
-
-- P1 = priority monism；
-- P2 = cosmopsychism / consciousness-first；
-- P3 = anti-aperspectival-consciousness premise。
-
-因此它不是从 Whitehead-style arity自然长出来的，而是一个额外 metaphysical package。
+因此目前 strongest SAP research 不再只有 cosmopsychism，还包括 **global experiential unity pressure**。
 
 ---
 
-## 8. Current verdict
+## 9. Current verdict
 
-当前理论空间至少三层：
+当前理论空间至少四层：
 
 \[
 \boxed{
@@ -279,32 +365,43 @@ P3:\quad Consciousness(W_f)\Rightarrow Subject(W_f)
 \quad|\quad
 \text{Plural subject-involving actuality}
 \quad|\quad
+\text{Globally unified experiential actuality}
+\quad|\quad
 \text{One-global-subject actuality}.
 }
 \]
 
 Whitehead-style route如果成功，只能把第一层推进到第二层。
 
-priority cosmopsychism说明第三层 coherent，但没有证明第二层必须坍缩到第三层。
+Christmann说明第三层会受到 serious global-subject pressure，但没有证明第二层必须坍缩到第三层。
 
-Albahari甚至说明 `one conscious ground` 与 `one subject` 也必须区分。
+priority cosmopsychism说明第四层 coherent，但其 construction premise-heavy。
+
+Albahari又说明 `one conscious ground` 与 `one subject` 必须区分。
 
 所以当前 singularity bottleneck可以记为：
 
 \[
 \boxed{
-SubjectiveArity\not\Rightarrow SubjectSingularity.
+SubjectiveArity\not\Rightarrow GlobalExperientialUnity.
 }
 \]
 
-暂称 **Subject-Arity / Singularity Gap**。
+而当前最重要的新 conditional positive result是：
+
+\[
+\boxed{
+GlobalExperientialUnity\Rightarrow GlobalSubjectPressure.
+}
+\]
 
 ---
 
-## 9. Sources
+## 10. Sources
 
 - Yujin Nagasawa & Khai Wager, “Panpsychism and Priority Cosmopsychism”, in *Panpsychism: Contemporary Perspectives*, OUP, 2016, pp. 113–129.
 - Philip Goff, “Cosmopsychism, Micropsychism and the Grounding Relation”, in *The Routledge Handbook of Panpsychism*, 2020.
+- John Alton Christmann, “Global subject pressure in nontheistic idealism”, *Religious Studies*, First View, 2026, DOI `10.1017/S0034412526101681`.
 - Gregory Miller, “Can Subjects Be Proper Parts of Subjects? The De-Combination Problem”, *Ratio* 31(2), 2018, 137–154, DOI `10.1111/rati.12166`.
 - Miri Albahari, “Is Universal Consciousness Fit for Ground?”, *Oxford Studies in Philosophy of Mind* 4, 2024, DOI `10.1093/9780198924159.003.0001`.
 - Larissa Albantakis et al., “Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms”, *PLOS Computational Biology* 19(10), 2023, DOI `10.1371/journal.pcbi.1011465`.
