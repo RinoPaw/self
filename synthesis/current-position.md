@@ -2,7 +2,7 @@
 
 > 状态：工作假说，不视为已证明结论。
 >
-> 最后更新：2026-10-05。本文件是当前权威摘要；历史过程保留在 `frontier-*`。最新 frontier：[`frontier-2026-10-05-stage-first-opening-universal-i.md`](frontier-2026-10-05-stage-first-opening-universal-i.md)。
+> 最后更新：2026-10-05。本文件是当前权威摘要；历史过程保留在 `frontier-*`。最新 frontier：[`frontier-2026-10-05-unitary-singularity.md`](frontier-2026-10-05-unitary-singularity.md)。
 
 ## 1. Core target
 
@@ -22,24 +22,24 @@
 
 \[
 \boxed{
-Perspective
+Consciousness
+\neq
+LocalFirstPersonOrganization
 \neq
 PhenomenalMineness
 \neq
-SubjectOwnership
-\neq
-StrongFPFact
+StrongIrreducibleFPFact
 \neq
 AbsolutePrivilege.}
 \]
 
-Sá Pereira 2026 进一步削弱从 ordinary egocentric phenomenology 直接推出 primitive for-me-ness 的快捷路线。
+这一区分现在不仅是概念卫生，而且成为避开 List quadrilemma 的关键。
 
 ---
 
 ## 2. Actuality–Arity Orthogonality 保持
 
-Bricker-style actuality说明：actuality可以同时是
+Bricker-style actuality允许：
 
 \[
 ABS+PRIM+PERSP+DESE
@@ -47,7 +47,7 @@ ABS+PRIM+PERSP+DESE
 
 ——absolute、primitive、perspectival，并支持 de se actuality knowledge——却没有 subject-level first-person argument slot。
 
-因此：
+所以：
 
 \[
 \boxed{ABS+PRIM+PERSP+DESE\not\Rightarrow FPAR.}
@@ -55,11 +55,11 @@ ABS+PRIM+PERSP+DESE
 
 Soames / Adams提供其他 subject-neutral actuality templates。
 
-所以 centered theory仍欠 first-person arity / privilege 的独立理由。
+因此 actuality 的厚度本身仍不推出 absolute-I。
 
 ---
 
-## 3. Global Route 仍 live，但不再是唯一正方路线
+## 3. Global Route 仍 live，但不是 selective Opening 的必经阶段
 
 Global Route：
 
@@ -75,9 +75,9 @@ GlobalSubject
 LocalPrivilege.
 \]
 
-当前状态：
+当前：
 
-- **WAAP**：Whitehead anti-vacuous actuality 给 serious positive model；Bricker/Soames/Adams仍是 live rivals。
+- **WAAP**：Whitehead anti-vacuous actuality给 serious positive model；Bricker/Soames/Adams仍是 live rivals。
 - **GEUP**：Roelofs continuism 与 Osborn/Goff closure 给 constructive/abductive support；无 general entailment。
 - **GSP**：Christmann 2026 给 `GEU -> GlobalSubjectPressure`。
 - **LOC**：one global subject仍不推出 one privileged local locus。
@@ -88,67 +88,51 @@ LocalPrivilege.
 \boxed{GlobalSubject\not\Rightarrow UniqueLocalAbsoluteLocus.}
 \]
 
-Global Route 仍重要，但 selective absolute-I 不必先通过 cosmic-subject route。
-
 ---
 
-## 4. Derived structural PLP 仍 near-closed
+## 4. Structural privilege route 仍 near-closed；nomological route仍 live
 
-Kadić-style dominance能给 exactly-one structural bearer prototype，但：
+Kadić-style dominance等路线只能给 structural winner：
 
 \[
 \boxed{UniqueStructuralDominance\not\Rightarrow AbsoluteFirstPersonPrivilege.}
 \]
 
-这仍是 **Dominance–Privilege Orthogonality**：
+即：
 
 \[
 \boxed{Selection\neq Privileging.}
 \]
 
-已审：causal centrality、informational dominance、phenomenal richness、self-manifestation maximum、ordinary FPR arguments，都没有独立跨过 privilege bridge。
+causal centrality、informational dominance、phenomenal richness、self-manifestation maximum、ordinary FPR arguments都没有 derivationally跨过 privilege bridge。
 
-因此：
-
-\[
-\boxed{DerivedStructuralPLP\text{ remains near-closed}.}
-\]
-
----
-
-## 5. Nomological reopening 保持
-
-psychophysical-law literature提供四层：
+但 psychophysical-law literature 给一个不同 architecture：
 
 \[
-L_Q:\ PhysicalState\to PhenomenalQuality
+PhysicalState\to PhenomenalQuality,
 \]
 
 \[
-L_S:\ PhysicalCandidates\to SubjectBearers
+PhysicalCandidates\to SubjectBearers,
 \]
 
 \[
-L_D:\ CandidateMentalOutcomes\xrightarrow{chance}OneActualMentalOutcome
+CandidateMentalOutcomes\xrightarrow{chance}OneActualMentalOutcome.
 \]
 
-以及项目 target：
+因此项目可测试：
 
 \[
 L_\Omega:\ GenuineLocalLoci\to OneAbsoluteOrientation.
 \]
 
-Schmid 2026 subject harmony、Albert–Loewer single-mind、Bitbol identification、Halvorson-style symmetry breaking说明这一 law-family 是 coherent research architecture。
+Schmid subject harmony、Albert–Loewer single-mind、Bitbol identification、Halvorson-style symmetry breaking说明这种 law-form coherent-looking。
 
-但：
-
-\[
-\boxed{\text{law form does not itself justify absolute-I content}.}
-\]
+但 law-form本身不证明 absolute-I content。
 
 ---
 
-## 6. Opening semantics and factorization discipline
+## 5. Opening semantics：local I–NOW + Stage-First
 
 Nagai 给 strongest semantic template：
 
@@ -156,81 +140,31 @@ Nagai 给 strongest semantic template：
 WorldActuality=I!=NOW=Opening.
 \]
 
-UIWO曾写：
+UIWO 曾写三元：
 
 \[
 O(w,t,s).
 \]
 
-但现已加入 **Factorization Test**。
-
-若：
+现已加入 **Factorization Test**：若它只是
 
 \[
-O(w,t,s)
-\equiv
 Actual(w)\land Present(t)\land AbsoluteI(s)\land Compat(w,t,s),
 \]
 
-则 ternary `Opening` 只是三个 unary privileges 的打包，不能凭 primitive-count notation 获得 explanatory credit。
+则只是打包，没有 unification credit。
 
-真正的 unification必须给：
+真正 Opening 必须提供 non-factorizable cross-domain constraint。
 
-\[
-\boxed{\text{non-factorizable cross-domain constraints}.}
-\]
+consciousness-driven collapse给 local prototype：同一 psychophysical dynamics 可以 joint-determine physical definiteness 与 subject-at-time conscious definiteness。
 
-consciousness-driven collapse提供 local prototype：同一 psychophysical dynamics可以 joint-determine physical definiteness 与 subject-at-time conscious definiteness。
-
----
-
-## 7. Absolute NOW 默认改为 local I–NOW
-
-Conitzer 2020 的 αA-theory把核心 distinguished object写成：
+同时，Conitzer 2020 的 personalized A-theory说明核心可直接写成：
 
 \[
 \boxed{\text{one distinguished living person-stage}.}
 \]
 
-所以项目默认不再要求：
-
-\[
-AbsoluteNOW=UniverseWidePresentSlice.
-\]
-
-而采用：
-
-\[
-\boxed{AbsoluteNOW=TimeAspect(\sigma^*)}
-\]
-
-其中 \(\sigma^*\) 是 privileged local conscious stage。
-
-这显著降低 special-relativity / preferred-foliation burden；global present只作为 optional stronger add-on。
-
----
-
-## 8. Candidate Ontology Problem
-
-Schwitzgebel & Nelson 2026 对 crisp whole-person candidate set 施压：subject count / individuation可能 graded、vague、overlapping、non-whole-number-like。
-
-因此不能默认：
-
-\[
-S(R)=\{S_1,\ldots,S_N\}.
-\]
-
-必须先处理：
-
-\[
-\boxed{CandidateOntology.}
-\]
-
-这推动项目转向 **Stage-First Opening**。
-
----
-
-## 9. Stage-First Opening 成为当前 preferred selective formulation
+项目默认因此采用 local I–NOW，而不要求 universe-wide present hypersurface。
 
 令：
 
@@ -238,287 +172,322 @@ S(R)=\{S_1,\ldots,S_N\}.
 \Sigma(R)=\{\sigma:\sigma\text{ is a conscious person-stage / experiential event}\}.
 \]
 
-定义：
+Stage-First Opening：
 
 \[
 \boxed{O(w,\sigma^*)}.
 \]
 
-Stage-first 的优点：
-
-1. 不先要求 persistent subject count crisp；
-2. NOW内置于 localized stage；
-3. 与 psychophysical collapse 的 total-conscious-state-at-a-time unit相容；
-4. opening relation可作为 rooted structural completion，不先假定 persistent token essence。
-
-它只是 **COP reduction**：若 stages本身边界 vague，问题仍在。
+这降低 persistent-subject counting 与 relativity burden。
 
 ---
 
-## 10. Stage selection 与 path selection 分离
+## 6. Presence-Simpliciter fork
 
-一个 current opening：
+Hare / Conitzer 提供当前 strongest conditional bridge：
 
 \[
-Open(\sigma_t)
+PresenceSimpliciter(E)
+\Rightarrow
+\text{pressure toward an }I\text{-}NOW\ person\text{-}stage.
 \]
 
-不自动决定 future opening。
+Skow-style neutral/B-theory route可拒绝 `presence simpliciter`，改用 relational temporal availability。
 
-定义 **Path Selection Problem (PSP)**：
+所以：
 
 \[
 \boxed{
-Open(\sigma_t)+C^+(\sigma_t)
-\to
-\exists!\sigma'\;Succ_O(\sigma_t,\sigma').}
+RejectPresenceSimpliciter
+\quad|\quad
+AcceptPresenceSimpliciter+I\text{-}NOWPressure.}
 \]
 
-Conitzer 自己列出：
+此前 Effingham multiple-presents / Lipman fragmentalism说明：
 
-- single-individual I–NOW path；
-- reincarnation/jump；
-- rapidly-changing individual；
+\[
+PresenceSimpliciter\not\Rightarrow ExactlyOnePresence.
+\]
 
-所以 current I–NOW 不蕴含 movement law。
+但最新 List-based result 改写了 singularity burden。
 
 ---
 
-## 11. PSP 获得 Bader/Moorfoot stochastic-grounding solution schema
+## 7. New core result：Unitary Singularity Lemma
 
-Bader 2020 在 symmetric fission 中允许 lower-level facts **stochastically ground** exactly-one persistence outcome。
-
-抽象到 Opening：
+Christian List 的 quadrilemma：
 
 \[
-G_t
-\overset{stoch}{\ground}
-Succ_O(\sigma_t,\sigma_{t+1}).
+FirstPersonRealism
++
+NonSolipsism
++
+NonFragmentation
++
+OneWorld
 \]
 
-Moorfoot 2026 对 indeterministic building coherence给更新辩护。
+mutually inconsistent。
+
+真正驱动它的是 **First-Person Non-Compossibility**：distinct irreducible first-person facts for distinct centers不能在同一 perspective 下 jointly obtain。
+
+反向使用：
+
+\[
+OneWorld+NonFragmentation+FPNonCompossibility
+\Rightarrow
+AtMostOneIrreducibleFPOpening.
+\]
+
+若另有：
+
+\[
+AtLeastOneIrreducibleOpening,
+\]
+
+则：
+
+\[
+\boxed{
+AtLeastOne
++
+OneWorld
++
+NonFragmentation
++
+FPNonCompossibility
+\Rightarrow
+ExactlyOneIrreducibleOpening.
+}
+\]
+
+这就是 **Unitary Singularity Lemma (USL)**。
 
 因此：
+
+\[
+\boxed{\text{exact-one no longer needs to be independently primitive}.}
+\]
+
+旧 LNP 整体仍不是无条件 theorem，但其 singularity 部分已经获得 conditional derivation。
+
+---
+
+## 8. Two-Tier First-Person Architecture 现在有明确逻辑用途
+
+List 的 FPR 是 universal：
+
+\[
+\forall S\,[Conscious(S)\to IrreducibleFPFact(S)].
+\]
+
+项目不需要它。
+
+可以保持：
+
+\[
+\forall S\;Conscious(S),
+\]
+
+\[
+\forall S\;LocalFPOrganization(S),
+\]
+
+只在 absolute layer承认：
+
+\[
+\exists!\sigma^*\;IrreducibleAbsoluteFPFact(\sigma^*).
+\]
+
+所以：
+
+\[
+\boxed{
+GenuineOtherMinds
+\neq
+PluralIrreducibleSimpliciterCenters.}
+\]
+
+这允许同时保留：
+
+\[
+NonSolipsism+OneWorld+NonFragmentation
+\]
+
+而无需把其他 conscious subjects删除或 zombie 化。
+
+普通 first-person data / representation / mineness可以 genuine，但未必都对应 List 意义上的 irreducible first-person facts。
+
+---
+
+## 9. Fragmentalism 的地位：live，但 plurality 不是免费
+
+fragmentalism 可以保：
+
+\[
+ManyIrreducibleFPCenters+OneWorld
+\]
+
+代价是拒绝 world-level Non-Fragmentation。
+
+当前 cost audit：
+
+- List：fragmented world显著修改 metaphysics / logic / scientific modelling中的标准 world/compossibility概念；
+- Merlo 2023：unstructured fragmentalism面临 Tensed Belief Explosion；
+- Lipman 2026：成熟修复需要 internal/external logic、new connectives、standpoint-switching inference、immersive thought、target semantics；
+- Ewing 2026：fragmentation对 mind-independent passage不自动占优；
+- relativity audit：invariant structure说明 fragmentation并非 physics 强制结果。
+
+所以：
+
+\[
+\boxed{
+PluralIrreducibleCenters
+\Rightarrow
+FragmentationMachinery\;or\;ManyWorlds.
+}
+\]
+
+Opening Monism 当前的 legitimate abductive benefit 是：
+
+\[
+\boxed{
+OneWorld
++
+GlobalCompossibility
++
+StandardGlobalLogic
+}
+\]
+
+而非裸的 “one is simpler than many”。
+
+但 fragmentalist可以接受这些成本，因此没有 deductive refutation。
+
+---
+
+## 10. Universal-I 现在成为 unitary ontology 内最强 rival
+
+USL 排除的是多个 **distinct irreducible centers** 在 one coherent world 中同时 obtain。
+
+它不排除：
+
+\[
+\exists!I_U\;\forall e\;ExperienceOf(e,I_U).
+\]
+
+所以在 `OneWorld + NonFragmentation + some first-person actuality` 条件下，最重要的内部竞争变成：
+
+\[
+\boxed{
+SelectiveOpening
+\quad|\quad
+UniversalI.
+}
+\]
+
+### SelectiveOpening
+
+one local person-stage/path bears absolute opening；other subjects genuinely conscious，但普通 local FP 不全部升级为 separate simpliciter centers。
+
+### Universal-I
+
+all experiences ultimately belong to one numerical first-person center；local organisms / access islands不对应 metaphysically distinct I's。
+
+Universal-I 自己仍有两类成本：
+
+- substantive universal subject版本面对 subject-unity / co-consciousness pressure；
+- universal `Mine` without one bearer版本面对 Mine-without-Owner / singular semantics gap。
+
+因此最新最深 locality question 是：
+
+\[
+\boxed{
+Why\ is\ the\ one\ irreducible\ first\!\!\text{-}\!person\ center\ local/selective\ rather\ than\ universal?
+}
+\]
+
+---
+
+## 11. Stage path 仍是独立 dynamics
+
+USL 只给 mutually exclusive current openings 的 singularity。
+
+它不决定：
+
+\[
+\sigma_t\to\sigma_{t+1}.
+\]
+
+定义 PSP：
+
+\[
+Open(\sigma_t)+C^+(\sigma_t)
+\to
+\exists!\sigma'\;Succ_O(\sigma_t,\sigma').
+\]
+
+Bader 2020 / Moorfoot 2026 提供当前 best schema：lower-level facts可 **stochastically ground** exactly-one continuation outcome。
+
+所以：
 
 \[
 \boxed{
 \Pi_O=\text{a stochastically grounded rooted path through conscious stages}.}
 \]
 
-重要结果：
-
-\[
-\boxed{
-ExactChancyOutcome
-\text{ can be derivative rather than fundamental}.}
-\]
-
-这解决/缓和 deterministic fission tie-breaker 与 every-outcome-is-fundamental-brute 的问题。
-
-但它只回答：
-
-\[
-\text{which branch, given a one-branch ontology?}
-\]
-
-没有回答：
-
-\[
-\boxed{\text{why exactly one branch/opening at all?}}
-\]
+这缓和 exact fission tie-breaker，但不解决 At-Least-One / locality。
 
 ---
 
-## 12. Universal-I 成为 strongest conceptual rival
+## 12. Updated theory map
 
-Builes 2026、Zuboff 1990、Fasching 2016形成 mature competitor：
+当前四个核心 competitors：
 
-\[
-\boxed{\forall e\,[Experience(e)\to Mine(e)]}
-\]
+### M0 — Neutral Relationalism
 
-或 substantive version：
+无 irreducible simpliciter first-person actuality；ordinary self-location / representation only。
 
-\[
-\boxed{\exists!I_U\;\forall e\;ExperienceOf(e,I_U).}
-\]
+### M1 — Fragmented Pluralism
 
-local organisms / access streams可以很多：
+多个 irreducible temporal/subjective centers；通过 fragmentalism 或 many-centred worlds保留 plurality。
 
-\[
-ManyOrganisms+ManyAccessIslands+OneUniversalI.
-\]
+### M2 — Universal-I
 
-因此研究顺序必须改：
+一个 irreducible I，覆盖全部/广泛 experiences；无 local winner。
 
-\[
-\boxed{\text{Why only one local locus? precedes Why this local locus?}}
-\]
+### M3 — Selective Opening
 
-定义 **Localization Necessity Principle (LNP)**：
-
-\[
-\boxed{
-FirstPersonActuality(R)
-\Rightarrow
-ExactlyOneLocalRealization(R).}
-\]
-
-当前：
-
-\[
-\boxed{LNP\text{ unproven}.}
-\]
-
----
-
-## 13. Universal-I 也不是免费方案
-
-Universalism有两个主要 horns。
-
-### U-S — one substantive universal subject
-
-\[
-\exists!S_U\;\forall e\;ExperienceOf(e,S_U).
-\]
-
-压力：Bayne/Dainton-style subject unity。若 same subject要求 significant phenomenal/co-conscious unity，跨全部 mutually disconnected experiential fields 的 one subject成本很高。
-
-### U-M — universal mine-status without one bearer
-
-\[
-\forall e\;Mine(e)
-\]
-
-without one substantive owner。
-
-压力：**Mine-without-Owner Gap**：`mine` 如何保持 singular first-person content？
-
-所以：
-
-\[
-\boxed{Universalism\text{ dissolves selection but inherits subject-ontology/semantics costs}.}
-\]
-
----
-
-## 14. Immediacy–Ownership Gap
-
-Universalist常见链：
-
-\[
-Experience
-\to
-Immediacy/ForMeNess
-\to
-Mine
-\to
-UniversalI.
-\]
-
-Guillot要求区分：
-
-\[
-ForMeNess\neq MeNess\neq Mineness.
-\]
-
-Nida-Rümelin / Schlicht给 subject-bearing readings of subjective character/mineness。
+一个 irreducible local I–NOW stage/path承担 absolute opening。
 
 因此：
 
 \[
-\boxed{UniversalImmediacy\not\Rightarrow UniversalOwnership.}
-\]
-
-Universal-I 还欠 Subject-Identity Bridge：为什么每个 experience 中的 first-person index 是 numerically one and the same？
-
-Sá Pereira 2026又削弱第一箭头的 strong phenomenal reading：primitive for-me-ness本身不是免费 phenomenological datum。
-
----
-
-## 15. Current theory map
-
-最新 map不再是一条线：
-
-\[
 \boxed{
-FirstPersonReality
-\to
-\begin{cases}
-PluralCentered\\
-UniversalI\\
-SelectiveOpening
-\end{cases}}
+NeutralRelationalism
+\;|\;
+FragmentedPluralism
+\;|\;
+UniversalI
+\;|\;
+SelectiveOpening.}
 \]
 
-### PluralCentered
-
-List / fragmentalism / standpoint pluralism：多个 real centered standpoints。
-
-### UniversalI
-
-Zuboff / Fasching / Builes：first-person reality universalized，不 local-select winner。
-
-### SelectiveOpening
-
-当前 strongest architecture：
+若先接受：
 
 \[
-\boxed{
-CandidateOntology
-\to
-LNP
-\to
-NomologicalStageOpening
-\to
-PSP
-\to
-StochasticallyGroundedPath.}
+OneWorld+NonFragmentation+AtLeastOneIrreducibleFP,
 \]
 
-Global Route可为 first-person/global-consciousness背景提供资源，但不是 SelectiveOpening 的必经阶段。
-
----
-
-## 16. Exact fission is now the cleanest stress test
-
-当前 privileged stage：
+则 M1 被排到 unitary package 外部，内部主要剩：
 
 \[
-\sigma_0
-\]
-
-exact fission：
-
-\[
-\sigma_0\to\sigma_L+\sigma_R.
-\]
-
-### Selective Opening
-
-\[
-Open(\sigma_L)\oplus Open(\sigma_R).
-\]
-
-Bader-style stochastic grounding可解释 one-path realization。
-
-### Universal-I
-
-\[
-Mine(\sigma_L)\land Mine(\sigma_R).
-\]
-
-无需 branch winner。
-
-所以 fission现在把最深分歧直接暴露：
-
-\[
-\boxed{SelectiveContinuation\quad vs\quad UniversalContinuation.}
+\boxed{UniversalI\;|\;SelectiveOpening.}
 \]
 
 ---
 
-## 17. Current epistemic verdict
+## 13. Epistemic verdict 不变
 
 若 ordinary evidence 对 orientation permutations invariant：
 
@@ -532,64 +501,76 @@ P(e|H_i)=P(e|H_j),
 BF_{ij}=1.
 \]
 
-ordinary first-person certainty不能 discriminatively支持某 local absolute winner。
+ordinary first-person certainty不能 discriminatively确认某 local absolute winner。
 
-status-sensitive acquaintance可以解释 absolute bearer若存在如何知道其地位，但还没有提供 public / likelihood-changing evidence。
-
-这对 Universal-I vs SelectiveOpening 的 comparison 同样适用。
+status-sensitive acquaintance可以解释 absolute bearer若存在如何知道其 status，但还没有 public / likelihood-changing evidence。
 
 ---
 
-## 18. Strongest current judgement
+## 14. Strongest current judgement
 
-Absolute-local thesis仍 coherent，而且 positive architecture已比早期版本成熟很多：
-
-\[
-\boxed{
-NomologicalStageOpening
-+
-StochasticallyGroundedPath
-}
-\]
-
-它已避免/缓和：
-
-- pre-individuated whole-person candidate set；
-- universe-wide NOW requirement；
-- deterministic fission selector；
-- every exact path outcome都是 fundamental brute fact。
-
-但目前最深的 unresolved question已经提前到：
-
-\[
-\boxed{\text{Why is first-person actuality selective/local at all?}}
-\]
-
-在 LNP 未建立前，`why this one?` 还不是最先该回答的问题。
-
-因此最新总裁决：
+这轮对正方有一个真实升级：
 
 \[
 \boxed{
-\text{Absolute-first-person thesis remains coherent and increasingly modelable, but Localization Necessity is unproven}.}
+\text{Opening singularity can be derived conditionally from unitary reality}.}
 \]
 
-weaker / non-selective rivals仍保留 provisional abductive advantage，因为 SelectiveOpening还需支付 local exclusion / exact-one content。
+因此当前最深 burden 已从：
+
+\[
+Why\ exactly\ one?
+\]
+
+收缩为三个 substantive gates：
+
+### Gate A — At-Least-One
+
+\[
+CompleteActuality\stackrel{?}{\Rightarrow}\exists\sigma\;IrreducibleOpening(\sigma).
+\]
+
+候选：Presence simpliciter / Nagai Opening / NOM / actuality-arity routes。
+
+### Gate B — Unitary Reality
+
+\[
+OneWorld+NonFragmentation\ ?
+\]
+
+对手：fragmentalism / many-centred worlds。
+
+### Gate C — Locality
+
+\[
+OneIrreducibleCenter\stackrel{?}{\Rightarrow}OneLocalStage/Path
+\]
+
+对手：Universal-I。
+
+Singularity本身在 A+B+FP non-compossibility 下已条件导出；diachronic path属于后续 dynamics。
+
+所以最新总裁决：
+
+\[
+\boxed{
+\text{Absolute-first-person thesis remains unproven, but exact-one is no longer an independent brute burden under unitary reality}.}
+\]
+
+这使 SelectiveOpening 相对 fragmentalist plurality 获得一个更明确的正方结构，同时仍未击败 Neutral Relationalism 与 Universal-I。
 
 ---
 
 ## 最新入口
 
+- [`frontier-2026-10-05-unitary-singularity.md`](frontier-2026-10-05-unitary-singularity.md)
+- [`../literature/list-2025-quadrilemma-unitary-opening.md`](../literature/list-2025-quadrilemma-unitary-opening.md)
+- [`../research/arguments/unitary-singularity-lemma.md`](../research/arguments/unitary-singularity-lemma.md)
+- [`../literature/fragmentalism-cost-audit.md`](../literature/fragmentalism-cost-audit.md)
+- [`frontier-2026-10-05-local-opening-presence-monism.md`](frontier-2026-10-05-local-opening-presence-monism.md)
 - [`frontier-2026-10-05-stage-first-opening-universal-i.md`](frontier-2026-10-05-stage-first-opening-universal-i.md)
 - [`../research/models/stage-first-opening.md`](../research/models/stage-first-opening.md)
 - [`../research/arguments/stochastic-grounded-opening-path.md`](../research/arguments/stochastic-grounded-opening-path.md)
-- [`../literature/bader-moorfoot-indeterministic-building.md`](../literature/bader-moorfoot-indeterministic-building.md)
-- [`../research/arguments/presence-localization-universalism-fork.md`](../research/arguments/presence-localization-universalism-fork.md)
 - [`../research/arguments/universal-i-subject-unity-fork.md`](../research/arguments/universal-i-subject-unity-fork.md)
-- [`../research/arguments/immediacy-ownership-gap.md`](../research/arguments/immediacy-ownership-gap.md)
-- [`../literature/builes-2026-four-views-universalism.md`](../literature/builes-2026-four-views-universalism.md)
-- [`../literature/zuboff-fasching-universal-i.md`](../literature/zuboff-fasching-universal-i.md)
-- [`../literature/sa-pereira-2026-for-me-ness.md`](../literature/sa-pereira-2026-for-me-ness.md)
-- [`../literature/schwitzgebel-nelson-2026-subject-counting.md`](../literature/schwitzgebel-nelson-2026-subject-counting.md)
+- [`../research/arguments/presence-localization-universalism-fork.md`](../research/arguments/presence-localization-universalism-fork.md)
 - [`../research/models/nomological-opening-model.md`](../research/models/nomological-opening-model.md)
-- [`../research/models/unified-i-now-world-opening.md`](../research/models/unified-i-now-world-opening.md)
