@@ -1,51 +1,47 @@
 # Maximal-Fusion / Dominant-Locus Model
 
-> 状态：2026-10-05 constructive stress-test model。
+> 状态：2026-10-05 constructive stress-test model；已纳入 Mørch overlap audit 与 DPB audit。
 >
-> 目标：把本轮两条最具体正方资源拼成一个完整模型：global closure 由 subject universalism / continuism 提供，local selection 由 Kadić-style dominant role 提供；然后检查它是否真正得到 absolute first-person。
+> 目标：把 global closure、global subject/field、local structural dominance 与 absolute privilege 放进同一模型，并精确记录每一层的额外承诺。
 
 ## 0. Architecture
 
-模型分两层：
+当前模型：
 
 \[
 \boxed{
 ManyLocalSubjects
-\xrightarrow{GlobalClosure}
+\xrightarrow{GCP^*}
 OneMaximalGlobalSubject/Field
-\xrightarrow{DominantLocalization}
-OneDistinguishedLocalLocus.
+\xrightarrow{D}
+OneDominantLocalLocus
+\xrightarrow{DPB}
+AbsoluteFirstPerson.
 }
 \]
 
-若这两步都成功，至少得到：
+其中：
 
-\[
-\exists!G\;MaximalGlobalSubject(G)
-\]
+- \(GCP^*\)：revised Global Closure Package；
+- \(D\)：Kadić-style dominant-role mechanism；
+- \(DPB\)：Dominance–Privilege Bridge。
 
-以及：
-
-\[
-\exists!E_D\;DominantLocalLocus(E_D,G).
-\]
-
-项目最终还需要：
-
-\[
-AbsoluteOrientation(E_D).
-\]
-
-最后这个箭头不能省略。
+前三层可以分别建模；最后一层仍是当前 exact bottleneck。
 
 ---
 
-## 1. Global layer
+## 1. Global layer — revised GCP
 
-采用 Global Closure Package：
+旧版：
 
 \[
 GCP=SU+MF+FC+EIP.
+\]
+
+Mørch overlap audit以后必须加入 subject ontology：
+
+\[
+\boxed{GCP^*=SU+MF+FC+EIP+SO.}
 \]
 
 ### SU — Subject Universalism
@@ -54,30 +50,50 @@ GCP=SU+MF+FC+EIP.
 
 ### MF — Maximal Fusion
 
-所有 fundamental/local subjects 的 total fusion \(G\) 唯一。
+所有 relevant subjects 的 total fusion \(G\) 唯一。
 
 ### FC — Field Continuity
 
-Roelofs-style：phenomenal unity在 fundamental level across ordinary informational boundaries延续。
+Roelofs-style：phenomenal unity可跨 ordinary informational boundaries延续。
 
 ### EIP — Experience Inclusion
 
-local experiential contents进入 / participate in global phenomenal field。
+local experiential contents进入 / participate in global phenomenal architecture。
 
-于是：
+### SO — Subject Ontology
+
+必须选择：
+
+\[
+SO\in\{ExclusiveBundle,OverlapTolerant\}.
+\]
+
+Mørch 给：
+
+\[
+DeflationaryBundle
++
+ExclusiveBoundedness
++
+SingleUnityType
+\Rightarrow
+NoPhenomenalOverlap.
+\]
+
+因此 literal sharing version of GCP 必须走 overlap-tolerant / substantive / non-exclusive subject ontology，或重写成 non-overlap transfer/grounding architecture。
+
+在 overlap-tolerant branch 上，目标仍是：
 
 \[
 \boxed{
 GEU(G)\land MaximalGlobalSubject(G).}
 \]
 
-这是模型的 C2/C3 basis。
-
 ---
 
 ## 2. Local dominance layer
 
-令 ordinary local streams 为：
+令 ordinary local streams：
 
 \[
 E_1,E_2,\ldots,E_n.
@@ -89,31 +105,25 @@ E_1,E_2,\ldots,E_n.
 D(E_i;\mathcal G).
 \]
 
-希望满足：
+希望：
 
 \[
 \boxed{\exists!E_D\;D(E_D;\mathcal G).}
 \]
 
-Kadić-style inspiration：dominant role不固定在一个 pre-labelled bearer，而由 relational position / hierarchy决定；role原则上可以随 structure变化而移动。
+Kadić-style inspiration：dominant role不固定在 pre-labelled bearer，而由 relational position / hierarchy决定；role原则上可随 structure变化。
 
-因此该模型避免最粗糙的：
-
-\[
-Pointer(E_i)=Absolute
-\]
-
-式 static selector。
+这比 static pointer干净，但仍需解释 D 的 exact selection law。
 
 ---
 
 ## 3. Candidate meanings of Dominance
 
-必须区分至少四种 dominance。
+必须区分：
 
 ### D0 — Graph-theoretic dominance
 
-unique central / bottleneck / root / sink / controller in relational graph。
+unique central / bottleneck / root / sink / controller。
 
 ### D1 — Informational dominance
 
@@ -123,23 +133,25 @@ unique central / bottleneck / root / sink / controller in relational graph。
 
 某 local stream是 global phenomenal field最完整 / deepest local realization。
 
-### D3 — Absolute first-person dominance
+### D3 — Self-manifestational dominance
+
+某 local stream是 global actuality 的 unique maximal local self-manifestation。
+
+### D4 — Absolute first-person dominance
 
 某 local stream是 actuality 的 unique simpliciter first-person locus。
 
-模型真正需要：
+真正需要的是：
 
 \[
-D0/D1/D2\Rightarrow D3.
+D0/D1/D2/D3\Rightarrow D4.
 \]
 
-而这正是最危险的 bridge。
+而不是把 D4 偷塞进 `dominance` 的定义。
 
 ---
 
 ## 4. Canonicality test
-
-若 dominance来自 structure，必须满足 canonicity。
 
 令：
 
@@ -149,13 +161,13 @@ Aut(\mathcal G)
 
 为 relevant global structure 的 automorphism group。
 
-若存在：
+若：
 
 \[
 \phi(E_i)=E_j,\quad i\neq j,
 \]
 
-且 \(D\) 只依赖 invariant structural facts，则：
+且 D 只依赖 invariant structural facts，则：
 
 \[
 D(E_i;\mathcal G)
@@ -163,25 +175,19 @@ D(E_i;\mathcal G)
 D(E_j;\mathcal G).
 \]
 
-因此 unique dominance不可能。
-
 所以：
 
 \[
-\boxed{
-ExactSymmetry\Rightarrow NoCanonicalUniqueDominantLocus.
-}
+\boxed{ExactSymmetry\Rightarrow NoCanonicalUniqueDominantLocus.}
 \]
 
-这使 perfect duplication直接成为模型的 hard test。
+若现实 structure实际破坏 symmetry，D 可以 principledly选出 unique bearer；但这只解决 selection。
 
 ---
 
 ## 5. Near-symmetry / robustness test
 
-现实通常不是 exact automorphic duplicate，但 near-symmetry仍会产生解释压力。
-
-若两个 local streams \(E_i,E_j\) 在所有 relevant structural measures上极接近：
+若：
 
 \[
 Profile(E_i)\approx Profile(E_j),
@@ -193,14 +199,15 @@ Profile(E_i)\approx Profile(E_j),
 D(E_i)=1,\quad D(E_j)=0,
 \]
 
-则理论必须说明 boundary / threshold 来自哪里。
+规则必须说明 threshold / ranking 来源。
 
-一个 acceptable rule需要：
+acceptable D 需要：
 
 - mathematically well-defined；
 - physically motivated；
 - robust under irrelevant perturbation；
-- 不为得到当前 subject而量身定制。
+- non-ad-hoc；
+- 不为当前 subject量身定制。
 
 否则 dominance重新变成 disguised selector。
 
@@ -208,117 +215,137 @@ D(E_i)=1,\quad D(E_j)=0,
 
 ## 6. Dynamic continuity test
 
-Kadić-style dominance可以移动。
-
-若：
+Kadić-style dominance可以移动：
 
 \[
-E_D(t_1)\neq E_D(t_2),
+E_D(t_1)\neq E_D(t_2).
 \]
 
-模型必须区分：
+必须区分：
 
 1. dominant phenomenal bearer changes；
 2. absolute first-person locus changes。
 
 即使前者自然，也不推出后者。
 
-若模型把二者 identity：
+若 DPB使二者绑定：
 
 \[
 AbsoluteLocus(t)=DominantBearer(t),
 \]
 
-则必须解释：
+则模型承诺：
 
-- transition continuity；
-- whether absolute first person jumps；
-- memory / anticipation relations；
-- why structural role-switch metaphysically carries absolute orientation。
-
-这会重新打开 trajectory / transfer problems，只是换成 structure-driven 版本。
+- role switch可触发 absolute-locus switch；
+- transition需要 continuity / identity theory；
+- memory / anticipation并不自动保存 absolute orientation；
+- structure-driven transfer成为可测试的 metaphysical consequence。
 
 ---
 
-## 7. Dominance-to-Privilege Gap
+## 7. Dominance–Privilege Orthogonality
 
-即使模型成功得到：
+即使：
 
 \[
 \exists!E_D\;StructurallyDominant(E_D),
 \]
 
-也只说明：
+我们只得到：
 
 \[
-\boxed{UniqueStructuralRole.}
+UniqueStructuralRole.
 \]
 
 项目需要：
 
 \[
-\boxed{UniqueAbsoluteFirstPersonPrivilege.}
+UniqueAbsoluteFirstPersonPrivilege.
 \]
 
-而已有结构性纪律要求：
+DPB audit得到：
 
 \[
 \boxed{
-Uniqueness\not\Rightarrow Privilege.
-}
-\]
-
-所以必须新增：
-
-\[
-DPB:\quad Dominant(E_D)\Rightarrow AbsoluteOrientation(E_D).
-\]
-
-暂称 **Dominance–Privilege Bridge**。
-
-DPB 若只是定义，则违反 Completeness Non-Bootstrapping / privilege bootstrapping discipline。
-
----
-
-## 8. Hybrid model result
-
-完整 package：
-
-\[
-MFDL=GCP+D+DPB.
-\]
-
-其中：
-
-- GCP 可以由 Osborn/Roelofs literature部分支持；
-- D 有 Kadić-style mechanism template；
-- DPB 当前没有 independent support。
-
-所以：
-
-\[
-\boxed{
-GCP+D
-\Rightarrow
-OneGlobalSubject/Field
-+
-OneStructurallyDominantLocalLocus
-}
-\]
-
-但：
-
-\[
-\boxed{
-GCP+D
+UniqueStructuralDominance
 \not\Rightarrow
-AbsoluteOrientation.
+AbsoluteFirstPersonPrivilege.
 }
 \]
 
+暂称 **Dominance–Privilege Orthogonality (DPO)**。
+
+原因不是 dominance无意义，而是：
+
+\[
+\boxed{Selection\neq Privileging.}
+\]
+
+structural uniqueness回答 `which locus?`；first-person metaphysical significance仍需 bridge。
+
 ---
 
-## 9. Comparison with Role-First Ω
+## 8. Kadić's internal “me” does not close DPB
+
+DMP 明确区分：
+
+- metaphysical principle：哪个 microsubject变 dominant；
+- epistemic principle：dominant subject从内部知道 `it is this one — me!`。
+
+所以即使：
+
+\[
+FirstPersonCertainty(E_D),
+\]
+
+仍没有：
+
+\[
+Ground(AbsoluteOrientation(E_D)).
+\]
+
+这与项目现有 evidence / entitlement distinction一致。
+
+---
+
+## 9. The only serious positive DPB opening: D3
+
+D0/D1/D2 都面临明显 relevance gap。
+
+目前唯一值得继续的是把 old self-manifesting-actuality route 接到 dominance：
+
+\[
+D3(E_D)=UniqueMaximalSelfManifestation(E_D;G).
+\]
+
+完整链：
+
+\[
+GlobalActuality
+\to
+GlobalSelfManifestation
+\to
+LocalManifestationProfile
+\to
+\exists!E_D\;MaxManifest(E_D)
+\to ?
+AbsoluteOrientation(E_D).
+\]
+
+这个 route 比 causal centrality更贴题，因为 `self-manifestation` 已经与 actuality / ipseity直接相关。
+
+但仍有四个待证点：
+
+1. global actuality necessarily self-manifests；
+2. self-manifestation genuinely localizes；
+3. local manifestation存在 unique maximum；
+4. unique maximum constitutively / groundingly具有 absolute first-person significance。
+
+第 4 项就是缩小后的 DPB。
+
+---
+
+## 10. Comparison with Role-First Ω
 
 Role-First centered actuality：
 
@@ -326,80 +353,79 @@ Role-First centered actuality：
 \Omega[R;E^*]
 \]
 
-把 locus/orientation jointly constitutive地放进 complete actuality。
+把 orientation 与 locus jointly constitutive 地放进 complete actuality。
 
-MFDL则试图 derive local locus：
+MFDL想 derive：
 
 \[
 GlobalReality
 \to
-StructuralDominance
+Dominance
 \to
-E_D.
+E_D
+\to
+AbsoluteOrientation.
 \]
 
-因此 MFDL 的优点是：它比 primitive Ω 更具 derived ambition。
+优点：derived ambition更强。
 
-代价是必须过：
+代价：必须过：
 
+- GCP subject-boundary fork；
 - symmetry；
 - robustness；
-- dynamic-role continuity；
-- privilege semantics。
+- dynamic continuity；
+- DPB privilege semantics。
 
-若最终 DPB仍 primitive，则模型只把 primitive content从：
+若最后采用 role-first constitutive DPB，则 explanatory direction反转：privilege来自 Ω，dominance只是 structural realization / diagnostic。
 
-\[
-AbsoluteOrientation(E^*)
-\]
-
-改写成：
-
-\[
-Dominant(E_D)\land DPB.
-\]
-
-未必有 explanatory gain。
+于是 MFDL 会重新靠近 primitive Role-First model。
 
 ---
 
-## 10. Current verdict
+## 11. Current verdict
 
-MFDL 是目前值得保留的 **constructive stress-test model**，因为它第一次把：
+MFDL仍是目前最有价值的 **constructive stress-test model**。
 
-- global closure；
-- global subject/field；
-- local structural selection；
+它现在能清楚做到：
 
-放入同一个模型。
+\[
+ManySubjects
+\xrightarrow{GCP^*}
+GlobalSubject/Field
+\xrightarrow{D}
+OneStructurallyDominantLocalLocus.
+\]
 
-但它当前仍停在：
+但当前：
 
 \[
 \boxed{
-GlobalClosure
-+
-UniqueStructuralDominance
+GCP^*+D
 \not\Rightarrow
+AbsoluteOrientation.
+}
+\]
+
+真正 frontier 已压缩成：
+
+\[
+\boxed{
+UniqueMaximalSelfManifestation
+\stackrel{?}{\Rightarrow}
 AbsoluteFirstPersonPrivilege.
 }
 \]
 
-真正新瓶颈不再只是 “能不能选出一个 local locus”，而是：
-
-\[
-\boxed{
-Why should structural dominance realize metaphysical first-person privilege?
-}
-\]
-
-如果找不到 DPB，Kadić-style dominance不能解决 PLP，只能提供一个 local-selection analogue。
+如果这个 bridge失败，derived PLP 很可能接近封闭：local selection可以由 structure做，absolute significance仍只能 primitive / role-first 地加入，或被拒绝。
 
 ## 关联
 
 - [`../../literature/osborn-2024-subject-universalism.md`](../../literature/osborn-2024-subject-universalism.md)
 - [`../../literature/roelofs-2024-continuism.md`](../../literature/roelofs-2024-continuism.md)
 - [`../../literature/kadic-2024-dominant-microsubject.md`](../../literature/kadic-2024-dominant-microsubject.md)
+- [`../../literature/morch-2025-consciousness-overlap.md`](../../literature/morch-2025-consciousness-overlap.md)
 - [`../arguments/global-closure-construction-test.md`](../arguments/global-closure-construction-test.md)
+- [`../arguments/dominance-privilege-bridge-audit.md`](../arguments/dominance-privilege-bridge-audit.md)
 - [`../arguments/global-subject-localization-quadrilemma.md`](../arguments/global-subject-localization-quadrilemma.md)
 - [`../arguments/symmetry-obstruction.md`](../arguments/symmetry-obstruction.md)
