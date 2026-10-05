@@ -2,254 +2,142 @@
 
 > 面向第一次接触本项目的读者。
 >
-> 本文给出当前 absolute-first-person 研究的最短完整论证链。它不是新的 authority；若本文与 [`current-position.md`](current-position.md) 冲突，以后者为准。
+> 本文是 reader-facing synthesis；若与 [`current-position.md`](current-position.md) 冲突，以后者为准。
 
 ## 1. 原始问题
 
-项目从一个很直接、也很难摆脱的问题开始：
+项目从一个直觉开始：
 
 > 为什么偏偏是这个人、这个时代、这个当前经验？
 
-这里真正想问的，不只是普通的“我知道自己是谁”“经验对我而言呈现”“我从这里看世界”。这些都可以由一般的第一人称结构解释。
+研究的不是普通“我是谁”“经验对我呈现”这些 local first-person facts，而是更强的可能性：现实本身是否具有一个不可约、最终的第一人称方向。
 
-项目研究的是更强的可能性：
-
-\[
-\boxed{\exists!E^*\;AbsoluteOrientation(E^*)}
-\]
-
-即现实是否存在一个不可约的、唯一的第一人称方向或 opening。
-
-同时，项目始终保留 other minds：其他主体可以完全真实地有意识。因此必须区分：
+同时必须保留 genuine other minds，所以：
 
 \[
-\boxed{
 Consciousness
-\neq
-LocalFirstPersonOrganization
-\neq
-PhenomenalMineness
-\neq
-IrreducibleFirstPersonFact
-\neq
-AbsolutePrivilege.
-}
+\neq LocalFirstPersonOrganization
+\neq PhenomenalMineness
+\neq AbsolutePrivilege.
 \]
-
-一个人拥有真实意识、for-me-ness、de se cognition，并不自动意味着这个人承担 universe-level 的 absolute first-person status。
 
 ---
 
-## 2. 为什么问题最后变成 actuality
+## 2. 为什么问题变成 actuality
 
-很多早期路线都试图从一个已经完整描述的世界中“选出”某个主体：靠结构中心、因果中心、信息最大值、主观显著性、selector、特殊规律或 phenomenology。
-
-这些路线反复遇到同一个困难：
+结构中心、因果中心、信息最大值、selector、特殊规律等办法都遇到：
 
 \[
 Selection\neq Privileging.
 \]
 
-即使一个规则唯一选中了某个 token，也还没有说明这个 token 为什么在 metaphysical sense 上“绝对地是这里”。
+唯一选出某人，不等于解释“为什么这个位置是绝对的这里”。
 
-因此最强 centered theory 不应再被描述成：
+因此 strongest centered theory 不再被理解成 neutral world 上多一个 pointer，而是：
 
-\[
-T_C=T_N+\text{one extra pointer}.
-\]
+> reality 的 actual obtaining 本身就是 first-personally centered。
 
-它更合理的版本是 constitutive：第一人称方向不是贴在既成现实上的标签，而是现实“实际成立”的方式本身。
-
-于是问题上移为：
+所以最上游问题成为：
 
 \[
-\boxed{\text{Does actuality itself have irreducible first-person arity?}}
+\boxed{Does\ actuality\ itself\ have\ irreducible\ first\!\!\text{-}\!person\ arity?}
 \]
-
-也就是：现实之所以是 actual reality，这件事本身有没有一个不可约的第一人称参数？
 
 ---
 
-## 3. 双方共享的 common core
+## 3. 两个 strongest packages
 
-为了避免让争论被普通意识问题劫持，固定一个尽可能强的共享核心：
+固定双方共享的 `K`：one objective/causal history、multiple genuine conscious subjects、local first-person organization、mineness、de se、memory、agency、independently motivated perspectival/temporal structure。
+
+Neutral：
 
 \[
-K.
+T_N=K+A_N
 \]
 
-`K` 可以包含：
+actuality 可以 real / primitive / absolute / perspectival，但不含 unique global first-person slot。
 
-- 一个完整的 objective / physical / causal history；
-- 多个 genuine conscious subjects；
-- 每个主体自己的 local first-person organization；
-- phenomenal character、for-me-ness、mineness；
-- de se cognition、memory、agency、self-location；
-- independently motivated temporal / perspectival structure；
-- independently established subject individuation facts。
+Centered：
 
-双方都可以接受这些内容。
+\[
+T_C=K+\Omega
+\]
 
-因此争论不是：
+其中 `\Omega` 是 constitutive centered actuality，不是 detachable pointer。
 
-> 世界里有没有意识？
+因此：
 
-也不是：
-
-> 第一人称经验是不是不可还原？
-
-真正的争论是在 `K` 已经全部给定之后，完整 actuality 是否还必须具有 global first-person arity。
+\[
+\boxed{NeutralCompletion\quad|\quad CenteredCompletion.}
+\]
 
 ---
 
-## 4. 两个 strongest packages
+## 4. 当前为什么仍 underdetermined
 
-### 4.1 Neutral Actuality
+Centered 若想获得独立优势，不能只说 neutral reality“不完整”。它需要 independent reason。
 
-\[
-\boxed{T_N=K+A_N}
-\]
+三条主路线仍是：
 
-其中 `A_N` 是 first-person-neutral 的 actuality treatment。它可以是 uncentered obtaining、instantiation、primitive neutral actuality；在某些体系中甚至不需要额外 actuality primitive。
+1. completion discriminator；
+2. neutral incoherence；
+3. genuine primitive replacement / common-explananda gain。
 
-Neutral view 允许每一个主体都拥有真实、局部、不可轻视的第一人称生活，只拒绝进一步断言：
+当前没有 neutral contradiction，也没有 decisive replacement win。
 
-\[
-\exists!E^*\;AbsoluteOpening(E^*).
-\]
+而旧的 discriminator 标准刚刚被加强。
 
-它的 completion principle 是：
+### 旧标准
 
 \[
-\boxed{C_N:\quad K\text{ can constitute complete actual reality}.}
+Independent(X)\land C\models X\land N\not\models X.
 \]
 
-### 4.2 Centered Actuality
+问题是：
 
 \[
-\boxed{T_C=K+\Omega[R;E^*]}
+N\not\models X\not\Rightarrow N\text{ cannot explain }X.
 \]
 
-这里 `\Omega` 不是一个独立 pointer 去指向已经完全 individuated 的 `E*`。在 strongest role-first version 中，orientation、actuality 与 locus 共同构成 complete centered totality。
+### 新标准：Neutral Accommodation
 
-因此可以把它理解为：
-
-\[
-WorldActuality=AbsoluteI=AbsoluteNOW=\Omega
-\]
-
-的不同方面。
-
-它的 completion principle 是：
-
-\[
-\boxed{C_C:\quad K\text{ is incomplete unless actuality is intrinsically centered}.}
-\]
-
-这使 Centered Actuality 成为一个严肃的 primitive-kind alternative，而不只是“neutral world + 神秘标签”。
-
----
-
-## 5. 双方真正争什么
-
-仅仅说“Centered 多了一个结构”并不能结束争论，因为 centered theorist 可以回答：去掉它以后得到的从来就不是 complete actuality。
-
-反过来，仅仅把 centeredness 写进“complete reality”的定义，也不能证明它存在。
-
-所以项目采用一个约束：
-
-### Completeness Non-Bootstrapping Principle
-
-一个 disputed structure 不能仅通过被写进 `metaphysical completeness` 的定义而获得支持。必须给出不预设结论的理由，说明删除它究竟遗漏了什么。
-
-因此 Centered side 若要从 coherent option 升级成被迫接受的理论，至少需要成功完成下面三条路线之一。
-
----
-
-## 6. 三条可能的决定路线
-
-### 路线一：Independent completion witness
-
-找到一个事实 `X`：
+真正有力的 `X` 至少需要：
 
 \[
 \boxed{
 Independent(X)
-\land
-T_C\models X
-\land
-T_N\not\models X.
+\land NaturalFit(C,X)
+\land \neg CheapNeutralAccommodation(N,X).
 }
 \]
 
-而且 `X` 不能靠 `absolute I`、`global opening`、`LIVE simpliciter` 等 contested vocabulary 才被定义出来。
+也就是 Neutral 不能通过一个低成本、非 ad hoc、仍保持 genuinely neutral 的扩展解释 `X`。
 
-候选曾包括：特殊 phenomenal marker、global actuality asymmetry、one genuine NOW、nonrelative presence、normative asymmetry、unique lived continuation 等。
+如果 Neutral 只有加入 centered-equivalent structure 才能解释 `X`，那才是强 discriminator。
 
-截至目前，没有 surviving witness。
+目前 phenomenology、presence、de se、bare actuality、one-world unity 等候选都能被 Neutral 廉价吸收。
 
-### 路线二：Neutral incoherence theorem
-
-不找额外事实，而直接证明：
+所以：
 
 \[
-\boxed{T_N\vdash\bot.}
+\boxed{CompletionUnderdetermination}
 \]
 
-例如证明：actual obtaining 概念上就必须 centered；多个 local standpoints 无法在没有 meta-standpoint 的情况下组成一个现实；self-location 最终必须锚定到一个 absolute locus。
-
-截至目前，没有建立这样的 contradiction。已有 neutral actuality、perspectival pluralism 与 one-world constructions 都说明 neutral package 至少具有相当强的 coherence。
-
-### 路线三：Genuine primitive replacement
-
-如果双方最终都需要一个 primitive actuality kind，那么公平比较可能是：
-
-\[
-A_N\quad vs\quad\Omega,
-\]
-
-而不是“0 个 primitive vs 1 个 primitive”。
-
-此时 Centered side 可以尝试证明 `\Omega` 真正替代了 neutral side 本来就必须承担的 primitive，并且对双方共同承认的 explananda 做更多工作。
-
-关键限制是：不能先额外 postulate `AbsoluteI`、`AbsoluteNOW`，再因为 `\Omega` 把这些 postulates 统一起来，就把全部统一算作优势。真正有价值的是对 common explananda 的 compression。
-
-截至目前，只得到 partial parity，没有 decisive replacement win。
+继续成立。
 
 ---
 
-## 7. 为什么 phenomenology 没有直接解决它
+## 5. Presence 为什么没解决它
 
-原始 intuition 很强：这里似乎“绝对地亮着”，经验就在“现在”，而且以这个人的方式展开。
+“此刻特别真实”“这里亮着”“经验只从这里展开”很强，但可拆成 ordinary features：immediacy、for-me-ness、zero-point、memory、agency、local now 等。
 
-但这些可以拆成 ordinary features：
-
-\[
-Immediacy,
-ForMeNess,
-Mineness,
-ZeroPoint,
-DeSe,
-Memory,
-Anticipation,
-Agency,
-\ldots
-\]
-
-只要 Neutral 与 Centered 都能保留这些 features，它们就不能直接区分 completion rule。
-
-特别是 Presence 路线已经分别测试：
-
-1. phenomenal residue；
-2. semantic indispensability；
-3. explanatory residue；
-4. relational incoherence / regress。
-
-目前没有一条迫使我们从 ordinary temporal experience 推出：
+四路 Presence audit 未找到从 ordinary temporal experience 到：
 
 \[
-PresenceSimpliciter(E).
+PresenceSimpliciter
 \]
+
+的独立桥。
 
 所以：
 
@@ -257,215 +145,130 @@ PresenceSimpliciter(E).
 \boxed{OrdinaryPresenceData\not\Rightarrow PresenceSimpliciter.}
 \]
 
-如果 `PresenceSimpliciter` 被独立接受，它仍会给 personalized I–NOW 很强压力；但它目前不能作为 independent witness 把我们从 Neutral 推进到 Centered。
+Presence 仍是 coherent metaphysical option，但不是 completion witness。
 
 ---
 
-## 8. Completion Underdetermination
+## 6. 最新推进：唯一性重新开放
 
-现在可以把当前结果压成五个条件。
-
-### U1 — Same common core
-
-\[
-K_C=K_N=K.
-\]
-
-### U2 — Current evidence inertness
-
-对当前 ordinary evidence：
-
-\[
-P(e\mid T_C)=P(e\mid T_N).
-\]
-
-### U3 — No independent residual
-
-尚无独立 `X` 由 Centered 得到而 Neutral 无法得到。
-
-### U4 — No neutral incoherence
-
-尚无：
-
-\[
-T_N\vdash\bot.
-\]
-
-### U5 — No demonstrated common-explananda replacement win
-
-尚无双方共同 explanandum 被 `\Omega` 决定性地解释得更好，而 neutral actuality 无法解释。
-
-在 U1–U5 同时成立时：
+此前项目认为：若 Centered Actuality 提供 at-least-one，再加 one world、non-fragmentation 与 First-Person Non-Compossibility，就能推出 exactly-one；这一形式条件式仍然正确：
 
 \[
 \boxed{
-\text{current evidence and common explananda underdetermine Neutral vs Centered Actuality}.
+ALO+OneWorld+NF+FPNC\Rightarrow ExactlyOneOpening.
 }
 \]
 
-这就是当前的 **Completion Underdetermination**。
+但新的审计发现，真正承担 anti-plurality 工作的是 `FPNC`，而它没有被独立证明。
+
+List-style first-person facts 使用一个 substantive compossibility idea：两个 genuine first-person facts 要 qua first-person facts 共同成立，必须能从同一个 perspective 共同 obtain。对 mutually exclusive complete first-person states，这当然产生冲突。
+
+问题是：complete actuality 是否必须采用这个 single-perspective compossibility 标准？
+
+Standpoint pluralism / constitutional perspectivalism 提供另一种模型形状：多个 irreducible perspective modes 可以共同构成 reality，而没有一个最终 privileged singleton。
+
+所以：
+
+\[
+\boxed{Singularity\text{ is reopened at FPNC/LFPC}.}
+\]
+
+USL 没被推翻；它被正确降级成一个依赖 substantive premise 的 conditional theorem。
 
 ---
 
-## 9. Underdetermination 不意味着“两边一样好”
+## 7. 为什么这不是纯术语问题
 
-这里很容易误读。
+仓库更早已经得到：
 
 \[
-Underdetermination\not\Rightarrow EqualTheoryScore.
+SubjectiveArity\not\Rightarrow Singularity
 \]
 
-即使 evidence likelihood 和 common explananda 打平，理论仍可以在这些方面不同：
+以及：
 
-- ideological simplicity；
-- structural complexity；
-- modal commitments；
-- primitive strength；
-- broader metaphysical fit；
-- unification；
-- intuitive adequacy。
+\[
+ConstitutionalPerspectivality\not\Rightarrow PerspectiveSingleton.
+\]
 
-Neutral Actuality 当前有一个 provisional abductive lead：它承诺更弱，而且尚未出现迫使它升级到 centered completion 的独立理由。
-
-但这个 lead 不是 refutation。Role-first Centered Actuality 已经避开了粗糙 pointer model 的很多问题，并且非常贴合原始 absolute-first-person intuition。
-
-当前最公平的 verdict 是：
+因此理论空间至少有：
 
 \[
 \boxed{
-Neutral\ Actuality\ has\ the\ weaker\ commitment;
-\quad Centered\ Actuality\ remains\ a\ coherent\ stronger\ completion\ hypothesis.
+SubjectNeutralActuality
+\quad|\quad
+PluralSubjectBearingActuality
+\quad|\quad
+SingularCenteredActuality.
 }
 \]
 
----
-
-## 10. Centered horn 内部已经能推出什么
-
-虽然最上游 fork 未解决，但 Centered horn 内部并非什么都没有。
-
-如果先接受：
-
-\[
-CenteredActuality,
-\]
-
-那么 at-least-one opening 不再需要额外 selector：
-
-\[
-\boxed{CenteredActuality\Rightarrow AtLeastOneIrreducibleOpening.}
-\]
-
-如果再加上：
-
-\[
-OneWorld+NonFragmentation+FirstPersonNonCompossibility,
-\]
-
-Unitary Singularity 结构给出 at-most-one，于是：
-
-\[
-\boxed{ExactlyOneIrreducibleOpening.}
-\]
-
-这解决的是 singularity，不是 locality。
-
-仍需额外 subject-ontology premises 才能判断这个 opening 是：
-
-- 某个 selective local person-stage / path；还是
-- Universal-I / global bearer。
-
-所以不能从“exactly one opening”直接跳到“偏偏是当前这个生物学个体”。
+即使未来证明 reality intrinsically perspectival，也还需要独立证明：为什么 perspective 必须恰好一个，以及为什么它具有 absolute status。
 
 ---
 
-## 11. 当前真正停止在哪里
+## 8. Role-First model 还要修 bookkeeping
 
-研究现在不是缺少更多 selector，也不是缺少更复杂 notation。
+当前 strongest Role-First model 自己规定 global opening role 的 unique occupant。
 
-真正 stop condition 是：
+因此它已经把 exact-one 写进 architecture。
 
-\[
-\boxed{Why\ CenteredActuality\ rather\ than\ NeutralActuality?}
-\]
-
-如果没有新类型资源，重复讨论这些内容不会改变 ranking：
-
-- “现在特别鲜明”；
-- “体验只发生在这里”；
-- structural / causal / informational winner；
-- generic mineness / de se；
-- exact duplicate token lottery；
-- bare selector；
-- post-death transfer；
-- generic global subject；
-- bare simplicity claim。
+如果想说 USL “推导出” uniqueness，就必须先使用一个不预设 unique occupant 的 weaker centered model；否则 USL 只能是 reconstruction / compatibility result，不能重复计算成 parsimony gain。
 
 ---
 
-## 12. 什么结果值得重新打开 absolute axis
+## 9. 现在真正值得研究什么
 
-未来真正高价值的新结果至少应满足一种：
+两条最高价值路线：
 
-### R1 — Independent completion witness
+### A. FPNC / compossibility
 
-\[
-Independent(X)\land T_C\models X\land T_N\not\models X.
-\]
+能否独立证明多个 irreducible first-person openings 不能共同属于一个 complete actuality？
 
-### R2 — Neutral incoherence theorem
+最直接的压力测试是认真构造：
 
 \[
-T_N\vdash\bot.
+OneActuality+PluralIrreducibleOpenings
 \]
 
-### R3 — Privilege-sensitive evidence
+并找出它到底在哪里必然崩溃，还是只因为选择了某种 NF 定义才被排除。
 
-\[
-P(e\mid T_C)\neq P(e\mid T_N).
-\]
+### B. Accommodation-resistant discriminator
 
-### R4 — Genuine primitive replacement theorem
+找 `X`，使 Centered 自然解释，而 strongest still-neutral theory无法低成本解释；最好 Neutral 一旦解释 `X` 就不得不迁移成 centered-equivalent structure。
 
-Centered actuality 替代 neutral side independently 必须承担的同等或更昂贵 primitive，并解释更多 common data。
-
-### R5 — New global structure
-
-物理学或形而上学发现一个独立进入 common core 的结构，并非 ad hoc 地推出 first-person arity。
-
-### R6 — Subject-identity theorem
-
-独立建立足够强的 subject individuation / bearer principle，从而实质改变 local opening 与 Universal-I 的比较。
+这比继续搜“更强的第一人称感”更可能真正改变 theory ranking。
 
 ---
 
-## 13. 一句话结论
+## 10. 当前结论
 
-项目目前既没有证明“绝对第一人称”存在，也没有把它消解掉。
+项目没有证明 absolute first-person 存在，也没有证明它不存在。
 
-我们得到的是更精确的边界：
+当前最准确的状态是：
 
 \[
 \boxed{
-\text{Centered actuality is coherent and, if granted, can conditionally yield exactly one opening;}
-\\
-\text{but no tested common-data bridge currently compels actuality to be centered.}
+NeutralActuality\quad|\quad CenteredActuality
 }
 \]
 
-因此当前最稳妥的理论状态是：
+仍然 underdetermined；Neutral 暂有较弱承诺的 abductive lead。
+
+与此同时，我们已经纠正了一个重要过度结论：
 
 \[
-\boxed{CompletionUnderdetermination}
+\boxed{ExactlyOne\text{ 还没有被独立解释。}}
 \]
 
-并由 Neutral Actuality 保留 provisional abductive lead。
+它目前卡在 FPNC/LFPC；而任何未来 centered evidence 还必须通过 Neutral Accommodation Test。
 
-## 深入阅读
+这就是当前真正的 research frontier。
 
-- [`current-position.md`](current-position.md) — 当前 authority。
-- [`frontier-2026-10-05-presence-route-closure.md`](frontier-2026-10-05-presence-route-closure.md) — 最新 terminal frontier。
-- [`../research/arguments/completion-condition-fork.md`](../research/arguments/completion-condition-fork.md) — completion fork 的内部完整论证。
-- [`../research/arguments/completion-underdetermination-result.md`](../research/arguments/completion-underdetermination-result.md) — U1–U5 underdetermination result。
-- [`../research/models/neutral-actuality-core.md`](../research/models/neutral-actuality-core.md) — strongest neutral package。
-- [`../research/models/role-first-absolute-opening.md`](../research/models/role-first-absolute-opening.md) — strongest centered package。
+## 继续阅读
+
+- [`current-position.md`](current-position.md)
+- [`frontier-2026-10-05-fpnc-accommodation-audit.md`](frontier-2026-10-05-fpnc-accommodation-audit.md)
+- [`../research/arguments/first-person-non-compossibility-audit.md`](../research/arguments/first-person-non-compossibility-audit.md)
+- [`../research/arguments/neutral-accommodation-test.md`](../research/arguments/neutral-accommodation-test.md)
+- [`../research/arguments/unitary-singularity-lemma.md`](../research/arguments/unitary-singularity-lemma.md)

@@ -1,24 +1,16 @@
 # Synthesis 导航
 
-`synthesis/` 保存阶段性综合。这里有大量 `frontier-*`，它们记录研究如何推进、失败和改道；**历史 frontier 不等于当前立场**。
-
-## 第一次阅读
-
-若目标是先理解项目现在到底在争什么，优先读：
-
-- [`core-argument-neutral-vs-centered-actuality.md`](core-argument-neutral-vs-centered-actuality.md) — 面向外部读者的核心论证；从原始问题一路压到 Completion Underdetermination、conditional singularity 与当前 stop condition。
-
-它是 reader-facing synthesis，不取代 authority。
+`synthesis/` 保存当前 authority、frontier、handoff 与历史综合。**历史 frontier 不自动代表当前立场。**
 
 ## 当前入口
 
-权威优先级固定为：
+权威优先级：
 
 1. [`current-position.md`](current-position.md) — 当前 authority。
-2. [`frontier-2026-10-05-presence-route-closure.md`](frontier-2026-10-05-presence-route-closure.md) — 最新 terminal frontier。
-3. [`handoff-2026-10-05-terminal-frontier.md`](handoff-2026-10-05-terminal-frontier.md) — 后续研究操作边界与 stop condition。
+2. [`frontier-2026-10-05-fpnc-accommodation-audit.md`](frontier-2026-10-05-fpnc-accommodation-audit.md) — 最新 frontier；FPNC re-audit + Neutral Accommodation。
+3. [`handoff-2026-10-05-fpnc-accommodation.md`](handoff-2026-10-05-fpnc-accommodation.md) — 当前唯一操作交接。
 
-若三者与旧 frontier 冲突，以这三个入口中的较新结论为准。
+第一次阅读可看：[`core-argument-neutral-vs-centered-actuality.md`](core-argument-neutral-vs-centered-actuality.md)。它是 reader-facing synthesis，不取代 authority。
 
 ## 当前终局结构
 
@@ -26,33 +18,60 @@
 NeutralActuality\;|\;CenteredActuality
 \]
 
-Centered horn 才继续到：
+Centered horn：
+
+\[
+CenteredActuality\Rightarrow AtLeastOneOpening.
+\]
+
+旧版把下一步写成 USL 直接“解决” singularity。现在修正为：
 
 \[
 AtLeastOneOpening
-\to
-ExactlyOneOpening\;(USL)
-\to
-Locality\;|\;UniversalI
-\to
-DiachronicPath.
+\xrightarrow{+FPNC/LFPC+unity\ criterion}
+ExactlyOneOpening\;?
 \]
 
-Presence route 已关闭为 independent CC1 witness；其价值只保留为 conditional downstream bridge。
+`?` 表示形式条件式有效，但 FPNC/LFPC 的独立依据尚未建立。
+
+如果将来 singularity 成立，才继续：
+
+\[
+ExactlyOneOpening
+\to Locality\;|\;UniversalI
+\to DiachronicPath.
+\]
+
+## 最新方法论修正
+
+旧 completion witness criterion：
+
+\[
+Independent(X)\land N\not\models X\land C\models X
+\]
+
+已被判定过弱。
+
+当前使用：
+
+\[
+\boxed{
+Independent(X)
+\land NaturalFit(C,X)
+\land \neg CheapNeutralAccommodation(N,X).
+}
+\]
+
+即候选事实必须抵抗 strongest still-neutral explanation，而不仅是 Neutral baseline 没有把它写成 theorem。
 
 ## Frontier 阅读地图
 
-### 1. 早期 centering / structural selection
+### A. 最新 frontier
 
-- [`frontier-2026-10-04-two-architectures.md`](frontier-2026-10-04-two-architectures.md)
-- [`frontier-2026-10-04-anchored-dominance.md`](frontier-2026-10-04-anchored-dominance.md)
-- [`frontier-2026-10-04-centering-reduction.md`](frontier-2026-10-04-centering-reduction.md)
-- [`frontier-2026-10-05-dominance-privilege-near-closure.md`](frontier-2026-10-05-dominance-privilege-near-closure.md)
-- [`frontier-2026-10-05-privilege-sensitive-law.md`](frontier-2026-10-05-privilege-sensitive-law.md)
+- [`frontier-2026-10-05-fpnc-accommodation-audit.md`](frontier-2026-10-05-fpnc-accommodation-audit.md) — 当前最高优先级；supersedes “singularity conditionally solved” 的旧判断。
+- [`frontier-2026-10-05-presence-route-closure.md`](frontier-2026-10-05-presence-route-closure.md) — Presence route closure 继续有效，但不再是最新 terminal frontier。
 
-这些文件解释为什么 `Selection ≠ Privileging`，以及为什么 structural/nomological selection 单独不能建立 absolute rank。属于历史论证链，不是当前重新开放的主路线。
-
-### 2. Neutral baseline 与 centered actuality
+### B. Completion / actuality 前史
 
 - [`frontier-2026-10-05-neutral-baseline.md`](frontier-2026-10-05-neutral-baseline.md)
 - [`frontier-2026-10-05-constructive-neutral.md`](frontier-2026-10-05-constructive-neutral.md)
@@ -60,40 +79,38 @@ Presence route 已关闭为 independent CC1 witness；其价值只保留为 cond
 - [`frontier-2026-10-05-role-first-completion.md`](frontier-2026-10-05-role-first-completion.md)
 - [`frontier-2026-10-05-actuality-endgame.md`](frontier-2026-10-05-actuality-endgame.md)
 
-这一组把旧的 “neutral world + extra center” 争论升级为 **Neutral Completion vs Centered Completion**，是当前终局的直接前史。
+这些仍解释为什么主问题收缩成 Neutral vs Centered Completion。
 
-### 3. Singularity / one-world structure
+### C. Singularity 历史
 
-- [`frontier-2026-10-05-absolute-orientation.md`](frontier-2026-10-05-absolute-orientation.md)
 - [`frontier-2026-10-05-unitary-singularity.md`](frontier-2026-10-05-unitary-singularity.md)
 - [`frontier-2026-10-05-arity-singularity-localization.md`](frontier-2026-10-05-arity-singularity-localization.md)
+- [`frontier-2026-10-05-absolute-orientation.md`](frontier-2026-10-05-absolute-orientation.md)
 
-这里得到 Unitary Singularity Lemma：在 centered existence + unitary reality 条件下，exact-one 不再需要独立 brute selector。
+这些记录 USL 如何形成，但其“exact-one no longer primitive / singularity solved”的强解释已由最新 frontier 降级。形式条件式仍保留。
 
-### 4. Locality / Universal-I / subject bearer
+### D. Locality / Universal-I
 
 - [`frontier-2026-10-05-stage-first-opening-universal-i.md`](frontier-2026-10-05-stage-first-opening-universal-i.md)
 - [`frontier-2026-10-05-subject-bearer-funnel.md`](frontier-2026-10-05-subject-bearer-funnel.md)
 - [`frontier-2026-10-05-universal-centering.md`](frontier-2026-10-05-universal-centering.md)
 - [`frontier-2026-10-05-local-opening-presence-monism.md`](frontier-2026-10-05-local-opening-presence-monism.md)
 
-这一组说明 exact-one 不自动推出 local/selective opening；Universal-I 仍 logically live，但需要 global phenomenal connectivity、independent bearer bridge 或 primitive assignment principle。
+仍有研究史价值，但现在全部 conditional on singularity bridge。
 
-### 5. Manifestation / Presence / ALO 收口
+### E. Presence / manifestation
 
 - [`frontier-2026-10-05-self-manifesting-actuality.md`](frontier-2026-10-05-self-manifesting-actuality.md)
 - [`frontier-2026-10-05-grounded-centering-ladder.md`](frontier-2026-10-05-grounded-centering-ladder.md)
 - [`frontier-2026-10-05-alo-completion.md`](frontier-2026-10-05-alo-completion.md)
 - [`frontier-2026-10-05-presence-route-closure.md`](frontier-2026-10-05-presence-route-closure.md)
 
-最新结论是：ALO 在 centered package 内是 constitutive consequence；真正未决的是为何选 Centered Actuality。Presence 四路测试均未把普通经验升级成 independent witness。
-
-### 6. 其他阶段性 endgame
-
-- [`frontier-2026-10-05-endgame.md`](frontier-2026-10-05-endgame.md)
-
-它是较早阶段的 endgame 快照；当前由 `actuality-endgame` 与 `presence-route-closure` supersede。
+Presence closure 仍有效：ordinary presence data 不能独立推出 `PresenceSimpliciter`。
 
 ## Handoff 规则
 
-只使用 [`handoff-2026-10-05-terminal-frontier.md`](handoff-2026-10-05-terminal-frontier.md) 作为当前交接。旧 handoff 已由 terminal handoff 取代，不应再作为下一轮研究入口。
+当前只使用：
+
+[`handoff-2026-10-05-fpnc-accommodation.md`](handoff-2026-10-05-fpnc-accommodation.md)
+
+旧 `handoff-2026-10-05-terminal-frontier.md` 保留历史价值，但其中 “singularity is conditionally solved” 与旧 R1 entailment criterion 已被 supersede。
