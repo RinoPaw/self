@@ -2,7 +2,7 @@
 
 本目录记录现有研究及其与本项目的关系，不把外部理论直接当成本项目立场。阅读层级与升级规则见 [`AGENTS.md`](AGENTS.md)。
 
-当前 literature map 以最新 positive ladder 为主轴：
+当前主轴：
 
 \[
 \boxed{
@@ -17,7 +17,7 @@ GlobalSubject
 Localization.}
 \]
 
-项目 target 需要整条链，而不是任一局部 first-person / consciousness 结果。
+项目 target 需要整条链；任一 ordinary first-person / consciousness result 都不能单独完成它。
 
 ---
 
@@ -25,21 +25,21 @@ Localization.}
 
 ### John Perry — The Essential Indexical
 
-用途：第一人称 representation 不可消去，不自动推出 irreducible first-person fact。
+第一人称 representation 不可消去，不自动推出 irreducible first-person fact。
 
 ### David Lewis — Attitudes De Dicto and De Se
 
-用途：建立 de se / centered-world self-location 与 global absolute first-person 的边界。
+de se / centered-world self-location 与 global absolute first-person 必须区分。
 
 ### Peter Pagin — Constructing the World and Locating Oneself
 
-用途：objective / experiential facts 都给出后，correlation / anchoring 仍可能欠定；anchoring 不等于 absolutization。
+objective / experiential facts 都给出后，correlation / anchoring 仍可能欠定；anchoring 不等于 absolutization。
 
 专门笔记：[`self-location-centered-worlds.md`](self-location-centered-worlds.md)
 
 ### Dan Zahavi 等
 
-用途：for-me-ness / mineness / pre-reflective self-consciousness解释 ordinary first-person givenness；不能直接升级为 global privilege。
+for-me-ness / mineness解释 ordinary first-person givenness；不能直接升级为 global privilege。
 
 ---
 
@@ -47,25 +47,21 @@ Localization.}
 
 ### David Builes — Eight Arguments for First-Person Realism (2024)
 
-用途：系统整理 FPR 的主要论证；其 FPR 范围比本项目 `simpliciter / globally non-duplicable privilege` 更宽。
+系统整理 FPR 的主要论证；其 FPR 范围比项目的 `simpliciter / globally non-duplicable privilege` 更宽。
 
 专门笔记：[`builes-2024-first-person-realism.md`](builes-2024-first-person-realism.md)
 
-DOI `10.1111/phc3.12959`。
-
 ### Benj Hellie — Against Egalitarianism
 
-用途：经典 vertiginous / liveness pressure；如果 egalitarian inventory仍遗漏 simpliciter liveness，它可能成为 completion witness，但该 residual fact 本身仍 contested。
+经典 vertiginous / liveness pressure；可能提供 completion-witness 动机，但 residual simpliciter fact 本身仍 contested。
 
 ### Caspar Hare — On Myself, and Other, Less Important Subjects
 
-用途：提供 monadic presence / primitive privileged-perspective endpoint；不能从 actuality 一般概念直接推出。
+monadic presence / primitive privileged-perspective endpoint；不能从 actuality 一般概念直接推出。
 
 ### Giovanni Merlo
 
-用途：feltness / subjectivism / other minds 压力测试。
-
-关联：[`../research/arguments/feltness-residual-test.md`](../research/arguments/feltness-residual-test.md)
+feltness / subjectivism / other minds 压力测试。
 
 ---
 
@@ -77,17 +73,17 @@ DOI `10.1111/phc3.12959`。
 \boxed{WorldActuality=AbsoluteI=AbsoluteNOW.}
 \]
 
-用途：当前最成熟的 primitive / constitutive absolute-opening 邻近模型；其强项是统一 actuality/I/NOW，限制是没有独立推出 actuality 必须具有 first-person arity。
+最成熟的 primitive / constitutive absolute-opening 邻近模型；强项是统一 actuality/I/NOW，限制是没有独立推出 actuality 必须具有 first-person arity。
 
 专门笔记：[`nagai-2007-2010-opening-actuality.md`](nagai-2007-2010-opening-actuality.md)
 
 ### Vincent Conitzer — Personalized A-Theory
 
-用途：I–NOW 联合 privilege 的 construction template。
+I–NOW 联合 privilege 的 construction template。
 
 ### Bradford Skow — Relativity and the Moving Spotlight
 
-用途：约束 dynamic I–NOW models 与 meta-time / relativity 问题。
+约束 dynamic I–NOW models 与 meta-time / relativity 问题。
 
 ---
 
@@ -95,30 +91,20 @@ DOI `10.1111/phc3.12959`。
 
 ### Martin Lipman — Subjective Facts about Consciousness (2023); Standpoints (2026)
 
-核心限制：
-
 \[
-\boxed{
-world\text{-}side\ first\text{-}personal\ obtaining
-\not\Rightarrow
-one\ absolute\ subject.}
+\boxed{world\text{-}side\ first\text{-}personal\ obtaining\not\Rightarrow one\ absolute\ subject.}
 \]
 
 专门笔记：[`lipman-2023-subjective-facts-consciousness.md`](lipman-2023-subjective-facts-consciousness.md)、[`lipman-2026-standpoints.md`](lipman-2026-standpoints.md)
 
 ### Calosi, Iaquinto & Loss — Fragmentalism
 
-用途：perspectival facts可以 genuine 构成 reality，而没有最终 privileged perspective。
+perspectival facts可 genuine 构成 reality，而没有最终 privileged perspective。
 
 ### Bahadir Eker — Perspectivalism about temporal reality (2023)
 
-核心限制：
-
 \[
-\boxed{
-constitutional\ perspectivality
-\not\Rightarrow
-perspective\ singleton.}
+\boxed{constitutional\ perspectivality\not\Rightarrow perspective\ singleton.}
 \]
 
 专门笔记：[`eker-2023-constitutional-perspectivalism.md`](eker-2023-constitutional-perspectivalism.md)
@@ -133,7 +119,7 @@ Neutral packages：[`neutral-actuality-options.md`](neutral-actuality-options.md
 
 ### Lewis — indexical actuality
 
-actuality可以 world-relative / indexical；Wayne A. Davis 2024 对该 semantic / epistemic route施压，所以 neutral side不依赖 Lewis 单线。
+actuality可 world-relative / indexical；Wayne A. Davis 2024 对其 semantic / epistemic route施压，所以 neutral side不依赖 Lewis 单线。
 
 ### Scott Soames — actuality as instantiation
 
@@ -145,20 +131,15 @@ Actual(W)\iff Inst(U,W).
 
 ### Robert Merrihew Adams — fundamental actuality
 
-用途：primitive/fundamental actuality不自动含 subject arity。
+primitive/fundamental actuality不自动含 subject arity。
 
 ### Phillip Bricker — absolute actuality
 
-当前关键结果：
-
 \[
-\boxed{
-ABS+PRIM+PERSP+DESE
-\not\Rightarrow
-FPAR.}
+\boxed{ABS+PRIM+PERSP+DESE\not\Rightarrow FPAR.}
 \]
 
-即 **Actuality–Arity Orthogonality**。
+这是 **Actuality–Arity Orthogonality**。
 
 专门论证：[`../research/arguments/actuality-arity-orthogonality.md`](../research/arguments/actuality-arity-orthogonality.md)
 
@@ -170,69 +151,114 @@ FPAR.}
 
 关键词：vacuous actuality、subject-superject、subjective immediacy、prehension、reformed subjectivist principle。
 
-Whitehead package 给：
-
 \[
-\boxed{
-WhiteheadPackage\vdash\neg VacuousActuality.}
+\boxed{WhiteheadPackage\vdash\neg VacuousActuality.}
 \]
 
-但不是：
+但没有：
 
 \[
 Meaning(Actual)\vdash Subjectivity.
 \]
 
-因此 Whitehead 是 WAAP 的 strongest current positive model。
-
-同时 Whitehead ontology是 pluralist，于是：
-
-\[
-\boxed{
-SubjectiveArity
-\not\Rightarrow
-GlobalExperientialUnity.}
-\]
+Whitehead 是 WAAP 的 strongest current positive model，同时其 plural actual occasions说明 subject arity仍可 pluralize。
 
 专门笔记：[`whitehead-vacuous-actuality.md`](whitehead-vacuous-actuality.md)
 
 ### Hegel / Michel Henry / Husserl
 
-用途分别是 reflexive actuality、self-manifestation→ipseity、world/objectivity→constituting subjectivity 的邻近 bridge resources。
+分别提供 reflexive actuality、self-manifestation→ipseity、world/objectivity→constituting subjectivity 的邻近 bridge resources。
 
 综述：[`actuality-subject-arity-sweep.md`](actuality-subject-arity-sweep.md)
 
 ---
 
-## 7. GEUP：Subjective Arity → Global Experiential Unity
+## 7. GEUP：Global Closure 现在有两条正方路线
 
-### Tim Bayne — The Unity of Consciousness
-
-用途：unity thesis 本质上是 subject-relative；local subject unity不推出 cross-subject/global unity。
-
-### Barry Dainton — primitive co-consciousness
-
-用途：primitive unity relation仍然有 local phenomenal domain；`primitive` 不自动等于 `universal`。
-
-### Wanja Wiese — Experienced Wholeness
-
-用途：strong phenomenal holism本身受压，更不能直接拿来当 universe-wide co-conscious closure principle。
-
-### IIT 4.0
-
-明确允许多个 disjoint conscious complexes，提供 clean architecture：
+General principle：
 
 \[
-ManyLocalUnities+\neg OneGlobalUnity.
+SubjectiveArity(R)\Rightarrow GlobalExperientialUnity(R)
 \]
 
-### 当前裁决
+仍没有成立；Bayne、Dainton、Wiese、IIT、Whitehead/Lipman-style plural domains继续提供反限制。
+
+但“GEUP 没有独立支持”的旧 verdict 已过时。
+
+### Luke Roelofs — The Varieties of (Un)Boundedness (2024)
+
+关键词：phenomenal boundedness、informational boundedness、continuism、phenomenal unboundedness。
+
+核心 abductive route：
 
 \[
-\boxed{GEUP\text{ currently has no independent support}.}
+\boxed{
+FundamentalConsciousness
++
+NaturalContinuity
++
+AntiArbitraryBoundary
+\Rightarrow_{IBE}
+PhenomenalUnboundedness.}
 \]
 
-专门论证：[`../research/arguments/global-experiential-unity-audit.md`](../research/arguments/global-experiential-unity-audit.md)
+若 fundamental structure globally connected，则进一步得到 GEU。
+
+这给 GEUP 第一条 serious **field-first** independent route。
+
+重要边界：one continuous phenomenal field 不自动等于 one cosmic mind / subject。
+
+专门笔记：[`roelofs-2024-continuism.md`](roelofs-2024-continuism.md)
+
+DOI `10.53765/20512201.31.9.042`。
+
+### Nicholas Osborn — Subjects Simply Sum into Subjects (2024)
+
+关键词：subject universalism、unrestricted phenomenal composition、mereological fusion、cosmic subject。
+
+Osborn明确接受：任意 subjects 的 sum也是 subject；在 panpsychist background 下，the sum of everything — cosmos — 也是 subject。
+
+若 total fusion唯一：
+
+\[
+\boxed{SubjectUniversalism+CosmicFusion\Rightarrow UniqueMaximalCosmicSubject.}
+\]
+
+但 unique maximal cosmic subject 不等于 one global co-conscious field；仍有 **Fusion-to-Field Gap**，需要 experience-inclusion / universal bonding 才更直接得到 GEU。
+
+专门笔记：[`osborn-2024-subject-universalism.md`](osborn-2024-subject-universalism.md)
+
+DOI `10.48106/dial.v78.i3.05`。
+
+### Goff / Chalmers — phenomenal bonding / giant-subject pressure
+
+若 phenomenal bonding pervasive 且 closure 足够强，universe-wide microphenomenal states可能构成 giant subject。传统上这是 combination-theory pressure；本项目把它作为 potential global-closure mechanism审计。
+
+### Global Closure Package
+
+当前最强 constructive package：
+
+\[
+\boxed{GCP=SU+MF+FC+EIP}
+\]
+
+其中 SU = subject universalism；MF = unique maximal cosmic fusion；FC = field continuity；EIP = local experiences participate in global field。
+
+若全部成立：
+
+\[
+\boxed{GCP\Rightarrow\exists!G\;MaximalGlobalSubject(G)\land GEU(G).}
+\]
+
+专门论证：[`../research/arguments/global-closure-construction-test.md`](../research/arguments/global-closure-construction-test.md)
+
+### 当前 GEUP 裁决
+
+\[
+\boxed{GEUP\text{ has no general entailment, but has serious abductive / constructive support}.}
+\]
+
+主要压力：tracking、sharp-boundary possibility、global connectivity、overlap、Fusion-to-Field Gap。
 
 ---
 
@@ -242,27 +268,24 @@ ManyLocalUnities+\neg OneGlobalUnity.
 
 发表：*Religious Studies*, First View, 2026-07-07，DOI `10.1017/S0034412526101681`。
 
-目标是 Yetter-Chappell-style **global phenomenal tapestry**。
+目标：Yetter-Chappell-style global phenomenal tapestry。
 
-两条主要 pressure：
+- Thin Mind / bearer pressure：若 whole tapestry genuine experienced，其 experiencer具有 global experiential scope；
+- Synchronic-pattern pressure：one unified experiential act可 ground specific global co-conscious pattern。
 
-1. **Thin Mind / bearer pressure**：若整个 global tapestry genuine experienced，则其 experiencer具有 non-trivial global experiential scope。
-2. **Synchronic-pattern pressure**：specific global co-conscious pattern可由 one unified experiential act 来 ground。
-
-因此得到当前最重要的新 conditional bridge：
+因此：
 
 \[
-\boxed{
-GlobalExperientialUnity
-\Rightarrow
-GlobalSubjectPressure.}
+\boxed{GEU\Rightarrow GlobalSubjectPressure.}
 \]
 
-它不证明 GEUP；其 antecedent已经是厚的 global phenomenal ontology。
+Roelofs + Christmann 现在形成一条连续 positive route：
+
+\[
+\boxed{FundamentalSubjectivity\xrightarrow{Roelofs/IBE}GEU\xrightarrow{Christmann}GlobalSubjectPressure.}
+\]
 
 专门笔记：[`christmann-2026-global-subject-pressure.md`](christmann-2026-global-subject-pressure.md)
-
-专门路线：[`../research/arguments/global-experiential-unity-route.md`](../research/arguments/global-experiential-unity-route.md)
 
 ---
 
@@ -270,7 +293,7 @@ GlobalSubjectPressure.}
 
 ### Jonathan Schaffer — Priority Monism
 
-只给 one fundamental concrete whole，不给 one consciousness / subject：
+one fundamental concrete whole不自动给 one consciousness / subject：
 
 \[
 \boxed{PriorityMonism\not\Rightarrow OneSubject.}
@@ -278,199 +301,234 @@ GlobalSubjectPressure.}
 
 ### Philip Goff / Nagasawa & Wager — Cosmopsychism
 
-strongest conditional construction：
-
 \[
-PriorityMonism
-+
-ConsciousUltimate
-+
-Subjecthood
-+
-SinglePole
-\Rightarrow
-OneFundamentalSubject.
+PriorityMonism+ConsciousUltimate+Subjecthood+SinglePole
+\Rightarrow OneFundamentalSubject.
 \]
 
-用途：global-subject theory coherent，但 premise-heavy。
+提供 coherent global-subject construction，但 premise-heavy。
 
 ### Miri Albahari — universal consciousness
 
-fundamental consciousness可以 aperspectival：
-
 \[
-\boxed{
-FundamentalConsciousness
-\not\Rightarrow
-FundamentalSubject.}
+\boxed{FundamentalConsciousness\not\Rightarrow FundamentalSubject.}
 \]
+
+fundamental consciousness可 aperspectival。
 
 ### Gregory Miller — De-Combination Problem
 
-用途：即使 cosmic subject成立，ordinary local subjects如何由它产生仍是独立难题。
+cosmic subject成立后，ordinary local subjects如何由它产生仍是独立难题。
 
 专门笔记：[`priority-cosmopsychism-subject-singularity.md`](priority-cosmopsychism-subject-singularity.md)
 
 ---
 
-## 10. Exclusion / maximality：local uniqueness 不能 globalize
+## 10. Exclusion / maximality
 
 ### IIT 3.0 / 4.0
 
-Exclusion/maximality可以在 overlapping candidates 中产生 definite local complex，但 IIT 4.0继续寻找第二、第三个 disjoint complex。
-
-因此：
+Exclusion/maximality可在 overlapping candidates 中产生 definite local complex，但允许第二、第三个 disjoint complex：
 
 \[
-\boxed{
-LocalExclusion
-\not\Rightarrow
-GlobalSingularity.}
+\boxed{LocalExclusion\not\Rightarrow GlobalSingularity.}
 \]
 
 专门笔记：[`iit-exclusion-subject-singularity.md`](iit-exclusion-subject-singularity.md)
 
 ---
 
-## 11. LOC：Global Subject → Unique Local Absolute Locus
+## 11. LOC / PLP：Global Subject → Unique Local Absolute Locus
 
 专门地图：[`global-subject-localization-options.md`](global-subject-localization-options.md)
 
 ### Philip Goff — Localization / Thinning principles
 
-cosmopsychism需要额外 law决定 local subjects何时存在、继承哪些 cosmic contents。连 ordinary localization都不是 global subject 免费携带的。
+cosmopsychism需要额外 law决定 local subjects何时存在、继承哪些 cosmic contents；ordinary localization都不是 global subject 免费携带的。
 
-### Daniel Kolak — I Am You / Open Individualism
+### Daniel Kolak — Open Individualism
 
-提供 clean countermodel：numerically one subject可以是 everyone。
+numerically one subject可以是 everyone：
+
+\[
+\boxed{SubjectSingularity\not\Rightarrow Perspective/LocalizationSingularity.}
+\]
+
+### Nino Kadić — Dynamic Monadic Panpsychism (2024)
+
+当前最有价值的 **structural localization prototype**。
+
+Kadić让 relational structure决定 exactly-one dominant microsubject承载 full human experience；role可动态迁移，因而比 static labelled selector更接近 role-first architecture。
+
+但 contemporary objections指出 similar causal neighbourhood 可产生大量近似候选，dominance grounding不足。
+
+所以：
+
+\[
+\boxed{UniqueStructuralDominance\not\Rightarrow AbsoluteFirstPersonPrivilege.}
+\]
+
+这是 **Dominance-to-Privilege Gap**。
+
+专门笔记：[`kadic-2024-dominant-microsubject.md`](kadic-2024-dominant-microsubject.md)
+
+DOI `10.1007/s11229-023-04464-0`。
+
+### Localization fork
 
 \[
 \boxed{
-SubjectSingularity
-\not\Rightarrow
-Perspective/LocalizationSingularity.}
+L0:\ NoPrivilegedLocalization
+\;|\;
+L1:\ AllLociIdentity
+\;|\;
+L2:\ PluralLocalization
+\;|\;
+L3:\ UniquePrivilegedLocalization.}
 \]
 
-### Albahari / constitutive cosmopsychism / absolute idealism
+只有 L3 给项目 target，并需要额外 PLP。
 
-分别提供 no privileged localization 与 plural derivative manifestations 等 alternatives。
-
-因此：
-
-\[
-\boxed{
-NoLocalization
-\;|\;
-AllLociIdentity
-\;|\;
-PluralLocalization
-\;|\;
-UniquePrivilegedLocalization.}
-\]
-
-只有最后一项给项目 target，并需要额外 **Privileged Localization Principle**。
-
-由此得到 **Localization Reappearance Result**：one global subject不会消灭 `why this one?`，解释负担会在 global→local map 处重现。
+由此保持 **Localization Reappearance Result**：one global subject不会消灭 `why this one?`。
 
 专门论证：[`../research/arguments/global-subject-localization-quadrilemma.md`](../research/arguments/global-subject-localization-quadrilemma.md)
 
 ---
 
-## 12. Duplication / structural constraints
+## 12. Hybrid construction：Maximal-Fusion / Dominant-Locus
 
-### Kent Nimmo — First-Person Symmetry / Relational Individuation (2026)
-
-第一篇：perfectly duplicated phenomenal profile 内没有 unique selector。
-
-第二篇：在 restricted anti-haecceitism 下：
+当前 constructive stress-test：
 
 \[
 \boxed{
-RI+PerfectDuplication
-\Rightarrow
-\neg FurtherInternalFPFact.}
+ManySubjects
+\xrightarrow{GCP}
+GlobalSubject/Field
+\xrightarrow{DominantRole}
+OneDistinguishedLocalLocus.}
 \]
 
-不排除 external / primitive asymmetry-maker，但把正方负担推到 duplicated profile 外。
+它首次把 global closure 与 structural localization放在同一模型。
+
+真正缺失：
+
+\[
+DPB:\quad Dominant(E_D)\Rightarrow AbsoluteOrientation(E_D).
+\]
+
+当前：
+
+\[
+\boxed{DPB\text{ has no independent support}.}
+\]
+
+专门模型：[`../research/models/maximal-fusion-dominant-locus.md`](../research/models/maximal-fusion-dominant-locus.md)
+
+---
+
+## 13. Overlap：Global Closure 的共同压力点
+
+Osborn universalism产生 overlapping/gerrymandered subjects；Roelofs continuism允许 local informational regions嵌在 broader phenomenal field。
+
+Hedda Hassel Mørch 的 *Why Consciousness Can't Overlap* 因而成为 high-priority counterpressure。目前仅 metadata + abstract read，保留 candidate 状态，不作为已裁决反例。
+
+候选笔记：[`candidates/2026-10-05-morch-overlap.md`](candidates/2026-10-05-morch-overlap.md)
+
+---
+
+## 14. Duplication / structural constraints
+
+### Kent Nimmo — First-Person Symmetry / Relational Individuation (2026)
+
+perfect duplicate phenomenal profile内部没有 unique selector；在 restricted anti-haecceitism 下：
+
+\[
+\boxed{RI+PerfectDuplication\Rightarrow\neg FurtherInternalFPFact.}
+\]
+
+不排除 external / primitive asymmetry-maker，但把正方负担推到 duplicated profile外。
 
 专门笔记：[`nimmo-2026-relational-individuation.md`](nimmo-2026-relational-individuation.md)
 
 ### Symmetry / Structural Realism
 
-持续提供：
+持续要求：
 
 \[
 \boxed{individualization\not\Rightarrow privilege.}
 \]
 
+Kadić-style dominance必须通过 automorphism、near-symmetry robustness 与 privilege bridge tests。
+
 ---
 
-## 13. 最新 theory space
+## 15. 最新 theory space / verdict
 
 \[
 \boxed{
 C0:\ SubjectNeutralActuality
-\quad|\quad
+\;|\;
 C1:\ PluralSubjectBearingActuality
-\quad|\quad
+\;|\;
 C2:\ GlobalExperientialUnity
-\quad|\quad
+\;|\;
 C3:\ OneGlobalSubject.}
 \]
 
-C3 后仍有 localization fork：
+C3 后仍有 L0/L1/L2/L3 localization fork；项目 target = `C3 + L3`。
+
+当前关键结果：
 
 \[
-\boxed{
-L0:\ NoPrivilegedLocalization
-\quad|\quad
-L1:\ AllLociIdentity
-\quad|\quad
-L2:\ PluralLocalization
-\quad|\quad
-L3:\ UniquePrivilegedLocalization.}
-\]
-
-项目 target = `C3 + L3`。
-
-当前最重要的 results：
-
-\[
-\boxed{
-ABS+PRIM+PERSP+DESE\not\Rightarrow SubjectArity}
+\boxed{ABS+PRIM+PERSP+DESE\not\Rightarrow SubjectArity}
 \]
 
 \[
-\boxed{
-SubjectArity\not\Rightarrow GlobalExperientialUnity}
+\boxed{SubjectArity\not\Rightarrow GEU}
 \]
+
+但现在新增：
 
 \[
-\boxed{
-GlobalExperientialUnity\Rightarrow GlobalSubjectPressure
-}
+\boxed{FundamentalSubjectivity+Continuity\Rightarrow_{IBE}GEU}
 \]
+
+以及：
 
 \[
-\boxed{
-GlobalSubjectSingularity\not\Rightarrow LocalPrivilegeSingularity.}
+\boxed{SubjectUniversalism+CosmicFusion\Rightarrow UniqueMaximalCosmicSubject}
 \]
 
-所以正方完整 burden 已精确拆成：
+和：
 
 \[
-\boxed{WAAP+GEUP+GSP+LOC.}
+\boxed{GEU\Rightarrow GlobalSubjectPressure}
 \]
+
+最终仍有：
+
+\[
+\boxed{GlobalClosure+UniqueStructuralLocalization\not\Rightarrow AbsolutePrivilege.}
+\]
+
+所以正方 burden 仍是：
+
+\[
+\boxed{WAAP+GEUP+GSP+LOC,}
+\]
+
+但 GEUP/LOC 已从抽象空缺升级成 concrete models，可继续直接压力测试。
 
 ---
 
-## 14. 当前核心入口
+## 16. 当前核心入口
 
 - [`../synthesis/current-position.md`](../synthesis/current-position.md)
 - [`../synthesis/frontier-2026-10-05-arity-singularity-localization.md`](../synthesis/frontier-2026-10-05-arity-singularity-localization.md)
-- [`../research/arguments/actuality-arity-principle-audit.md`](../research/arguments/actuality-arity-principle-audit.md)
-- [`../research/arguments/global-experiential-unity-route.md`](../research/arguments/global-experiential-unity-route.md)
+- [`../research/arguments/global-closure-construction-test.md`](../research/arguments/global-closure-construction-test.md)
+- [`../research/models/maximal-fusion-dominant-locus.md`](../research/models/maximal-fusion-dominant-locus.md)
 - [`../research/arguments/global-experiential-unity-audit.md`](../research/arguments/global-experiential-unity-audit.md)
-- [`../research/arguments/subject-singularity-principle-audit.md`](../research/arguments/subject-singularity-principle-audit.md)
+- [`../research/arguments/global-experiential-unity-route.md`](../research/arguments/global-experiential-unity-route.md)
 - [`../research/arguments/global-subject-localization-quadrilemma.md`](../research/arguments/global-subject-localization-quadrilemma.md)
-- [`../research/arguments/absolute-orientation-epistemic-no-go.md`](../research/arguments/absolute-orientation-epistemic-no-go.md)
+- [`../research/arguments/actuality-arity-principle-audit.md`](../research/arguments/actuality-arity-principle-audit.md)
+- [`../research/arguments/actuality-arity-orthogonality.md`](../research/arguments/actuality-arity-orthogonality.md)
