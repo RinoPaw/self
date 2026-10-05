@@ -2,118 +2,132 @@
 
 本目录记录现有研究及其与本项目的关系，不把外部理论直接当成本项目立场。阅读层级与升级规则见 [`AGENTS.md`](AGENTS.md)。
 
-## 第一人称与自我定位
+当前项目已从泛化的 first-person realism 问题收缩成三道独立桥：
+
+\[
+\boxed{
+Vacuity
+\xrightarrow{WAAP}
+Arity
+\xrightarrow{SAP}
+Singularity
+\xrightarrow{LOC}
+Localization.}
+\]
+
+文献地图按这三道桥组织，同时保留 ordinary first-person、standpoint pluralism 与 actuality metaphysics 的背景资源。
+
+---
+
+## 1. Ordinary first-person / self-location
 
 ### John Perry — The Essential Indexical
 
 关键词：essential indexical、第一人称索引、自我定位。
 
-用途：分析“我”是否能够被完整第三人称描述消去。
+用途：第一人称 representation 不可消去，不自动推出 irreducible first-person fact。
 
 ### David Lewis — Attitudes De Dicto and De Se
 
 关键词：de se、self-location、centered worlds。
 
-用途：建立 ordinary self-location 与 absolute first-person 之间的边界。
+用途：建立 ordinary self-location 与 global absolute first-person 之间的边界。
 
 ### Peter Pagin — Constructing the World and Locating Oneself
 
 关键词：world-construction、self-location、correlation / anchoring。
 
-用途：即使 objective facts 与 experiential facts 都给出，二者怎样对应仍可能欠定；anchoring 不等于 absolutization。
+用途：objective facts 与 experiential facts 都给出后，其 correspondence 仍可能欠定；anchoring 不等于 absolutization。
 
 专门笔记：[`self-location-centered-worlds.md`](self-location-centered-worlds.md)
-
-## 现象学第一人称
 
 ### Dan Zahavi 等
 
 关键词：for-me-ness、mineness、pre-reflective self-consciousness。
 
-用途：解释 ordinary consciousness 的第一人称给予方式。该层不能直接升级成 global absolute first-person。
+用途：说明 ordinary consciousness 的第一人称给予方式；不得直接升级成 global privilege。
 
-## First-Person Realism
+---
+
+## 2. First-Person Realism / metaphysical privilege
 
 ### David Builes — Eight Arguments for First-Person Realism (2024)
 
-关键词：first-person realism、metaphysical privilege、symmetry、A-theory、anti-haecceitism、personal identity。
+关键词：first-person realism、metaphysical privilege、symmetry、A-theory、anti-haecceitism。
 
-用途：系统整理支持 first-person realism 的主要论证，并把 perspective privilege 与 actual-world privilege、present-time privilege 对照。
-
-重要边界：Builes 的 First-Person Realism 是宽范畴，可以包含 subjectively privileged、many-worlds 或 fragmentalist 版本。本项目要求更强的 simpliciter / globally non-duplicable privilege。
+用途：系统整理 first-person realism 的主要论证；其 FPR 是宽范畴，本项目 target 更强，要求 simpliciter / globally non-duplicable privilege。
 
 专门笔记：[`builes-2024-first-person-realism.md`](builes-2024-first-person-realism.md)
 
 DOI `10.1111/phc3.12959`。
 
-## 形而上特权与 liveness
-
 ### Benj Hellie — Against Egalitarianism
 
 关键词：egalitarianism、liveness、vertiginous problem。
 
-用途：最接近“多个真实意识之间仍有一层不可平权第一人称不对称”的经典路线之一。
+用途：最直接表达“完整 egalitarian inventory 是否仍遗漏 simpliciter liveness”的经典压力之一。
+
+DOI `10.1093/analys/ans101`。
 
 ### Caspar Hare — On Myself, and Other, Less Important Subjects
 
-关键词：egocentric presentism、perspectival realism、monadic presence。
+关键词：egocentric presentism、monadic presence、primitive privilege。
 
-用途：研究一个视角具有 primitive metaphysical privilege 的强版本。Hare 的 monadic presence 接近本项目 `LIVE simpliciter` 的 primitive endpoint。
+用途：提供 coherent primitive privileged-perspective endpoint；不能单独从 actuality 推出 privilege。
 
 ### Giovanni Merlo — Subjectivism and the Mental / The Metaphysical Problem of Other Minds
 
-关键词：subjectivism、feltness、metaphysical privilege、egalitarianism。
+关键词：subjectivism、feltness、metaphysical privilege、other minds。
 
-用途：把 ordinary phenomenal asymmetry 与 subjective facts / inegalitarian first-person reality 联系起来；项目用它压力测试 unary feltness 与 relational feltness。
+用途：压力测试 unary feltness、relational feltness 与 global privilege 的关系。
 
 关联：[`../research/arguments/feltness-residual-test.md`](../research/arguments/feltness-residual-test.md)
 
-## I–NOW–Actuality：当前核心正方邻居
+---
+
+## 3. I–NOW–Actuality：最接近项目 target 的正方邻居
 
 ### Hitoshi Nagai — The Opening: A Philosophy of Actuality (2007–2010)
 
 关键词：`I!`、actuality、NOW、opening、Leibnizian selection、sheer contingency。
 
-用途：目前与项目“many ordinary first-persons + one actual I!”最直接贴合的成熟路线。
-
-核心结构：
+核心：
 
 \[
-\boxed{WorldActuality=AbsoluteI=AbsoluteNOW}
+\boxed{WorldActuality=AbsoluteI=AbsoluteNOW.}
 \]
 
-Nagai 允许 world/person/time contents 保持不变，而 actuality / me-ness / now-ness 改变；因此 `opening` 更接近 mode of actual obtaining。其 actualization 最终诉诸 Leibnizian will / contingency，没有给 `why this one` 更深的 structural sufficient reason。
+用途：当前最成熟的 primitive / constitutive absolute-opening 邻近模型。其贡献是把 actuality、I、NOW 统一成 opening kind；限制是没有独立推出 actuality 必须具有 first-person arity。
 
 专门笔记：[`nagai-2007-2010-opening-actuality.md`](nagai-2007-2010-opening-actuality.md)
 
 ### Vincent Conitzer — The Personalized A-Theory of Time and Perspective
 
-关键词：I–NOW、personalized A-theory、第一人称与现在性的统一。
+关键词：I–NOW、personalized A-theory。
 
-用途：若已接受 metaphysical NOW，I 与 NOW 的联合特权可能比两个 independent primitives 更自然；属于 positive construction template，不单独证明 absolute I–NOW 存在。
+用途：说明在 already-privileged NOW 的背景下，I/NOW joint privilege 具有 positive construction value；不单独证明 absolute I–NOW。
 
 ### Bradford Skow — Relativity and the Moving Spotlight
 
-关键词：moving spotlight、relativity、supertime / superspacetime。
+关键词：moving spotlight、relativity、supertime。
 
-用途：约束 dynamic absolute-I–NOW model，尤其防止把辅助参数未解释地实体化为第二时间。
+用途：约束任何 dynamic I–NOW model，避免把 auxiliary parameter 无解释实体化成第二时间。
 
-## Standpoint / obtaining pluralism：当前最强反方
+---
+
+## 4. Standpoint / obtaining pluralism：强反方空间
 
 ### Martin A. Lipman — Subjective Facts about Consciousness (2023)
 
-关键词：subjects as metaphysical standpoints、subject-relative obtaining、subjective variegation。
+关键词：subjects as standpoints、subject-relative obtaining、subjective facts。
 
-用途：提供直接的 first-person obtaining-level countermodel：
-
-\[
-@_s(p)
-\]
-
-可以 genuinely obtain relative to subjects，所以：
+核心限制：
 
 \[
-\boxed{\text{world-side first-personal obtaining}\not\Rightarrow\text{one absolute subject}.}
+\boxed{
+world\text{-}side\ first\text{-}personal\ obtaining
+\not\Rightarrow
+one\ absolute\ subject.}
 \]
 
 专门笔记：[`lipman-2023-subjective-facts-consciousness.md`](lipman-2023-subjective-facts-consciousness.md)
@@ -122,188 +136,322 @@ DOI `10.3998/ergo.4649`。
 
 ### Martin Lipman — Standpoints: Time and Subjectivity (2026)
 
-关键词：standpoint pluralism、fragmentalism、metaphysical relativity、factual standpoint、being oneself、passage of time。
+关键词：standpoint pluralism、fragmentalism、metaphysical relativity、passage。
 
-用途：把 2023 路线扩展成完整 pluralist metaphysics，可同时保留 genuine first-person facts、real phenomenology、temporal passage、I/NOW perspectivality 与 other minds，而没有最终 privileged standpoint。
+用途：允许 genuine subjective/temporal standpoints，而没有最终 privileged standpoint；是 global absolute-center 项目的强反方。
 
 专门笔记：[`lipman-2026-standpoints.md`](lipman-2026-standpoints.md)
 
-### Claudio Calosi, Samuele Iaquinto & Roberto Loss — Fragmentalism: Putting All the Pieces Together (2026)
+### Claudio Calosi, Samuele Iaquinto & Roberto Loss — Fragmentalism (2026)
 
-关键词：purely perspectival facts、fragments、non-neutral reality、perspectival realism。
+关键词：purely perspectival facts、fragments、perspectival realism。
 
-用途：帮助区分 perspective as fact constituent 与 fact genuinely obtaining perspectivally；fragmentalist machinery 允许 incompatible perspectival facts 构成 reality，而不 privilege 某一 perspective。
+用途：展示 incompatible perspectival facts 可以构成 reality，而无需 privilege 一个 perspective。
 
 DOI `10.1080/00048402.2025.2515850`。
 
-## Mode of obtaining / constitutional perspectivalism
-
 ### Bahadir Eker — Perspectivalism about temporal reality (2023)
 
-关键词：componential perspectivality、constitutional perspectivality、p-facts、po-facts、mode of obtaining。
+关键词：constitutional perspectivality、mode of obtaining、p-facts、po-facts。
 
-Eker 区分：
-
-\[
-[\Pi_t(\varphi)]_a
-\]
-
-与：
+核心限制：
 
 \[
-[\varphi]_t.
-\]
-
-前者把 perspective 放进 fact-content；后者让 perspective 属于 fact 的 manner / mode of obtaining。其 framework 同时表明：
-
-\[
-\boxed{\text{constitutional perspectivality}\not\Rightarrow\text{perspective singleton}.}
+\boxed{
+constitutional\ perspectivality
+\not\Rightarrow
+perspective\ singleton.}
 \]
 
 专门笔记：[`eker-2023-constitutional-perspectivalism.md`](eker-2023-constitutional-perspectivalism.md)
 
 DOI `10.1007/s11229-023-04269-1`。
 
-## Actuality metaphysics：当前关键战场
+---
+
+## 5. Actuality metaphysics：AAO 与 C0
 
 完整 sweep：[`actuality-metaphysics-sweep.md`](actuality-metaphysics-sweep.md)
 
-Neutral package 汇总：[`neutral-actuality-options.md`](neutral-actuality-options.md)
+Neutral package：[`neutral-actuality-options.md`](neutral-actuality-options.md)
 
 ### David Lewis — indexical actuality
 
-关键词：modal realism、actuality、indexicality、world-relative actuality。
-
-用途：展示 actuality 可以 world-relative / indexical，而不需要 intrinsic absolute actuality property。Wayne A. Davis 2024 对这一语义路线提出较强语言学与认识论压力，因此当前不再让 neutral side 依赖 Lewis 一条路线。
+actuality 可被理解为 world-relative / indexical，而无 intrinsic absolute actuality property。Wayne A. Davis 2024 对该 semantic/epistemic route 提出压力，所以当前 neutral side 不依赖 Lewis 单线。
 
 ### Scott Soames — Actually (2007)
 
-关键词：world-state、actuality as instantiation、maximally informative state。
-
-用途：提供：
-
 \[
-Actual(W)\iff Inst(U,W)
+Actual(W)\iff Inst(U,W).
 \]
 
-这一 non-indexical、globally uncentered actuality template。`Instantiation → Absolute Center` 仍需额外 bridge。
+用途：提供 non-indexical、globally uncentered actuality template；`Instantiation → Absolute Center` 仍需额外 bridge。
 
-关联：[`../research/arguments/instantiation-actuality-gap.md`](../research/arguments/instantiation-actuality-gap.md)
+### Robert Merrihew Adams — Actuality
 
-### Robert Merrihew Adams — Actuality (2022)
+用途：actuality 可作为 fundamental ontological notion，而不带 subject arity。
 
-关键词：fundamental actuality、ontology、non-indexical actuality。
+### Phillip Bricker — Absolute Actuality and the Plurality of Worlds / A Sketch of Reality
 
-用途：提供 `actual` / `actually` 作为 fundamental ontological terms 的路线：
+关键词：absolute actuality、primitive actuality、perspectival concept、de se knowledge。
 
-\[
-\boxed{PrimitiveActuality\not\Rightarrow CenteredActuality.}
-\]
-
-neutral side 因而可以接受 fundamental actuality，而不接受 global subject-center。
-
-### Phillip Bricker — Absolute Actuality and the Plurality of Worlds (2006); A Sketch of Reality (2018/2020)
-
-关键词：absolute actuality、Leibnizian realism、primitive non-qualitative actuality、perspectival concept、de se knowledge。
-
-用途：这是本轮 actuality sweep 最强的 subject-arity countermodel。Bricker 的 one-property transformation package 可以同时给出：
+当前最重要结果：
 
 \[
+\boxed{
 ABS+PRIM+PERSP+DESE
+\not\Rightarrow
+FPAR.}
 \]
 
-即 absolute actuality、primitive actuality property、perspectival actuality concept 与 substantive de se actuality knowledge，却仍没有 actuality 的 subject argument，也不要求一个 unique absolute subject。
+即 **Actuality–Arity Orthogonality**。
+
+专门论证：[`../research/arguments/actuality-arity-orthogonality.md`](../research/arguments/actuality-arity-orthogonality.md)
+
+### Wayne A. Davis — Actuality, indexicality, and knowledge (2024)
+
+用途：削弱 Lewis-style indexical analysis；不影响 Soames/Adams/Bricker 提供的 non-indexical subject-neutral actuality space。
+
+---
+
+## 6. WAAP：Vacuous Actuality vs Subject-Bearing Actuality
+
+### Alfred North Whitehead — Process and Reality
+
+关键词：vacuous actuality、subject-superject、subjective immediacy、prehension、causal efficacy、principle of relativity、reformed subjectivist principle。
+
+Whitehead 明确拒绝：
+
+\[
+VacuousActuality
+=
+Actuality\land\neg SubjectiveImmediacy.
+\]
+
+其 package 给：
+
+\[
+\boxed{
+WhiteheadPackage\vdash\neg VacuousActuality.}
+\]
+
+但没有给：
+
+\[
+Meaning(Actual)\vdash Subjectivity.
+\]
+
+所以 Whitehead 是 **WAAP** 的 strongest current positive model，而非 general theorem。
+
+更重要：Whitehead actuality 可以 subject-bearing 且 plural，所以：
+
+\[
+\boxed{
+ActualityHasSubjectiveArity
+\not\Rightarrow
+OneGlobalSubject.}
+\]
+
+专门笔记：[`whitehead-vacuous-actuality.md`](whitehead-vacuous-actuality.md)
+
+专门论证：[`../research/arguments/actuality-arity-singularity-gap.md`](../research/arguments/actuality-arity-singularity-gap.md)
+
+### Hegel — Wirklichkeit / reflexive actuality
+
+用途：提供 actuality as self-expression / self-manifestation 的厚形而上学 precedent；不能把 Hegelian actuality definition 当作所有竞争 theory 共享的 premise。
+
+### Michel Henry — self-manifestation / auto-affection / ipseity
+
+用途：当前最强的 `SelfManifestation → Ipseity/Subjectivity` bridge 资源；若 WAAP 的 actuality→manifestation 前段获胜，Henry 可承担后一段。
+
+### Husserl / transcendental constitution
+
+用途：world/objectivity as such 指向 constituting subjectivity；但 transcendental intersubjectivity阻止简单 singleton inference。
+
+详见：[`actuality-subject-arity-sweep.md`](actuality-subject-arity-sweep.md)
+
+---
+
+## 7. SAP：Subject-Bearing Actuality → One Global Subject
+
+### Jonathan Schaffer — Priority Monism
+
+核心：
+
+\[
+\exists!x\;BasicConcrete(x),\quad x=Cosmos.
+\]
+
+用途：提供 one fundamental concrete whole；不推出 consciousness / subjecthood。
 
 因此：
 
 \[
-\boxed{ABS+PRIM+PERSP+DESE\not\Rightarrow FPAR.}
+\boxed{PriorityMonism\not\Rightarrow SAP.}
 \]
 
-这条结果记为 **Actuality–Arity Orthogonality**。
+### Philip Goff — Constitutive Cosmopsychism
 
-专门论证：[`../research/arguments/actuality-arity-orthogonality.md`](../research/arguments/actuality-arity-orthogonality.md)
+关键词：subject irreducibility、grounding by subsumption、cosmic subject。
 
-### Peter van Inwagen — Being and Possibility (2022/2023)
-
-关键词：realization、maximal possibility、exactly one actual world。
-
-用途：即使接受：
+strongest conditional construction：
 
 \[
-\exists!w\;ActualWorld(w),
+PriorityMonism
++
+ConsciousUltimate
++
+Subjecthood
++
+SinglePole
+\Rightarrow
+OneFundamentalSubject.
 \]
 
-仍然没有：
+用途：证明 SAP 是 serious construction；后几项仍是额外 mind-metaphysical commitments。
+
+### Nagasawa & Wager — Priority Cosmopsychism
+
+用途：明确把 priority monism 与 phenomenally propertied cosmos 组合；再次说明 one whole 不自动给 one mind。
+
+### Miri Albahari — Universal Consciousness
+
+关键词：universal consciousness、aperspectival consciousness。
+
+核心压力：
 
 \[
-\exists!s\;AbsoluteSubject(s).
+\boxed{
+FundamentalConsciousness
+\not\Rightarrow
+FundamentalSubject.}
 \]
 
-所以 world-level singularity 与 subject-level singularity 必须分开。
+### Gregory Miller — De-Combination Problem
 
-### Wayne A. Davis — Actuality, indexicality, and knowledge (2024)
+关键词：subject–subject parthood、unity、boundedness、de-combination。
 
-关键词：actuality semantics、indexicality、knowledge。
+用途：即使 cosmic subject成立，local subjects如何由它产生仍是独立难题。
 
-用途：削弱 Lewis-style indexical actuality 的语言学/认识论动机，也对用单纯 indexical semantics 解释 actuality knowledge 施压；但不影响 Bricker/Adams/Soames 提供的非-indexical subject-neutral actuality space。
+专门笔记：[`priority-cosmopsychism-subject-singularity.md`](priority-cosmopsychism-subject-singularity.md)
 
-## Actuality epistemology
+专门论证：[`../research/arguments/subject-singularity-principle-audit.md`](../research/arguments/subject-singularity-principle-audit.md)
 
-Bricker 的 epistemic discussion 还给出一个新边界：
+---
+
+## 8. Exclusion / maximality：local uniqueness 不能 globalize
+
+### Integrated Information Theory 3.0 / 4.0
+
+关键词：exclusion、maximality、complex、definite border、intrinsic information。
+
+IIT 可以在 overlapping candidates 中 principledly 选一个 local maximum / complex。
+
+但 IIT 4.0 会在 universal substrate 中继续寻找第二、第三个 disjoint complex。
+
+因此：
 
 \[
-SameEvidence\not\Rightarrow SameEpistemicStatus.
+\boxed{
+LocalExclusion
+\not\Rightarrow
+GlobalSingularity.}
 \]
 
-actual subject 与 merely possible qualitative duplicate 可以拥有相同 ordinary evidence，却因 actuality-sensitive perspective / entitlement 而具有不同 knowledge status。这不改变相同 likelihood 下：
+甚至：
 
 \[
-BF=1,
+Integration+Exclusion+Maximality
+\not\Rightarrow
+ExactlyOneSubjectInReality.
 \]
 
-但它说明 `Absolute-Orientation Epistemic No-Go` 应理解成 evidential discrimination no-go，而不是对一切 possible self-knowledge 的无条件证明。
+专门笔记：[`iit-exclusion-subject-singularity.md`](iit-exclusion-subject-singularity.md)
 
-专门论证：[`../research/arguments/epistemic-chauvinism-escape.md`](../research/arguments/epistemic-chauvinism-escape.md)
+这说明 subject-boundary machinery 即使很强，也自然停在 local uniqueness。
 
-## 地平线、自我与死亡
+---
 
-### J. J. Valberg — Dream, Death, and the Self
+## 9. LOC：One Global Subject → One Local Absolute Locus
 
-关键词：personal horizon、subject position、death、time。
+专门地图：[`global-subject-localization-options.md`](global-subject-localization-options.md)
 
-用途：研究当前主体中心、时间连续性和死亡之间的关系。
+专门论证：[`../research/arguments/global-subject-localization-quadrilemma.md`](../research/arguments/global-subject-localization-quadrilemma.md)
 
-## 第一人称理论的整体约束
+### Philip Goff — Localization Principle / Thinning Principle
 
-### Christian List — The First-Personal Argument Against Physicalism
+近年 cosmopsychist model 明确需要额外 law：
 
-关键词：first-personal facts、third-personal facts、non-supervenience、indexicality。
+- `Localization Principle`：哪些条件产生 local subjects；
+- `Thinning Principle`：local subject 继承 cosmic phenomenal field 的哪些 contents。
 
-用途：支持 third-personal facts 可能没有穷尽 first-person facts，但不直接推出 global absolute center。
+用途：直接证明 even ordinary local-subject structure 也不是 one cosmic subject 免费包含的，更不能自动给 unique privileged local locus。
 
-### Christian List — The Many-Worlds Theory of Consciousness (2023)
+### Daniel Kolak — I Am You / Open Individualism
 
-关键词：first-personally centred worlds、locus of subjectivity、many real centred worlds。
+关键词：open individualism、one subject、all persons。
 
-用途：提供强 non-solipsistic alternative：每个 subject 对应真实 first-personally centred world；first-person realism 不必等于 one absolute center。
+提供 clean countermodel：
 
-### Christian List — A Quadrilemma for Theories of Consciousness (2025)
+\[
+\exists!S\;NumericalSubject(S)
+\]
 
-关键词：first-person realism、non-solipsism、fragmentation、one world。
+可以同时：
 
-用途：系统整理 first-person facts、other minds、one-world 与 coherence 之间的逻辑压力；尤其支持把 `≤1` 与 `≥1` 分开。
+\[
+\forall E_i\;RealizedAt(S,E_i).
+\]
 
-## 对称性、结构与唯一化
+因此：
+
+\[
+\boxed{
+SubjectSingularity
+\not\Rightarrow
+Perspective/LocalizationSingularity.}
+\]
+
+### Miri Albahari — aperspectival ground
+
+用途：提供 no-privileged-local-bearer horn。
+
+### Constitutive cosmopsychism / absolute idealism
+
+用途：提供 one-global-subject / many-local-manifestations horn。
+
+因此 global→local 至少有：
+
+\[
+\boxed{
+NoLocalization
+\;|\;
+AllLociIdentity
+\;|\;
+PluralDerivativeLocalization
+\;|\;
+UniquePrivilegedLocalization.}
+\]
+
+只有最后一项给项目 target；它需要新的 **Privileged Localization Principle**。
+
+由此得到 **Localization Reappearance Result**：one global subject 不消灭 `why this one?`，解释负担在 global→local map 处重现。
+
+---
+
+## 10. Duplication / structural constraints
 
 ### Kent Nimmo — First-Person Symmetry / Relational Individuation (2026)
 
-关键词：perfect phenomenal duplication、first-person symmetry、relational individuation、anti-haecceitism、external indexing。
+第一篇：perfectly duplicated phenomenal profile 内没有 unique selector。
 
-用途：第一篇的 First-Person Symmetry Lemma 表明 shared phenomenal profile 内没有 unique selector；第二篇加入 restricted anti-haecceitist `Relational Individuation`，得到：
+第二篇加入 restricted anti-haecceitist `Relational Individuation`：
 
 \[
-\boxed{RI+PerfectDuplication\Rightarrow\neg FurtherInternalFPFact.}
+\boxed{
+RI+PerfectDuplication
+\Rightarrow
+\neg FurtherInternalFPFact.}
 \]
 
 这是 conditional result，不推出 `¬AbsoluteOrientation`；external / primitive asymmetry-maker 仍是逻辑选项。
@@ -312,75 +460,99 @@ BF=1,
 
 专门笔记：[`nimmo-2026-relational-individuation.md`](nimmo-2026-relational-individuation.md)
 
-### Symmetry and Symmetry Breaking — Stanford Encyclopedia of Philosophy
+### Symmetry and Symmetry Breaking — SEP
 
-关键词：symmetry、invariance、symmetry arguments、Curie principle、principle of sufficient reason。
+用途：若 candidates 被 relevant structure 的 symmetry 交换，pure deterministic structural rule 很难 canonical 地 privilege 一个。
 
-用途：若候选被完整 relevant structure 的 symmetry 交换，pure deterministic structural rule 很难 canonical 地偏爱其中一个。
+### Structural Realism — SEP
 
-### Structural Realism — Stanford Encyclopedia of Philosophy
-
-关键词：invariance、group theory、structural individuation、automorphism。
-
-用途：明确：
+核心纪律：
 
 \[
-\text{individualization}\not\Rightarrow\text{privilege}.
+\boxed{individualization\not\Rightarrow privilege.}
 \]
 
-### 模型论中的自同构 / definability（工具性类比）
+---
 
-无参数可定义元素必须满足相关 preservation 条件；actual rigidity 本身一般不足以推出 explanatory definability。
+## 11. 当前文献驱动理论空间
 
-用途：形式化 `Symmetry Obstruction`、`Invariance–Definability Gap` 与 `Type-Indiscernibility No-Go`。
+当前不再是简单：
 
-## 当前最重要的文献驱动结论
+\[
+Pluralism\quad|\quad AbsoluteOpening.
+\]
 
-当前 literature map 把理论空间压到三个主方向：
+更准确：
 
 \[
 \boxed{
-\text{Constitutional Pluralism}
+C0:\ SubjectNeutralActuality
 \quad|\quad
-\text{Primitive Absolute Opening}
+C1:\ PluralSubjectBearingActuality
 \quad|\quad
-\text{Derived Absolute Orientation}
+C2:\ SingularGlobalSubject
 }
 \]
 
-最新约束：
-
-- Lipman + Eker 使 strongest pluralist 进入 obtaining / constitution level；
-- Nagai 给最成熟的 primitive absolute-opening 邻近模型；
-- Nimmo 使 phenomenal/mineness profile 的 internal unique-selector route 更难成立，但不排除 profile 外 primitive asymmetry；
-- Bricker actuality sweep 进一步隔离出 **subject arity**：absolute、primitive、perspectival、de se actuality 都不足以推出 first-person arity；
-- Derived route 仍要通过 Natural Pointing → Definability → Privilege / Actuality Bridge。
-
-因此 actuality 方向当前最窄的正方问题是：
+然后 C2 仍有 localization fork：
 
 \[
-\boxed{\text{为什么 reality's actuality 本身必须具有 subject arity？}}
+\boxed{
+L0:\ NoPrivilegedLocalization
+\quad|\quad
+L1:\ AllLociIdentity
+\quad|\quad
+L2:\ PluralLocalization
+\quad|\quad
+L3:\ UniquePrivilegedLocalization.}
 \]
 
-这比“actuality 是否 absolute / primitive / perspectival”更精确；这些性质已经有不带 absolute subject 的成熟理论模板。
+项目 target = C2 + L3。
 
-## 当前核心论证文件
+当前 strongest literature-driven constraints：
 
-- [`../research/arguments/residual-fact-problem.md`](../research/arguments/residual-fact-problem.md) — strongest pluralist facts 全部给出后是否仍有 residual absolute actuality。
-- [`../research/arguments/center-content-obtaining-gap.md`](../research/arguments/center-content-obtaining-gap.md) — content coordinate、perspectival obtaining、absolute orientation 三层区分。
-- [`../research/arguments/obtaining-mode-pluralization.md`](../research/arguments/obtaining-mode-pluralization.md) — obtaining-level perspectivality 仍可多中心。
-- [`../research/arguments/actuality-arity-orthogonality.md`](../research/arguments/actuality-arity-orthogonality.md) — absolute/primitive/perspectival actuality 与 first-person arity 的独立性。
-- [`../research/arguments/epistemic-chauvinism-escape.md`](../research/arguments/epistemic-chauvinism-escape.md) — evidence 与 actuality-sensitive epistemic entitlement 的分离。
-- [`../research/arguments/non-solipsistic-common-core-constraint.md`](../research/arguments/non-solipsistic-common-core-constraint.md) — absolute layer 相对 strongest common core 的解释成本。
-- [`../research/models/minimal-absolute-opening.md`](../research/models/minimal-absolute-opening.md) — primitive positive survivor。
-- [`../research/arguments/symmetry-obstruction.md`](../research/arguments/symmetry-obstruction.md) — deterministic structural centering 的 symmetry 限制。
+\[
+\boxed{
+ABS+PRIM+PERSP+DESE\not\Rightarrow FPAR
+}
+\]
 
-## 时间形而上学邻近研究
+\[
+\boxed{
+SubjectiveArity\not\Rightarrow GlobalSubjectSingularity
+}
+\]
 
-继续跟踪 moving spotlight 的 single/many-present 版本、temporal passage 与 meta-time regress、A/B-theory、relativity 中 simultaneity/time functions/causal structure、constitutional perspectivalism / fragmentalist time。
+\[
+\boxed{
+LocalExclusion\not\Rightarrow GlobalSingularity
+}
+\]
 
-## 数学与结构工具
+\[
+\boxed{
+SubjectSingularity\not\Rightarrow LocalizationSingularity.}
+\]
 
-继续保留 automorphism / symmetry breaking、definability / definable closure、canonical construction / natural transformation、fiber bundles / natural sections、global sections、representability / universal properties、global constraints / fixed points、boundary conditions、global rigidity。
+所以整个 positive burden现已拆成：
 
-这些工具只能帮助表达“怎样可能 distinguished 一个 event / trajectory”；它们本身不提供 first-person privilege semantics。
+\[
+\boxed{
+WAAP\quad+\quad SAP\quad+\quad LOC.}
+\]
+
+三条均不能互相代替。
+
+---
+
+## 12. 当前核心论证入口
+
+- [`../synthesis/current-position.md`](../synthesis/current-position.md) — 当前权威研究立场。
+- [`../synthesis/frontier-2026-10-05-self-manifesting-actuality.md`](../synthesis/frontier-2026-10-05-self-manifesting-actuality.md) — 最新正方 frontier。
+- [`../research/arguments/actuality-arity-orthogonality.md`](../research/arguments/actuality-arity-orthogonality.md) — AAO。
+- [`../research/arguments/actuality-arity-principle-audit.md`](../research/arguments/actuality-arity-principle-audit.md) — WAAP audit。
+- [`../research/arguments/actuality-arity-singularity-gap.md`](../research/arguments/actuality-arity-singularity-gap.md) — arity ≠ singularity。
+- [`../research/arguments/subject-singularity-principle-audit.md`](../research/arguments/subject-singularity-principle-audit.md) — SAP audit。
+- [`../research/arguments/global-subject-localization-quadrilemma.md`](../research/arguments/global-subject-localization-quadrilemma.md) — LOC / Localization Reappearance。
+- [`../research/arguments/primitive-actuality-replacement-test.md`](../research/arguments/primitive-actuality-replacement-test.md) — CC3。
+- [`../research/arguments/absolute-orientation-epistemic-no-go.md`](../research/arguments/absolute-orientation-epistemic-no-go.md) — evidential discrimination no-go。
