@@ -2,7 +2,7 @@
 
 > 状态：工作假说，不视为已证明结论。
 >
-> 最后更新：2026-10-05。本文件是当前权威摘要；旧 `frontier-*` 保留研究历史。
+> 最后更新：2026-10-05。本文件是当前权威摘要；旧 `frontier-*` 保留研究历史。最新 derived-privilege 收口见 [`frontier-2026-10-05-dominance-privilege-near-closure.md`](frontier-2026-10-05-dominance-privilege-near-closure.md)。
 
 ## 1. 核心 target
 
@@ -36,6 +36,8 @@
 \neq
 \text{one global subject}
 \neq
+\text{one structurally dominant local locus}
+\neq
 \text{one privileged local locus}.}
 \]
 
@@ -67,6 +69,8 @@ IrreducibleFirstPersonFact.}
 \]
 
 即使 strong FP facts 成立，也没有得到 global unity、global subject 或 local absolute privilege。
+
+Builes 2024 的八类 First-Person Realism arguments最稳支持 broad / ordinary first-person reality 的 metaphysical seriousness；现有 audit没有发现其中哪一项能直接提供 `structural dominance -> absolute privilege` 的 bridge。
 
 ---
 
@@ -134,15 +138,13 @@ SubjectiveArity(R).}
 
 ---
 
-## 5. GEUP：从“无正方资源”升级为两条 constructive routes
+## 5. GEUP：已有 constructive / abductive routes，但无 general entailment
 
 定义：
 
-### GEUP — Global Experiential Unity Principle
-
 \[
 \boxed{
-SubjectiveArity(R)
+GEUP:\quad SubjectiveArity(R)
 \Rightarrow
 GlobalExperientialUnity(R).}
 \]
@@ -158,13 +160,13 @@ SubjectiveArity
 GlobalExperientialUnity.}
 \]
 
-因此 **general GEUP theorem 仍失败**。
+因此 **general GEUP theorem 失败**。
 
-但本轮找到两条真正有内容的 constructive route。
+但已有两条真正有内容的 constructive route。
 
-### 5.1 Roelofs 2024 — field-first Continuism
+### 5.1 Roelofs — field-first Continuism
 
-Roelofs区分 informational boundedness 与 phenomenal boundedness，并主张：若 consciousness 是 fundamental，而 nature 在 fundamental-causal level 连续，则 phenomenal unity 更自然跟 fundamental continuity 对齐，而不是跟渐变、无明显 sharp cutoff 的 informational boundaries 对齐。
+若 consciousness fundamental，而 fundamental nature / causal structure连续，则 phenomenal unity更自然跟 fundamental continuity 对齐，而不是跟渐变、无 sharp cutoff 的 informational boundaries 对齐。
 
 可重构：
 
@@ -179,46 +181,27 @@ AntiArbitraryBoundary
 PhenomenalUnboundedness.}
 \]
 
-若 relevant fundamental structure globally connected，则：
+若 relevant fundamental structure globally connected：
 
 \[
-\boxed{PhenomenalUnboundedness\Rightarrow GEU.}
+PhenomenalUnboundedness\Rightarrow GEU.
 \]
-
-所以 GEUP 的裁决必须更新为：
-
-\[
-\boxed{
-GEUP\text{ has no general entailment, but now has serious abductive support}.}
-\]
-
-主要压力仍是：为什么 phenomenal unity 必须 track fundamental causal continuity；sharp phenomenal boundaries原则上也可能由独立 law产生。
 
 ### 5.2 Osborn / Goff — composition-first closure
 
-Osborn 2024 接受 unrestricted subject composition：任意 subjects 的 mereological sum 本身也是 subject。
-
-若 \(B\) jointly exhaust cosmos，并：
+若 unrestricted subject composition成立，并且：
 
 \[
-C=\bigoplus B,
+C=\bigoplus B
 \]
 
-则：
+是 all relevant subjects 的 total cosmic fusion，则：
 
 \[
 \boxed{Subject(C).}
 \]
 
-Osborn明确接受：the sum of everything, the cosmos, is a subject。
-
-在 extensional mereology 下，total cosmic fusion唯一，因此得到：
-
-\[
-\boxed{UniqueMaximalCosmicSubject.}
-\]
-
-注意这不是 `only one subject`；universalism同时产生大量 overlapping / gerrymandered subjects。
+在 extensional mereology 下可得到 unique maximal cosmic subject，但不是 only subject：universalism同时产生大量 overlapping / gerrymandered subjects。
 
 而且：
 
@@ -229,35 +212,80 @@ UniqueMaximalCosmicSubject
 GlobalCoConsciousField.}
 \]
 
-还需 experience-inheritance / universal bonding assumption。暂称 **Fusion-to-Field Gap**。
+仍需 experience-inclusion / phenomenal-bonding assumption。此缺口记为 **Fusion-to-Field Gap**。
 
-### 5.3 Global Closure Package
+### 5.3 Revised Global Closure Package
 
-两条 route 可组合：
+旧版：
 
 \[
-GCP=SubjectUniversalism
-+MaximalFusion
-+FieldContinuity
-+ExperienceInclusion.
+GCP=SU+MF+FC+EIP.
 \]
 
-若 GCP 成立：
+Mørch overlap audit后必须显式加入 subject ontology：
+
+\[
+\boxed{GCP^*=SU+MF+FC+EIP+SO.}
+\]
+
+其中 `SO` 规定 local/global subjects 的 boundary / overlap metaphysics。
+
+当前 GEUP verdict：
 
 \[
 \boxed{
-\exists!G\;MaximalGlobalSubject(G)
-\land
-GEU(G).}
+\text{serious constructive/abductive support, no general entailment}.}
 \]
-
-这是目前最强的 constructive global-closure model。
-
-但 GCP 的各组成项都是 substantive commitments，不是 WAAP 免费推出的。
 
 ---
 
-## 6. GSP：Christmann 2026 给 GEU → Global Subject Pressure
+## 6. Mørch：Global Closure 必须支付 subject-boundary cost
+
+Mørch 的 strongest result 是条件性的：
+
+\[
+\boxed{
+DeflationaryBundle
++
+ExclusiveBoundedness
++
+SingleUnityType
+\Rightarrow
+NoPhenomenalOverlap.}
+\]
+
+在此 package 下，若大 subject `ABC` 与小 subject `AB` phenomenal-overlap，则 `AB` 必须既与 `C` unified，又不与 `C` unified，产生 contradiction。
+
+但该 result 不是：
+
+\[
+Consciousness\Rightarrow NoOverlap.
+\]
+
+substantive subjects、non-exclusive bundle views、multiple unity relations等都可解除逻辑矛盾，只支付额外 ontology / parsimony cost。
+
+Goff/Roelofs 又明确 defend `Weak Sharing`：一个 token experience原则上可属于多个 overlapping subjects。
+
+所以真正分歧是：
+
+\[
+\boxed{
+ExclusiveBoundarySubjecthood
+\quad vs\quad
+OverlapTolerantSubjecthood.}
+\]
+
+因此：
+
+\[
+\boxed{Morch\text{ raises GCP cost but does not refute GEU}.}
+\]
+
+Global Closure 不能再对 subject boundaries 保持中立。
+
+---
+
+## 7. GSP：Christmann 2026 给 GEU → Global Subject Pressure
 
 Christmann针对 Yetter-Chappell-style global phenomenal tapestry。
 
@@ -277,7 +305,7 @@ GlobalSubjectPressure.}
 
 这是当前最有 derivational value 的 C2→C3 bridge。
 
-Roelofs 与 Christmann 现在第一次形成一条连续正方链：
+Roelofs 与 Christmann现在形成连续正方链：
 
 \[
 \boxed{
@@ -288,11 +316,11 @@ GEU
 GlobalSubjectPressure.}
 \]
 
-但两步都是 conditional / abductive，不是 theorem。
+两步都仍是 conditional / abductive。
 
 ---
 
-## 7. Theory space 仍至少四层
+## 8. Theory space 仍至少四层
 
 ### C0 — Subject-neutral actuality
 
@@ -316,7 +344,7 @@ Whitehead / Lipman / Eker / IIT-style plural domains邻近。
 GEU.
 \]
 
-Roelofs continuism、Yetter-Chappell tapestry是不同构造；Christmann对此层施加 global-subject pressure。
+Roelofs continuism、Yetter-Chappell tapestry提供不同构造；Christmann对此层施加 global-subject pressure。
 
 ### C3 — One global subject
 
@@ -328,7 +356,7 @@ priority cosmopsychism、Osborn-style unique maximal cosmic subject、absolute i
 
 项目 target 还比 C3 更强，因为 C3 后仍有 localization fork。
 
-positive ladder保持：
+因此：
 
 \[
 \boxed{
@@ -343,32 +371,11 @@ C3
 AbsoluteLocalOrientation.}
 \]
 
-但 C1→C2 现在终于有 serious constructive mechanism，而不再是完全空白。
-
----
-
-## 8. Overlap 是 Global Closure 的共同压力点
-
-Osborn universalism产生大量 overlapping subjects；Roelofs continuism允许 ordinary informational regions嵌在更大的 shared phenomenal field中。
-
-Mørch 的 manuscript *Why Consciousness Can't Overlap* 对两条路线都构成高优先级反压力：其摘要主张，在 deflationary bundle view 下 overlap会产生 contradiction；在 substantive subject view下也高度 unparsimonious。
-
-当前只有 metadata + abstract-level audit，所以不能把它当作已裁决反例。
-
-因此记录：
-
-\[
-\boxed{
-Overlap\text{ is now a central stress test for Global Closure}.}
-\]
-
-完整 full-text audit 尚待完成。
-
 ---
 
 ## 9. LOC：One Global Subject 仍不推出 One Local Absolute Locus
 
-即使让步：
+即使：
 
 \[
 \exists!G\;GlobalSubject(G),
@@ -404,33 +411,22 @@ OnePrivilegedLocalLocus.}
 
 ---
 
-## 10. Kadić 2024：PLP 第一个 structural prototype
+## 10. Kadić：PLP 的 structural selection prototype
 
-Kadić 的 Dynamic Monadic Panpsychism不组合 subjects，而让 relational structure把 full human experience赋给 exactly-one dominant microsubject：
+Kadić 的 Dynamic Monadic Panpsychism让 relational structure 把 full human experience赋给 exactly-one dominant microsubject；role可动态换 bearer。
 
-\[
-\boxed{
-RelationalWhole(G)
-\Rightarrow
-\exists!v^*\;Dominant(v^*).}
-\]
+这给 PLP 一个真实的 **selection analogue**，比 bare static pointer更强。
 
-role 可以动态移动，因此它比 static pre-labelled soul / pointer更接近 role-first architecture。
+但 literature 仍存在：
 
-这给 PLP 一个很好的 **selection analogue**。
+- DMP exactly-one dominant；
+- GMP many full-experience microsubjects；
+- causal-neighborhood / gradual dominance alternatives；
+- dominant determination brute 化。
 
-但 contemporary criticism正好命中其软肋：相似 causal neighbourhood 中可能有大量近似候选，没有 clear ground说明 why exactly one dominant。
+所以 relational structure本身没有自动给 exactly-one dominance。
 
-因此 structural dominance至少必须通过：
-
-- existence；
-- uniqueness；
-- automorphism / symmetry；
-- near-symmetry robustness；
-- dynamic continuity；
-- phenomenal-job test。
-
-即使全部成功，也还有：
+即使 D 成功，仍有：
 
 \[
 \boxed{
@@ -439,85 +435,160 @@ UniqueStructuralDominance
 AbsoluteFirstPersonPrivilege.}
 \]
 
-暂称 **Dominance-to-Privilege Gap**。
+暂称 **Dominance–Privilege Orthogonality (DPO)**。
 
-所以 Kadić提升了 PLP 的 mechanism vocabulary，却没有提供 privilege bridge。
+核心纪律：
+
+\[
+\boxed{Selection\neq Privileging.}
+\]
 
 ---
 
-## 11. Maximal-Fusion / Dominant-Locus model
+## 11. DPB：当前没有 surviving derived bridge
 
-本轮把两类资源拼成 constructive stress-test：
-
-\[
-\boxed{
-ManySubjects
-\xrightarrow{GCP}
-GlobalSubject/Field
-\xrightarrow{DominantRole}
-OneDistinguishedLocalLocus.}
-\]
-
-该模型可得到：
+MFDL 需要：
 
 \[
-GlobalClosure
-+
-UniqueStructuralLocalization.
-\]
-
-但项目最终需要：
-
-\[
-Dominant(E_D)
+DPB:\quad Dominant(E_D)
 \Rightarrow
 AbsoluteOrientation(E_D).
 \]
 
-这条 **Dominance–Privilege Bridge (DPB)** 当前无 independent support。
+已审候选：
+
+### Definition / identity
+
+把 `absolute` 定义成 `dominant` → restatement / bootstrapping。
+
+### Causal / informational centrality
+
+解释 control / access / integration，不解释 first-person actuality significance。
+
+### Phenomenal maximality
+
+面对 duplication、degree/kind gap；richness不等于 simpliciter rank。
+
+### Role-first constitutive bridge
+
+可让 dominance 与 privilege非偶然共现，但 explanatory direction反转：privilege来自 centered actuality，dominance只是 realization / diagnostic。
+
+因此：
+
+\[
+\boxed{
+GCP^*+UniqueDominance
+\not\Rightarrow
+AbsoluteOrientation.}
+\]
+
+---
+
+## 12. Self-manifestation opening 也没有完成 DPB
+
+最有希望的 nontrivial route 曾是：
+
+\[
+GlobalActuality
+\to
+UniqueMaximalSelfManifestation(E_D)
+\to
+AbsoluteOrientation(E_D).
+\]
+
+因为 self-manifestation 与 actuality / ipseity 有直接理论联系。
+
+但出现 **Manifestation Rank Gap**：
+
+### Henry
+
+one absolute Life self-reveals / self-affects through multiple individual livings：
+
+\[
+OneAbsoluteLife
++
+ManyLocalIpseities.
+\]
+
+### Fasching
+
+presence dimension本身 subject-local：
+
+\[
+D_{I_1},D_{I_2},\ldots,D_{I_n}.
+\]
+
+没有天然跨主体 ranking。
+
+### Valberg
+
+whole-world / absolute-looking personal horizon也可以 across persons replicate。
+
+因此：
+
+\[
+\boxed{
+ManifestationPlurality
+\not\Rightarrow
+UniqueManifestationMaximum.}
+\]
+
+即使人为加入 unique maximum，仍需：
+
+\[
+MaxManifest(E_D)
+\Rightarrow
+AbsoluteOrientation(E_D),
+\]
+
+也就是 DPB 本身。
 
 所以：
 
 \[
 \boxed{
-GCP+Dominance
+UniqueMaximalSelfManifestation
 \not\Rightarrow
-AbsoluteOrientation.}
+AbsolutePrivilege
+}
 \]
 
-如果 DPB最终只能 primitive stipulate，hybrid model未必比 Role-First \(\Omega[R;E^*]\) 有 explanatory gain。
+目前仍有 coherent countermodel space。
 
 ---
 
-## 12. Localization Reappearance Result 保持
+## 13. Localization Reappearance Result + Derived PLP Near-Closure
 
-PLP / DPB 的来源仍落入既有 funnel：
-
-- local-profile dominance → duplication / symmetry；
-- global structural role → uniqueness仍不等于 first-person privilege；
-- primitive `AbsRealizes(G,E^*)` / DPB → source/restatement problem；
-- all-loci realization → Open Individualism / no unique privilege。
-
-所以：
+原 LRR 保持：
 
 \[
-\boxed{\text{Localization Reappearance Result}.}
+\boxed{\text{GlobalSubjectSingularity}\not\Rightarrow\text{LocalPrivilegeSingularity}.}
 \]
 
-从 many local subjects 上升到 one global subject，不会消除 `why this local subject?`；本轮只是让 global closure 与 local structural selection都更具体。
+本轮进一步得到一个更窄的 research verdict：
 
----
+\[
+\boxed{\text{Derived PLP Near-Closure}.}
+\]
 
-## 13. 当前四道关的裁决
+含义不是“不可能存在 derived PLP”。
 
-| Gate | strongest positive resource | strongest resistance | verdict |
-|---|---|---|---|
-| WAAP | Whitehead anti-vacuous actuality；Hegel/Henry | Bricker/Soames/Adams | serious, unproven |
-| GEUP | **Roelofs continuism IBE；Osborn/Goff closure constructions** | Whitehead/Lipman/IIT；tracking/threshold/overlap pressures | **serious constructive/abductive support, no general entailment** |
-| GSP | Christmann 2026；Osborn cosmic-subject construction | GEU may be non-agentive/non-subject field | serious conditional pressure |
-| LOC/PLP | **Kadić dominant-role prototype；role-first possibility** | symmetry/near-symmetry；Open Individualism；plural manifestations；Dominance-to-Privilege Gap | structural mechanism vocabulary improved; no privilege bridge |
+含义是：**在当前已审 literature / model space 中，没有 surviving non-primitive route 从 structural / phenomenal selection 推到 simpliciter first-person privilege。**
 
-因此 original thesis 仍需四次结构升级，但中间两段已经从纯空缺变成可压力测试的 concrete models。
+所有已审候选目前落入：
+
+1. definition / restatement；
+2. causal / informational relevance gap；
+3. duplication / manifestation-rank gap；
+4. constitutive retreat to Role-First centered actuality。
+
+因此当前真正开放的问题变成：
+
+\[
+\boxed{
+\text{What kind of fact could be privilege-sensitive rather than merely selection-sensitive?}
+}
+\]
 
 ---
 
@@ -529,6 +600,8 @@ PLP / DPB 的来源仍落入既有 funnel：
 C0\quad vs\quad C1/C2/C3.
 \]
 
+WAAP有 serious model，无 theorem。
+
 ### U2 — Global closure
 
 若 WAAP成立：
@@ -537,11 +610,9 @@ C0\quad vs\quad C1/C2/C3.
 C1\quad vs\quad C2/C3.
 \]
 
-此前 C1→C2 无正方 bridge；现在 Roelofs / Osborn / Goff 给 serious constructions，但反方仍可拒绝 continuity / universal composition / overlap。
+Roelofs / Osborn / Goff让 C1→C2/C3 从“无桥”升级成 live theory competition；Mørch则提高 overlap/subject-boundary成本。
 
-所以 U2从“完全无桥”升级成 **live theory competition**。
-
-### U3 — Localization
+### U3 — Localization / privilege
 
 若 C3成立：
 
@@ -549,9 +620,9 @@ C1\quad vs\quad C2/C3.
 L0\;|\;L1\;|\;L2\;|\;L3.
 \]
 
-Kadić-style dominance给 L3 一个 structural prototype，但 DPB仍缺失。
+Kadić-style dominance让 **local selection** 获得 structural prototype，但 DPO / MRG 说明 **absolute significance** 仍无 derived bridge。
 
-weaker commitments仍保留 provisional abductive lead。
+因此 weaker commitments仍保留 provisional abductive lead。
 
 这仍不是：
 
@@ -585,7 +656,7 @@ Bricker-style actuality-sensitive entitlement允许：
 SameEvidence\not\Rightarrow SameEpistemicStatus,
 \]
 
-但不会给 DPB/PLP 新的 metaphysical evidence。
+Kadić-style dominant subject也可从内部说 `this one — me`；但这些最多帮助 knowledge / acquaintance condition，不会给 DPB/PLP 新的 metaphysical grounding。
 
 ---
 
@@ -599,24 +670,30 @@ Constitutive Role-First Centered Actuality：
 
 仍是 coherent、anti-haecceitistic absolute endpoint。
 
-但当前 positive landscape 已明显改善：
+当前 positive landscape 已明显改善：
 
 - WAAP：Whitehead 给 subject-bearing actuality；
-- GEUP：Roelofs给 field-first abductive bridge，Osborn/Goff给 composition-first closure；
+- GEUP：Roelofs给 field-first abductive route，Osborn/Goff给 composition-first closure；
 - GSP：Christmann给 global-unity→subject pressure；
-- LOC：Kadić给 structural dominance prototype。
+- localization：Kadić给 structural selection prototype。
 
-所以我们不再面对一整串纯 stipulations，而是有一条逐段可建模、可反驳的 research ladder。
+所以前半条链已经从纯 stipulation 变成逐段可建模、可反驳的 research programme。
 
-同时最终最硬的 gap也更突出：
+但最后一步出现最稳定的收敛：
 
 \[
 \boxed{
+Actuality
+\to
+Subjectivity
+\to
 GlobalClosure
-+
-UniqueStructuralLocalization
-\not\Rightarrow
-AbsoluteFirstPersonPrivilege.}
+\to
+GlobalSubject
+\to
+StructuralLocalization
+\;\not\Rightarrow\;
+AbsolutePrivilege.}
 \]
 
 因此当前总裁决仍是：
@@ -626,26 +703,38 @@ AbsoluteFirstPersonPrivilege.}
 \text{Absolute-first-person thesis remains coherent but multiply underdetermined}.}
 \]
 
-其中最值得继续攻的已经从 generic GEUP 转成两个更精确的问题：
+在 local absolute orientation 上，当前主要剩三个出口：
 
-1. **Continuism / Universalism 能否通过 overlap、tracking、boundary tests？**
-2. **Dominance–Privilege Bridge 能否获得 independent metaphysical semantics？**
+1. **Role-First / primitive constitutive centered actuality**：\(\Omega[R;E^*]\)；
+2. **new genuinely privilege-sensitive law**：目前 literature 中尚未找到；
+3. **reject unique local absolute privilege**。
 
----
+最新研究优先级因此是：
+
+\[
+\boxed{
+PrivilegeSensitiveLaw
+>
+FurtherStructuralSelection
+>
+GenericFirstPersonPhenomenology.}
+\]
+
+继续找更聪明的 selector / dominance rule 的边际收益已明显下降；真正需要的新东西必须解释 **why this selected role has absolute first-person significance**。
 
 ## 最新入口
 
+- [`frontier-2026-10-05-dominance-privilege-near-closure.md`](frontier-2026-10-05-dominance-privilege-near-closure.md)
 - [`frontier-2026-10-05-arity-singularity-localization.md`](frontier-2026-10-05-arity-singularity-localization.md)
 - [`frontier-2026-10-05-self-manifesting-actuality.md`](frontier-2026-10-05-self-manifesting-actuality.md)
+- [`../literature/morch-2025-consciousness-overlap.md`](../literature/morch-2025-consciousness-overlap.md)
 - [`../literature/osborn-2024-subject-universalism.md`](../literature/osborn-2024-subject-universalism.md)
 - [`../literature/roelofs-2024-continuism.md`](../literature/roelofs-2024-continuism.md)
 - [`../literature/kadic-2024-dominant-microsubject.md`](../literature/kadic-2024-dominant-microsubject.md)
 - [`../literature/christmann-2026-global-subject-pressure.md`](../literature/christmann-2026-global-subject-pressure.md)
-- [`../literature/candidates/2026-10-05-morch-overlap.md`](../literature/candidates/2026-10-05-morch-overlap.md)
 - [`../research/arguments/global-closure-construction-test.md`](../research/arguments/global-closure-construction-test.md)
+- [`../research/arguments/dominance-privilege-bridge-audit.md`](../research/arguments/dominance-privilege-bridge-audit.md)
+- [`../research/arguments/unique-maximal-self-manifestation-audit.md`](../research/arguments/unique-maximal-self-manifestation-audit.md)
 - [`../research/models/maximal-fusion-dominant-locus.md`](../research/models/maximal-fusion-dominant-locus.md)
-- [`../research/arguments/global-experiential-unity-route.md`](../research/arguments/global-experiential-unity-route.md)
 - [`../research/arguments/global-experiential-unity-audit.md`](../research/arguments/global-experiential-unity-audit.md)
 - [`../research/arguments/global-subject-localization-quadrilemma.md`](../research/arguments/global-subject-localization-quadrilemma.md)
-- [`../research/arguments/actuality-arity-principle-audit.md`](../research/arguments/actuality-arity-principle-audit.md)
-- [`../research/arguments/actuality-arity-orthogonality.md`](../research/arguments/actuality-arity-orthogonality.md)
