@@ -2,7 +2,9 @@
 
 > 状态：工作假说，不视为已证明结论。
 >
-> 最后更新：2026-10-05。本文件是当前权威摘要；历史过程保留在 `frontier-*`。最新 frontier：[`frontier-2026-10-05-unitary-singularity.md`](frontier-2026-10-05-unitary-singularity.md)。
+> 最后更新：2026-10-05。本文件是当前权威摘要；历史过程保留在 `frontier-*`。
+>
+> 最新 frontier：[`frontier-2026-10-05-presence-route-closure.md`](frontier-2026-10-05-presence-route-closure.md)。
 
 ## 1. Core target
 
@@ -18,7 +20,7 @@
 \exists S_i\neq S_j\;[Conscious(S_i)\land Conscious(S_j)].
 \]
 
-必须持续区分：
+必须严格区分：
 
 \[
 \boxed{
@@ -30,260 +32,330 @@ PhenomenalMineness
 \neq
 StrongIrreducibleFPFact
 \neq
-AbsolutePrivilege.}
+AbsolutePrivilege.
+}
 \]
 
-这一区分现在不仅是概念卫生，而且成为避开 List quadrilemma 的关键。
+普通 first-person phenomenology、de se representation、for-me-ness 都不能直接当作 absolute layer 的证据。
 
 ---
 
-## 2. Actuality–Arity Orthogonality 保持
+## 2. 当前真正 endgame：Actuality 的 primitive-kind fork
 
-Bricker-style actuality允许：
+经过 selector、duplication、grounding、fragmentalism、actuality、presence、subject-unity 与 Universal-I 审计后，最深问题已经收缩成：
 
 \[
-ABS+PRIM+PERSP+DESE
+\boxed{
+Does\ actuality\ itself\ have\ irreducible\ first\!\!\text{-}\!person\ arity?
+}
 \]
 
-——absolute、primitive、perspectival，并支持 de se actuality knowledge——却没有 subject-level first-person argument slot。
+当前两个 strongest packages：
+
+### Neutral Actuality
+
+\[
+\boxed{N\text{-}ACT=K+A_N}
+\]
+
+其中 `K` 可以包含：
+
+- one coherent actual world/history；
+- multiple genuine conscious subjects；
+- local first-person organization；
+- thin/thick phenomenal mineness；
+- de se cognition；
+- independently motivated perspectival/temporal structure；
+- causal and dynamical structure。
+
+但 actuality 本身保持 first-person-neutral。
+
+### Constitutive Role-First Centered Actuality
+
+\[
+\boxed{C\text{-}ACT=K+\Omega[R;E^*]}
+\]
+
+其中：
+
+- `E*` 不是 neutral reality 中先完全 individuated、再收到 absolute tag 的 token；
+- orientation 与 locus 共同 individuate complete centered totality；
+- exact automorphic relabelings quotient；
+- no detachable selector / pointer primitive；
+- `WorldActuality = AbsoluteI = AbsoluteNOW = Ω` 是同一个 centered actuality kind 的不同 aspects。
+
+因此当前争论应写成：
+
+\[
+\boxed{
+NeutralCompletion
+\quad vs\quad
+CenteredCompletion.
+}
+\]
+
+而不是粗糙的：
+
+\[
+T_C=T_N+\text{one extra pointer}.
+\]
+
+---
+
+## 3. Completion Fork 与当前裁决
+
+Neutral side：
+
+\[
+\boxed{C_N:\quad K\text{ can constitute complete actual reality}.}
+\]
+
+Centered side：
+
+\[
+\boxed{C_C:\quad K\text{ is incomplete unless actuality is intrinsically centered}.}
+\]
+
+Centered side若想从 coherent option 升级成 independently compelled theory，必须至少完成：
+
+### CC1 — Independent completion witness
+
+\[
+Independent(X)
+\land
+N\text{-}ACT\not\models X
+\land
+C\text{-}ACT\models X.
+\]
+
+### CC2 — Neutral incoherence theorem
+
+\[
+N\text{-}ACT\vdash\bot.
+\]
+
+### CC3 — Genuine primitive replacement advantage
+
+证明 centered actuality 替代 neutral theory independently 必须承担的同等或更昂贵 primitive，并在 common explananda 上真正获得 compression advantage。
+
+截至当前：
+
+\[
+\boxed{CC1\text{ 未找到 surviving witness}}
+\]
+
+\[
+\boxed{CC2\text{ 未找到 contradiction}}
+\]
+
+\[
+\boxed{CC3\text{ 未形成 decisive replacement win}}.
+\]
 
 所以：
 
 \[
-\boxed{ABS+PRIM+PERSP+DESE\not\Rightarrow FPAR.}
-\]
-
-Soames / Adams提供其他 subject-neutral actuality templates。
-
-因此 actuality 的厚度本身仍不推出 absolute-I。
-
----
-
-## 3. Global Route 仍 live，但不是 selective Opening 的必经阶段
-
-Global Route：
-
-\[
-Actuality
-\xrightarrow{WAAP}
-SubjectiveArity
-\xrightarrow{GEUP}
-GlobalExperientialUnity
-\xrightarrow{GSP}
-GlobalSubject
-\xrightarrow{LOC}
-LocalPrivilege.
-\]
-
-当前：
-
-- **WAAP**：Whitehead anti-vacuous actuality给 serious positive model；Bricker/Soames/Adams仍是 live rivals。
-- **GEUP**：Roelofs continuism 与 Osborn/Goff closure 给 constructive/abductive support；无 general entailment。
-- **GSP**：Christmann 2026 给 `GEU -> GlobalSubjectPressure`。
-- **LOC**：one global subject仍不推出 one privileged local locus。
-
-所以：
-
-\[
-\boxed{GlobalSubject\not\Rightarrow UniqueLocalAbsoluteLocus.}
+\boxed{CompletionUnderdetermination.}
 \]
 
 ---
 
-## 4. Structural privilege route 仍 near-closed；nomological route仍 live
+## 4. ALO 已重分类：不是独立第四道门
 
-Kadić-style dominance等路线只能给 structural winner：
-
-\[
-\boxed{UniqueStructuralDominance\not\Rightarrow AbsoluteFirstPersonPrivilege.}
-\]
-
-即：
+旧问题：
 
 \[
-\boxed{Selection\neq Privileging.}
+CompleteActuality
+\stackrel{?}{\Rightarrow}
+\exists\sigma\;IrreducibleOpening(\sigma).
 \]
 
-causal centrality、informational dominance、phenomenal richness、self-manifestation maximum、ordinary FPR arguments都没有 derivationally跨过 privilege bridge。
+经过 Nagai / Presence / psychophysical-law 审计，最干净的结果是：
 
-但 psychophysical-law literature 给一个不同 architecture：
+### Centered horn 内部
 
 \[
-PhysicalState\to PhenomenalQuality,
+\boxed{
+CenteredActuality
+\Rightarrow
+AtLeastOneIrreducibleOpening.
+}
 \]
+
+这里 `≥1` 是 centered actuality 的 constitutive consequence，不需要再加 selector。
+
+### Neutral horn
 
 \[
-PhysicalCandidates\to SubjectBearers,
+NeutralActuality
+\not\Rightarrow
+AtLeastOneIrreducibleOpening.
 \]
+
+因此真正未解的仍是：
 
 \[
-CandidateMentalOutcomes\xrightarrow{chance}OneActualMentalOutcome.
+\boxed{
+Why\ CenteredActuality\ rather\ than\ NeutralActuality?
+}
 \]
 
-因此项目可测试：
-
-\[
-L_\Omega:\ GenuineLocalLoci\to OneAbsoluteOrientation.
-\]
-
-Schmid subject harmony、Albert–Loewer single-mind、Bitbol identification、Halvorson-style symmetry breaking说明这种 law-form coherent-looking。
-
-但 law-form本身不证明 absolute-I content。
+ALO 本身已经被吸收到 Completion Fork。
 
 ---
 
-## 5. Opening semantics：local I–NOW + Stage-First
+## 5. Presence 路线已正式关闭为 independent witness
 
-Nagai 给 strongest semantic template：
-
-\[
-WorldActuality=I!=NOW=Opening.
-\]
-
-UIWO 曾写三元：
-
-\[
-O(w,t,s).
-\]
-
-现已加入 **Factorization Test**：若它只是
-
-\[
-Actual(w)\land Present(t)\land AbsoluteI(s)\land Compat(w,t,s),
-\]
-
-则只是打包，没有 unification credit。
-
-真正 Opening 必须提供 non-factorizable cross-domain constraint。
-
-consciousness-driven collapse给 local prototype：同一 psychophysical dynamics 可以 joint-determine physical definiteness 与 subject-at-time conscious definiteness。
-
-同时，Conitzer 2020 的 personalized A-theory说明核心可直接写成：
-
-\[
-\boxed{\text{one distinguished living person-stage}.}
-\]
-
-项目默认因此采用 local I–NOW，而不要求 universe-wide present hypersurface。
-
-令：
-
-\[
-\Sigma(R)=\{\sigma:\sigma\text{ is a conscious person-stage / experiential event}\}.
-\]
-
-Stage-First Opening：
-
-\[
-\boxed{O(w,\sigma^*)}.
-\]
-
-这降低 persistent-subject counting 与 relativity burden。
-
----
-
-## 6. Presence-Simpliciter fork
-
-Hare / Conitzer 提供当前 strongest conditional bridge：
+Hare / Conitzer 仍给一个重要 conditional：
 
 \[
 PresenceSimpliciter(E)
 \Rightarrow
-\text{pressure toward an }I\text{-}NOW\ person\text{-}stage.
+\text{pressure toward a distinguished }I\text{-}NOW\ person\text{-}stage.
 \]
 
-Skow-style neutral/B-theory route可拒绝 `presence simpliciter`，改用 relational temporal availability。
+但终局审计测试了四条把普通经验升级到 `PresenceSimpliciter` 的路线：
 
-所以：
+1. phenomenal residue；
+2. semantic indispensability；
+3. explanatory residue；
+4. relational incoherence/regress。
+
+当前全部失败：
 
 \[
 \boxed{
-RejectPresenceSimpliciter
-\quad|\quad
-AcceptPresenceSimpliciter+I\text{-}NOWPressure.}
+OrdinaryTemporalPhenomenology
+\not\Rightarrow
+PresenceSimpliciter.
+}
 \]
 
-此前 Effingham multiple-presents / Lipman fragmentalism说明：
+### Phenomenal residue
+
+Hoerl、Deng、Fazekas、Torrengo 以及 2025–2026 experimental-philosophy work 都说明 rich temporal phenomenology / reported passage can be modeled without a unique monadic presentness quale or metaphysical NOW。
+
+### Semantic indispensability
+
+Prior-style irreducible tense / indexical role 不推出 irreducible tensed worldly facts：
 
 \[
-PresenceSimpliciter\not\Rightarrow ExactlyOnePresence.
+\boxed{
+RepresentationalIrreducibility
+\not\Rightarrow
+OntologicalIrreducibility.
+}
 \]
 
-但最新 List-based result 改写了 singularity burden。
+### Explanatory residue
+
+Balashov-style `only current experiences are available/presented` pressure can be answered through time-relative availability、stage theory 或 temporal-part accounts。它们有理论成本，但没有留下必须由 presentness simpliciter 承担的 explanandum。
+
+### Relational incoherence
+
+没有发现：
+
+\[
+RelationalPresence\vdash\bot.
+\]
+
+反而 A-properties 自己长期面对 McTaggart-style regress/incompatibility pressure。
+
+因此：
+
+\[
+\boxed{
+PresenceSimpliciter\text{ remains coherent but is not an independent CC1 witness}.}
+\]
+
+详见：
+
+- [`../research/arguments/presence-route-four-way-closure.md`](../research/arguments/presence-route-four-way-closure.md)
+- [`../literature/candidates/2026-10-05-presence-route-terminal-audit.md`](../literature/candidates/2026-10-05-presence-route-terminal-audit.md)
 
 ---
 
-## 7. New core result：Unitary Singularity Lemma
+## 6. Interpretation Capture Principle
 
-Christian List 的 quadrilemma：
+Presence audit 产生一个可复用原则。
 
-\[
-FirstPersonRealism
-+
-NonSolipsism
-+
-NonFragmentation
-+
-OneWorld
-\]
+设 `D` 是双方共享 datum，`M(D)` 是 contested metaphysical interpretation。
 
-mutually inconsistent。
+若：
 
-真正驱动它的是 **First-Person Non-Compossibility**：distinct irreducible first-person facts for distinct centers不能在同一 perspective 下 jointly obtain。
-
-反向使用：
-
-\[
-OneWorld+NonFragmentation+FPNonCompossibility
-\Rightarrow
-AtMostOneIrreducibleFPOpening.
-\]
-
-若另有：
-
-\[
-AtLeastOneIrreducibleOpening,
-\]
+1. `D` 可完整写成 shared/neutral vocabulary；
+2. neutral rival 可以实现 `D` 而不加 `M`；
+3. phenomenology 不独立选择 `M`；
+4. semantics 不推出 `M`；
+5. explanatory comparison 不排除 neutral rival；
+6. 没有 neutral incoherence theorem；
 
 则：
 
 \[
 \boxed{
-AtLeastOne
-+
-OneWorld
-+
-NonFragmentation
-+
-FPNonCompossibility
+D\text{ cannot currently function as independent evidence for }M.
+}
+\]
+
+这就是 **Interpretation Capture Principle (ICP)**。
+
+它不仅适用于 `PresenceSimpliciter`，也可用于未来检验其他 absolute-layer witness。
+
+---
+
+## 7. Singularity：当前 strongest positive derivation
+
+Christian List-style first-person non-compossibility 允许反向提取：
+
+\[
+OneWorld+NonFragmentation+FPNonCompossibility
+\Rightarrow
+AtMostOneIrreducibleOpening.
+\]
+
+再与 centered horn 的 ALO 合并：
+
+\[
+CenteredActuality
+\Rightarrow
+AtLeastOneOpening.
+\]
+
+得到：
+
+\[
+\boxed{
+CenteredActuality
++OneWorld
++NF
++FPNC
 \Rightarrow
 ExactlyOneIrreducibleOpening.
 }
 \]
 
-这就是 **Unitary Singularity Lemma (USL)**。
+这就是当前 **Unitary Singularity Lemma (USL)** 的最终角色。
 
 因此：
 
 \[
-\boxed{\text{exact-one no longer needs to be independently primitive}.}
+\boxed{exact\text{-}one\ no\ longer\ needs\ to\ be\ separately\ primitive}
 \]
 
-旧 LNP 整体仍不是无条件 theorem，但其 singularity 部分已经获得 conditional derivation。
+——但仅在 centered + unitary package 内成立。
 
 ---
 
-## 8. Two-Tier First-Person Architecture 现在有明确逻辑用途
+## 8. Two-Tier First-Person Architecture 保持
 
-List 的 FPR 是 universal：
+项目不接受：
 
 \[
-\forall S\,[Conscious(S)\to IrreducibleFPFact(S)].
+\forall S\,[Conscious(S)\to IrreducibleAbsoluteFPFact(S)].
 \]
 
-项目不需要它。
-
-可以保持：
+可以同时保持：
 
 \[
 \forall S\;Conscious(S),
@@ -293,7 +365,7 @@ List 的 FPR 是 universal：
 \forall S\;LocalFPOrganization(S),
 \]
 
-只在 absolute layer承认：
+而 centered horn 只承认：
 
 \[
 \exists!\sigma^*\;IrreducibleAbsoluteFPFact(\sigma^*).
@@ -305,38 +377,112 @@ List 的 FPR 是 universal：
 \boxed{
 GenuineOtherMinds
 \neq
-PluralIrreducibleSimpliciterCenters.}
+PluralIrreducibleSimpliciterCenters.
+}
 \]
 
-这允许同时保留：
-
-\[
-NonSolipsism+OneWorld+NonFragmentation
-\]
-
-而无需把其他 conscious subjects删除或 zombie 化。
-
-普通 first-person data / representation / mineness可以 genuine，但未必都对应 List 意义上的 irreducible first-person facts。
+这是项目避免 solipsism 与 List quadrilemma 全盘继承的关键结构。
 
 ---
 
-## 9. Fragmentalism 的地位：live，但 plurality 不是免费
+## 9. Locality：PFIP 已替代旧强 LUP
 
-fragmentalism 可以保：
+旧的：
 
 \[
-ManyIrreducibleFPCenters+OneWorld
+SameSubject\Rightarrow OnePhenomenalField
 \]
 
-代价是拒绝 world-level Non-Fragmentation。
+太强，当前文献不支持它作为 unconditional metaphysical theorem。
 
-当前 cost audit：
+现在使用：
 
-- List：fragmented world显著修改 metaphysics / logic / scientific modelling中的标准 world/compossibility概念；
-- Merlo 2023：unstructured fragmentalism面临 Tensed Belief Explosion；
-- Lipman 2026：成熟修复需要 internal/external logic、new connectives、standpoint-switching inference、immersive thought、target semantics；
-- Ewing 2026：fragmentation对 mind-independent passage不自动占优；
-- relativity audit：invariant structure说明 fragmentation并非 physics 强制结果。
+### PFIP — Phenomenal-Field Individuation Principle
+
+\[
+\boxed{
+PhenomenalIndividuation
++MaximalFieldDisconnection
+\Rightarrow
+DistinctSubjects.
+}
+\]
+
+因此只有在 subjecthood 由 maximal phenomenal organization 构成/individuate 时，maximally disconnected fields 才阻止一个 phenomenally constituted Universal-I。
+
+Roelofs / Osborn / Schwitzgebel–Nelson 等结果同时提醒：
+
+- between-subject unity 概念上 live；
+- local subjects 可以组成 higher subject；
+- subject count 甚至可能 overlapping/vague/non-integer。
+
+所以 locality 不能靠 anatomical boundaries 或简单 counting 得到。
+
+---
+
+## 10. Universal-I 已被压成 subject-bearer funnel
+
+Universal-I 现在面对：
+
+\[
+\boxed{
+UniversalI\Rightarrow
+\begin{cases}
+GlobalPhenomenalConnectivity,\\
+IndependentGlobalBearer+OwnershipBridge,\\
+PrimitiveBearer+AssignmentPrinciple.
+\end{cases}}
+\]
+
+### U-PH — phenomenally constituted
+
+若 Universal-I 由 phenomenal organization individuate，就必须给真正 global phenomenal connectivity。
+
+### U-B — independent causal/functional bearer
+
+若用 causal/organismic/global system identity 做 bearer，需要独立解释：
+
+\[
+Why\ does\ that\ system\ constitute\ one\ experiential\ subject?
+\]
+
+mere causal connectedness 不够。
+
+### U-PR — primitive bearer
+
+若直接 primitive 地规定所有 fields 属于 one I，则面临 **Bearer Discrimination Principle** / assignment-equivalence pressure：
+
+\[
+SameBase+DifferentOwnershipPartitions
+\Rightarrow
+NeedIndependentAssignmentDiscriminator.
+\]
+
+所以 Universal-I 没有 cheap escape，但仍未被逻辑排除。
+
+因此：
+
+\[
+\boxed{
+ExactlyOneOpening
+\not\Rightarrow
+OneLocalOpening.
+}
+\]
+
+---
+
+## 11. Fragmentalism 仍 live，但不是免费 plurality
+
+若拒绝 Non-Fragmentation，可以容纳多个 irreducible centers。
+
+代价包括：
+
+- modified compossibility/world structure；
+- internal/external logic；
+- standpoint-sensitive truth/inference；
+- switching / immersive semantics；
+- extra machinery for preventing explosion/inconsistency。
 
 所以：
 
@@ -348,229 +494,272 @@ FragmentationMachinery\;or\;ManyWorlds.
 }
 \]
 
-Opening Monism 当前的 legitimate abductive benefit 是：
-
-\[
-\boxed{
-OneWorld
-+
-GlobalCompossibility
-+
-StandardGlobalLogic
-}
-\]
-
-而非裸的 “one is simpler than many”。
-
-但 fragmentalist可以接受这些成本，因此没有 deductive refutation。
+这不是 fragmentalism 的 refutation，只是取消“plurality 免费”的直觉。
 
 ---
 
-## 10. Universal-I 现在成为 unitary ontology 内最强 rival
+## 12. Structural / nomological / manifestation routes 的终局边界
 
-USL 排除的是多个 **distinct irreducible centers** 在 one coherent world 中同时 obtain。
-
-它不排除：
+### Structural selector
 
 \[
-\exists!I_U\;\forall e\;ExperienceOf(e,I_U).
+UniqueStructuralDominance
+\not\Rightarrow
+AbsolutePrivilege.
 \]
 
-所以在 `OneWorld + NonFragmentation + some first-person actuality` 条件下，最重要的内部竞争变成：
+### Psychophysical law
+
+subject-sensitive law forms是 coherent existing metaphysical category，但：
 
 \[
-\boxed{
-SelectiveOpening
-\quad|\quad
-UniversalI.
-}
+LawFormCoherence
+\not\Rightarrow
+ExistenceOfL_\Omega.
 \]
 
-### SelectiveOpening
-
-one local person-stage/path bears absolute opening；other subjects genuinely conscious，但普通 local FP 不全部升级为 separate simpliciter centers。
-
-### Universal-I
-
-all experiences ultimately belong to one numerical first-person center；local organisms / access islands不对应 metaphysically distinct I's。
-
-Universal-I 自己仍有两类成本：
-
-- substantive universal subject版本面对 subject-unity / co-consciousness pressure；
-- universal `Mine` without one bearer版本面对 Mine-without-Owner / singular semantics gap。
-
-因此最新最深 locality question 是：
+直接写：
 
 \[
-\boxed{
-Why\ is\ the\ one\ irreducible\ first\!\!\text{-}\!person\ center\ local/selective\ rather\ than\ universal?
-}
+L_\Omega:R\to OneAbsoluteOrientation
 \]
+
+而无 independent constraint，只是把 primitive 从 ontology 搬进 lawbook。
+
+### Self-manifestation / bottleneck
+
+\[
+OneManifestationGround
+\not\Rightarrow
+OneManifestationLocus.
+\]
+
+Michel Henry / cosmopsychist architectures说明 one originary source 完全可以对应 multiple genuine local manifestations。
+
+因此这些路线目前均不能提供 CC1/CC2。
 
 ---
 
-## 11. Stage path 仍是独立 dynamics
+## 13. Epistemic verdict 保持
 
-USL 只给 mutually exclusive current openings 的 singularity。
-
-它不决定：
+若 ordinary evidence 对 global-orientation coincidence invariant：
 
 \[
-\sigma_t\to\sigma_{t+1}.
-\]
-
-定义 PSP：
-
-\[
-Open(\sigma_t)+C^+(\sigma_t)
-\to
-\exists!\sigma'\;Succ_O(\sigma_t,\sigma').
-\]
-
-Bader 2020 / Moorfoot 2026 提供当前 best schema：lower-level facts可 **stochastically ground** exactly-one continuation outcome。
-
-所以：
-
-\[
-\boxed{
-\Pi_O=\text{a stochastically grounded rooted path through conscious stages}.}
-\]
-
-这缓和 exact fission tie-breaker，但不解决 At-Least-One / locality。
-
----
-
-## 12. Updated theory map
-
-当前四个核心 competitors：
-
-### M0 — Neutral Relationalism
-
-无 irreducible simpliciter first-person actuality；ordinary self-location / representation only。
-
-### M1 — Fragmented Pluralism
-
-多个 irreducible temporal/subjective centers；通过 fragmentalism 或 many-centred worlds保留 plurality。
-
-### M2 — Universal-I
-
-一个 irreducible I，覆盖全部/广泛 experiences；无 local winner。
-
-### M3 — Selective Opening
-
-一个 irreducible local I–NOW stage/path承担 absolute opening。
-
-因此：
-
-\[
-\boxed{
-NeutralRelationalism
-\;|\;
-FragmentedPluralism
-\;|\;
-UniversalI
-\;|\;
-SelectiveOpening.}
-\]
-
-若先接受：
-
-\[
-OneWorld+NonFragmentation+AtLeastOneIrreducibleFP,
-\]
-
-则 M1 被排到 unitary package 外部，内部主要剩：
-
-\[
-\boxed{UniversalI\;|\;SelectiveOpening.}
-\]
-
----
-
-## 13. Epistemic verdict 不变
-
-若 ordinary evidence 对 orientation permutations invariant：
-
-\[
-P(e|H_i)=P(e|H_j),
+P(e\mid L_{self}=G)
+=
+P(e\mid L_{self}\neq G),
 \]
 
 则：
 
 \[
-BF_{ij}=1.
+BF_{=/\neq}=1.
 \]
 
-ordinary first-person certainty不能 discriminatively确认某 local absolute winner。
+有限 symmetric case：
 
-status-sensitive acquaintance可以解释 absolute bearer若存在如何知道其 status，但还没有 public / likelihood-changing evidence。
+\[
+\boxed{P(L_{self}=G\mid e,K)=1/N.}
+\]
+
+role-first anti-haecceitism 可以消除 bare-token lottery，但不能消除真正的：
+
+\[
+L_{self}=G\ ?
+\]
+
+所以普通 first-person certainty 仍不能成为 privilege-sensitive evidence channel。
 
 ---
 
-## 14. Strongest current judgement
-
-这轮对正方有一个真实升级：
+## 14. 当前完整依赖图
 
 \[
 \boxed{
-\text{Opening singularity can be derived conditionally from unitary reality}.}
+\begin{array}{c}
+NeutralActuality\;|\;CenteredActuality\\[3pt]
+\Downarrow\ (Centered\ horn)\\[3pt]
+AtLeastOneOpening\\[3pt]
+\Downarrow\ +OneWorld+NF+FPNC\\[3pt]
+ExactlyOneOpening\\[3pt]
+\Downarrow\ +PFIP/subject\ ontology\\[3pt]
+LocalSelectiveOpening\;|\;UniversalI\\[3pt]
+\Downarrow\ +PSP/dynamics\\[3pt]
+DiachronicOpeningPath
+\end{array}}
 \]
 
-因此当前最深 burden 已从：
-
-\[
-Why\ exactly\ one?
-\]
-
-收缩为三个 substantive gates：
-
-### Gate A — At-Least-One
-
-\[
-CompleteActuality\stackrel{?}{\Rightarrow}\exists\sigma\;IrreducibleOpening(\sigma).
-\]
-
-候选：Presence simpliciter / Nagai Opening / NOM / actuality-arity routes。
-
-### Gate B — Unitary Reality
-
-\[
-OneWorld+NonFragmentation\ ?
-\]
-
-对手：fragmentalism / many-centred worlds。
-
-### Gate C — Locality
-
-\[
-OneIrreducibleCenter\stackrel{?}{\Rightarrow}OneLocalStage/Path
-\]
-
-对手：Universal-I。
-
-Singularity本身在 A+B+FP non-compossibility 下已条件导出；diachronic path属于后续 dynamics。
-
-所以最新总裁决：
-
-\[
-\boxed{
-\text{Absolute-first-person thesis remains unproven, but exact-one is no longer an independent brute burden under unitary reality}.}
-\]
-
-这使 SelectiveOpening 相对 fragmentalist plurality 获得一个更明确的正方结构，同时仍未击败 Neutral Relationalism 与 Universal-I。
+所有后续 positive machinery 都 conditional on 第一层 primitive-kind choice。
 
 ---
 
-## 最新入口
+## 15. 当前 theory map
 
-- [`frontier-2026-10-05-unitary-singularity.md`](frontier-2026-10-05-unitary-singularity.md)
-- [`../literature/list-2025-quadrilemma-unitary-opening.md`](../literature/list-2025-quadrilemma-unitary-opening.md)
+### M0 — Neutral Actuality / Neutral Relationalism
+
+无 irreducible global first-person orientation；ordinary consciousness、mineness、de se、temporal perspective 全部保留。
+
+### M1 — Fragmented Pluralism
+
+多个 irreducible centers，通过 fragmentation / many-centred metaphysics 保留 plurality。
+
+### M2 — Universal-I
+
+一个 irreducible I 覆盖全部/广泛 experiences。
+
+### M3 — Selective Centered Opening
+
+actuality intrinsically centered on one local person-stage/path；other minds genuinely conscious。
+
+若先接受：
+
+\[
+CenteredActuality+OneWorld+NF,
+\]
+
+则 M1 在 unitary package 外部，内部主要剩 M2/M3。
+
+但在最上游：
+
+\[
+\boxed{M0\text{ remains fully live}.}
+\]
+
+---
+
+## 16. Strongest current judgement
+
+项目当前 strongest positive result：
+
+\[
+\boxed{
+\text{If actuality is intrinsically centered, unitary reality can derive exactly one irreducible opening.}
+}
+\]
+
+项目当前 strongest negative/comparative result：
+
+\[
+\boxed{
+\text{ordinary phenomenology, presence, semantics, structure, and current evidence do not force that centered actuality premise.}
+}
+\]
+
+所以当前总裁决：
+
+\[
+\boxed{
+\text{Absolute-first-person thesis remains coherent and conditionally powerful, but unproven.}
+}
+\]
+
+并且因为 Centered Completion 是更强结构承诺，而目前没有 independent payoff：
+
+\[
+\boxed{
+N\text{-}ACT/N\text{-}W^+\text{ retains a prima facie abductive lead}.}
+\]
+
+这个 lead 很窄：
+
+- 不依赖“centered theory只是 ad hoc pointer”；
+- 不依赖“centered theory必然多一个 primitive”；
+- 不依赖 exact-duplicate lottery；
+- 只来自 weaker completion principle 尚未被迫升级。
+
+这不是：
+
+\[
+\neg AbsoluteOrientation.
+\]
+
+---
+
+## 17. Research stop condition
+
+当前 absolute axis 已达到真实 stop condition。
+
+只在出现以下新资源时值得重新打开：
+
+### R1 — New independent witness
+
+\[
+Independent(X)
+\land
+NeutralActuality\not\models X
+\land
+CenteredActuality\models X.
+\]
+
+### R2 — Neutral incoherence theorem
+
+\[
+NeutralActuality\vdash\bot.
+\]
+
+### R3 — Privilege-sensitive evidence
+
+\[
+P(e\mid Centered)
+\neq
+P(e\mid Neutral).
+\]
+
+### R4 — Genuine replacement theorem
+
+Centered actuality 替代 neutral side independently 必需且至少同样昂贵的 primitive，并在 common explananda 上获得真实 compression。
+
+### R5 — New global structure
+
+来自 physics/metaphysics 的独立结果进入 common core，并 non-ad-hocly entail first-person arity。
+
+否则继续搜索：
+
+- ordinary presence；
+- “现在很鲜活”；
+- semantic tense；
+- structural maxima；
+- bare selectors；
+- self-manifestation；
+- generic causal centrality；
+- ordinary self-location；
+
+都不会推进 frontier。
+
+---
+
+## 18. 最新入口
+
+### 最新综合
+
+- [`frontier-2026-10-05-presence-route-closure.md`](frontier-2026-10-05-presence-route-closure.md)
+- [`frontier-2026-10-05-actuality-endgame.md`](frontier-2026-10-05-actuality-endgame.md)
+- [`frontier-2026-10-05-alo-completion.md`](frontier-2026-10-05-alo-completion.md)
+
+### 核心 positive structure
+
 - [`../research/arguments/unitary-singularity-lemma.md`](../research/arguments/unitary-singularity-lemma.md)
-- [`../literature/fragmentalism-cost-audit.md`](../literature/fragmentalism-cost-audit.md)
-- [`frontier-2026-10-05-local-opening-presence-monism.md`](frontier-2026-10-05-local-opening-presence-monism.md)
-- [`frontier-2026-10-05-stage-first-opening-universal-i.md`](frontier-2026-10-05-stage-first-opening-universal-i.md)
-- [`../research/models/stage-first-opening.md`](../research/models/stage-first-opening.md)
-- [`../research/arguments/stochastic-grounded-opening-path.md`](../research/arguments/stochastic-grounded-opening-path.md)
-- [`../research/arguments/universal-i-subject-unity-fork.md`](../research/arguments/universal-i-subject-unity-fork.md)
-- [`../research/arguments/presence-localization-universalism-fork.md`](../research/arguments/presence-localization-universalism-fork.md)
-- [`../research/models/nomological-opening-model.md`](../research/models/nomological-opening-model.md)
+- [`../research/arguments/phenomenal-field-individuation-principle.md`](../research/arguments/phenomenal-field-individuation-principle.md)
+- [`../research/arguments/bearer-discrimination-principle.md`](../research/arguments/bearer-discrimination-principle.md)
+
+### Completion / Presence
+
+- [`../research/arguments/completion-condition-fork.md`](../research/arguments/completion-condition-fork.md)
+- [`../research/arguments/completion-underdetermination-result.md`](../research/arguments/completion-underdetermination-result.md)
+- [`../research/arguments/presence-simpliciter-independence-failure.md`](../research/arguments/presence-simpliciter-independence-failure.md)
+- [`../research/arguments/presence-route-four-way-closure.md`](../research/arguments/presence-route-four-way-closure.md)
+- [`../literature/candidates/2026-10-05-presence-route-terminal-audit.md`](../literature/candidates/2026-10-05-presence-route-terminal-audit.md)
+
+### Core models
+
+- [`../research/models/neutral-actuality-core.md`](../research/models/neutral-actuality-core.md)
+- [`../research/models/role-first-absolute-opening.md`](../research/models/role-first-absolute-opening.md)
+
+---
+
+## 19. Final one-line position
+
+\[
+\boxed{
+\text{The project has derived singularity conditionally, pressured Universal-I substantially, and exhausted Presence as a witness; the remaining dispute is primitive-kind underdetermination between neutral and intrinsically centered actuality.}
+}
