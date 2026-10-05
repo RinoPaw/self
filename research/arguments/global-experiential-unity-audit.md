@@ -1,343 +1,401 @@
 # Global Experiential Unity Principle Audit
 
-> 状态：2026-10-05 focused audit。
+> 状态：2026-10-05 updated focused audit。
 >
-> 目标：检验 `SubjectiveArity(R) -> GlobalExperientialUnity(R)` 是否有独立支持，以及 unity-of-consciousness 文献能否把 local subject unity 升级为 world-level global unity。
+> 目标：检验 `SubjectiveArity(R) -> GlobalExperientialUnity(R)` 是否有独立支持，并区分 general entailment 与 conditional / abductive global-closure constructions。
 
 ## 0. Target
-
-定义：
 
 \[
 GEUP:\quad SubjectiveArity(R)\Rightarrow GlobalExperientialUnity(R).
 \]
 
-其中 `GlobalExperientialUnity(R)` 要求 complete reality中的 fundamental experiential contents属于一个 single overarching co-conscious / phenomenal unity structure。
+`GlobalExperientialUnity(R)` 要求 complete reality 中的 fundamental experiential contents 属于一个 single overarching phenomenal / co-conscious unity structure，而不是多个 mutually disconnected experiential domains。
 
-这远强于：
+该原则显著强于：
 
 \[
 \forall s\;Unity(Experience(s)).
 \]
 
-后者只说每个 subject内部统一。
+后者只要求每个 local subject 内部统一。
 
 ---
 
-## 1. Bayne：Unity Thesis 是 subject-relative
+## 1. 旧反限制继续成立
 
-Bayne 的 *The Unity of Consciousness* 把 phenomenal unity定义为：一个 subject 的 conscious states彼此 phenomenally unified。
+### Bayne — subject-relative unity
 
-其 Unity Thesis大致是：
-
-\[
-ConsciousCreature(s)
-\Rightarrow
-UnifiedConsciousness(s).
-\]
-
-或：
+phenomenal unity首先是在一个 subject 的 conscious states之间定义：
 
 \[
-\forall e_i,e_j\in Experience(s),
-\quad PU(e_i,e_j).
+SubjectUnity\not\Rightarrow CrossSubjectUnity.
 \]
 
-这不推出：
+### Dainton — primitive co-consciousness is still domain-bounded
+
+即使 co-consciousness 是 primitive relation，也没有：
 
 \[
-\forall s_i,s_j,
-\quad PU(Experience(s_i),Experience(s_j)).
+PrimitiveUnityRelation\Rightarrow UniversalUnityRelation.
 \]
 
-所以：
+### Transitivity — no free connectivity
+
+即使 unity relation transitive，如果两个 experiential components之间没有 bridge pair，transitivity不会创造连接：
 
 \[
-\boxed{
-SubjectUnity
-\not\Rightarrow
-CrossSubjectUnity.
-}
+Transitivity+LocalUnity\not\Rightarrow GlobalConnectedness.
 \]
 
-Bayne的 unity thesis因此不能直接支持 GEUP。
+### Wiese — strong phenomenal holism is not free
 
----
+一个 phenomenal field内部的 strongest all-part dependence都受到压力，更不能直接外推 universe-wide phenomenal whole。
 
-## 2. Dainton：primitive co-consciousness 仍是 local relation
+### IIT — explicit plural-domain architecture
 
-Dainton把 synchronic phenomenal unity理解为 primitive inter-experiential relation：co-consciousness。
-
-即便接受：
-
-\[
-CoConscious(e_i,e_j)
-\]
-
-是 primitive phenomenal relation，也没有得到：
-
-\[
-CoConscious(e_i,e_j)
-\]
-
-对不同 subjects 的 experiences普遍成立。
-
-primitive relation只说明 unity无需更高阶 awareness / phenomenal space来解释；它不自动扩大 relation 的 domain。
-
-所以：
-
-\[
-\boxed{
-PrimitiveUnityRelation
-\not\Rightarrow
-UniversalUnityRelation.
-}
-\]
-
-这对 Christmann pressure很重要：即使 global tapestry可以 primitive co-consciousness，也仍需要额外理由说明为什么现实整体就是一个 tapestry，而不是多个 local co-conscious domains。
-
----
-
-## 3. Transitivity cannot generate globality for free
-
-一个诱人的 GEUP route：
-
-1. local experiences通过 co-consciousness连接；
-2. co-consciousness transitive；
-3. 因而所有 experiences最终连成一个 global field。
-
-但这失败于 domain connectivity。
-
-即便 relation满足：
-
-\[
-PU(a,b)\land PU(b,c)\Rightarrow PU(a,c),
-\]
-
-若两个 subjects之间根本没有 bridge pair：
-
-\[
-\neg\exists e_i\in S_A,e_j\in S_B\;PU(e_i,e_j),
-\]
-
-transitivity不会凭空连接两个 connected components。
-
-所以：
-
-\[
-\boxed{
-Transitivity+LocalUnity
-\not\Rightarrow
-GlobalConnectedness.
-}
-\]
-
-Vogel 对 split-brain / partial unity 的讨论即使最终支持 co-consciousness transitivity，也最多影响一个 mind / stream内部的 unity individuation，不能建立 universe-wide closure。
-
----
-
-## 4. Wiese：strong phenomenal holism faces pressure
-
-Wiese 对 phenomenal holism区分不同强度的 globality。
-
-强版本主张：一个 phenomenal field 中 every phenomenal part依赖于 all other phenomenal parts。
-
-其结论是 strong phenomenal holism最终不可维持，只能使用 weaker / relaxed globality，并考虑 hierarchical experienced wholes。
-
-这对 GEUP有直接压力：
-
-如果连一个 phenomenal field内部的 strongest all-part dependence都不稳，那么从多个 subjects 的 local fields进一步推出 one universal phenomenal whole 的负担更高。
-
-因此：
-
-\[
-\boxed{
-StrongPhenomenalHolism
-\text{ is not a free premise for GEUP}.
-}
-\]
-
----
-
-## 5. IIT gives an explicit multiple-domain model
-
-IIT 4.0 的 Exclusion在 universal substrate上递归识别多个 disjoint complexes。
-
-这提供一个形式上很干净的 model：
+IIT 4.0允许：
 
 \[
 Unity(C_1)\land Unity(C_2)\land\cdots
-\]
-
-同时：
-
-\[
+\land
 \neg Unity(C_1\cup C_2\cup\cdots).
 \]
 
-因此：
+因此 many definite phenomenal wholes 与 one global phenomenal whole逻辑上可分离。
+
+### World-horizon unity
+
+one objective world / coherent world-horizon不等于 one co-conscious experience：
 
 \[
-\boxed{
-ManyDefinitePhenomenalWholes
-\text{ can coexist without one global phenomenal whole}.
-}
+WorldUnity\not\Rightarrow PhenomenalUnity.
 \]
 
-无论接受不接受 IIT 的完整 consciousness theory，这种 exclusion architecture都说明 local maximal unity不逻辑要求 global unity。
+这些结果共同建立：
+
+\[
+\boxed{SubjectiveArity\not\Rightarrow GEU.}
+\]
+
+所以 general GEUP theorem仍失败。
 
 ---
 
-## 6. Husserl-style world-coherence is not yet co-consciousness
+## 2. Yetter-Chappell：GEU model，不是 GEUP proof
 
-phenomenological tradition可以说：all perspectives最终应在一个 coherent world-horizon中 coalesce。
-
-但：
-
-\[
-ObjectiveWorldCoherence
-\]
-
-与：
-
-\[
-OneCoConsciousExperience
-\]
-
-不同。
-
-多个 subjects可以共同指向 / constitute / coordinate on one objective world，同时各自保持不同 experiential fields。
-
-所以：
-
-\[
-\boxed{
-WorldHorizonUnity
-\not\Rightarrow
-PhenomenalCoConsciousUnity.
-}
-\]
-
-除非另加一个 transcendental/global subject theory。
-
----
-
-## 7. Yetter-Chappell is a model of GEU, not a proof of GEUP
-
-Yetter-Chappell-style phenomenal tapestry直接把 physical reality理解为：
-
-\[
-OneGlobalPhenomenalTapestry.
-\]
-
-这为 GEU 提供 coherent positive model，并让 Christmann 的 global-subject pressure启动。
-
-但它没有从 mere subjectivity推出 GEU；GEU是其 idealist metaphysics的一部分。
+Yetter-Chappell-style phenomenal tapestry直接把 physical reality理解成 one global phenomenal structure。
 
 因此：
 
 \[
-\boxed{
-YetterChappell\models GEU
-}
+YetterChappell\models GEU,
 \]
 
-不等于：
+但没有：
 
 \[
-\boxed{
 SubjectiveArity\models GEU.
-}
 \]
+
+Christmann 2026 对已经给定的 GEU 施加 global-subject pressure；它不负责从 C1 推到 C2。
 
 ---
 
-## 8. What would actually establish GEUP
+## 3. 新增 Route A — Roelofs Continuism
 
-需要一个真正的 **Global Closure Principle**，至少完成以下之一。
+Roelofs 2024 提供目前最直接的 **field-first** GEUP positive route。
 
-### GC1 — Necessary experiential connectivity
+他区分：
 
-证明任意两个 fundamental experiential domains之间必存在 co-consciousness bridge。
+- informational boundedness；
+- fundamental-causal boundedness；
+- phenomenal boundedness。
 
-当前无此原则。
-
-### GC2 — One-world experiential closure
-
-证明：
+ordinary human minds在信息处理上明显 bounded，但：
 
 \[
-OneWorld(R)+SubjectiveArity(R)
+InformationalBoundedness\not\Rightarrow PhenomenalBoundedness.
+\]
+
+continuism允许不同 human minds informationally separate，同时 phenomenally continuous at a more fundamental level。
+
+其 abductive structure可重构为：
+
+### R1 — consciousness is fundamental
+
+\[
+Fundamental(PhenomenalConsciousness).
+\]
+
+### R2 — phenomenal unity is correspondingly fundamental
+
+phenomenal unity若也是 fundamental relation，就不应无理由由高阶 information-processing boundary完全决定。
+
+### R3 — informational boundaries are graded
+
+brain / organism-level integration comes in degrees，没有显然的 sharp metaphysical cutoff。
+
+### R4 — fundamental nature crosses organism boundaries
+
+fundamental causal relations不以 ordinary biological / informational boundaries为最终 partition。
+
+于是 abductively：
+
+\[
+\boxed{
+FundamentalConsciousness
++
+NaturalContinuity
++
+AntiArbitraryBoundary
+\Rightarrow_{IBE}
+PhenomenalUnboundedness.}
+\]
+
+若 relevant fundamental structure globally connected：
+
+\[
+\boxed{PhenomenalUnboundedness\Rightarrow GEU.}
+\]
+
+这不是 entailment，但它改变了 GEUP 的证据地位：现在已经有一条 independent abductive closure route。
+
+---
+
+## 4. Roelofs route 的四个压力点
+
+### P1 — Tracking Gap
+
+\[
+Fundamental(PhenomenalUnity)
+\not\Rightarrow
+PhenomenalUnity\text{ tracks all fundamental causal connectivity}.
+\]
+
+理论仍可提出独立 phenomenal-boundary law。
+
+### P2 — Threshold Gap
+
+graded informational integration不证明 phenomenal boundary不能 sharp。lawlike phase transition / emergence原则上仍可提供 cutoff。
+
+### P3 — Global Connectivity Gap
+
+局部 causal continuity不自动保证 complete reality只有一个 connected component。
+
+### P4 — Overlap Pressure
+
+continuism允许 local informational regions嵌在更大的 phenomenal field / shared experiential structure中；这使 anti-overlap arguments成为核心压力测试。
+
+因此 Roelofs给的是 serious IBE，而不是 GEUP theorem。
+
+---
+
+## 5. 新增 Route B — Subject Universalism / Phenomenal Composition
+
+Osborn 2024 给一个不同的 **composition-first** construction：
+
+\[
+\forall\Gamma\subseteq Subjects,
+\quad Subject(\bigoplus\Gamma).
+\]
+
+若 fundamental/local subjects jointly exhaust cosmos，令：
+
+\[
+C=\bigoplus B.
+\]
+
+则：
+
+\[
+Subject(C).
+\]
+
+在 extensional mereology 下 total fusion唯一，于是可以得到：
+
+\[
+\boxed{UniqueMaximalCosmicSubject.}
+\]
+
+但这不是 GEU 本身，因为 cosmic subject 的存在没有自动说明 constituent local experiences都进入同一 global phenomenal field。
+
+因此：
+
+\[
+\boxed{
+UniqueMaximalCosmicSubject
+\not\Rightarrow
+GlobalCoConsciousField.}
+\]
+
+暂称 **Fusion-to-Field Gap**。
+
+若再加入 universal phenomenal bonding / experience-inclusion principle：
+
+\[
+PartExperience(e_i)
 \Rightarrow
-GEU(R).
+IncludedInGlobalField(e_i,C),
 \]
 
-但 one objective world可以包含 many subjects，因此当前有明显 countermodel pressure。
-
-### GC3 — One actuality, one phenomenal field
-
-证明 actuality本身只能 instantiate一个 phenomenal field。
-
-这接近争议中的 global singularity，容易 bootstrapping。
-
-### GC4 — Composition theorem
-
-证明所有 local phenomenal unities必须 compose成一个 higher-order unity。
-
-Miller de-combination problem 与 subject-combination literature正好说明该 composition不平凡。
+才更直接得到 GEU。
 
 ---
 
-## 9. Current verdict
+## 6. Two Global Closure routes
 
-unity-of-consciousness literature目前不支持 GEUP。
+现在应区分：
 
-相反，它强烈建议区分：
+### Field-first
+
+\[
+FundamentalSubjectivity
+\to
+PhenomenalUnboundedness
+\to
+GEU.
+\]
+
+代表：Roelofs continuism。
+
+### Composition-first
+
+\[
+ManySubjects
+\to
+UniversalFusion
+\to
+CosmicSubject
+\to
+[ExperienceInclusion]\to GEU.
+\]
+
+代表：Osborn/Goff-style universalism / bonding。
+
+二者互补：前者直接命中 GEU，后者更直接构造 global subject。
+
+---
+
+## 7. Global Closure Package
+
+把两路线的 strongest pieces合并：
 
 \[
 \boxed{
-LocalSubjectUnity
-\neq
-GlobalExperientialUnity.
+GCP=SU+MF+FC+EIP
 }
 \]
 
-Bayne / Dainton说明 unity theory通常以一个 subject / phenomenal field为 domain；Wiese削弱 strong holism；IIT提供 multiple disjoint complexes；Husserl-style world coherence也不等于 all experiences co-conscious。
+其中：
 
-所以：
+- SU = Subject Universalism；
+- MF = unique maximal cosmic fusion；
+- FC = phenomenal field continuity；
+- EIP = local experiences participate in global field。
 
-\[
-\boxed{GEUP\text{ currently has no independent support}.}
-\]
-
-Christmann 2026的重要性因此更精确：
-
-\[
-GEU\Rightarrow GlobalSubjectPressure
-\]
-
-是有内容的新论证；但：
-
-\[
-SubjectiveArity\Rightarrow GEU
-\]
-
-仍然是当前最难的 singularity bridge。
-
-这使 positive frontier进一步收窄为：
+则：
 
 \[
 \boxed{
-What could force distinct local experiential fields into one global phenomenal field?
+GCP\Rightarrow
+\exists!G\;MaximalGlobalSubject(G)
+\land GEU(G).}
+\]
+
+这给 C1→C2/C3 一个真正可压力测试的 constructive package。
+
+但 GCP 的每个组成项都是 substantive metaphysical commitment，并非由 `SubjectiveArity` 单独推出。
+
+---
+
+## 8. Overlap becomes a central test
+
+Osborn universalism产生大量 overlapping / gerrymandered subjects；Roelofs continuism也允许 ordinary informational domains嵌在更大的 phenomenal field中。
+
+Mørch 的 *Why Consciousness Can't Overlap* 因而成为两路线共同的 high-priority counterpressure。
+
+当前项目只有 metadata + abstract read，尚未完成 full-text audit，所以不能用它关闭 GCP；但下一步必须检验：
+
+- overlap contradiction 是否依赖 deflationary bundle theory；
+- substantive subject view能否承受 overlap；
+- one field with informational subregions是否真的等于 subject overlap；
+- shared experience是否要求 exclusive ownership失败。
+
+---
+
+## 9. Christmann now plugs into the route
+
+Christmann 2026 已给：
+
+\[
+\boxed{GEU\Rightarrow GlobalSubjectPressure.}
+\]
+
+于是目前第一次有连续 literature-supported positive chain：
+
+\[
+\boxed{
+FundamentalSubjectivity
+\xrightarrow{Roelofs/IBE}
+GEU
+\xrightarrow{Christmann}
+GlobalSubjectPressure.}
+\]
+
+同时 Osborn从 composition side直接构造 unique maximal cosmic subject。
+
+这仍没有解决 local privilege：
+
+\[
+GlobalClosure\not\Rightarrow UniqueLocalAbsoluteLocus.
+\]
+
+---
+
+## 10. Updated verdict
+
+旧结论：
+
+\[
+GEUP\text{ has no independent support}
+\]
+
+已经过时。
+
+新结论：
+
+\[
+\boxed{
+GEUP\text{ has no general entailment, but has serious abductive / constructive support}.}
+\]
+
+更准确地说：
+
+- Bayne / Dainton / Wiese / IIT仍阻止从 local unity直接推出 global unity；
+- Roelofs给一个 independent field-continuity IBE；
+- Osborn/Goff给一个 composition/bonding closure construction；
+- overlap、tracking、threshold、global-connectivity与 Fusion-to-Field Gap是主要未决压力。
+
+因此 C1→C2 已从“没有桥”升级为 **live theory competition**。
+
+当前最值得继续的是：
+
+\[
+\boxed{
+Can\ GlobalClosure\ survive\ overlap\ and\ boundary\ objections?
 }
 \]
 
 ## 文献连接
 
-- Tim Bayne, *The Unity of Consciousness*, Oxford University Press, 2010.
-- Barry Dainton, *The Phenomenal Self*, Oxford University Press, 2008, especially the account of synchronic phenomenal unity as primitive co-consciousness.
-- Jonathan Vogel, “Counting Minds and Mental States”, in *Sensory Integration and the Unity of Consciousness*, MIT Press, 2014.
-- Wanja Wiese, *Experienced Wholeness*, MIT Press, 2018, ch. 5 “Think Globally, Experience Locally?”.
-- Larissa Albantakis et al., IIT 4.0, *PLOS Computational Biology* 2023.
+- Luke Roelofs, “The Varieties of (Un)Boundedness”, *Journal of Consciousness Studies* 31(9–10), 2024, 42–66, DOI `10.53765/20512201.31.9.042`。
+- Nicholas Osborn, “Subjects Simply Sum into Subjects”, *Dialectica* 78(3), 2024, 87–105, DOI `10.48106/dial.v78.i3.05`。
+- Tim Bayne, *The Unity of Consciousness*, OUP, 2010.
+- Barry Dainton, *The Phenomenal Self*, OUP, 2008.
+- Wanja Wiese, *Experienced Wholeness*, MIT Press, 2018.
+- Larissa Albantakis et al., IIT 4.0, *PLOS Computational Biology* 19(10), 2023.
+- [`global-closure-construction-test.md`](global-closure-construction-test.md)
 - [`global-experiential-unity-route.md`](global-experiential-unity-route.md)
 - [`../../literature/christmann-2026-global-subject-pressure.md`](../../literature/christmann-2026-global-subject-pressure.md)
+- [`../../literature/candidates/2026-10-05-morch-overlap.md`](../../literature/candidates/2026-10-05-morch-overlap.md)
