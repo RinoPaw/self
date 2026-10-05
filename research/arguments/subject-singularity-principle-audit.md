@@ -1,6 +1,6 @@
 # Subject Singularity Principle Audit
 
-> 状态：2026-10-05 SAP-focused audit。
+> 状态：2026-10-05 SAP-focused audit，已纳入 priority cosmopsychism 与 IIT exclusion/maximality。
 >
 > 目标：在 WAAP / subject-bearing actuality 已经让步成立的条件下，检验是否有 independent reason 从 plural subjectivity 推到 one global subject。
 
@@ -34,7 +34,7 @@ WAAP\land\neg SAP
 
 ## 1. Priority monism route
 
-Schaffer：
+Schaffer-style priority monism：
 
 \[
 \boxed{\exists!x\;BasicConcrete(x)\land x=Cosmos.}
@@ -61,9 +61,7 @@ Subject(Cosmos).
 因此：
 
 \[
-\boxed{
-PriorityMonism\not\Rightarrow SAP.
-}
+\boxed{PriorityMonism\not\Rightarrow SAP.}
 \]
 
 需要额外 subjectivity premise。
@@ -72,13 +70,7 @@ PriorityMonism\not\Rightarrow SAP.
 
 ## 2. Goff route: strongest analytic conditional construction
 
-Goff 的 Subject Irreducibility pressure：
-
-\[
-WhatItIsToBeSubject(S)
-\]
-
-不能通过完全不涉及 S 的 lower-level facts analysis 得到。
+Goff 的 Subject Irreducibility pressure：一个 conscious subject 的存在难以由完全不涉及该 subject 的 lower-level facts 通过 analysis 得到。
 
 若再加 anti-emergence / consciousness-fundamental pressure，以及 priority monism，就可以把 ultimate conscious ground 放到 cosmos：
 
@@ -112,7 +104,7 @@ OneBasicWhole\Rightarrow OneBasicSubjectPole,
 
 ## 3. The One-Object / One-Subject Gap
 
-真正缺失的是：
+真正缺失：
 
 \[
 \boxed{
@@ -122,7 +114,7 @@ OneFundamentalSubject.
 }
 \]
 
-这个 inference 可能失败至少三种方式：
+这个 inference 至少有三种失败方式：
 
 ### 3.1 Nonconscious whole
 
@@ -139,9 +131,7 @@ Albahari-style：fundamental consciousness可以不属于一个 subject。
 所以：
 
 \[
-\boxed{
-OneEntity\not\Rightarrow OneSubjectPole.
-}
+\boxed{OneEntity\not\Rightarrow OneSubjectPole.}
 \]
 
 暂称 **One-Object / One-Subject Gap**。
@@ -164,7 +154,7 @@ Subject\not=AnalyticCompositeOfNonSubjectFacts.
 NumberOfFundamentalSubjects=1.
 \]
 
-priority pluralist panpsychism也可以有多个 irreducible fundamental subjects。
+priority pluralist panpsychism仍可以有多个 irreducible fundamental subjects。
 
 所以：
 
@@ -174,7 +164,7 @@ SubjectIrreducibility\not\Rightarrow SubjectSingularity.
 }
 \]
 
-Goff 获得 singularity 的关键其实来自 priority monism，而不是 subject irreducibility 本身。
+Goff 获得 singularity 的关键来自 priority monism，而不是 subject irreducibility 本身。
 
 ---
 
@@ -193,16 +183,10 @@ OneSubject(R).
 但：
 
 \[
-SystemUnity\not\Rightarrow PhenomenalUnity.
+OneSystem\not\Rightarrow OnePerspective.
 \]
 
-\[
-PhenomenalUnity\not\Rightarrow SingleSubject
-\]
-
-也不能无条件使用，因为 subject individuation 正是争点。
-
-Whitehead 的 universe / societies of occasions 提供一类反模型：高度 integrated reality 可以由许多 subject-bearing occasions 构成。
+Whitehead 的 universe / societies of occasions就是高度 integrated reality + plural subject-bearing actualities 的邻近反模型。
 
 所以 whole-unity 只有在新增：
 
@@ -212,37 +196,123 @@ GlobalIntegration\Rightarrow OneSubject
 
 这种 exclusion / unity principle 后才推进 SAP。
 
-当前没有 independent reason 支持该 bridge。
+---
+
+## 6. IIT：maximality/exclusion 只能给 local uniqueness
+
+IIT 是目前最像一个 operational `single-pole principle` 的成熟理论。
+
+Exclusion 要求在 overlapping candidate substrates 之间选择 maximally irreducible complex：
+
+\[
+Overlap(S_1,\ldots,S_n)
+\Rightarrow
+OneLocalWinner(S^*).
+\]
+
+这给 definite conscious border，并排除重叠的 lower-maximal candidates。
+
+但 IIT 4.0 在 universal substrate 中会：
+
+1. 识别第一个 complex；
+2. 排除其 units；
+3. 在剩余 units 中继续寻找第二个、第三个…… complex。
+
+所以：
+
+\[
+\boxed{
+LocalExclusion\not\Rightarrow GlobalSingularity.
+}
+\]
+
+甚至更强：
+
+\[
+\boxed{
+Integration+Exclusion+Maximality
+\not\Rightarrow
+ExactlyOneSubjectInReality.
+}
+\]
+
+IIT 因而提供重要 lesson：**subject boundaries 可以有 principled maximality mechanism，同时 reality 仍然容纳多个 non-overlapping subjects。**
+
+若要把 IIT-like route 升级成 SAP，必须再证明：
+
+\[
+Universe=UniqueGlobalMaximum
+\]
+
+并且 global maximum排除所有 local complexes。
+
+IIT 本身不要求这一点。
+
+详见 [`../../literature/iit-exclusion-subject-singularity.md`](../../literature/iit-exclusion-subject-singularity.md)。
 
 ---
 
-## 6. Subject-exclusion / parthood route
+## 7. Phenomenal unity 同样只 local-singularize
 
-一种可能的 singularity principle：
+phenomenal unity 可以是 singularizing relation：一组 conjointly unified experiences形成一个 phenomenal whole。
 
-> subjects cannot be proper parts of subjects.
+但：
 
-若同时：
+\[
+Unity(A_1,\ldots,A_n)
+\]
+
+不排除：
+
+\[
+Unity(B_1,\ldots,B_m)
+\]
+
+作为另一个 disjoint phenomenal whole。
+
+因此：
+
+\[
+\boxed{
+PhenomenalUnity\Rightarrow LocalSubjectUnity
+}
+\]
+
+不推出：
+
+\[
+\exists!s\;GlobalSubject(s).
+\]
+
+这和 IIT 的 local-exclusion result 收敛。
+
+---
+
+## 8. Subject-exclusion / parthood route
+
+一种可能 singularity principle：subjects cannot be proper parts of subjects。
+
+若：
 
 1. cosmos 是 subject；
-2. local subjects 是 cosmos 的 proper parts；
+2. local subjects 是 cosmos proper parts；
 
 会产生 tension。
 
-但 Miller 的 de-combination literature说明，这更像是 cosmopsychism 的问题，而不是自动证明 local subjects不存在或 global subject唯一。
+但 Miller 的 de-combination literature说明，这更像 cosmopsychism 的解释负担，而不是自动证明 local subjects不存在或 global subject唯一。
 
 理论可以尝试：
 
-- 把 local subjects 视为 aspects 而非 proper-part subjects；
-- 区分 absolute / relative phenomenal unity；
+- local subjects 是 aspects 而不是 proper-part subjects；
+- absolute / relative phenomenal unity；
 - 修改 subject essence；
 - 拒绝 cosmic subject。
 
-所以 subject-exclusion目前没有提供独立 SAP theorem。
+所以 subject-exclusion目前没有 SAP theorem。
 
 ---
 
-## 7. Aperspectival universal consciousness pressure
+## 9. Aperspectival universal consciousness pressure
 
 Albahari-style route允许：
 
@@ -274,7 +344,7 @@ OneGlobalSubject.
 
 ---
 
-## 8. Strongest current SAP package
+## 10. Strongest current SAP package
 
 目前最强 conditional package：
 
@@ -314,6 +384,8 @@ OneFundamentalSubjectPole.
 
 四步中只有 S1 有独立 priority-monist literature；S2–S4 都仍是 substantive mind-metaphysical commitments。
 
+而 IIT 表明 S4 不能仅由 generic maximality / exclusion 填补，因为 local maxima 可以有多个。
+
 所以：
 
 \[
@@ -322,7 +394,7 @@ OneFundamentalSubjectPole.
 
 ---
 
-## 9. Even successful SAP does not solve LOC
+## 11. Even successful SAP does not solve LOC
 
 即使：
 
@@ -332,7 +404,7 @@ OneFundamentalSubjectPole.
 
 local Alice/Bob 等仍需解释。
 
-cosmopsychism 通常把 local subjects 视为 derivative / grounded in cosmic subject。
+cosmopsychism通常把 local subjects 视为 derivative / grounded in cosmic subject。
 
 这与项目 target 不同：
 
@@ -358,7 +430,7 @@ Miller-style de-combination problem反而说明 global-to-local relation本身�
 
 ---
 
-## 10. Current verdict
+## 12. Current verdict
 
 SAP 当前有 coherent constructions，但没有 independent bridge。
 
@@ -388,13 +460,22 @@ OneFundamentalSubject.
 }
 \]
 
+此外，IIT 给出新的 strong boundary：
+
+\[
+\boxed{
+LocalExclusion\not\Rightarrow GlobalSingularity.
+}
+\]
+
 所以 C1→C2 当前没有被迫发生。
 
-这使项目下一步最值得找的是一个真正的 **single-pole principle**：说明一个 complete/fundamental conscious whole 为什么不能含多个 irreducible subject poles。
+下一步真正值得找的是一个 **global competition principle**：说明为什么所有 reality-wide subject candidates 必须进入同一个 exclusion domain，并且只能留下一个 winner。
 
 ## 关联
 
 - [`../../literature/priority-cosmopsychism-subject-singularity.md`](../../literature/priority-cosmopsychism-subject-singularity.md)
+- [`../../literature/iit-exclusion-subject-singularity.md`](../../literature/iit-exclusion-subject-singularity.md)
 - [`actuality-arity-singularity-gap.md`](actuality-arity-singularity-gap.md)
 - [`actuality-arity-principle-audit.md`](actuality-arity-principle-audit.md)
 - [`../models/role-first-absolute-opening.md`](../models/role-first-absolute-opening.md)
