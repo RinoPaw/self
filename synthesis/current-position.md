@@ -2,9 +2,9 @@
 
 > 状态：工作假说，不视为已证明结论。
 >
-> 最后更新：2026-10-05。本文件是当前权威摘要；旧 `frontier-*` 保留研究历史。最新正方路线见 [`frontier-2026-10-05-self-manifesting-actuality.md`](frontier-2026-10-05-self-manifesting-actuality.md)。
+> 最后更新：2026-10-05。本文件是当前权威摘要；旧 `frontier-*` 保留研究历史。
 
-## 1. 项目真正研究什么
+## 1. 核心 target
 
 项目研究 ordinary first-personhood 之外的一条更强假说：
 
@@ -12,7 +12,7 @@
 \boxed{\exists!E^*\;AbsoluteOrientation(E^*)}
 \]
 
-即完整现实本身是否具有一个不可继续相对化、全局唯一、并且局域于某一 ordinary conscious stream 的 first-person orientation。
+即完整现实本身是否具有一个不可继续相对化、全局唯一、并局域于某一 ordinary conscious stream 的 first-person orientation。
 
 同时坚持 genuine other minds：
 
@@ -20,7 +20,7 @@
 \exists S_i\neq S_j\;[Conscious(S_i)\land Conscious(S_j)].
 \]
 
-当前必须严格区分：
+必须严格区分：
 
 \[
 \boxed{
@@ -28,11 +28,11 @@
 \neq
 \text{local first-person organization}
 \neq
-\text{phenomenal mineness}
-\neq
 \text{strong FP fact}
 \neq
 \text{subject-bearing actuality}
+\neq
+\text{global experiential unity}
 \neq
 \text{one global subject}
 \neq
@@ -43,14 +43,12 @@
 
 ---
 
-## 2. ordinary first-person axis 仍独立
+## 2. Ordinary first-person axis 仍独立
 
 ordinary subjectivity 一侧继续保留：
 
 \[
 Consciousness
-\to
-SubjectInvolvement
 \to
 ForMeNess/Mineness
 \to
@@ -68,21 +66,19 @@ IrreducibleFirstPersonRepresentation
 IrreducibleFirstPersonFact.}
 \]
 
-Perry-style essential indexical 允许 representation 不可消去而 truthmaker 仍 impersonal；List / Lipman 等路线则把 perspective 推入 facts / obtaining 本身。
-
-即使 strong FP facts 最终成立，也没有得到 global uniqueness 或 local absolute privilege。
+即使 strong FP facts 成立，也没有得到 global unity、global subject 或 local absolute privilege。
 
 ---
 
 ## 3. Actuality–Arity Orthogonality
 
-Bricker-style actuality 给当前最强的 subject-neutral countermodel template：actuality 可以同时是
+Bricker-style actuality 给当前 strongest subject-neutral template：actuality 可以同时是
 
 \[
 ABS+PRIM+PERSP+DESE
 \]
 
-即 absolute、primitive、perspectival，并支持 substantive de se actuality knowledge，而没有 subject-level first-person argument。
+即 absolute、primitive、perspectival，并支持 de se actuality knowledge，而没有 subject-level first-person argument。
 
 因此：
 
@@ -93,48 +89,30 @@ ABS+PRIM+PERSP+DESE
 FPAR.}
 \]
 
-暂称 **Actuality–Arity Orthogonality (AAO)**。
+Soames 的 universe-state instantiation、Adams 的 fundamental actuality 等又给其他 subject-neutral templates。
 
-Soames 的 universe-state instantiation、Adams 的 fundamental actuality、Lewis 的 indexical route 又分别提供其他 subject-neutral actuality templates。Davis 对 Lewis-style indexicality 的批评不会消灭这些 non-indexical options。
-
-所以正方不能再依赖：
-
-- actuality 很 absolute；
-- actuality 很 primitive；
-- actuality 是 perspectival；
-- actuality 能被 de se 地知道；
-- 只有一个 actual world。
-
-这些性质都没有推出 subject arity。
+所以 actuality 的 absoluteness / primitiveness / perspectivality / de-se accessibility 都不能单独推出 subject arity。
 
 ---
 
-## 4. Whitehead 打开 WAAP，但同时打开新的中间理论
+## 4. WAAP：Whitehead 打开 subject-bearing actuality
 
-Whitehead 直接拒绝 **vacuous actuality**：一个真正 actuality 却完全没有 subjective immediacy / experiential interiority 的 `res vera`。
+Whitehead 明确拒绝 **vacuous actuality**：一个 genuine actuality 却完全没有 subjective immediacy / experiential interiority 的 `res vera`。
 
-在其 process ontology 中：
+其 actual entity 是：
 
 \[
-ActualEntity=Subject\text{-}Superject,
+ActualEntity=Subject\text{-}Superject.
 \]
 
-actual occasion 在 concrescence 中具有 experiential / prehensive subjective phase。
-
-因此 Whitehead package 给：
+因此：
 
 \[
 \boxed{
 WhiteheadPackage\vdash\neg VacuousActuality.}
 \]
 
-它没有给概念分析 theorem：
-
-\[
-Meaning(Actual)\vdash Subjectivity.
-\]
-
-但它使下面原则第一次拥有成熟、直接的 metaphysical positive model：
+这使下面原则拥有 serious positive model：
 
 ### WAAP — Weak Actuality-Arity Principle
 
@@ -145,102 +123,161 @@ CompleteActuality(R)
 SubjectiveArity(R).}
 \]
 
-Hegelian reflexive actuality、Michel Henry 的 self-manifestation / ipseity、Husserlian constitution 都是邻近资源。
+但 Whitehead package 不是 ordinary concept `actual` 的 analytic theorem；Bricker / Soames / Adams 仍是 live rivals。
 
-然而 Whitehead 自己是 pluralist：多个 actual occasions 都可以 genuinely subject-bearing。
+当前：
+
+\[
+\boxed{WAAP\text{ serious but unproven}.}
+\]
+
+---
+
+## 5. Arity 之后还隔着 Global Experiential Unity
+
+Whitehead 自己是 pluralist：多个 actual occasions 都可有 genuine subjective immediacy。
 
 所以：
 
 \[
 \boxed{
-ActualityHasSubjectiveArity
+SubjectiveArity
 \not\Rightarrow
-OneGlobalSubject.}
+GlobalExperientialUnity.}
 \]
 
-这就是 **Actuality Arity–Singularity Gap**。
+定义：
+
+### GEUP — Global Experiential Unity Principle
+
+\[
+\boxed{
+SubjectiveArity(R)
+\Rightarrow
+GlobalExperientialUnity(R).}
+\]
+
+其中 `GlobalExperientialUnity` 要求 complete reality 的 fundamental experiential contents 属于一个 single overarching co-conscious / phenomenal unity structure，而不是多个 mutually disjoint subject domains。
+
+当前 unity literature 给 GEUP 很强的反限制：
+
+- Bayne 的 phenomenal unity 是 subject-relative；
+- Dainton 的 primitive co-consciousness 仍是 local-domain relation；
+- transitivity 不会凭空连接 disconnected experiential domains；
+- Wiese 对 strong phenomenal holism 施压；
+- IIT 4.0 明确允许多个 disjoint conscious complexes；
+- one objective world / world-horizon 不等于 one co-conscious field。
+
+所以：
+
+\[
+\boxed{GEUP\text{ currently has no independent support}.}
+\]
+
+这使 `arity ≠ singularity` 更精确地变成：
+
+\[
+\boxed{
+Arity
+\not\Rightarrow
+GlobalExperientialUnity.}
+\]
 
 ---
 
-## 5. 理论空间现在至少三分
+## 6. Christmann 2026：GEU → Global Subject Pressure
 
-旧的：
+John Alton Christmann 2026 针对 Yetter-Chappell-style phenomenal tapestry：physical reality 已被理解成一个由 all possible sensory perspectives、co-consciousness、binding 与 spatial-temporal phenomenal relations构成的 single global experiential structure。
+
+在这一厚 antecedent 下，他提供两条 serious pressure。
+
+### Bearer pressure
+
+若整个 tapestry genuine experienced，则需要一个 experiencer of global scope；若 experiencer genuine承担全局 experiencing role，它已经接近 non-trivial global subject。
+
+### Synchronic-pattern pressure
+
+global tapestry 的特定 co-conscious pattern需要 ground；one unified experiential act 可把该 pattern解释为 one subject's intentional content。
+
+因此有 serious conditional result：
 
 \[
-NeutralActuality\quad vs\quad CenteredActuality
+\boxed{
+GlobalExperientialUnity
+\Rightarrow
+GlobalSubjectPressure.}
 \]
 
-已经太粗。
+暂把这条记为：
+
+### GSP — Global Subject Pressure
+
+它比 priority cosmopsychism更具 derivational value，因为 subject不是一开始就直接写进 package。
+
+但 Christmann 没有证明：
+
+\[
+SubjectiveArity\Rightarrow GlobalExperientialUnity.
+\]
+
+所以 current singularity bottleneck 是 GEUP，而非 GSP。
+
+---
+
+## 7. Theory space 现在至少四层
 
 ### C0 — Subject-neutral actuality
 
 \[
-Complete(R)\land\neg SubjectiveArity(R).
+Actuality+\neg SubjectiveArity.
 \]
 
-邻近模型：Bricker / Soames / Adams 等。
+Bricker / Soames / Adams 邻近。
 
 ### C1 — Plural subject-bearing actuality
 
 \[
-Complete(R)
-\land
-SubjectiveArity(R)
-\land
-\neg\exists!s\;GlobalSubjectPole(R,s).
+SubjectiveArity+\neg GlobalExperientialUnity.
 \]
 
-Whitehead 是最直接邻近模型；Lipman / Eker 在 obtaining / standpoint 层提供结构同盟。
+Whitehead / Lipman / Eker / IIT-style plural domains 邻近。
 
-### C2 — Singular centered actuality
+### C2 — Globally unified experiential actuality
 
 \[
-Complete(R)
-\land
-\exists!s\;GlobalSubjectPole(R,s).
+GlobalExperientialUnity.
 \]
 
-项目当前最强 positive realization 是 Constitutive Role-First Centered Actuality：
+Yetter-Chappell-style phenomenal tapestry邻近；Christmann 对该层施加 global-subject pressure。
+
+### C3 — One global subject
 
 \[
-\boxed{\Omega[R;E^*]}.
+\exists!G\;GlobalSubject(G).
 \]
 
-orientation 与 locus 共同 individuate complete centered totality；exact automorphic relabelings quotient；不需要 detachable selector；`WorldActuality = AbsoluteI = AbsoluteNOW = Ω` 是同一 actuality kind 的 aspects。
+priority cosmopsychism / absolute idealism / robust global-subject reading 邻近。
 
-所以 centered side 必须连续赢：
+项目 target 还比 C3 更强，因为 C3 后仍有 localization fork。
+
+因此 positive ladder 是：
 
 \[
-\boxed{C0\to C1\to C2}
+\boxed{
+C0
+\xrightarrow{WAAP}
+C1
+\xrightarrow{GEUP}
+C2
+\xrightarrow{GSP}
+C3
+\xrightarrow{LOC}
+AbsoluteLocalOrientation.}
 \]
-
-而且即便 C2 成立，还没有自动得到 one ordinary local absolute locus。
 
 ---
 
-## 6. 三个真正独立的正方原则
-
-### WAAP — defeat vacuity
-
-\[
-\boxed{
-CompleteActuality(R)
-\Rightarrow
-SubjectiveArity(R).}
-\]
-
-当前：**serious positive support, unproven**。
-
-Whitehead 是 strongest current resource；Bricker/Soames/Adams 阻止 general theorem。
-
-### SAP — defeat plurality
-
-\[
-\boxed{
-SubjectiveArity(R)
-\Rightarrow
-\exists!s\;GlobalSubjectPole(R,s).}
-\]
+## 8. Priority cosmopsychism 与 IIT 对 global subject 的边界
 
 priority cosmopsychism 给 strongest conditional construction：
 
@@ -256,11 +293,9 @@ SinglePole
 OneFundamentalSubject.
 \]
 
-但 Schaffer-style priority monism只给一个 basic concrete whole，不给 one mind；Albahari允许 aperspectival fundamental consciousness；Whitehead允许 plural subject-bearing actuality。
+但 one fundamental concrete whole 不自动给 one mind；fundamental consciousness 甚至可以是 Albahari-style aperspectival ground。
 
-IIT 的 exclusion / maximality又给出一个特别重要的边界：它能 principledly 选出 local conscious complexes，却明确允许多个 disjoint complexes。
-
-所以：
+IIT 的 exclusion / maximality 能 principledly 产生 local conscious complexes，却允许多个 disjoint complexes：
 
 \[
 \boxed{
@@ -269,9 +304,11 @@ LocalExclusion
 GlobalSingularity.}
 \]
 
-当前：**SAP constructible but unproven**。
+所以 generic unity / maximality / exclusion 不足以代替 GEUP/GSP。
 
-### LOC — defeat delocalization
+---
+
+## 9. LOC：One Global Subject 仍不推出 One Local Absolute Locus
 
 即使让步：
 
@@ -279,28 +316,15 @@ GlobalSingularity.}
 \exists!G\;GlobalFundamentalSubject(G),
 \]
 
-项目还需要：
+至少还有四种 global→local relation。
 
-\[
-\boxed{
-\exists!E^*\;AbsoluteLocalLocus(E^*,G).}
-\]
+### L0 — No privileged localization
 
-这一步现在有最清楚的 negative structural result。
+Albahari-style aperspectival / unlocalized ground。
 
----
+### L1 — All-loci identity
 
-## 7. Global Subject Localization Quadrilemma
-
-one global subject 与 local conscious streams 至少有四种稳定关系。
-
-### L0 — no privileged localization
-
-fundamental consciousness / subjectivity没有 privileged local bearer；Albahari-style aperspectival ground 是邻近模型。
-
-### L1 — all-loci identity
-
-Kolak Open Individualism 给 clean countermodel：numerically one subject 可以是 everyone，贯穿所有 local persons / streams。
+Kolak Open Individualism：numerically one subject 可以是 everyone，贯穿所有 local persons/streams。
 
 所以：
 
@@ -311,18 +335,18 @@ OneSubject
 OneLocalRealization.}
 \]
 
-### L2 — plural derivative localization
+### L2 — Plural derivative localization
 
-constitutive cosmopsychism / absolute-idealist manifestation：one global subject grounds / manifests as many local subjects。
+Goff / cosmopsychism / absolute-idealist manifestation：one global subject grounds or manifests as many local subjects。
 
-Goff 的近年 cosmopsychist model甚至必须显式加入：
+Goff 的 recent model甚至显式需要：
 
-- `Localization Principle`：哪些条件产生 local subjects；
-- `Thinning Principle`：local subject继承 cosmic phenomenal field 的哪些 contents。
+- `Localization Principle`：什么条件产生 local subjects；
+- `Thinning Principle`：local subjects继承 cosmic field 哪些 phenomenal contents。
 
-这直接说明连 ordinary local subject structure 都不是 global subject 免费携带的。
+连 ordinary local-subject structure 都不是 global subject 免费携带的。
 
-### L3 — unique privileged localization
+### L3 — Unique privileged localization
 
 项目真正需要：
 
@@ -330,9 +354,7 @@ Goff 的近年 cosmopsychist model甚至必须显式加入：
 \exists!E^*\;AbsRealizes(G,E^*).
 \]
 
-但 L3 需要一个额外 **Privileged Localization Principle (PLP)**。
-
-前三个 horn 与 one global subject 都相容，却没有 unique local absolute locus。
+这要求额外 **Privileged Localization Principle (PLP)**。
 
 因此：
 
@@ -343,43 +365,16 @@ OneGlobalSubject
 OnePrivilegedLocalLocus.}
 \]
 
-这是 **Localization Non-Entailment**。
-
 ---
 
-## 8. Localization Reappearance Result
+## 10. Localization Reappearance Result
 
-若正方为 L3 增加：
+PLP 的来源仍落入既有 funnel：
 
-\[
-PLP(G,E)\Rightarrow AbsoluteLocalLocus(E,G),
-\]
-
-PLP 又进入此前熟悉的 funnel。
-
-### local-profile PLP
-
-若 PLP supervenes on phenomenology / mineness / neural-cognitive local profile，perfect duplication会复制它，无法 exact-one select。
-
-### global-structure PLP
-
-若 global structure unique-point 一个 token，还要补：
-
-\[
-UniqueStructuralRole(E)
-\Rightarrow
-FirstPersonPrivilege(E).
-\]
-
-这重新出现 Privilege / Actuality Bridge。
-
-### primitive PLP
-
-直接 primitive `AbsRealizes(G,E^*)` 逻辑上 coherent，但来源问题重现；它没有独立说明 complete global subject为什么必须采取 exactly-one-local-locus form。
-
-### all-loci PLP
-
-若为了避免 arbitrary selector而把 relation给所有 local streams，就退回 Open Individualism-like L1，unique privilege 消失。
+- local-profile PLP → duplication / symmetry；
+- global structural role → unique structure 仍不等于 first-person privilege；
+- primitive `AbsRealizes(G,E^*)` → source/restatement problem；
+- all-loci realization → Open Individualism / no unique privilege。
 
 所以记录：
 
@@ -388,83 +383,52 @@ FirstPersonPrivilege(E).
 \text{Localization Reappearance Result (LRR)}.}
 \]
 
-> 从 many local subjects 上升到 one global subject，不会消除 `why this local subject?`。要恢复一个 unique ordinary absolute locus，理论必须加入新的 privilege-sensitive localization relation；原始解释负担会在 global→local map 处重新出现。
+> 从 many local subjects 上升到 one global subject，不会消除 `why this local subject?`。要恢复 unique ordinary absolute locus，理论必须新增 privilege-sensitive localization relation；原解释负担会在 global→local map 处重新出现。
 
 形式：
 
 \[
-\boxed{SAP\not\Rightarrow LOC.}
+\boxed{GSP/SAP\not\Rightarrow LOC.}
 \]
 
-并且：
-
-\[
-\boxed{
-OneGlobalSubject
-+
-ManyLocalSubjects
-\not\models
-UniqueLocalAbsoluteLocus.}
-\]
-
-这不是 token-label haecceitism 批评。即使 role-first model quotient 掉 pre-labelled token permutations，仍要解释 complete actuality 为什么采取 L3 这种 **localization form**，而不是 L0/L1/L2。
+这不是 bare token haecceitism 批评。即使 role-first model quotient 掉 pre-labelled token permutations，仍要解释 complete actuality 为什么采取 L3，而不是 L0/L1/L2。
 
 ---
 
-## 9. Completion endgame 因而变成三关
+## 11. 当前四道关的裁决
 
-当前 positive chain：
-
-\[
-\boxed{
-Vacuity
-\xrightarrow{WAAP}
-Arity
-\xrightarrow{SAP}
-Singularity
-\xrightarrow{LOC}
-Localization.}
-\]
-
-三关状态：
-
-| Gate | 当前 strongest positive resource | 当前 strongest resistance | 裁决 |
+| Gate | strongest positive resource | strongest resistance | verdict |
 |---|---|---|---|
-| WAAP | Whitehead anti-vacuous actuality；Hegel/Henry | Bricker/Soames/Adams thin actuality | serious, unproven |
-| SAP | priority cosmopsychism / absolute idealism | Whitehead pluralism；Albahari；IIT multiple complexes | constructible, unproven |
-| LOC | unique-local role-first possibility | Goff localization laws；Open Individualism；plural manifestations；aperspectival ground | strong non-entailment; no independent PLP |
+| WAAP | Whitehead anti-vacuous actuality；Hegel/Henry | Bricker/Soames/Adams | serious, unproven |
+| GEUP | Yetter-Chappell provides a model | Whitehead/Lipman/IIT/local unity literature | no independent support |
+| GSP | Christmann 2026 | primitive global unity / non-subject ground remains possible | serious conditional pressure |
+| LOC | role-first unique-local possibility | Goff localization laws；Open Individualism；plural manifestations；aperspectival ground | strong non-entailment; no independent PLP |
 
-所以即使未来 WAAP 和 SAP 都成立，原项目 thesis 仍不会自动成立。
+因此 original absolute-first-person thesis 需要四次结构升级，没有哪一次可由术语免费获得。
 
 ---
 
-## 10. Completion Underdetermination 的最新版
+## 12. Completion Underdetermination 的最新版
 
-现在不能只说：
+当前至少有三层真正 underdetermination：
 
-\[
-actuality\ has\ no\ subject\ arity
-\quad vs\quad
-actuality\ is\ centered.
-\]
-
-真正有三层 underdetermination：
-
-### U1 — Arity underdetermination
+### U1 — Arity
 
 \[
-C0\quad vs\quad C1/C2.
+C0\quad vs\quad C1/C2/C3.
 \]
 
-### U2 — Singularity underdetermination
+### U2 — Global experiential unity / subject
 
 若 WAAP成立：
 
 \[
-C1\quad vs\quad C2.
+C1\quad vs\quad C2/C3.
 \]
 
-### U3 — Localization underdetermination
+Christmann让 C2→C3 获得压力，但 C1→C2 仍无桥。
+
+### U3 — Localization
 
 若 one global subject成立：
 
@@ -472,9 +436,9 @@ C1\quad vs\quad C2.
 L0\;|\;L1\;|\;L2\;|\;L3.
 \]
 
-只有 L3 给项目 target，而目前没有独立 PLP。
+只有 L3 给项目 target，而目前无 independent PLP。
 
-因此 weaker commitments 仍保留 provisional abductive lead：每次升级都增加一项尚未 independently compelled 的结构。
+weaker commitments 因而仍保留 provisional abductive lead。
 
 这仍不是：
 
@@ -486,7 +450,7 @@ L0\;|\;L1\;|\;L2\;|\;L3.
 
 ---
 
-## 11. Epistemic result 保持
+## 13. Epistemic result 保持
 
 若 ordinary evidence 对 orientation permutation invariant：
 
@@ -500,34 +464,19 @@ P(e\mid H_i)=P(e\mid H_j),
 BF_{ij}=1.
 \]
 
-因此 ordinary first-person evidence不会 discriminatively支持某一 local absolute orientation。
+ordinary first-person evidence不会 discriminatively支持某一 local absolute orientation。
 
-Bricker-style actuality-sensitive entitlement提醒：
+Bricker-style actuality-sensitive entitlement允许：
 
 \[
 SameEvidence\not\Rightarrow SameEpistemicStatus,
 \]
 
-所以可以有 non-evidential / factive self-knowledge escape；它不会改变 BF=1，也不会为 PLP 提供新的 metaphysical evidence。
-
-当前 epistemic options仍是：
-
-\[
-\boxed{
-\text{silence}
-\;|\;
-\text{unique signature}
-\;|\;
-\text{absolute acquaintance}
-\;|\;
-\text{status-sensitive entitlement}.}
-\]
+所以 non-evidential/factive self-knowledge原则上仍可能；它不会给 PLP 新的 metaphysical evidence。
 
 ---
 
-## 12. 当前 strongest judgement
-
-现在可以非常精确地描述 positive theory 的地位。
+## 14. 当前 strongest judgement
 
 Constitutive Role-First Centered Actuality：
 
@@ -537,19 +486,22 @@ Constitutive Role-First Centered Actuality：
 
 仍是 coherent、anti-haecceitistic 的 absolute endpoint。
 
-但它需要的三次升级都尚未被竞争理论迫使：
+但它现在必须穿过更精确的 ladder：
 
 \[
+\boxed{
 SubjectNeutral
 \to
 SubjectBearing
 \to
-OneGlobalSubject
+GlobalExperientialUnity
 \to
-OnePrivilegedLocalLocus.
+GlobalSubject
+\to
+OnePrivilegedLocalLocus.}
 \]
 
-Whitehead使第一步真正值得争；priority cosmopsychism使第二步真正可构造；LOC audit则显示第三步会重新引入原始 `why this one?` burden。
+Whitehead使第一步真正值得争；Christmann使第三步中的 `GEU→subject` 获得 serious pressure；unity literature使 `arity→GEU` 成为新的 exact bottleneck；LOC audit则说明即使 global subject成立，原始 `why this one?` 会在 localization map 处重现。
 
 因此当前总裁决：
 
@@ -558,41 +510,41 @@ Whitehead使第一步真正值得争；priority cosmopsychism使第二步真正�
 \text{Absolute-first-person thesis remains coherent but multiply underdetermined}.}
 \]
 
-其中最强的新负面结果是：
+最硬的 non-entailment chain 目前是：
 
 \[
 \boxed{
-SubjectSingularity
+ABS+PRIM+PERSP+DESE
 \not\Rightarrow
-Perspective/LocalizationSingularity.}
+Arity
+\not\Rightarrow
+GEU
+\not\Rightarrow
+UniqueLocalPrivilege.}
 \]
 
-换句话说，即使真的只有“一个我”在最深层意义上存在，它仍然可能是 **所有人**、**没有局域中心**、或**通过许多 local subjects 显现**；这些都不会推出“偏偏这里是唯一 absolute window”。
+其中 `GEU→GlobalSubjectPressure` 是目前正方真正新增的 conditional bridge。
 
 ---
 
-## 13. 现在最值得继续的方向
+## 15. 下一步最高价值问题
 
-优先级已经改变。
+现在最值得打的已经很精确：
 
-1. **WAAP / anti-vacuity**：Whitehead vs Bricker/Soames；检查 thin actuality 是否真的把 concrete actuality错误抽象为空壳。
-2. **Global competition / SAP**：寻找能让所有 subject candidates 进入同一个 competition domain 的原则；IIT 已说明 local maximality不够。
-3. **Privileged Localization Principle**：寻找能避开 duplication、structural-privilege gap、primitive restatement 与 all-loci collapse 的 LOC mechanism。
-4. **Open Individualism / universal-subject stress test**：继续把 `one subject` 与 `one perspective` 彻底分开，避免在语言中重新粘回去。
-
-低收益路线继续降级：重复 local phenomenology、bare selector、death transfer、trajectory、bare duplicate identity。
+1. **GEUP / Global Closure Principle**：有什么独立理由迫使多个 local experiential fields 属于 one global co-conscious field？
+2. **PLP / Privileged Localization Principle**：即使 one global subject成立，什么能让 exactly one local stream 成为 absolute locus，同时避开 duplication、structural-privilege gap、primitive restatement 和 all-loci collapse？
+3. **WAAP** 仍继续 Whitehead vs Bricker/Soames，但优先级略低于 GEUP/PLP，因为正方已至少有成熟 model。
 
 ## 最新入口
 
+- [`frontier-2026-10-05-arity-singularity-localization.md`](frontier-2026-10-05-arity-singularity-localization.md)
 - [`frontier-2026-10-05-self-manifesting-actuality.md`](frontier-2026-10-05-self-manifesting-actuality.md)
+- [`../literature/christmann-2026-global-subject-pressure.md`](../literature/christmann-2026-global-subject-pressure.md)
 - [`../literature/whitehead-vacuous-actuality.md`](../literature/whitehead-vacuous-actuality.md)
-- [`../literature/priority-cosmopsychism-subject-singularity.md`](../literature/priority-cosmopsychism-subject-singularity.md)
-- [`../literature/iit-exclusion-subject-singularity.md`](../literature/iit-exclusion-subject-singularity.md)
 - [`../literature/global-subject-localization-options.md`](../literature/global-subject-localization-options.md)
-- [`../research/arguments/actuality-arity-principle-audit.md`](../research/arguments/actuality-arity-principle-audit.md)
-- [`../research/arguments/actuality-arity-singularity-gap.md`](../research/arguments/actuality-arity-singularity-gap.md)
-- [`../research/arguments/subject-singularity-principle-audit.md`](../research/arguments/subject-singularity-principle-audit.md)
+- [`../research/arguments/global-experiential-unity-route.md`](../research/arguments/global-experiential-unity-route.md)
+- [`../research/arguments/global-experiential-unity-audit.md`](../research/arguments/global-experiential-unity-audit.md)
 - [`../research/arguments/global-subject-localization-quadrilemma.md`](../research/arguments/global-subject-localization-quadrilemma.md)
+- [`../research/arguments/actuality-arity-principle-audit.md`](../research/arguments/actuality-arity-principle-audit.md)
+- [`../research/arguments/subject-singularity-principle-audit.md`](../research/arguments/subject-singularity-principle-audit.md)
 - [`../research/arguments/actuality-arity-orthogonality.md`](../research/arguments/actuality-arity-orthogonality.md)
-- [`../research/arguments/epistemic-chauvinism-escape.md`](../research/arguments/epistemic-chauvinism-escape.md)
-- [`../research/models/role-first-absolute-opening.md`](../research/models/role-first-absolute-opening.md)
