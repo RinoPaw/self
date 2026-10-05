@@ -57,11 +57,12 @@
 
 ## 从这里开始
 
-1. [`synthesis/current-position.md`](synthesis/current-position.md) — 当前权威立场；需要知道“项目现在认为怎样”先读这里。
-2. [`synthesis/frontier-2026-10-05-presence-route-closure.md`](synthesis/frontier-2026-10-05-presence-route-closure.md) — 最新 terminal frontier；解释为什么 Presence 路线已经封盘。
-3. [`research/README.md`](research/README.md) — 当前论证、模型和真正未决问题的导航。
-4. [`literature/index.md`](literature/index.md) — 已综合文献地图；外部理论与项目结论严格分开。
-5. [`synthesis/README.md`](synthesis/README.md) — 历史 frontier 地图；旧 frontier 保留研究史价值，但不自动代表当前立场。
+1. [`synthesis/core-argument-neutral-vs-centered-actuality.md`](synthesis/core-argument-neutral-vs-centered-actuality.md) — 第一次阅读推荐入口；把当前研究压成一条可独立阅读的核心论证。
+2. [`synthesis/current-position.md`](synthesis/current-position.md) — 当前权威立场；需要知道“项目现在认为怎样”以这里为准。
+3. [`synthesis/frontier-2026-10-05-presence-route-closure.md`](synthesis/frontier-2026-10-05-presence-route-closure.md) — 最新 terminal frontier；解释为什么 Presence 路线已经封盘。
+4. [`research/README.md`](research/README.md) — 当前论证、模型和真正未决问题的导航。
+5. [`literature/index.md`](literature/index.md) — 已综合文献地图；外部理论与项目结论严格分开。
+6. [`synthesis/README.md`](synthesis/README.md) — 历史 frontier 地图；旧 frontier 保留研究史价值，但不自动代表当前立场。
 
 最新操作交接：[`synthesis/handoff-2026-10-05-terminal-frontier.md`](synthesis/handoff-2026-10-05-terminal-frontier.md)。
 

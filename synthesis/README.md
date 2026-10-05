@@ -2,9 +2,17 @@
 
 `synthesis/` 保存阶段性综合。这里有大量 `frontier-*`，它们记录研究如何推进、失败和改道；**历史 frontier 不等于当前立场**。
 
+## 第一次阅读
+
+若目标是先理解项目现在到底在争什么，优先读：
+
+- [`core-argument-neutral-vs-centered-actuality.md`](core-argument-neutral-vs-centered-actuality.md) — 面向外部读者的核心论证；从原始问题一路压到 Completion Underdetermination、conditional singularity 与当前 stop condition。
+
+它是 reader-facing synthesis，不取代 authority。
+
 ## 当前入口
 
-优先级固定为：
+权威优先级固定为：
 
 1. [`current-position.md`](current-position.md) — 当前 authority。
 2. [`frontier-2026-10-05-presence-route-closure.md`](frontier-2026-10-05-presence-route-closure.md) — 最新 terminal frontier。
