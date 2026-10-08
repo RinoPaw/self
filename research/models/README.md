@@ -8,6 +8,8 @@
 
 [C1/C0 B1 中立对照与 grounding](neutral-contrast-grounding-audit.md)：强中立基底容许真实主体和局部经验；有限编码/赋值模型都不提供形而上学还原定理。
 
+**更新模型成本比较**：[Endgame Theory Matrix](endgame-theory-matrix.md) 的 2026-10-08 小节固定了同一 ordinary conscious explananda 下 C0/C1/C2 的额外承诺。
+
 ## C0 · Subject-Neutral Actuality
 
 - [Neutral Actuality Core](neutral-actuality-core.md)：多个主体 + 非第一人称的 actuality。

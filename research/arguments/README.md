@@ -8,6 +8,8 @@
 
 新阶段：[U3 — global co-consciousness 与 mode identity](co-conscious-unity-to-mode-audit.md)、[U4 — 量词作用域与 actualizer identity](actuality-quantifier-scope-audit.md)。
 
+**最新核心约束**：[MI/AIM — 经验共享、模式重叠与唯一性](mi-aim-incidence-audit.md)；同时保留上一轮 [U3 审计](co-conscious-unity-to-mode-audit.md)、[U4 审计](actuality-quantifier-scope-audit.md)。
+
 ## 1. 从视角差异到唯一中心
 
 - [Evaluation-Locus Cardinality Gap](evaluation-locus-cardinality-gap.md)：perspective variance 不自动推出单中心 maximal actuality。

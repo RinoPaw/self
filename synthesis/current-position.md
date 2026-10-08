@@ -211,10 +211,10 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 
 ## 8. 下一步真正开放的关口
 
-1. **U3 MI / U4 AIM 的独立理由**：已隔离 global co-conscious coverage、mode-identity 与 actualizer-to-mode identity；下一步检验是否有不依赖 C2 定义的证据或形而上学根据。
+1. **MI-Excl / AIM-Functionality 的独立理由**：弱共享模式与单 actualizer 都不足以获得单中心；只有单一模式实现的强排他原则加完整的 reality→center bridge 才有条件性结果。
 2. **C0/C1 的 B1-grounding 竞争**：已明确允许完整 local phenomenality 的强中立基底；下一步论证哪些 modal possibilities 合法、哪些 fact identity / grounding 原则非循环。
 3. **C1 具体 MPGC 公理审计**：有限布尔约束已能展示相容与不相容；下一步需给交互、共享历史及 constitutional first-person facts 一个实际可用的跨 mode 规则。
-4. **同尺度成本比较**：将 C0、C1、C2 的 primitive content、解释收益、模态成本与认识论后果摆在同一表中。
+4. **同尺度比较的深化**：[Endgame Theory Matrix](../research/models/endgame-theory-matrix.md) 已固定 ordinary phenomenal common core；今后需要独立证据或非循环 grounding 方案改变排序。
 
 [论证依赖与缺口图](../research/DEPENDENCIES.md) 将这四条任务与历史证据对应起来。
 
@@ -224,4 +224,4 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 \boxed{\text{C0、C1、C2 均未被决定性排除；C2 的 absolute singleton 尚未建立。}}
 \]
 
-**本轮进一步推进**：保留 OCC+SEP+GCR-2 的条件定理与 C1 的有限相容性反例，并隔离 U3 的 MI（共同意识→mode 同一）、U4 的 AIM（同一现实化源头→mode 同一）、C1 相对于强中立基底 B1 的 hyperintensional grounding 问题。**所有这些形式结果与候选原则仍不足以证明 C1/C2 的形而上学真实性。**
+**当前进展**：在 GCR、U3/U4 的原始审计上修正了单值 mode 假设，拆分 MI-Share / MI-Excl 与 AIM-Functionality，加入跨主体经验共享的学术反方，并在共同 ordinary phenomenal explananda 下比较 C0/C1/C2 的本体成本。**这些结果仍不足以证明 C1/C2 的形而上学真实性。**

@@ -15,6 +15,12 @@
 - [C1 B1 grounding audit](../research/models/neutral-contrast-grounding-audit.md)：中立比较基底必须包含完整 local phenomenality；语义编码、sample determinacy、metaphysical grounding 不能相互替代。
 - [有限测试](../tests/test_model_audit.py) 已增加相关反例与条件模型；测试通过只涉及给定有限结构。
 
+### 重叠模型更新
+
+- [MI/AIM 关系审计](../research/arguments/mi-aim-incidence-audit.md) 区分 weak MI-Share、strong MI-Excl 及 AIM-Functionality；原 mode:E→M 单值表示过强。
+- [同尺度成本比较](../research/models/endgame-theory-matrix.md) 固定各理论均需解释普通意识与同一现实。
+- [Roelofs 文献核验](../literature/roelofs-2016-between-subject-unity.md) 为 across-subject unity 提供独立哲学反方，**不证明 C1 的多重 fundamental modes 真实存在**。
+
 ## 尚未完成的本体工作
 
 1. 给 U3 **MI**（全局共同意识→同一根本 first-person mode）与 U4 **AIM**（共同 ultimate actualizer→同一 mode）独立根据，再检验它们是否推出 GCR 与局部 I–NOW privilege。

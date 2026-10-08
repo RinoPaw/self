@@ -34,6 +34,8 @@ MEP\text{-}S\quad|\quad GCR\quad|\quad MEP\text{-}O.
 
 [跨 mode SAT / reduct 检验](../models/mode-amalgamation-neutral-reduct.md) 已给出有限相容构造与失败案例，也说明 N0 的弱投影和 N+ 的中立编码都不能决定 ontic reduction。[B1-grounding 审计](../models/neutral-contrast-grounding-audit.md) 将允许 local phenomenality 的强中立基底与 modes 对照；下一步需要非循环的 modal possibility class、hyperintensional grounding 与 compatible constitutional obtaining 理论。
 
+[MI/AIM 最新审计](../arguments/mi-aim-incidence-audit.md) 确认 MI-Share、one actualizer 和 mode→source 反向唯一性都不足以推出 singleton；C2 需要独立的 MI-Excl / AIM-Functionality 以及通往全局事实和 local I–NOW 的后续桥梁。
+
 ## Q4 — 独立支持绝对 singleton
 
 任何 C2 witness 需同时抵抗 C0 和 C1。若结论只在加入 SPC、GCR、ALO 或带唯一性的全局 opening 定义后成立，应诚实标为**条件性**结果。

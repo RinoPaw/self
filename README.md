@@ -29,6 +29,9 @@
 3. **[最新前沿](synthesis/frontier-2026-10-08-gcr-and-mode-adequacy.md)**：GCR 的独立证明负担与 C1 模型边界。
 4. **[下一轮研究交接](synthesis/handoff-2026-10-08-gcr.md)**：下一阶段要验证的前提与停止条件。
 
+新增核心检查：[MI / AIM 模式重叠与关系功能性](research/arguments/mi-aim-incidence-audit.md) 和 [C0/C1/C2 同尺度成本比较](research/models/endgame-theory-matrix.md)。前者澄清了先前单值模式假设的限制。
+
+
 按主题浏览：
 
 | 目录 | 职责 |

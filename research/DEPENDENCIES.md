@@ -144,11 +144,22 @@ C1 / C0 比较新增强中立基底 **B1**（共享客观历史 + 所有主体�
 
 参见 [U3](arguments/co-conscious-unity-to-mode-audit.md)、[U4](arguments/actuality-quantifier-scope-audit.md)、[B1 grounding](models/neutral-contrast-grounding-audit.md) 与 [可执行模型](../tools/model_audit.py)。
 
+## 5.3. 补充：MI/AIM 的关系方向与重叠模式
+
+此前把 mode(e) 当作单值函数，预排除了一个 episode 在多个模式中实现的可能性。一般模型应使用 B⊆E×M。
+
+- MI-Share：co-conscious 的两经验**共享至少一个 mode**；global Cover + MI-Share 并不蕴涵唯一模式。
+- MI-Excl：两经验 realized 的**所有 modes 都同一**；Cover + mode realization + nonempty 才条件性给唯一性。
+- 唯一 actualizer 只保证 source 数目为一；还需 AIM-Functionality（每个 source 最多一个 mode output）与 modes fully sourced 才得到至多一个 mode。反向「每个 mode 只依赖一个 source」不够。
+
+[正式反例、条件性定理、文献审计](arguments/mi-aim-incidence-audit.md)；[C0/C1/C2 定性成本比较](models/endgame-theory-matrix.md)。
+
+
 ## 6. 开放依赖关口与停止条件
 
 | ID | 目标 | 不能当作证明的替代品 |
 | --- | --- | --- |
-| **G1** | 独立辩护 U3-MI 与 U4-AIM（U0–U2 不足，定义循环需排除） | centered-world 交集的重新书写 |
+| **G1** | 独立辩护 MI-Excl 与 AIM-Functionality；弱 MI-Share/反向 source 唯一性都不够 | centered-world 交集的重新书写 |
 | **G2** | 相对于包含 local phenomenality 的 B1，验证 mode fact identity、admissible worlds 与 grounding | 单纯把 mode 设为 primitive |
 | **G3** | MPGC 的 shared facts 与 cross-mode 逻辑规范 | 两个 local sets 各自 consistent |
 | **G4** | C0/C1/C2 同尺度 explanatory comparison | 单纯原始符号的数量、旧论文/论证的数量 |

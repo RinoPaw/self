@@ -37,6 +37,10 @@
 
 本次未得到新的 singular absolute I–NOW witness，现有三分竞争结论未变。
 
+### 最新补充：模式重叠与代价比较
+
+见 [MI/AIM incidence audit](../research/arguments/mi-aim-incidence-audit.md)。使用单值 mode(e) 预排除了 experience-sharing 可能性；MI-Share 只要求共享一个 mode，MI-Excl 才强制唯一。单一 ultimate actualizer 允许多个输出 modes，除非额外假设 AIM-Functionality。Roelofs 2016 是此问题的实际学术反方（研究门户摘要已核验），尚不证明不可还原的 ontic modes 能重叠。[Endgame Matrix](../research/models/endgame-theory-matrix.md) 已加入同尺度 C0/C1/C2 比较。
+
 ## 5. 下一轮关口
 
 优先检验 **MI/AIM 的非循环独立根据、B1 modal admissibility / hyperintensional grounding**，随后才是 constitutional factivity、C0/C1/C2 同尺度本体成本比较。结果不改变 [current-position](current-position.md) 的 C0/C1/C2 未定判断。

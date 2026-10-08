@@ -1,5 +1,8 @@
 # Literature · 文献工作区
 
+本轮新增：[Roelofs 2016 — 主体间现象统一](roelofs-2016-between-subject-unity.md)。研究门户摘要可核验，**不能**从该文推断多重 fundamental first-person obtaining 已被证明。
+
+
 [文献地图](index.md) 是人工综合后的导航；本目录的研究笔记保存对外部作者的解释、批评和与 C0/C1/C2 的关系。**引用文献不表示项目已经认可作者的理论**。
 
 | 路径 | 内容 | 证据地位 |
