@@ -43,6 +43,6 @@
 - **权威层级**：`synthesis/current-position.md` ＞ 最新已合入 frontier ＞ 原创论证/模型 ＞ 旧 frontier 与 handoff。日期新不自动意味着论证强。
 - **历史不删除**：旧模型、旧前沿即使被修正，也保留为研究记录；以状态说明和导航区分。
 - **证据与假设分离**：一个形式上可构造的模型，并不因此获得本体论真实性；文献摘要也不等于全文证据。
-- **研究草稿独立于结论**：分支上的新结果在经过审查并合入前，不自动更新当前 authority。
+- **研究草稿独立于结论**：新结果未经审查并同步到 `synthesis/current-position.md` 前，不自动更新当前 authority。
 
 维护细则见 [AGENTS.md](AGENTS.md)，文献流水线见 [literature/pipeline.md](literature/pipeline.md)。用 `python tools/check_repo.py` 检查本地 Markdown 相对链接及 JSON 格式。
