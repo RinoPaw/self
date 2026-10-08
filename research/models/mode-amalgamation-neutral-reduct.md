@@ -147,7 +147,7 @@ N_+(R)=\big(w,\{(i,p,v_i(p))\}_{i,p},\ldots\big).
 
 对于有限 typed data，可以无损恢复其全部赋值。这说明“元语言中写出 \(m\Vdash p\)”或「第三人称能编码它」都不足以裁决 ontic non-reduction。
 
-但 N+ 是否是**合法、非循环、说明性充分**的 neutral metaphysical base，正是需要哲学论证的地方。把模式标签搬进关系事实后，不能再凭编码本身宣布已解释「模式如何 fundametally obtain」。
+但 N+ 是否是**合法、非循环、说明性充分**的 neutral metaphysical base，正是需要哲学论证的地方。把模式标签搬进关系事实后，不能再凭编码本身宣布已解释「模式如何 fundamentally obtain」。
 
 ## 4. C1 真正需要给出的定义与辩护
 

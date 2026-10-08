@@ -18,18 +18,16 @@
 
 最初研究目标是 **C2**。目前 C0、C1 均未被排除。现阶段最大的困难是：**第一人称事实依赖视角，为什么意味着整个现实只能有一个绝对中心？**
 
-最新已合入的前沿是 [Evaluation-Locus Cardinality Gap](synthesis/frontier-2026-10-05-evaluation-locus-gap.md)。核心问题涉及 MEP（Monocentric Evaluation Principle）与多中心现实模型；形式模型的存在本身不算对其形而上学真实性的证明。
+当前已合入的研究前沿是 [GCR 与 C1 模型充分性审计](synthesis/frontier-2026-10-08-gcr-and-mode-adequacy.md)。核心问题涉及 MEP-S（语义单中心）、GCR（全局事实向单点评价的反映）、C1 的跨视角相容及不可还原性；有限形式模型不能证明本体真实性。
 
 ## 从哪里读起
 
-> **2026-10-08 GCR 进一步研究**：[全球统一原则审计](research/arguments/gcr-unity-principle-audit.md) 与 [C1 跨视角一致性及中立还原审计](research/models/mode-amalgamation-neutral-reduct.md) 已加入。形式反例与有限可执行测试用于检查推理边界，尚无决定性的本体论证明。
-
-> **2026-10-08 前沿更新**：见 [Pointwise / Polycentric 反模型与 GCR 审计](synthesis/frontier-2026-10-08-pointwise-polycentric-reflection.md)；现在必须区分 MEP-S（语义）与 MEP-O（本体），不能从单点评价直接推出现实唯一中心。
+本轮两份核心研究：[GCR 独立根据与条件定理](research/arguments/gcr-unity-principle-audit.md)、[C1 跨模式一致性与中立还原](research/models/mode-amalgamation-neutral-reduct.md)。两份文档都区分条件性形式结果与仍未解决的本体前提。
 
 1. **[当前研究立场](synthesis/current-position.md)**：当前有效结论、开放问题和证据强度；发生冲突时以它为准。
 2. **[面向读者的核心论证](synthesis/core-argument-neutral-vs-centered-actuality.md)**：理解原始问题与研究进程。
-3. **[最新前沿](synthesis/frontier-2026-10-05-evaluation-locus-gap.md)**：仍未跨越的关键推理。
-4. **[下一轮研究交接](synthesis/handoff-2026-10-05-evaluation-locus.md)**：下一步任务与旧路线边界。
+3. **[最新前沿](synthesis/frontier-2026-10-08-gcr-and-mode-adequacy.md)**：GCR 的独立证明负担与 C1 模型边界。
+4. **[下一轮研究交接](synthesis/handoff-2026-10-08-gcr.md)**：下一阶段要验证的前提与停止条件。
 
 按主题浏览：
 

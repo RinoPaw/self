@@ -2,16 +2,14 @@
 
 这里保存研究的**综合结论**和按日期保留的历史快照。只有 [current-position.md](current-position.md) 是当前 authority；旧 frontier / handoff 即使措辞强烈，也不自动代表现行判断。
 
-> 2026-10-08 更新：[最新 frontier](frontier-2026-10-08-pointwise-polycentric-reflection.md) 与 [下一轮 handoff](handoff-2026-10-08-gcr.md) 已取代 10 月 5 日文档的“最新”地位；旧文档仍保留历史记录。
-
-最新工作：[GCR / C1 的本轮 frontier](frontier-2026-10-08-gcr-and-mode-adequacy.md)，依赖其底层的 [GCR 审计](../research/arguments/gcr-unity-principle-audit.md) 与 [C1 模式审计](../research/models/mode-amalgamation-neutral-reduct.md)。
+> 当前最新：[GCR / C1 模型充分性 frontier](frontier-2026-10-08-gcr-and-mode-adequacy.md) 和 [下一轮 handoff](handoff-2026-10-08-gcr.md)。此前的 [Pointwise/Polycentric 前沿](frontier-2026-10-08-pointwise-polycentric-reflection.md) 与 10 月 5 日材料保留历史意义。
 
 ## 当前已合入的阅读顺序
 
 1. [当前立场](current-position.md)：三种竞争理论、现阶段结论与研究优先级。
 2. [核心论证（读者版）](core-argument-neutral-vs-centered-actuality.md)：原始问题与理论分歧。
-3. [最新 frontier：Evaluation-Locus Cardinality Gap](frontier-2026-10-05-evaluation-locus-gap.md)：MEP / 多中心语义。
-4. [最新 handoff：Evaluation-Locus](handoff-2026-10-05-evaluation-locus.md)：下一轮研究任务。
+3. [最新 frontier：GCR and Mode Adequacy](frontier-2026-10-08-gcr-and-mode-adequacy.md)：条件性 singleton theorem 与 C1 约束模型。
+4. [最新 handoff：After GCR Audit](handoff-2026-10-08-gcr.md)：下一轮研究任务。
 
 ## 历史前沿：按问题追踪
 
