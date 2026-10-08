@@ -19,6 +19,7 @@ C2 必须分别说明 actuality 为什么需要 first-person arity（抗 C0）�
 
 Mary 的 phenomenal knowledge / ordinary de se 与宇宙的 global winner fact 是不同问题。Conitzer 的已知 external renderer 证明一个**受限模拟基底**有额外 display fact，但不能未经外部机制证据就推到 complete actual world。
 
+[本轮 C0-I/F/Q 构成模型](../models/c0-phenomenal-constitution-packages.md)与[双向对手审计](../arguments/b1-grounding-adversarial-test.md)已给出具体 grounding 候选：I 身份同一，F 基础局部体验，Q 范畴构成。重点是 F 的 bearer-indexed 真实 (P_i) 是否仍必须包含不可还原的 ontic mode。证明缺失的深层解释并不等于证明 C2 global singleton。
 ## Q1 — 独立 first-person arity
 
 寻找一个在争议术语之外可以识别的 datum \(X\)，证明 C0 的 strongest neutral actuality model 无法合理容纳它。ordinary mineness、self-location、actuality 厚度、现象学强烈感受均未通过。

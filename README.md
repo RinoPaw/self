@@ -32,6 +32,7 @@
 新增核心检查：[MI / AIM 模式重叠与关系功能性](research/arguments/mi-aim-incidence-audit.md) 和 [C0/C1/C2 同尺度成本比较](research/models/endgame-theory-matrix.md)。前者澄清了先前单值模式假设的限制。
 
 
+**本轮新结果**：[C0-I/F/Q：三套真实局部意识奠基方案](research/models/c0-phenomenal-constitution-packages.md)及[双向最强反方审计](research/arguments/b1-grounding-adversarial-test.md)。各套仍存在本体论未证明的 identity、原始事实或组合原则；同样要求 C1/C2 解释每个主体的真实体验。
 按主题浏览：
 
 | 目录 | 职责 |

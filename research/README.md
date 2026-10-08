@@ -16,6 +16,7 @@
 
 **最新研究（2026-10-08）**：[B1 解释剩余与完整事实测试](arguments/b1-explanatory-residue-audit.md)。C0 的 local phenomenal facts 在清单里得到承认，不意味着已经获得 grounding 解释；更不意味着世界还缺一项绝对中心事实。
 
+在 B1 解释剩余问题之后：[C0 三套具体本体构成模型](models/c0-phenomenal-constitution-packages.md)与[最强 C0 反方检验](arguments/b1-grounding-adversarial-test.md)已区分 identity、fundamental phenomenal roots 和 neutral categorical constitution，避免把 fact inventory 直接计为 grounding。
 ## 当前主线
 
 - **C0**：neutral actuality 是否足够完整？见 [neutral actuality](models/neutral-actuality-core.md)。

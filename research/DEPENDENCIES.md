@@ -168,6 +168,19 @@ C1 / C0 比较新增强中立基底 **B1**（共享客观历史 + 所有主体�
 
 Mary 的 phenomenal knowledge gap、普通 de se uncertainty 与 absolute global winner 的差别尤其重要。当前没有已经验证的 C2-exclusive witness。
 
+## 5.5. B1 的 I / F / Q 具体 constitution 及对手对称责任
+
+此前 C0 强中立 B1 仅是 world-side 实际事实的 inventory；现在明确了三种具体可攻击的候选：[I/F/Q 模型](models/c0-phenomenal-constitution-packages.md)与[对手公平测试](arguments/b1-grounding-adversarial-test.md)。
+
+- I：\(P_i\equiv N_i\) 为**需独立辩护的身份同一主张**，不能由记号证明；
+- F：\(P_i\) 是 fundamental local phenomenal world fact；完整 **coverage**、明确 **grounding stop**，不能被描述为更深奠基已经成功；
+- Q：\(Q_i + Organization_i+ L_Q\Rightarrow_G P_i\) 为待证构成关系，组合、体验性质和主体边界尚有债务。
+
+**双向 explanatory burden**：如果 C1/C2 指责某 C0 方案未 ground local \(P_i\)，则增加 mode 或 singleton 后仍须解释同一个 \(P_i\)。C2 的 \(\Omega^*\) 额外存在不自动解释其余全部主体的痛感，也没有从 C0 的解释不完整性直接推出 GCR。
+
+高收益下一步是 **挑战 C0-F 的 bearer-indexed phenomenal fact 是否本体充足**，成功时先压力测试 C1，随后再处理 C2 exact-one。
+
+
 ## 6. 开放依赖关口与停止条件
 
 | ID | 目标 | 不能当作证明的替代品 |

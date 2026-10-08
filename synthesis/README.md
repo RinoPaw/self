@@ -4,6 +4,7 @@
 
  > 当前最新：[B1 解释剩余 frontier](frontier-2026-10-08-b1-explanatory-residue.md)、[原始完整审计](../research/arguments/b1-explanatory-residue-audit.md)，下一轮研究说明整合在 [handoff](handoff-2026-10-08-gcr.md)。此前 [GCR / U3-U4 frontier](frontier-2026-10-08-gcr-and-mode-adequacy.md) 仍保留。
 
+最新 [B1 explanatory residue frontier](frontier-2026-10-08-b1-explanatory-residue.md) 已增补 [三种 C0 具体意识构成方式](../research/models/c0-phenomenal-constitution-packages.md)与[同尺度反方检查](../research/arguments/b1-grounding-adversarial-test.md)；当前 conclusions 见 [current-position](current-position.md)。
 ## 当前已合入的阅读顺序
 
 1. [当前立场](current-position.md)：三种竞争理论、现阶段结论与研究优先级。

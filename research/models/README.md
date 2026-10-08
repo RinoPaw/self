@@ -10,6 +10,7 @@
 
 **更新模型成本比较**：[Endgame Theory Matrix](endgame-theory-matrix.md) 的 2026-10-08 小节固定了同一 ordinary conscious explananda 下 C0/C1/C2 的额外承诺。
 
+**新增三分 C0 完整模型**：[Identity / Fundamental Phenomenal Facts / Neutral Categorical Constitution](c0-phenomenal-constitution-packages.md)。三者均是候选，分别欠缺 identity、原始项解释或 composition law 的充分论证。
 ## C0 · Subject-Neutral Actuality
 
 - [Neutral Actuality Core](neutral-actuality-core.md)：多个主体 + 非第一人称的 actuality。
