@@ -392,6 +392,16 @@ N\text{-}W\text{ has a prima facie abductive advantage over primitive A-W.}
 
 ---
 
+## 12.2. C0 grounding 不再算成单一「中立方案」
+
+最新 [C0-I/F/Q](c0-phenomenal-constitution-packages.md) 与 [双向解释成本审计](../arguments/b1-grounding-adversarial-test.md) 表明：
+- I 的实质成本是后验同一事实和 access/phenomenal concept 解释；
+- F 的实质成本是原始局部意识与其 causal/subject coordination；
+- Q 的实质成本是中立 categorical base、composition bridge 及主体边界。
+
+C2 的 `Omega*` 若不替代 local P 的 grounding debts，仅增加一项唯一性公理，不能当作更好的 consciousness explanation。C0-F 的原始停点并不等于完成了所有 deeper explanation，也不等于形式上的不可能。
+
+
 ## 13. 当前 endgame
 
 现在真正的 theory map 是二维的：

@@ -24,6 +24,14 @@
 
 [完整 B1 审计](../research/arguments/b1-explanatory-residue-audit.md) 给出 saturated two-subject trial、知识论证与 Conitzer 对照、七种「偏偏是我」表述的 presupposition ledger 及两道下一步关口。
 
+## 三套 C0 grounding 候选与共同成本
+
+具体模型见 [C0-I/F/Q](../research/models/c0-phenomenal-constitution-packages.md)，对应最强反方见 [B1 constitution test](../research/arguments/b1-grounding-adversarial-test.md)。
+
+C0-I：真实 P 与神经事实后验同一，身份同一尚未辩护；C0-F：所有 P 原始且真实，保障 coverage，但以其 fundamentality 停止解释；C0-Q：中立 intrinsic Q 和组织/构成法则尝试生成 P，law 的具体内容未验证。
+
+**新增限制**：在全部人真正感到痛的共同事实基础上，增加一个 absolute `Omega*` 并不自动解释其他人的痛感；C2 若声称更优，必须明确它消除了哪个先前的 phenomenal ground 负担。任何套件目前都未证成形而上学充分性。
+
 ## 实际改变了什么
 
 旧文件 [Residual Fact Problem](../research/arguments/residual-fact-problem.md) 主张需要 standalone liveness L。现在更严格：**必须先证明存在一个非 C2 术语的事实 X 或 B1 constitution 的不可接受缺口**。即使证明存在 local qualia 的独立基底，也只能首先提高 first-person arity 的讨论权重，不能直接奖励 unique global privilege。

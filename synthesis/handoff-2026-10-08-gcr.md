@@ -28,6 +28,13 @@
 - 下一轮核心任务：从最强 C0 构造一个具体的 local phenomenal grounding/identity account，找准其未付出的解释成本；再检查是否需要 C1 的 irreducible modes 或 C2 的 global singleton。
 - 保留现有 MI/AIM/GCR 条件审计作为 secondary route；无新证据不反复输出相同结论。
 
+## B1 constitution 完整化的实际进展
+
+- [三套 C0 构成模型](../research/models/c0-phenomenal-constitution-packages.md)：I 后验同一、F 基础局部意识、Q 中立范畴根与意识组合。
+- [双向压力测试](../research/arguments/b1-grounding-adversarial-test.md)：C0 不能拿列出 P 冒充 grounding；C1/C2 不能仅添加 mode 或 absolute opening 并继续复用未解释的全部 P。
+- 接下来优先对 **C0-F 的 bearer-indexed P 的事实身份**开展具体非还原性反驳；其次审 C0-I 和 C0-Q 的 real explanatory links。
+
+
 ## 尚未完成的本体工作
 
 1. 具体重建 B1 的 full local consciousness grounding（包括 identity、phenomenal primitives、psychophysical connection），不能拿 coverage 当作完整 explanation。

@@ -170,6 +170,24 @@ Mary 的知识论证首先关乎 physical facts 与 phenomenal knowing/being 的
 新增的判断标准：指出 independently identifiable residual \(X\)（不能以「唯一绝对第一人称」定义），或证明 B1 的 local phenomenal grounding 不可行；然后检查 C1 的多模式候选。没有得到新的 C2 witness；C0 的理论经济性仍仅为条件性的，不表示它已完成 local consciousness 的 constitution。
 
 ---
+## 4.5. 首次具体化 C0 意识奠基：I / F / Q
+
+[三套 C0 意识构成候选](../research/models/c0-phenomenal-constitution-packages.md) 与 [反方压力测试](../research/arguments/b1-grounding-adversarial-test.md) 将 C0 由「全部局部意识事实均可列入世界」推进至三套分别需要辩护的解释方式：
+
+| C0 包 | 假设的 \(P_i\) 构成方式 | 尚未清偿的解释成本 |
+| --- | --- | --- |
+| **C0-I** | 局部现象事实与神经/机体事实后验同一 | 同一性及 phenomenal concepts 的实质理由 |
+| **C0-F** | 每个主体真实的 \(P_i\) 是 fundamental world-side fact | 原始意识事实、因果配合、主体边界；无更深 ground |
+| **C0-Q** | 内在范畴基底 \(Q\) 与主体组织、构成规律 \(L_Q\) 联合 ground \(P_i\) | Q 的具体性质、组合及所有权、非循环的 bridge |
+
+C0 的 subject-neutral actuality 与严格物理主义是两种不同分类轴；Russellian 中立一元论亦不天然等于本项目的 C0。
+
+**同尺度新检验**：即使单独引入 C2 的唯一 \(\Omega^*\)，它仍未自动解释所有其他主体的 \(P_i\)。C1 的 modes 亦须针对相同的局部 consciousness grounding 问题提供真实 explanation delta。C0-F 作为不否认任何人体验的最强竞争者仍存活为**本体候选**，其基础事实的解释停点则必须如实记账。
+
+本轮未证明 I/F/Q 任一正确、未独立证明 C1 的 obtaining modes，也未发现 C2 独有的剩余事实。
+
+---
+
 ## 5. 条件性唯一性链：显式列出额外前提
 
 - **LE**：同一 perspective 不能同时具有互斥的 complete conscious states。
@@ -224,12 +242,12 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 
 ## 8. 下一步真正开放的关口
 
-1. **B1 Grounding Completion Test（本轮首要）**：明确具体的 C0 本体构成方案，检验为何全部 genuine local phenomenal facts 必须或不必在 ontology 中加入 fundamental first-person obtaining。避免只把体验列入清单当作解释完毕。
-2. **独立 residual 寻找（Gate A）**：寻找不能只是 indexical knowledge、ordinary mineness、或 presupposed absolute winner 的 (X)，并同时压力测试 C0 与 C1。
-3. **C1 实质竞争者**：若 C0 的强中立 constitution 出现缺口，进一步测试 C1 的 mode identity、共同 actuality 与 grounding，不能把 C0 失败直接算 C2 胜利。
-4. **下游保留**：[Endgame Theory Matrix](../research/models/endgame-theory-matrix.md) 比较同尺度成本；MI/AIM/GCR 只有得到独立根据后才重启上游 singleton route。
+1. **C0-F 的事实身份审计（优先）**：能否严谨地论证「某主体实际感到痛」无法作为 fundamental、bearer-indexed 的 world-side fact，除非额外包含一个 irreducible mode？不能先将 mode 放入真正体验的定义。
+2. **C0-I/Q 的具体机制**：后验同一论需要认真解释 identity；范畴本体方案需要非循环的 composition law 使局部 P 真正 obtain。不能让待解释意识偷偷充当其 ground。
+3. **共同的解释债务**：如果 C0 在一个地方失败，应检查 C1/C2 是否修复了同一个缺口，特别是 C2 如何解释全部其他主体的真实现象生活。
+4. **只在有新增判别事实时重启全局唯一性**：GCR/MI/AIM 仍为条件论证，不将同一逻辑非蕴涵反复命名为突破。
 
-[论证依赖与缺口图](../research/DEPENDENCIES.md) 将这四条任务与历史证据对应起来。
+[研究依赖图](../research/DEPENDENCIES.md) 已加入这一路线的分层结构。
 
 ## 9. 当前总判定
 
@@ -237,4 +255,4 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 \boxed{\text{C0、C1、C2 均未被决定性排除；C2 的 absolute singleton 尚未建立。}}
 \]
 
-**当前进展**：在前期 GCR、U3/U4、MI/AIM 和成本对照基础上，转向独立审查 C0 B1 的局部意识 **grounding 充分性**。玛丽的知识缺口、自我定位缺口与 Conitzer 模拟外 selector 的 case 已分开处理；尚无支持 C2-exclusive absolute I–NOW 的新增可独立判别事实。**C0 未必解释完了意识，C1/C2 也尚未独立获得更强的 explanation delta。**
+**当前进展**：B1 已由简单的意识事实清单推进为三套具体 C0-I/F/Q 的 local consciousness constitution 候选；它们各有未证明的身份同一、原始现象事实或范畴组合前提。C1/C2 还没有展示对这些同一难题的独立修复。**C0 尚未被证明完成意识的最终 grounding，C2 也尚无独有的绝对中心事实 witness。**
