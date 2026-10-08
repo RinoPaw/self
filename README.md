@@ -1,125 +1,48 @@
 # self
 
-关于**第一人称、绝对第一人称、I–NOW 与现实结构**的个人哲学研究仓库。
+关于**第一人称、绝对第一人称、I–NOW 与现实结构**的个人哲学研究。
 
-最初的问题：
+起点是一个问题：
 
 > 为什么偏偏是这个人、这个时代、这个当前经验？
 
-当前没有证明 absolute first-person 存在，也没有证明它不存在。
+这是开放研究：目前既没有证明存在唯一绝对第一人称，也没有证明它不存在。仓库保存候选理论、支持与反驳、文献证据，以及结论如何变化的过程。
 
-## 当前 theory space
+## 研究地图
 
-\[
-\boxed{
-C0\;Subject\!\!\text{-}\!Neutral
-\quad|\quad
-C1\;Plural\ First\!\!\text{-}\!Person
-\quad|\quad
-C2\;Singular\ Centered.
-}
-\]
+| 代号 | 候选理论 | 简述 |
+| --- | --- | --- |
+| **C0** | Subject-Neutral Actuality | 现实可以包含多个意识主体，但 actuality 无须不可还原的第一人称实现方式 |
+| **C1** | Plural First-Person Actuality | 现实可包含多个不可还原的第一人称实现方式，无全局特权中心 |
+| **C2** | Singular Centered Actuality | 完整现实具有唯一的绝对第一人称 opening / orientation |
 
-- **C0**：actuality 本身没有 irreducible first-person obtaining mode。
-- **C1**：actuality 含多个 irreducible first-person modes，但无 globally privileged singleton。
-- **C2**：complete actuality 本身具有 one unique global first-person opening / orientation。
+最初研究目标是 **C2**。目前 C0、C1 均未被排除。现阶段最大的困难是：**第一人称事实依赖视角，为什么意味着整个现实只能有一个绝对中心？**
 
-项目原始 target 是 C2。
+最新已合入的前沿是 [Evaluation-Locus Cardinality Gap](synthesis/frontier-2026-10-05-evaluation-locus-gap.md)。核心问题涉及 MEP（Monocentric Evaluation Principle）与多中心现实模型；形式模型的存在本身不算对其形而上学真实性的证明。
 
-## 最新结果一：Plural Opening Manifold survives
+## 从哪里读起
 
-已经构造：
+1. **[当前研究立场](synthesis/current-position.md)**：当前有效结论、开放问题和证据强度；发生冲突时以它为准。
+2. **[面向读者的核心论证](synthesis/core-argument-neutral-vs-centered-actuality.md)**：理解原始问题与研究进程。
+3. **[最新前沿](synthesis/frontier-2026-10-05-evaluation-locus-gap.md)**：仍未跨越的关键推理。
+4. **[下一轮研究交接](synthesis/handoff-2026-10-05-evaluation-locus.md)**：下一步任务与旧路线边界。
 
-\[
-\boxed{
-OneActuality
-+PluralIrreducibleFirstPersonModes
-+ModePreservingGlobalCoherence.
-}
-\]
+按主题浏览：
 
-它当前没有被迫退化成 third-person meta-facts、many actual worlds 或 ordinary contradiction。
+| 目录 | 职责 |
+| --- | --- |
+| [concepts/](concepts/) | 基础概念和术语区分 |
+| [research/](research/README.md) | 原创问题、[论证](research/arguments/README.md)、[模型](research/models/README.md) |
+| [literature/](literature/README.md) | 外部文献、核验层级和自动检索 |
+| [synthesis/](synthesis/README.md) | 当前立场、阶段前沿、历史交接 |
+| [journal/](journal/README.md) | 按日期保留的研究轨迹 |
+| [tools/](tools/) | 文献检索和仓库检查脚本 |
 
-因此：
+## 阅读与维护约定
 
-\[
-\boxed{FirstPersonArity\not\Rightarrow Singularity.}
-\]
+- **权威层级**：`synthesis/current-position.md` ＞ 最新已合入 frontier ＞ 原创论证/模型 ＞ 旧 frontier 与 handoff。日期新不自动意味着论证强。
+- **历史不删除**：旧模型、旧前沿即使被修正，也保留为研究记录；以状态说明和导航区分。
+- **证据与假设分离**：一个形式上可构造的模型，并不因此获得本体论真实性；文献摘要也不等于全文证据。
+- **研究草稿独立于结论**：新结果未经审查并同步到 `synthesis/current-position.md` 前，不自动更新当前 authority。
 
-## 最新结果二：exact-one burden 下压到 MEP
-
-List 的 first-person centered semantics 使用：
-
-\[
-\langle\omega,\pi\rangle
-\]
-
-作为一个 first-person truth locus，因此 evaluation point 天生只含 one perspective。
-
-当前把这个结构条件显式化为：
-
-### MEP — Monocentric Evaluation Principle
-
-\[
-\boxed{
-Every\ maximal\ first\!\!\text{-}\!person\ evaluation\ locus
-contains\ exactly\ one\ perspective.
-}
-\]
-
-然后 singularity chain 是：
-
-\[
-MEP
-\to SPC
-\to FPNC
-\to AtMostOne
-\to ExactlyOne\;( +ALO).
-\]
-
-关键 gap：
-
-\[
-\boxed{
-PerspectiveVariance\not\Rightarrow MEP.
-}
-\]
-
-first-person fact 随 perspective 变化，只要求 evaluation 保留 perspective sensitivity；它不自动规定 complete actuality 只能包含一个 perspective。
-
-所以最新 bottleneck：
-
-\[
-\boxed{
-Why\ must\ complete\ first\!\!\text{-}\!person\ actuality\ be\ monocentric?
-}
-\]
-
-## Evidence 标准
-
-支持 C2 的新 datum `X` 必须同时击败 C0 与 C1：
-
-\[
-\boxed{
-Independent(X)
-\land NaturalFit(C2,X)
-\land \neg CheapNonSingularAccommodation(X).
-}
-\]
-
-只击败 C0、却被 C1 吸收的结果，只支持 first-person arity。
-
-## 从这里开始
-
-1. [`synthesis/current-position.md`](synthesis/current-position.md) — 当前 authority。
-2. [`synthesis/frontier-2026-10-05-evaluation-locus-gap.md`](synthesis/frontier-2026-10-05-evaluation-locus-gap.md) — 最新 frontier。
-3. [`research/arguments/evaluation-locus-cardinality-gap.md`](research/arguments/evaluation-locus-cardinality-gap.md) — MEP / evaluation-locus gap。
-4. [`research/models/plural-opening-manifold.md`](research/models/plural-opening-manifold.md) — C1 constructive model。
-5. [`research/arguments/perspective-closure-principle.md`](research/arguments/perspective-closure-principle.md) — SPC decomposition。
-6. [`research/arguments/neutral-accommodation-test.md`](research/arguments/neutral-accommodation-test.md) — Non-Singular Accommodation Test。
-7. [`research/README.md`](research/README.md) — research 导航。
-8. [`literature/index.md`](literature/index.md) — 文献地图。
-
-最新 handoff：[`synthesis/handoff-2026-10-05-evaluation-locus.md`](synthesis/handoff-2026-10-05-evaluation-locus.md)。
-
-历史文件保留研究过程；**当前结论以 `synthesis/current-position.md` 为准。**
+维护细则见 [AGENTS.md](AGENTS.md)，文献流水线见 [literature/pipeline.md](literature/pipeline.md)。用 `python tools/check_repo.py` 检查本地 Markdown 相对链接及 JSON 格式。

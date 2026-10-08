@@ -605,4 +605,4 @@ H1/H2/H3 哪种 reading最好？尤其在 anti-haecceitist H3 下，如何定义
 - [`../../literature/psychophysical-subject-selection-laws.md`](../../literature/psychophysical-subject-selection-laws.md)
 - [`dominance-privilege-bridge-audit.md`](dominance-privilege-bridge-audit.md)
 - [`../models/maximal-fusion-dominant-locus.md`](../models/maximal-fusion-dominant-locus.md)
-- [`../../synthesis/frontier-2026-10-05-derived-plp-near-closure.md`](../../synthesis/frontier-2026-10-05-derived-plp-near-closure.md)
+- [`../../synthesis/frontier-2026-10-05-derived-plp-near-closure.md`](../../synthesis/frontier-2026-10-05-dominance-privilege-near-closure.md)
