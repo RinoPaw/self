@@ -29,6 +29,14 @@
 - [C1 拼接引理、中立 reduct](../research/models/mode-amalgamation-neutral-reduct.md)
 - [代码](../tools/model_audit.py)、[单元测试](../tests/test_model_audit.py)
 
+## 4.1. U3/U4 跟进与非还原性判别
+
+- [U3 Co-Conscious Unity Audit](../research/arguments/co-conscious-unity-to-mode-audit.md)：global co-consciousness Cover + MI（co-conscious ⇒ same ontic mode）+ mode realization ⇒ one mode；还需要 mode-to-centered reflection 与 local privilege 的证明。一般 local/causal unity 不给 Cover。
+- [U4 Quantifier-Scope Audit](../research/arguments/actuality-quantifier-scope-audit.md)：对实际 FP facts 的 \(\forall F\exists\pi\) 无法交换成 \(\exists\pi\forall F\)。一个总 actuality/truthmaker 必须追加 AIM 才有 mode uniqueness。
+- [C1 Neutral Grounding Contrast](../research/models/neutral-contrast-grounding-audit.md)：最强对手 neutral B1 包括主体与 local phenomenal states；有限 samples 中 B1 不决定 mode assignments，不能自动推得 metaphysical non-supervenience；可编码的 B2 也不能独立证明 grounding reduction。
+
+本次未得到新的 singular absolute I–NOW witness，现有三分竞争结论未变。
+
 ## 5. 下一轮关口
 
-优先 U3/U4 的独立根据、C1 的 hyperintensional grounding 与跨模式 factivity，再做三套理论的同尺度本体成本比较。结果不改变 [current-position](current-position.md) 的 C0/C1/C2 未定判断。
+优先检验 **MI/AIM 的非循环独立根据、B1 modal admissibility / hyperintensional grounding**，随后才是 constitutional factivity、C0/C1/C2 同尺度本体成本比较。结果不改变 [current-position](current-position.md) 的 C0/C1/C2 未定判断。

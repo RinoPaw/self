@@ -8,10 +8,17 @@
 - [C1 局部／全局约束与 neutral reduct](../research/models/mode-amalgamation-neutral-reduct.md)：固定 shared valuation 的受限 Amalgamation Lemma；两种局部 SAT 但全局不 SAT 的反例；N0 的遗忘性与 N+ 编码能力并存。
 - [有限脚本](../tools/model_audit.py) 和 [回归测试](../tests/test_model_audit.py)：只检验指定的有限布尔结构，没有形而上学证明能力。
 
+## 2026-10-08 的补充进展
+
+- [U3 MI / global co-conscious audit](../research/arguments/co-conscious-unity-to-mode-audit.md)：global co-conscious field 是否存在，与共同 mode 身份、同一 centered perspective 分开审查。
+- [U4 scope / actualizer audit](../research/arguments/actuality-quantifier-scope-audit.md)：从「每个事实某点可真」到「全体事实共同单点为真」有量词缺口；AIM 是仍需独立辩护的候选。
+- [C1 B1 grounding audit](../research/models/neutral-contrast-grounding-audit.md)：中立比较基底必须包含完整 local phenomenality；语义编码、sample determinacy、metaphysical grounding 不能相互替代。
+- [有限测试](../tests/test_model_audit.py) 已增加相关反例与条件模型；测试通过只涉及给定有限结构。
+
 ## 尚未完成的本体工作
 
-1. 给 U3（所有实际 FP facts 的 co-conscious fusion）或 U4（fundamental pointwise actuality）一个**不预置全局唯一性**的独立根据，并与 C0/C1 进行同尺度比较。
-2. 对 C1 明确允许的 neutral base 的 vocabulary、truthmakers、grounding 与 modal variation；论证为什么 typed facts 的编码成功/失败不等同于 ontic reduction。
+1. 给 U3 **MI**（全局共同意识→同一根本 first-person mode）与 U4 **AIM**（共同 ultimate actualizer→同一 mode）独立根据，再检验它们是否推出 GCR 与局部 I–NOW privilege。
+2. 具体比较 C0 强中立基底 B1 与 C1 的 constitutive modes：说明 admissible metaphysical worlds、fact identity 和 grounding asymmetry，避免将编码能力当作解释。
 3. 处理非布尔、hyperintensional 的 constitutional obtaining，与共享客观事实、interaction 和 global factivity 的兼容条件。
 4. 若前三项未产生 decisive result，停止新的“唯一性定理”命名，改做 C0/C1/C2 的明确 primitive cost/compression comparison。
 

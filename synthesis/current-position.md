@@ -1,7 +1,7 @@
 # 当前研究立场
 
 > 更新：2026-10-08。研究假说与条件性论证，**没有证明 C2 存在或不存在**。  
-> 最新前沿：[2026-10-08 MEP / GCR 审计](frontier-2026-10-08-pointwise-polycentric-reflection.md)。  
+> 最新前沿：[2026-10-08 U3/U4 与 neutral grounding 审计](frontier-2026-10-08-gcr-and-mode-adequacy.md)。  
 > 完整推导：[Pointwise–Polycentric Reflection Audit](../research/arguments/pointwise-polycentric-reflection-audit.md)。  
 > 论证依赖：[研究依赖图](../research/DEPENDENCIES.md)；文件状态：[研究审查索引](../research/REVIEW-2026-10-08.md)。
 
@@ -132,6 +132,18 @@ MEP\text{-}S\not\Rightarrow GCR.
 
 ---
 
+## 4.2. U3/U4 与 C1 grounding 的二次压力测试
+
+本轮把之前尚宽泛的 U3、U4 论证进一步收缩到**明确的新前提**：
+
+- **U3 global co-consciousness**：local subject unity / causal connectivity 不会自动成为宇宙级 co-conscious coverage。若进一步接受 **MI**（co-conscious episodes 有同一 fundamental obtaining mode）与每个 mode 都由实际 episode 实现，才条件性推出一个 mode；随后仍需 mode-to-centered-fact 的 **reflection**，以及涉及局部 I–NOW 时的 **localization**。
+- **U4 单一 actuality/truthmaker**：\(\forall F\exists\pi\,T(F,\pi)\) 不推出 \(\exists\pi\forall F\,T(F,\pi)\)。一份 reality 或一个 actualization source 并不规定其 mode realizers 只有一个。必须另证 **AIM**（Actualizer–Mode Identity）；若以 single centered actualizer 直接定义 AIM，则预设结论。
+- **C1 non-reduction**：引入较强的 neutral baseline **B1**（客观历史、真实主体、完整 local phenomenality、psychophysical facts），不能只拿纯物理 B0 做稻草人。B1 与模式的有限样本独立性，尚不能证明其差异是 metaphysically admissible。更强的 B2 可以完整编码 modes，但也不能凭编码证明 grounding reduction。**relative determination、metaphysical supervenience、grounding/identity** 是三层不同判别。
+
+文档：[U3 与 MI](../research/arguments/co-conscious-unity-to-mode-audit.md)、[U4 与量词作用域](../research/arguments/actuality-quantifier-scope-audit.md)、[B1 与 grounding](../research/models/neutral-contrast-grounding-audit.md)。有限例子由 [测试](../tests/test_model_audit.py) 检验；测试不涉及本体论真实性。
+
+以上收紧了正反双方的证明责任，**没有新增支持 C2 的独立经验事实，也没有使 C1 获得不可还原性的证明**。
+
 ## 5. 条件性唯一性链：显式列出额外前提
 
 - **LE**：同一 perspective 不能同时具有互斥的 complete conscious states。
@@ -186,8 +198,8 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 
 ## 8. 下一步真正开放的关口
 
-1. **强 unity 路线审计**：U0–U2 已有条件反例；接下来需研究 U3 的 global co-consciousness / U4 的 pointwise actuality 是否有独立理由，且不得把 single opening 先写进定义。
-2. **C1 ontic non-reduction**：已给出弱 reduct 的不充分性与强编码的可逆性；下一步要限定合法的 neutral grounding base，并检验 modes 的 hyperintensional identity / grounding。
+1. **U3 MI / U4 AIM 的独立理由**：已隔离 global co-conscious coverage、mode-identity 与 actualizer-to-mode identity；下一步检验是否有不依赖 C2 定义的证据或形而上学根据。
+2. **C0/C1 的 B1-grounding 竞争**：已明确允许完整 local phenomenality 的强中立基底；下一步论证哪些 modal possibilities 合法、哪些 fact identity / grounding 原则非循环。
 3. **C1 具体 MPGC 公理审计**：有限布尔约束已能展示相容与不相容；下一步需给交互、共享历史及 constitutional first-person facts 一个实际可用的跨 mode 规则。
 4. **同尺度成本比较**：将 C0、C1、C2 的 primitive content、解释收益、模态成本与认识论后果摆在同一表中。
 
@@ -199,4 +211,4 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 \boxed{\text{C0、C1、C2 均未被决定性排除；C2 的 absolute singleton 尚未建立。}}
 \]
 
-**本轮真正推进**：在 MEP-S/MEP-O/GCR 分层上，给出 OCC+SEP+GCR-2 的条件单中心定理、GCR-2 与 GCR-All 的非等价反例、U0–U2 不蕴涵 GCR 的受限形式反例，以及 C1 跨模式约束和中立 reduct 的判别边界。**这些形式结果均不能直接证明 C1/C2 的形而上学真实性。**
+**本轮进一步推进**：保留 OCC+SEP+GCR-2 的条件定理与 C1 的有限相容性反例，并隔离 U3 的 MI（共同意识→mode 同一）、U4 的 AIM（同一现实化源头→mode 同一）、C1 相对于强中立基底 B1 的 hyperintensional grounding 问题。**所有这些形式结果与候选原则仍不足以证明 C1/C2 的形而上学真实性。**

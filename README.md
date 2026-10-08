@@ -22,7 +22,7 @@
 
 ## 从哪里读起
 
-本轮两份核心研究：[GCR 独立根据与条件定理](research/arguments/gcr-unity-principle-audit.md)、[C1 跨模式一致性与中立还原](research/models/mode-amalgamation-neutral-reduct.md)。两份文档都区分条件性形式结果与仍未解决的本体前提。
+进一步研究：[U3 的共同意识与模式同一性](research/arguments/co-conscious-unity-to-mode-audit.md)、[U4 的实际性量词作用域](research/arguments/actuality-quantifier-scope-audit.md)、[C1 的强中立基底与 grounding](research/models/neutral-contrast-grounding-audit.md)。条件性形式反例不等于已证明某种形而上学为真。
 
 1. **[当前研究立场](synthesis/current-position.md)**：当前有效结论、开放问题和证据强度；发生冲突时以它为准。
 2. **[面向读者的核心论证](synthesis/core-argument-neutral-vs-centered-actuality.md)**：理解原始问题与研究进程。

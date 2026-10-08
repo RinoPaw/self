@@ -2,7 +2,7 @@
 
 这里保存研究的**综合结论**和按日期保留的历史快照。只有 [current-position.md](current-position.md) 是当前 authority；旧 frontier / handoff 即使措辞强烈，也不自动代表现行判断。
 
-> 当前最新：[GCR / C1 模型充分性 frontier](frontier-2026-10-08-gcr-and-mode-adequacy.md) 和 [下一轮 handoff](handoff-2026-10-08-gcr.md)。此前的 [Pointwise/Polycentric 前沿](frontier-2026-10-08-pointwise-polycentric-reflection.md) 与 10 月 5 日材料保留历史意义。
+ > 当前最新：[GCR / C1 模型充分性 frontier（含 U3/U4 最新补充）](frontier-2026-10-08-gcr-and-mode-adequacy.md) 和 [下一轮 handoff](handoff-2026-10-08-gcr.md)。此前的 [Pointwise/Polycentric 前沿](frontier-2026-10-08-pointwise-polycentric-reflection.md) 与 10 月 5 日材料保留历史意义。
 
 ## 当前已合入的阅读顺序
 

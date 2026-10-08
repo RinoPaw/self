@@ -6,6 +6,8 @@
 
 **GCR 最新检验**：[Global Unity Does Not Yet Yield a Single Viewpoint](gcr-unity-principle-audit.md)：GCR-2/GCR-All、OCC+SEP+GCR-2 的条件推导，以及 U0–U4 unity defense 的边界。
 
+新阶段：[U3 — global co-consciousness 与 mode identity](co-conscious-unity-to-mode-audit.md)、[U4 — 量词作用域与 actualizer identity](actuality-quantifier-scope-audit.md)。
+
 ## 1. 从视角差异到唯一中心
 
 - [Evaluation-Locus Cardinality Gap](evaluation-locus-cardinality-gap.md)：perspective variance 不自动推出单中心 maximal actuality。

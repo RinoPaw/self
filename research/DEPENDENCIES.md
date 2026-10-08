@@ -123,12 +123,33 @@ AtMostOne+ALO\Rightarrow ExactlyOne.
 
 [代码](../tools/model_audit.py) 和 [回归测试](../tests/test_model_audit.py) 固定这些**有限的形式实例**，不能替代哲学论证。
 
+## 5.2. U3/U4 的新依赖与 C1 的 neutral baseline
+
+\[
+GlobalCoConsciousCover
+\xrightarrow{+MI,\;realization} OneMode
+\xrightarrow{+Reflection} GCR,
+\]
+
+其中第一箭头是显式条件证明；第二箭头仍属假说，可能需要额外的 centered truthmaking 条件。一个 global mode 本身也没有保证 singular privileged local I–NOW。
+
+\[
+OneUltimateActualizer
+\xrightarrow{+AIM} OneMode,
+\]
+
+AIM（同一实际化源头只产生同一第一人称模式）尚未获得非循环论证。纯粹 \(\forall F\exists\pi\) 不蕴涵 \(\exists\pi\forall F\)。
+
+C1 / C0 比较新增强中立基底 **B1**（共享客观历史 + 所有主体的 local phenomenality、心理物理关系）；只有在清楚指定 metaphysical possibility class 与 fact identity / grounding 后，才能评价 B1 是否使 C1 的 modes 可还原。有限非决定性结果不等于形而上学独立性证明。
+
+参见 [U3](arguments/co-conscious-unity-to-mode-audit.md)、[U4](arguments/actuality-quantifier-scope-audit.md)、[B1 grounding](models/neutral-contrast-grounding-audit.md) 与 [可执行模型](../tools/model_audit.py)。
+
 ## 6. 开放依赖关口与停止条件
 
 | ID | 目标 | 不能当作证明的替代品 |
 | --- | --- | --- |
-| **G1** | 尝试 U3/U4 的独立 unity / truthmaker 根据（U0–U2 不足） | centered-world 交集的重新书写 |
-| **G2** | 界定 C1 的 neutral reduct、mode fact identity 与 grounding | 单纯把 mode 设为 primitive |
+| **G1** | 独立辩护 U3-MI 与 U4-AIM（U0–U2 不足，定义循环需排除） | centered-world 交集的重新书写 |
+| **G2** | 相对于包含 local phenomenality 的 B1，验证 mode fact identity、admissible worlds 与 grounding | 单纯把 mode 设为 primitive |
 | **G3** | MPGC 的 shared facts 与 cross-mode 逻辑规范 | 两个 local sets 各自 consistent |
 | **G4** | C0/C1/C2 同尺度 explanatory comparison | 单纯原始符号的数量、旧论文/论证的数量 |
 | **G5** | 找到能抵抗 C0 与 C1 的新 witness | 现象学强烈感受或“为什么是我”的疑问本身 |

@@ -1,5 +1,8 @@
 # Global Experiential Unity Principle Audit
 
+> **2026-10-08 后续限制**：本篇关于 global unity 的路线只有在追加 MI（co-consciousness ⇒ ontic mode identity）与 mode-to-centered reflection 后，才可能参与推导 C2。参见 [U3 最新审计](co-conscious-unity-to-mode-audit.md)。
+
+
 > 状态：2026-10-05 updated focused audit。
 >
 > 目标：检验 `SubjectiveArity(R) -> GlobalExperientialUnity(R)` 是否有独立支持，并区分 general entailment 与 conditional / abductive global-closure constructions。

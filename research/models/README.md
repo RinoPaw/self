@@ -6,6 +6,8 @@
 
 **严格逻辑候选**：[Mode Amalgamation and Neutral Reduct](mode-amalgamation-neutral-reduct.md)：跨模式 joint SAT、共享客观约束、弱中立投影与增强中立编码。它不替代形而上学证明。
 
+[C1/C0 B1 中立对照与 grounding](neutral-contrast-grounding-audit.md)：强中立基底容许真实主体和局部经验；有限编码/赋值模型都不提供形而上学还原定理。
+
 ## C0 · Subject-Neutral Actuality
 
 - [Neutral Actuality Core](neutral-actuality-core.md)：多个主体 + 非第一人称的 actuality。
