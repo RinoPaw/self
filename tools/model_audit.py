@@ -84,6 +84,73 @@ def decode_neutral_tuples(
     return result
 
 
+def connected_undirected(nodes: Iterable[str], edges: Iterable[tuple[str, str]]) -> bool:
+    """Whether an ordinary causal/interaction graph is connected."""
+    points = set(nodes)
+    if not points:
+        return False
+    adjacency = {v: set() for v in points}
+    for a, b in edges:
+        if a not in points or b not in points:
+            raise ValueError("Edge references an unlisted node")
+        adjacency[a].add(b)
+        adjacency[b].add(a)
+    seen = set()
+    pending = [next(iter(points))]
+    while pending:
+        p = pending.pop()
+        if p not in seen:
+            seen.add(p)
+            pending.extend(adjacency[p] - seen)
+    return seen == points
+
+
+def fully_co_conscious(
+    episodes: Iterable[str], related_pairs: Iterable[tuple[str, str]]
+) -> bool:
+    """Complete pairwise co-consciousness; no inference from causal connectivity."""
+    points = set(episodes)
+    if not points:
+        return False
+    pairs = set(related_pairs)
+    return all((a, b) in pairs for a in points for b in points)
+
+
+def co_conscious_implies_mode_identity(
+    episodes: Iterable[str],
+    related_pairs: Iterable[tuple[str, str]],
+    mode_of: Mapping[str, str],
+) -> bool:
+    """Truth of U3-MI in one finite interpretation; not a universal theorem."""
+    points = set(episodes)
+    if set(mode_of) != points:
+        raise ValueError("Provide a mode for every episode, and no others")
+    pairs = set(related_pairs)
+    if any(a not in points or b not in points for a, b in pairs):
+        raise ValueError("Co-conscious pair references unknown episode")
+    return all(mode_of[a] == mode_of[b] for a, b in pairs)
+
+
+def determined_in_sample(
+    worlds: Iterable[Mapping[str, bool]],
+    base_keys: Iterable[str],
+    target_keys: Iterable[str],
+) -> bool:
+    """Relative determination in GIVEN admissible sample; not supervenience."""
+    states = tuple(worlds)
+    base = tuple(sorted(set(base_keys)))
+    target = tuple(sorted(set(target_keys)))
+    for state in states:
+        if any(k not in state for k in (*base, *target)):
+            raise ValueError("Every sampled world must assign all compared keys")
+    for a, b in combinations(states, 2):
+        if all(a[k] == b[k] for k in base) and any(
+            a[k] != b[k] for k in target
+        ):
+            return False
+    return True
+
+
 def demo() -> None:
     world = atom("o:one_history")
     a = atom("a:experiences_X")
@@ -115,7 +182,37 @@ def demo() -> None:
     assert decode_neutral_tuples(neutral_tuple_encoding(state1)) == state1
     assert decode_neutral_tuples(neutral_tuple_encoding(state2)) == state2
     print("PASS: weak reduct forgets modes; enriched encoding is reversible")
-    print("NOTICE: no ontic irreducibility, truthmaker, or actuality proof claimed")
+
+    # U3: causal connectivity is weaker than global co-conscious coverage.
+    ep = ("a", "b")
+    only_local = {("a", "a"), ("b", "b")}
+    assert connected_undirected(ep, {("a", "b")})
+    assert not fully_co_conscious(ep, only_local)
+    both = {(x, y) for x in ep for y in ep}
+    assert fully_co_conscious(ep, both)
+    assert not co_conscious_implies_mode_identity(
+        ep, both, {"a": "mode-a", "b": "mode-b"}
+    )
+    assert co_conscious_implies_mode_identity(
+        ep, both, {"a": "one-mode", "b": "one-mode"}
+    )
+    print("PASS: causal unity < global co-consciousness; Cover needs Mode Identity")
+
+    # U4: the quantifier switch from each fact to one shared witness fails.
+    disjoint = (frozenset({"a"}), frozenset({"b"}))
+    assert all(disjoint) and not total_reflection(disjoint)
+    print("PASS: every fact has a witness, but no viewpoint witnesses all facts")
+
+    # C1: determination is relative to a selected base and model class.
+    w1 = {"o:history": True, "phen:aX": True, "phen:bY": True,
+          "mode:a": True, "mode:b": True}
+    w2 = {**w1, "mode:b": False}
+    base = ("o:history", "phen:aX", "phen:bY")
+    modes = ("mode:a", "mode:b")
+    assert not determined_in_sample((w1, w2), base, modes)
+    assert determined_in_sample((w1, w2), (*base, *modes), modes)
+    print("PASS: neutral-base sample twins; full mode encoding determines by inclusion")
+    print("NOTICE: finite interpretations do NOT prove metaphysical grounding")
 
 
 if __name__ == "__main__":

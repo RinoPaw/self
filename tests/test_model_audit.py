@@ -5,6 +5,8 @@ import unittest
 from tools.model_audit import (
     atom, decode_neutral_tuples, disjunction, neutral_tuple_encoding,
     pairwise_reflection, sat, total_reflection, weak_objective_reduct,
+    connected_undirected, fully_co_conscious,
+    co_conscious_implies_mode_identity, determined_in_sample,
 )
 
 
@@ -89,6 +91,66 @@ class NeutralReductTests(unittest.TestCase):
             neutral_tuple_encoding({"invalid": True})
         with self.assertRaises(ValueError):
             decode_neutral_tuples((("a", "X", True), ("a", "X", False)))
+
+
+class GlobalUnityTests(unittest.TestCase):
+    def test_causal_connectivity_does_not_imply_co_consciousness(self):
+        nodes = ("a", "b")
+        self.assertTrue(connected_undirected(nodes, (("a", "b"),)))
+        self.assertFalse(fully_co_conscious(
+            nodes, (("a", "a"), ("b", "b"))
+        ))
+
+    def test_cover_does_not_force_mode_identity_without_mi(self):
+        nodes = ("a", "b")
+        pairs = [(a, b) for a in nodes for b in nodes]
+        self.assertTrue(fully_co_conscious(nodes, pairs))
+        self.assertFalse(co_conscious_implies_mode_identity(
+            nodes, pairs, {"a": "ma", "b": "mb"}
+        ))
+        self.assertTrue(co_conscious_implies_mode_identity(
+            nodes, pairs, {"a": "m", "b": "m"}
+        ))
+
+    def test_mode_identity_requires_complete_assignment(self):
+        with self.assertRaises(ValueError):
+            co_conscious_implies_mode_identity(("a", "b"), (), {"a": "m"})
+
+    def test_empty_global_field_not_automatically_unified(self):
+        self.assertFalse(fully_co_conscious((), ()))
+        self.assertFalse(connected_undirected((), ()))
+
+    def test_each_fact_some_center_does_not_yield_one_for_all(self):
+        facts = (frozenset({"a"}), frozenset({"b"}))
+        self.assertTrue(all(facts))
+        self.assertFalse(total_reflection(facts))
+
+
+class NeutralGroundingCriteriaTests(unittest.TestCase):
+    def test_determination_depends_on_neutral_base(self):
+        one = {"o:w": True, "phen:a": True, "phen:b": True,
+               "mode:a": True, "mode:b": True}
+        two = {**one, "mode:b": False}
+        neutral = ("o:w", "phen:a", "phen:b")
+        targets = ("mode:a", "mode:b")
+        self.assertFalse(determined_in_sample((one, two), neutral, targets))
+        self.assertTrue(determined_in_sample(
+            (one, two), (*neutral, *targets), targets
+        ))
+
+    def test_determination_depends_on_admissible_sample(self):
+        one = {"o:w": True, "mode:a": True}
+        two = {"o:w": True, "mode:a": False}
+        self.assertTrue(determined_in_sample(
+            (one,), ("o:w",), ("mode:a",)
+        ))
+        self.assertFalse(determined_in_sample(
+            (one, two), ("o:w",), ("mode:a",)
+        ))
+
+    def test_missing_model_keys_are_rejected(self):
+        with self.assertRaises(ValueError):
+            determined_in_sample(({"o:w": True},), ("o:w",), ("mode:a",))
 
 
 if __name__ == "__main__":
