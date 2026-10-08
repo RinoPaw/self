@@ -36,6 +36,13 @@ This **does not** prove GCR: sharing an ontic mode is not by itself a theorem ab
 
 A promising U3 defense must therefore motivate global cross-subject bonding (Cover), explain mode individuation (MI) without defining it to favor C2, and establish mode-to-centered truthmaking (Reflection). The old global-subject and universal-consciousness arguments are relevant but cannot be counted three times as separate evidence for all three arrows.
 
+## 进一步修正（2026-10-08）：single-valued assumption
+
+上文 mode(e) 是单值函数，隐含同一 episode 不能在多个 fundamental modes 中 realize；它并非所有 C1/overlap 方案共同接受的前提。新的一般 mode-incidence B(e,m) 下，MI-Share（至少一个共享 mode）与 MI-Excl（所有 mode memberships 只能是同一个）不同。只有较强的 MI-Excl 与 Cover、realization 等条件合取才能推出 one mode。
+
+Roelofs (2016) 的 between-subject phenomenal unity / token-sharing 论文对「共意识必然识别唯一主体」构成哲学压力，但不直接证明 mode 多重归属。详见 [MI/AIM overlap audit](mi-aim-incidence-audit.md)。
+
+
 ## Source calibration
 
 The SEP *The Unity of Consciousness* (revised 21 April 2025) describes subject-relative unity (including Bayne's Unity Thesis), Dainton's co-consciousness proposals, and the live dispute over split-brain streams. It gives no universal cross-subject Cover proof: https://plato.stanford.edu/entries/consciousness-unity/ .

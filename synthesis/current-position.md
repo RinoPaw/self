@@ -144,6 +144,19 @@ MEP\text{-}S\not\Rightarrow GCR.
 
 以上收紧了正反双方的证明责任，**没有新增支持 C2 的独立经验事实，也没有使 C1 获得不可还原性的证明**。
 
+## 4.3. 经验共享与 MI/AIM 基数的进一步修正
+
+以单值函数 mode:E→M 表示 first-person realization，会**预先排除**同一个经验 token 参与多个模式的竞争假说。现在使用一般 relation B⊆E×M，并明确：
+
+- **MI-Share**：共同意识的两经验至少共享一个 mode，允许其它 memberships；不推出 singleton。
+- **MI-Excl**：共同意识的两经验所参与的所有 modes 均相等，才与 global Cover、realization、nonempty 等条件合取推出 one-mode cardinality。这要求独立排除重叠，不能只凭 unity 一词成立。
+- **AIM-Functionality**：一个 actualizer 至多 realize 一个 mode。每个 mode 恰有一个 actualizer 属于反向唯一性，即使世界只有一个 source，仍允许它 realize 多个 modes。
+
+Roelofs（2016）提出不同主体之间的 co-consciousness 和 shared token experience 的哲学可能性，是排他式 MI 的认真反方；尚不证明根本模式本身能够多重归属，或这种经验共享在现实中存在。
+
+[严格论证和来源等级](../research/arguments/mi-aim-incidence-audit.md)；[C0/C1/C2 成本比较](../research/models/endgame-theory-matrix.md)。
+
+
 ## 5. 条件性唯一性链：显式列出额外前提
 
 - **LE**：同一 perspective 不能同时具有互斥的 complete conscious states。

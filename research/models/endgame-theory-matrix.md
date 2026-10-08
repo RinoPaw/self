@@ -366,6 +366,32 @@ N\text{-}W\text{ has a prima facie abductive advantage over primitive A-W.}
 
 ---
 
+## 12.1. C0/C1/C2 同尺度成本复审（2026-10-08）
+
+> 固定同一 common explanandum：一份实际历史、多名真正的意识主体、真实 local phenomenality / mineness、主体互动及局部事实的一致性。这里的成本判断是定性且条件性的，无法凭符号个数排序。
+
+| 测试 | C0 — Neutral | C1 — Plural FP | C2 — Singular Centered |
+| --- | --- | --- | --- |
+| 多主体和真实 ordinary experience | 保留 | 保留 | 保留 |
+| Fundamental FP mode | 不需要额外 primitive | 多个 mode；不可还原性仍待辩护 | 唯一 global role/mode；必要性仍待辩护 |
+| 一个实际世界 | 是 | 是；需解释跨 mode unity | 是 |
+| 特有一致性负担 | 中立 facts、主体身份与真实性 | cross-mode K、objective invariance、one-actuality factivity | mode/centered reflection、global role 及局部 I–NOW assignment |
+| MI/AIM 约束 | 可讨论 unity/actualizer 而不接受 mode 本体 | 可允许 overlap、拒绝 MI-Excl/AIM-Functionality，但需要非还原性证明 | 若试图导出 singleton，MI-Excl/AIM-Functionality 必须独立成立 |
+| 当前最强反方 | C1/C2 的 independent FP arity witness | C0 B1 local phenomenal grounding 与 C2 的 GCR 论证 | C0 的 neutral completion 与 C1 的 mode-plural completion |
+| 现有决定性证据 | 无 | 无 | 无 |
+
+比较时不允许 C0 只解释物理事件，而 C1/C2 被要求解释普通现象意识；三方的 common core 已经包含后者。C0 可有 neutral actuality 的不同具体理论；C2 可用 role-first anti-haecceitism，不必采用 bare token lottery；C1 可容许 overlapping incidence，但这仍属 ontic hypothesis。
+
+不可按 primitive 数字机械计分。一个带争议的「actualizer 只允许一个 mode」功能性定律，其解释负担可能大于多个普通相容约束；反过来，若出现独立受支持且跨多个现象的 unity principle，额外结构也可能有收益。
+
+**条件性排序**：若 B1 已完整容纳普通主体与其意识，并且尚无 independently identifiable extra first-person fact 要求额外 actuality-level mode，则 C0 的额外本体承诺相对较少。此为 abductive economy，非 C0 的逻辑胜利，也不能当作 C1/C2 不可能的证明。
+
+会改变比较的进展是：独立证明 B1 无法 ground first-person fact；独立证明 MI-Excl / AIM-Functionality + ALO + GCR；或者为 C1 给出非循环、跨模式一致的 constitutive reality explanation。仅给出更复杂的模型/条件引理没有同等价值。
+
+关联：[MI/AIM 重叠审计](../arguments/mi-aim-incidence-audit.md)、[B1 Grounding](neutral-contrast-grounding-audit.md)。
+
+---
+
 ## 13. 当前 endgame
 
 现在真正的 theory map 是二维的：

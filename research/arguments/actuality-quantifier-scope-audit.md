@@ -35,6 +35,11 @@ OneActualizer + AIM + EveryActualModeRealizedThere
 
 This is a valid conditional result, not a theorem from OneActualizer alone. If AIM is justified merely by calling the actualizer an absolute first-person opening, it is circular; even successful AIM leaves the further mode-to-centered support and localization gaps.
 
+## 进一步修正（2026-10-08）：source-output functionality
+
+设 G(a,m) 表示来源 a 对 mode m 的 realized-grounding relation。一个 a 可指向 m1、m2；欲推出 one mode，需 AIM-Functionality：G(a,m) 且 G(a,n) 蕴涵 m=n。只有每个 mode 至多对应一个 source 的 reverse functionality 不够。见 [MI/AIM incidence audit](mi-aim-incidence-audit.md)。
+
+
 ## Rival completions
 
 C0 can choose a neutral ultimate reality with genuine local conscious experiences. C1 can posit a single actualizing ground with multiple constitutive modes. C2 may take one centered actualizer as primitive. None is refuted by the scope fact alone; genuine theory comparison must explain the additional actuality-level job of the singular center.
