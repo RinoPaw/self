@@ -23,7 +23,7 @@ C2 必须分别说明 actuality 为什么需要 first-person arity（抗 C0）�
 MEP\text{-}S\quad|\quad GCR\quad|\quad MEP\text{-}O.
 \]
 
-核心关口是给 GCR 一个**不预置 singleton** 的 truthmaker / unity / completeness 论证。仅用单点 centered propositions 的 intersection，不能证明完整现实只容纳一个 mode。
+[本轮 GCR defense audit](../arguments/gcr-unity-principle-audit.md) 已确认 one actual world、因果相容与共同 overall truthmaker 并不足以推出 GCR；GCR-2 与 GCR-All 也不等价。下一步集中研究 U3 global co-consciousness 与 U4 pointwise actuality 是否有**不预置 singleton** 的独立根据。
 
 ## Q3 — C1 的双重模型缺口
 
@@ -32,7 +32,7 @@ MEP\text{-}S\quad|\quad GCR\quad|\quad MEP\text{-}O.
 - **不可还原性**：从 mode-relative semantics 到 metaphysical irreducible obtaining 的桥梁在哪里？如何排除 genuine neutral reduct？
 - **统一与相容**：一个 shared \(W\) 与一个 \(A\) 是否足够？哪些 objective-invariance / cross-mode constraints 必须被显式满足？
 
-局部逻辑一致性只是必要检查之一，不能当成完整 ontic proof。
+[跨 mode SAT / reduct 检验](../models/mode-amalgamation-neutral-reduct.md) 已给出有限相容构造与失败案例，也说明 N0 的弱投影和 N+ 的中立编码都不能决定 ontic reduction。下一步需要更实质的 grounding identity 与 compatible constitutional obtaining 理论。
 
 ## Q4 — 独立支持绝对 singleton
 

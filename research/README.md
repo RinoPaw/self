@@ -12,6 +12,8 @@
 
 研究结论的最新调整见 [2026-10-08 整理审查](REVIEW-2026-10-08.md)，精确前提关系见 [依赖图](DEPENDENCIES.md)。
 
+正式进展（2026-10-08）：[GCR 独立根据与条件性 singleton 定理](arguments/gcr-unity-principle-audit.md)、[C1 模式拼接与 neutral reduct](models/mode-amalgamation-neutral-reduct.md)，对应可执行的 [模型检验](../tools/model_audit.py)。
+
 ## 当前主线
 
 - **C0**：neutral actuality 是否足够完整？见 [neutral actuality](models/neutral-actuality-core.md)。

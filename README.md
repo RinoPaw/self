@@ -22,6 +22,8 @@
 
 ## 从哪里读起
 
+> **2026-10-08 GCR 进一步研究**：[全球统一原则审计](research/arguments/gcr-unity-principle-audit.md) 与 [C1 跨视角一致性及中立还原审计](research/models/mode-amalgamation-neutral-reduct.md) 已加入。形式反例与有限可执行测试用于检查推理边界，尚无决定性的本体论证明。
+
 > **2026-10-08 前沿更新**：见 [Pointwise / Polycentric 反模型与 GCR 审计](synthesis/frontier-2026-10-08-pointwise-polycentric-reflection.md)；现在必须区分 MEP-S（语义）与 MEP-O（本体），不能从单点评价直接推出现实唯一中心。
 
 1. **[当前研究立场](synthesis/current-position.md)**：当前有效结论、开放问题和证据强度；发生冲突时以它为准。

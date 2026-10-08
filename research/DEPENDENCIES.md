@@ -104,11 +104,30 @@ Independent(X)\land NaturalFit(C2,X)
 | Stochastic / process → absolute center | 需要额外 privilege bridge 和时间结构 | [Stochastic Law](arguments/stochastic-absolute-orientation-law.md) |
 | C2 → Selective Local vs Universal-I → trajectory | C2 上游尚未确立；不可反向用下游精致程度证明它 | [Locality](arguments/locality-from-subject-unity.md) |
 
+## 5.1. 2026-10-08 的补充推导与模型检验
+
+[进一步 GCR 审计](arguments/gcr-unity-principle-audit.md) 已给：
+
+\[
+OCC+SEP+GCR_2\Rightarrow AtMostOne,\qquad
+AtMostOne+ALO\Rightarrow ExactlyOne.
+\]
+
+还确认 \(GCR_2\not\Rightarrow GCR_{All}\)：pairwise supports 可以两两相交却全体交集为空。共享 history、因果互动、甚至单一共同 truthmaker 也需要额外条件才能产生 GCR。
+
+[C1 跨模式审计](models/mode-amalgamation-neutral-reduct.md) 则明确：
+
+- **固定 objective assignment + 各 private vocabularies 可联合延拓 + 无冲突跨模式约束** ⇒ 形式 SAT；
+- **各局部分别 SAT** ⇏ **全局 SAT**（共享 objective variable 或跨模式规则可冲突）；
+- neutral projection \(N_0\) 不可恢复 local values；enriched \(N_+\) 可以编码 local values。两者都不足以给出 ontic non-reducibility / reduction theorem。
+
+[代码](../tools/model_audit.py) 和 [回归测试](../tests/test_model_audit.py) 固定这些**有限的形式实例**，不能替代哲学论证。
+
 ## 6. 开放依赖关口与停止条件
 
 | ID | 目标 | 不能当作证明的替代品 |
 | --- | --- | --- |
-| **G1** | 论证 GCR 的独立 unity / truthmaker 前提 | centered-world 交集的重新书写 |
+| **G1** | 尝试 U3/U4 的独立 unity / truthmaker 根据（U0–U2 不足） | centered-world 交集的重新书写 |
 | **G2** | 界定 C1 的 neutral reduct、mode fact identity 与 grounding | 单纯把 mode 设为 primitive |
 | **G3** | MPGC 的 shared facts 与 cross-mode 逻辑规范 | 两个 local sets 各自 consistent |
 | **G4** | C0/C1/C2 同尺度 explanatory comparison | 单纯原始符号的数量、旧论文/论证的数量 |

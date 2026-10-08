@@ -4,6 +4,8 @@
 
 > 2026-10-08 更新：[最新 frontier](frontier-2026-10-08-pointwise-polycentric-reflection.md) 与 [下一轮 handoff](handoff-2026-10-08-gcr.md) 已取代 10 月 5 日文档的“最新”地位；旧文档仍保留历史记录。
 
+最新工作：[GCR / C1 的本轮 frontier](frontier-2026-10-08-gcr-and-mode-adequacy.md)，依赖其底层的 [GCR 审计](../research/arguments/gcr-unity-principle-audit.md) 与 [C1 模式审计](../research/models/mode-amalgamation-neutral-reduct.md)。
+
 ## 当前已合入的阅读顺序
 
 1. [当前立场](current-position.md)：三种竞争理论、现阶段结论与研究优先级。

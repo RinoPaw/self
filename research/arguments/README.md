@@ -4,6 +4,8 @@
 
 **最新主论证**：[Pointwise / Polycentric Reflection Audit](pointwise-polycentric-reflection-audit.md) — 区分 MEP-S、MEP-O、GCR，审查 C1 的证据强度。全量档案状态见 [研究审查索引](../REVIEW-2026-10-08.md)。
 
+**GCR 最新检验**：[Global Unity Does Not Yet Yield a Single Viewpoint](gcr-unity-principle-audit.md)：GCR-2/GCR-All、OCC+SEP+GCR-2 的条件推导，以及 U0–U4 unity defense 的边界。
+
 ## 1. 从视角差异到唯一中心
 
 - [Evaluation-Locus Cardinality Gap](evaluation-locus-cardinality-gap.md)：perspective variance 不自动推出单中心 maximal actuality。

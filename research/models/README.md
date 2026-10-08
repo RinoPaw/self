@@ -4,6 +4,8 @@
 
 **2026-10-08 修订**：C1 的 plural mode 不可还原性与共享 actuality 的统一性仍须独立论证；参见 [反模型审计](../arguments/pointwise-polycentric-reflection-audit.md) 与 [审查索引](../REVIEW-2026-10-08.md)。
 
+**严格逻辑候选**：[Mode Amalgamation and Neutral Reduct](mode-amalgamation-neutral-reduct.md)：跨模式 joint SAT、共享客观约束、弱中立投影与增强中立编码。它不替代形而上学证明。
+
 ## C0 · Subject-Neutral Actuality
 
 - [Neutral Actuality Core](neutral-actuality-core.md)：多个主体 + 非第一人称的 actuality。

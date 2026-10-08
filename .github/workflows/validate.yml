@@ -17,3 +17,7 @@ jobs:
           python-version: '3.12'
       - name: Check local Markdown links and JSON syntax
         run: python tools/check_repo.py
+      - name: Run finite GCR/C1 audit smoke cases
+        run: python tools/model_audit.py
+      - name: Regression-test finite GCR/C1 models
+        run: python -m unittest discover -s tests -v

@@ -100,6 +100,38 @@ MEP\text{-}S\not\Rightarrow GCR.
 
 详见 [C1 旧构造](../research/models/plural-opening-manifold.md) 与 [本轮严格审计](../research/arguments/pointwise-polycentric-reflection-audit.md)。
 
+## 4.1. 本轮进一步检验：GCR 与 C1 的明确边界
+
+**GCR 的强弱不能混淆**。GCR-2 只要求现实内任意**两个** genuine first-person facts 有共同单点见证，GCR-All 要求**全部**事实有一个共同单点见证。三个 supports \(\{a,b\},\{b,c\},\{a,c\}\) 给出 GCR-2 成立、GCR-All 失败的有限反例。
+
+得到条件定理：
+
+\[
+\boxed{OCC+SEP+GCR_2\Rightarrow AtMostOneOpening}
+\]
+
+其中 **OCC** 要求每个 opening 提供一个 actuality-constituting fact；**SEP** 要求不同 complete openings 有 support 不相交的 characteristic facts；**GCR-2** 是本体的全球到单点反映。再加 ALO 才得到 exact-one。**GCR-2 在无实际 FP facts 时真得空泛，不能排除 C0。**
+
+分别检查的 unity 路线：
+
+- U0：one history / one actual totality；
+- U1：跨主体 causal/constraint coherence；
+- U2：共同 overall truthmaker / grounding root；
+- U3：global co-conscious fusion；
+- U4：最终 actuality 必须 pointwise-centered。
+
+前 **U0–U2 均不足以单独推出 GCR**；U3 还需独立的所有主体 co-consciousness 证据；U4 可以支持单中心，但风险是将结论预置在 actuality 的定义里。因此目前没有一个不循环的 GCR 推导。
+
+对 C1 则得到**受限 amalgamation lemma**：在共享 objective valuation \(w\) 固定、各 local vocabularies 在 \(w\) 外不重叠、每一局部可延拓至 \(w\)、没有冲突的 cross-mode bridge \(K\) 时，全局布尔约束可满足。共享命题要求相反赋值，或 \(K\) 明确禁止两局部状态共现时，可出现「局部皆可满足、全局不可满足」。
+
+中立 reduct 的边界也已确定：遗忘 local facts 的弱中立投影 \(N_0\) 无法恢复它们；包含所有 mode data 的增强中立 tuples \(N_+\) 可无损编码有限结构。**前者没有证明 ontic irreducibility，后者也没有证明 metaphysical grounding reduction。**
+
+- [GCR 完整论证](../research/arguments/gcr-unity-principle-audit.md)
+- [C1 跨模式相容与中立编码](../research/models/mode-amalgamation-neutral-reduct.md)
+- [有限可执行例子](../tools/model_audit.py) 与 [回归测试](../tests/test_model_audit.py)
+
+---
+
 ## 5. 条件性唯一性链：显式列出额外前提
 
 - **LE**：同一 perspective 不能同时具有互斥的 complete conscious states。
@@ -154,9 +186,9 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 
 ## 8. 下一步真正开放的关口
 
-1. **GCR / unity defense**：从非 singleton 定义的现实完整性条件出发，尝试独立推出 global-to-pointwise reflection。
-2. **C1 non-neutralizability**：给出 mode facts 与第三人称事实之间的 identity / grounding / reduct 判别规则；目前无法凭语义记号定案。
-3. **MPGC compatibility**：明确 cross-mode constraints 与共享 objective propositions 的一致性要求。
+1. **强 unity 路线审计**：U0–U2 已有条件反例；接下来需研究 U3 的 global co-consciousness / U4 的 pointwise actuality 是否有独立理由，且不得把 single opening 先写进定义。
+2. **C1 ontic non-reduction**：已给出弱 reduct 的不充分性与强编码的可逆性；下一步要限定合法的 neutral grounding base，并检验 modes 的 hyperintensional identity / grounding。
+3. **C1 具体 MPGC 公理审计**：有限布尔约束已能展示相容与不相容；下一步需给交互、共享历史及 constitutional first-person facts 一个实际可用的跨 mode 规则。
 4. **同尺度成本比较**：将 C0、C1、C2 的 primitive content、解释收益、模态成本与认识论后果摆在同一表中。
 
 [论证依赖与缺口图](../research/DEPENDENCIES.md) 将这四条任务与历史证据对应起来。
@@ -167,4 +199,4 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 \boxed{\text{C0、C1、C2 均未被决定性排除；C2 的 absolute singleton 尚未建立。}}
 \]
 
-**本轮真正推进**：区分语义单中心 MEP-S、本体单中心 MEP-O 和跨层反映 GCR；构造了反对无桥梁跳跃的有限语义例子，并主动降低 C1 旧模型的证明强度。现有争论最上游的重点是**GCR 和不可还原性/统一性的双侧证明负担**，而非再重复 pointwise intersection 计算。
+**本轮真正推进**：在 MEP-S/MEP-O/GCR 分层上，给出 OCC+SEP+GCR-2 的条件单中心定理、GCR-2 与 GCR-All 的非等价反例、U0–U2 不蕴涵 GCR 的受限形式反例，以及 C1 跨模式约束和中立 reduct 的判别边界。**这些形式结果均不能直接证明 C1/C2 的形而上学真实性。**
