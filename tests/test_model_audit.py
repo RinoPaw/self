@@ -9,6 +9,7 @@ from tools.model_audit import (
     co_conscious_implies_mode_identity, determined_in_sample,
     shared_mode_rule, exclusive_mode_rule, shared_owner_pairs,
     actualizer_functional, source_unique_per_mode,
+    phenomenal_event, all_events_one_bearer,
 )
 
 
@@ -196,6 +197,32 @@ class IncidenceBridgeTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             exclusive_mode_rule((("e1", "unknown"),), {"e1": {"m1"}})
         self.assertTrue(actualizer_functional({"source": ()}))
+
+
+class PhenomenalEventTests(unittest.TestCase):
+    def test_token_identity_requires_same_subject_quality_time(self):
+        e = phenomenal_event("a", "pain", "now")
+        self.assertEqual(e, phenomenal_event("a", "pain", "now"))
+        self.assertNotEqual(e, phenomenal_event("b", "pain", "now"))
+        self.assertNotEqual(e, phenomenal_event("a", "joy", "now"))
+        self.assertNotEqual(e, phenomenal_event("a", "pain", "later"))
+
+    def test_subject_can_instantiate_several_token_events(self):
+        a = phenomenal_event("a", "pain", "now")
+        later = phenomenal_event("a", "joy", "later")
+        self.assertNotEqual(a, later)
+        self.assertTrue(all_events_one_bearer((a, later)))
+
+    def test_local_single_bearers_with_global_plurality(self):
+        a = phenomenal_event("a", "pain", "now")
+        b = phenomenal_event("b", "pain", "now")
+        self.assertFalse(all_events_one_bearer((a, b)))
+        self.assertNotEqual(a, b)
+
+    def test_empty_global_bearer_is_not_evidence_of_one(self):
+        self.assertFalse(all_events_one_bearer(()))
+        with self.assertRaises(ValueError):
+            phenomenal_event("", "pain", "now")
 
 
 if __name__ == "__main__":

@@ -200,6 +200,26 @@ def source_unique_per_mode(source_to_modes):
 
 
 
+
+def phenomenal_event(subject: str, quality: str, time: str) -> tuple[str, str, str]:
+    """Taylor-style PE event identity *representation*, not an ontology proof.
+
+    Under this chosen identity condition two events are identical exactly when
+    their subject, phenomenal property, and time are equal. Real phenomenality
+    of 'quality' remains an independent philosophical assumption.
+    """
+    if not all((subject, quality, time)):
+        raise ValueError("PE events require a subject, quality, and time")
+    return (subject, quality, time)
+
+
+def all_events_one_bearer(events: Iterable[tuple[str, str, str]]) -> bool:
+    """Global bearer singleton, strictly stronger than local PE event identity."""
+    values = tuple(events)
+    return bool(values) and len({subject for subject, _, _ in values}) == 1
+
+
+
 def demo() -> None:
     world = atom("o:one_history")
     a = atom("a:experiences_X")
@@ -281,6 +301,18 @@ def demo() -> None:
     assert not actualizer_functional(source_modes)
     assert actualizer_functional({"ultimate-source": {"m1"}})
     print("PASS: one source + reverse functionality do not yield AIM")
+
+
+    # C0-F: each experience can have an essential subject while reality
+    # contains many independent actual conscious subjects.
+    token_a = phenomenal_event("a", "pain", "t0")
+    token_b = phenomenal_event("b", "pain", "t0")
+    other_a = phenomenal_event("a", "joy", "t1")
+    assert token_a != token_b and token_a != other_a
+    assert phenomenal_event("a", "pain", "t0") == token_a
+    assert not all_events_one_bearer((token_a, token_b))
+    assert all_events_one_bearer((token_a, other_a))
+    print("PASS: PE event-local bearer identity does not give global singleton")
 
     print("NOTICE: finite interpretations do NOT prove metaphysical grounding")
 
