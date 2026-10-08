@@ -181,6 +181,12 @@ Mary 的 phenomenal knowledge gap、普通 de se uncertainty 与 absolute global
 高收益下一步是 **挑战 C0-F 的 bearer-indexed phenomenal fact 是否本体充足**，成功时先压力测试 C1，随后再处理 C2 exact-one。
 
 
+## 5.6. C0-F 的事件身份反方检查
+
+[Taylor–Guillot 审计](arguments/c0-f-subject-experience-identity-gate.md) 将局部真实体验构造成 s 于 t 实例化真正现象性质 q 的事件。选定 PE 的 identity condition 时，体验 token 的本质主体归属得到一种具体本体解释。**每个 event 有自己的 bearer** 不推出 **所有 events 有同一 global bearer**。
+
+仍欠：为何 q 真正 phenomenally felt、PE 单 bearer 设定能否容纳 Roelofs 的共享体验、C1 为何还需独立 obtaining mode。Guillot 区分 for-me-ness、me-ness、mineness，前者不自动给后两者，更不能给全局中心。参见[文献](../literature/subject-experience-givenness-dossier.md)与[有限模型](../tools/model_audit.py)。
+
 ## 6. 开放依赖关口与停止条件
 
 | ID | 目标 | 不能当作证明的替代品 |

@@ -30,6 +30,10 @@ Proposal: each genuine local P(i,t) is a fundamental **world-side** qualitative 
 
 **Key test:** having local fundamental subjective facts does not by itself require *exactly one* primitive global first-person mode. Conversely, if P's identity essentially includes fundamental ontic mode(s), this particular F package moves towards C1; classification depends on substantive identity commitments.
 
+### C0-F 的已发表 ontology 补充
+
+[Subject–Experience Identity Gate](../arguments/c0-f-subject-experience-identity-gate.md) 引入 Taylor（2020）的 property-exemplification event：主体在时间 t 实例化真正现象性质 q，token identity 本质上包含主体。这为 local ownership 提供可争论的构成解释，**并未解释 q 自身为什么 felt**。Guillot 的三项非等价体验维度、Sá Pereira 2026 的反方与 Roelofs shared-token 的替代观点均单独保留。
+
 ## Package Q: Neutral categorical constitution
 
 Proposal: a Russellian or neutral-monist **subtype** posits intrinsic categorical grounds Q beneath physics' structural/dispositional descriptions. The local configuration Q(i) plus organismic structure O(i) and proposed constitution law L_Q grounds P(i). Q itself is specified without singular first-person privilege.

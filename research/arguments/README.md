@@ -11,6 +11,8 @@
 **最新核心约束**：[MI/AIM — 经验共享、模式重叠与唯一性](mi-aim-incidence-audit.md)；同时保留上一轮 [U3 审计](co-conscious-unity-to-mode-audit.md)、[U4 审计](actuality-quantifier-scope-audit.md)。
 
 **当前正反方压力**：[B1 Grounding Adversarial Test](b1-grounding-adversarial-test.md)；配合 [C0-I/F/Q 方案](../models/c0-phenomenal-constitution-packages.md)，要求 C1/C2 修复同一 local phenomenality gap，不能仅引入全局赢家。
+**最新 C0-F 论证**：[主体—体验 token identity 与现象给予性](c0-f-subject-experience-identity-gate.md)：真实局部主体归属的正方 ontology 及 Guillot/Sá Pereira/Roelofs 的反方限制。
+
 ## 1. 从视角差异到唯一中心
 
 - [Evaluation-Locus Cardinality Gap](evaluation-locus-cardinality-gap.md)：perspective variance 不自动推出单中心 maximal actuality。
