@@ -7,6 +7,8 @@ from tools.model_audit import (
     pairwise_reflection, sat, total_reflection, weak_objective_reduct,
     connected_undirected, fully_co_conscious,
     co_conscious_implies_mode_identity, determined_in_sample,
+    shared_mode_rule, exclusive_mode_rule, shared_owner_pairs,
+    actualizer_functional, source_unique_per_mode,
 )
 
 
@@ -151,6 +153,49 @@ class NeutralGroundingCriteriaTests(unittest.TestCase):
     def test_missing_model_keys_are_rejected(self):
         with self.assertRaises(ValueError):
             determined_in_sample(({"o:w": True},), ("o:w",), ("mode:a",))
+
+
+class IncidenceBridgeTests(unittest.TestCase):
+    def test_mi_share_can_retain_two_modes(self):
+        ep = ("e1", "e2")
+        full = [(a, b) for a in ep for b in ep]
+        m = {"e1": {"m1", "m2"}, "e2": {"m1", "m2"}}
+        self.assertTrue(shared_mode_rule(full, m))
+        self.assertFalse(exclusive_mode_rule(full, m))
+
+    def test_strong_mi_implies_one_mode_in_enumerated_cases(self):
+        from itertools import product
+        ep = ("e1", "e2")
+        full = [(a, b) for a in ep for b in ep]
+        possible = ({"m1"}, {"m2"}, {"m1", "m2"})
+        for x, y in product(possible, repeat=2):
+            if exclusive_mode_rule(full, {"e1": x, "e2": y}):
+                self.assertEqual(len(x | y), 1)
+        self.assertTrue(exclusive_mode_rule(full, {"e1": {"m1"}, "e2": {"m1"}}))
+
+    def test_overlap_connectivity_is_not_global_pairwise_unity(self):
+        members = {"e1": {"a"}, "e2": {"a", "b"}, "e3": {"b"}}
+        pairs = shared_owner_pairs(members)
+        self.assertTrue(connected_undirected(members, pairs))
+        self.assertFalse(fully_co_conscious(members, pairs))
+        self.assertNotIn(("e1", "e3"), pairs)
+
+    def test_single_source_and_reverse_function_not_aim(self):
+        graph = {"source": {"m1", "m2"}}
+        self.assertTrue(source_unique_per_mode(graph))
+        self.assertFalse(actualizer_functional(graph))
+
+    def test_one_mode_per_source_does_not_mean_global_singleton(self):
+        graph = {"source1": {"m1"}, "source2": {"m2"}}
+        self.assertTrue(actualizer_functional(graph))
+        self.assertEqual(len(set().union(*graph.values())), 2)
+
+    def test_unknown_episode_and_empty_aim_are_explicit(self):
+        with self.assertRaises(ValueError):
+            shared_mode_rule((("e1", "unknown"),), {"e1": {"m1"}})
+        with self.assertRaises(ValueError):
+            exclusive_mode_rule((("e1", "unknown"),), {"e1": {"m1"}})
+        self.assertTrue(actualizer_functional({"source": ()}))
 
 
 if __name__ == "__main__":

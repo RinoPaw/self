@@ -151,6 +151,55 @@ def determined_in_sample(
     return True
 
 
+
+def shared_mode_rule(coconscious, mode_membership):
+    """MI-Share: each related pair has some common mode."""
+    sets = {e: set(modes) for e, modes in mode_membership.items()}
+    for e, f in coconscious:
+        if e not in sets or f not in sets:
+            raise ValueError("Unknown episode")
+        if not sets[e].intersection(sets[f]):
+            return False
+    return True
+
+
+def exclusive_mode_rule(coconscious, mode_membership):
+    """MI-Excl: each co-conscious pair admits exactly one mode total."""
+    sets = {e: set(modes) for e, modes in mode_membership.items()}
+    for e, f in coconscious:
+        if e not in sets or f not in sets:
+            raise ValueError("Unknown episode")
+        if len(sets[e].union(sets[f])) != 1:
+            return False
+    return True
+
+
+def shared_owner_pairs(owners_of_episode):
+    """Hypothetical overlapping subjects, not a claim about actual minds."""
+    owners = {e: set(s) for e, s in owners_of_episode.items()}
+    return frozenset(
+        (e, f) for e, es in owners.items() for f, fs in owners.items()
+        if es.intersection(fs)
+    )
+
+
+def actualizer_functional(source_to_modes):
+    """Strong AIM: at most one output mode for each source."""
+    return all(len(set(modes)) <= 1 for modes in source_to_modes.values())
+
+
+def source_unique_per_mode(source_to_modes):
+    """Reverse functionality: each mode has at most one actualizer."""
+    seen = set()
+    for modes in source_to_modes.values():
+        current = set(modes)
+        if seen.intersection(current):
+            return False
+        seen.update(current)
+    return True
+
+
+
 def demo() -> None:
     world = atom("o:one_history")
     a = atom("a:experiences_X")
@@ -212,6 +261,27 @@ def demo() -> None:
     assert not determined_in_sample((w1, w2), base, modes)
     assert determined_in_sample((w1, w2), (*base, *modes), modes)
     print("PASS: neutral-base sample twins; full mode encoding determines by inclusion")
+
+    full_c = [(a, b) for a in ("e1", "e2") for b in ("e1", "e2")]
+    overlapping = {"e1": {"m1", "m2"}, "e2": {"m1", "m2"}}
+    assert shared_mode_rule(full_c, overlapping)
+    assert not exclusive_mode_rule(full_c, overlapping)
+    assert exclusive_mode_rule(full_c, {"e1": {"m1"}, "e2": {"m1"}})
+    print("PASS: MI-Share permits two modes; MI-Excl excludes overlap")
+
+    owners = {"e1": {"subject-a"}, "e2": {"subject-a", "subject-b"},
+              "e3": {"subject-b"}}
+    pairs = shared_owner_pairs(owners)
+    assert connected_undirected(owners, pairs)
+    assert not fully_co_conscious(owners, pairs)
+    print("PASS: shared-subject overlap can connect without global Cover")
+
+    source_modes = {"ultimate-source": {"m1", "m2"}}
+    assert source_unique_per_mode(source_modes)
+    assert not actualizer_functional(source_modes)
+    assert actualizer_functional({"ultimate-source": {"m1"}})
+    print("PASS: one source + reverse functionality do not yield AIM")
+
     print("NOTICE: finite interpretations do NOT prove metaphysical grounding")
 
 
