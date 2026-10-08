@@ -32,6 +32,10 @@ C0-I：真实 P 与神经事实后验同一，身份同一尚未辩护；C0-F：
 
 **新增限制**：在全部人真正感到痛的共同事实基础上，增加一个 absolute `Omega*` 并不自动解释其他人的痛感；C2 若声称更优，必须明确它消除了哪个先前的 phenomenal ground 负担。任何套件目前都未证成形而上学充分性。
 
+## C0-F 新进展：local ownership 有具体本体候选
+
+[Taylor / Guillot 审计](../research/arguments/c0-f-subject-experience-identity-gate.md) 将 C0-F 的基础体验事实精确化为主体在某时刻实例化真正现象性质所构成的事件。它在所选 event identity 下解释 local bearer intimacy，却没有给 q 的现象性提供更深 ground。Guillot 的 for-me-ness、me-ness、mineness 不能直接互换；Sá Pereira 2026 与 Roelofs 2016 分别对普遍原始 mineness 和单 bearer token 施加压力。尚未推出 C1 mode 或 C2 global I–NOW。
+
 ## 实际改变了什么
 
 旧文件 [Residual Fact Problem](../research/arguments/residual-fact-problem.md) 主张需要 standalone liveness L。现在更严格：**必须先证明存在一个非 C2 术语的事实 X 或 B1 constitution 的不可接受缺口**。即使证明存在 local qualia 的独立基底，也只能首先提高 first-person arity 的讨论权重，不能直接奖励 unique global privilege。

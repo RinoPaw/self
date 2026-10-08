@@ -35,6 +35,10 @@
 - 接下来优先对 **C0-F 的 bearer-indexed P 的事实身份**开展具体非还原性反驳；其次审 C0-I 和 C0-Q 的 real explanatory links。
 
 
+## 当前新增：C0-F 体验事件身份论
+
+[新审计](../research/arguments/c0-f-subject-experience-identity-gate.md) 与[文献档案](../literature/subject-experience-givenness-dossier.md)核对 Taylor 2020、Guillot 2017、Sá Pereira 2026、SEP 与 Roelofs 2016。局部主体—体验的 token identity 可被 PE 事件本体论解释，仍未得到现象性质 q 的深层 grounding；token sharing 是该模型的反方压力。下轮先检查一个真正 lived、bearer-indexed 事件的事实身份是否还缺不可还原的 ontic mode。
+
 ## 尚未完成的本体工作
 
 1. 具体重建 B1 的 full local consciousness grounding（包括 identity、phenomenal primitives、psychophysical connection），不能拿 coverage 当作完整 explanation。

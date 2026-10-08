@@ -188,6 +188,14 @@ C0 的 subject-neutral actuality 与严格物理主义是两种不同分类轴�
 
 ---
 
+## 4.6. C0-F 体验事件的主体身份审计
+
+[新审计](../research/arguments/c0-f-subject-experience-identity-gate.md) 借助 Taylor（2020）的 property-exemplification 理论构造局部事件 ⟨s,q,t⟩，即主体 s 在时间 t 实例化真实现象性质 q。严格 PE token identity 可以解释体验为什么本质地属于这个主体，同时每个 token 有主体并不意味着整个现实只有一个主体。
+
+**尚存的缺口**：现象性质 q 为什么真正被感受到仍是原始解释停点。Guillot（2017）区分 for-me-ness、me-ness 和 mineness，前者不概念蕴涵后两者；现象学讨论 intrinsic givenness 不自动支持 C1 额外 mode 或 C2 singleton。Sá Pereira（2026）对 primitive mineness 提出竞争解释，Roelofs 的共享体验论则对单 bearer token identity 施加压力。详见[文献核验](../literature/subject-experience-givenness-dossier.md)。
+
+下一轮优先审查厚的主体归属体验事实为何仍需不可还原的 mode，须独立论证 fact identity，而不能预置结论。
+
 ## 5. 条件性唯一性链：显式列出额外前提
 
 - **LE**：同一 perspective 不能同时具有互斥的 complete conscious states。
