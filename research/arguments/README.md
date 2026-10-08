@@ -2,6 +2,8 @@
 
 这里按**问题**而非按文件创建时间组织入口。链接只列主要路线；未列出的文件仍作为历史研究记录保留。
 
+**最新主论证**：[Pointwise / Polycentric Reflection Audit](pointwise-polycentric-reflection-audit.md) — 区分 MEP-S、MEP-O、GCR，审查 C1 的证据强度。全量档案状态见 [研究审查索引](../REVIEW-2026-10-08.md)。
+
 ## 1. 从视角差异到唯一中心
 
 - [Evaluation-Locus Cardinality Gap](evaluation-locus-cardinality-gap.md)：perspective variance 不自动推出单中心 maximal actuality。

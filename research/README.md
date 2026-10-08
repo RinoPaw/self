@@ -10,6 +10,8 @@
 | [arguments/](arguments/README.md) | [按议题索引](arguments/README.md) | 推论、反模型、no-go、压力测试 |
 | [models/](models/README.md) | [按理论索引](models/README.md) | C0/C1/C2 候选结构和替代解释 |
 
+研究结论的最新调整见 [2026-10-08 整理审查](REVIEW-2026-10-08.md)，精确前提关系见 [依赖图](DEPENDENCIES.md)。
+
 ## 当前主线
 
 - **C0**：neutral actuality 是否足够完整？见 [neutral actuality](models/neutral-actuality-core.md)。

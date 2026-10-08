@@ -1,5 +1,8 @@
 # Plural Opening Manifold
 
+> **2026-10-08 状态修正**：本模型提供 distributed / typed semantic 反例与明确的候选本体论承诺；FP2–FP4 的不可还原性和 MPGC 的 global unity 仍需独立证明。原有“通过 collapse 检验”是截至当时的条件判定，不应读作非还原性的已证定理。详见 [后续审计](../arguments/pointwise-polycentric-reflection-audit.md)。
+
+
 > 状态：2026-10-05 FPNC stress test / constructive countermodel。
 >
 > 目标：构造一个 **one actuality + multiple irreducible first-person openings** 的最强模型，检查它是否必然坍塌为 third-person meta-facts、many worlds，或直接 contradiction。

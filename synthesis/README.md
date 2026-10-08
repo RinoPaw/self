@@ -2,6 +2,8 @@
 
 这里保存研究的**综合结论**和按日期保留的历史快照。只有 [current-position.md](current-position.md) 是当前 authority；旧 frontier / handoff 即使措辞强烈，也不自动代表现行判断。
 
+> 2026-10-08 更新：[最新 frontier](frontier-2026-10-08-pointwise-polycentric-reflection.md) 与 [下一轮 handoff](handoff-2026-10-08-gcr.md) 已取代 10 月 5 日文档的“最新”地位；旧文档仍保留历史记录。
+
 ## 当前已合入的阅读顺序
 
 1. [当前立场](current-position.md)：三种竞争理论、现阶段结论与研究优先级。

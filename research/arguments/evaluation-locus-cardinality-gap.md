@@ -1,5 +1,8 @@
 # Evaluation-Locus Cardinality Gap
 
+> **2026-10-08 后续澄清**：下文原 MEP 在语义层应表述为 MEP-S。要从 centered evaluation 推出整个 actuality 的 singularity，还需独立的 GCR 或 MEP-O；参见 [进一步审计](pointwise-polycentric-reflection-audit.md)。
+
+
 > 状态：2026-10-05 deeper audit of Single-Perspective Closure。
 >
 > 目标：检查从 `first-person facts are perspective-sensitive` 到 `first-person compossibility requires one perspective` 的推理是否仍包含一个未显式化的 semantic / metaphysical premise。

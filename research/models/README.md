@@ -2,6 +2,8 @@
 
 模型的用途是把承诺、结果和难点变得可比较；**构造了一个模型不等于证明该模型描述现实**。当前总评以 [current-position](../../synthesis/current-position.md) 为准。
 
+**2026-10-08 修订**：C1 的 plural mode 不可还原性与共享 actuality 的统一性仍须独立论证；参见 [反模型审计](../arguments/pointwise-polycentric-reflection-audit.md) 与 [审查索引](../REVIEW-2026-10-08.md)。
+
 ## C0 · Subject-Neutral Actuality
 
 - [Neutral Actuality Core](neutral-actuality-core.md)：多个主体 + 非第一人称的 actuality。

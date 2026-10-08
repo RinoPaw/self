@@ -22,6 +22,8 @@
 
 ## 从哪里读起
 
+> **2026-10-08 前沿更新**：见 [Pointwise / Polycentric 反模型与 GCR 审计](synthesis/frontier-2026-10-08-pointwise-polycentric-reflection.md)；现在必须区分 MEP-S（语义）与 MEP-O（本体），不能从单点评价直接推出现实唯一中心。
+
 1. **[当前研究立场](synthesis/current-position.md)**：当前有效结论、开放问题和证据强度；发生冲突时以它为准。
 2. **[面向读者的核心论证](synthesis/core-argument-neutral-vs-centered-actuality.md)**：理解原始问题与研究进程。
 3. **[最新前沿](synthesis/frontier-2026-10-05-evaluation-locus-gap.md)**：仍未跨越的关键推理。

@@ -1,5 +1,8 @@
 # Perspective Closure Principle
 
+> **2026-10-08 后续澄清**：SPC 的 pointwise / intersection 版本需要与 global actuality 的 GCR 桥梁分开；单点相容性不自动赋予全现实同一视角。详见 [进一步审计](pointwise-polycentric-reflection-audit.md)。
+
+
 > 状态：2026-10-05 re-audited after Evaluation-Locus Cardinality Gap。
 >
 > 目标：说明 SPC 在 singularity chain 中的角色，并明确它现在不是 deepest primitive：MEP / monocentric evaluation 位于其上游。
