@@ -36,6 +36,15 @@ C0-I：真实 P 与神经事实后验同一，身份同一尚未辩护；C0-F：
 
 [Taylor / Guillot 审计](../research/arguments/c0-f-subject-experience-identity-gate.md) 将 C0-F 的基础体验事实精确化为主体在某时刻实例化真正现象性质所构成的事件。它在所选 event identity 下解释 local bearer intimacy，却没有给 q 的现象性提供更深 ground。Guillot 的 for-me-ness、me-ness、mineness 不能直接互换；Sá Pereira 2026 与 Roelofs 2016 分别对普遍原始 mineness 和单 bearer token 施加压力。尚未推出 C1 mode 或 C2 global I–NOW。
 
+## 最新 T0/T1/T2 检验：厚体验性质与独立模式
+
+[新审计](../research/arguments/c0-f-thick-phenomenal-property-dilemma.md) 与 [新文献](../literature/thick-phenomenal-property-subjecthood.md) 进一步把 C0-F 中的 q 分成薄的客观/表征性质 T0、真正具有 felt givenness 的主体性质 T1、以及额外包含不可还原实现模式 M 的 T2。以 T0 的意识缺口攻击 T1 是稻草人；把 T2 放进“真正体验”的定义则是偷渡争议结论。
+
+Nida-Rümelin（2018）与 Taylor（2020）给 T1 事件构成提供真正的正方论证；O'Conaill（2024）指出从现象知识无法自动看透 subjecthood 完整本质；Millière（2025 的 publisher abstract）区分 deflationary/inflationary self-consciousness。**这些都不是 C0 成立证明，也不是 C1 的独立否定。**
+
+未来优先获得完整厚 PE facts 相同而 M 不同的**合法 modal contrast**，或者以独立 fact-identity/grounding 原则证明 T1 不足。两条路线都仍开放，且与 C2 唯一性是不同层次。
+
+
 ## 实际改变了什么
 
 旧文件 [Residual Fact Problem](../research/arguments/residual-fact-problem.md) 主张需要 standalone liveness L。现在更严格：**必须先证明存在一个非 C2 术语的事实 X 或 B1 constitution 的不可接受缺口**。即使证明存在 local qualia 的独立基底，也只能首先提高 first-person arity 的讨论权重，不能直接奖励 unique global privilege。

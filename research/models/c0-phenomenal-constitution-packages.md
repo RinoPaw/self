@@ -34,6 +34,11 @@ Proposal: each genuine local P(i,t) is a fundamental **world-side** qualitative 
 
 [Subject–Experience Identity Gate](../arguments/c0-f-subject-experience-identity-gate.md) 引入 Taylor（2020）的 property-exemplification event：主体在时间 t 实例化真正现象性质 q，token identity 本质上包含主体。这为 local ownership 提供可争论的构成解释，**并未解释 q 自身为什么 felt**。Guillot 的三项非等价体验维度、Sá Pereira 2026 的反方与 Roelofs shared-token 的替代观点均单独保留。
 
+### 厚 q 的非循环边界
+
+[新三分审计](../arguments/c0-f-thick-phenomenal-property-dilemma.md) 说明原始 q 不能含糊地兼作 purely objective representation（T0）与真正 lived experiential property（T1）。本包 F 正式采纳 T1；但 T1 是 fundamental root，并无更深的 q→felt 的还原解释。C1 增设 T2 的 irreducible mode M 必须给合法 modal contrast 或 essence/grounding 独立证据，不能只说 T1 的解释停在原始项。
+
+
 ## Package Q: Neutral categorical constitution
 
 Proposal: a Russellian or neutral-monist **subtype** posits intrinsic categorical grounds Q beneath physics' structural/dispositional descriptions. The local configuration Q(i) plus organismic structure O(i) and proposed constitution law L_Q grounds P(i). Q itself is specified without singular first-person privilege.

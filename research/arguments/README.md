@@ -22,6 +22,8 @@
 - [Actuality-Arity Singularity Gap](actuality-arity-singularity-gap.md)：有 first-person arity 仍不足以得出绝对唯一性。
 - [Obtaining-Mode Pluralization](obtaining-mode-pluralization.md)：不可还原视角的多元方案。
 
+- **最新高价值分歧**：[C0-F 厚现象性质 T0/T1/T2 及独立 mode 证据门槛](c0-f-thick-phenomenal-property-dilemma.md)（Nida-Rümelin、O'Conaill、Millière 文献），避免把弱意识解释的缺口错误归给强 C0-F。
+
 ## 2. 现实是否必须具有 first-person arity
 
 - [Neutral Actuality Incoherence Audit](neutral-actuality-incoherence-audit.md)

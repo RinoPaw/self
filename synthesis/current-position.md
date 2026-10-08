@@ -196,6 +196,25 @@ C0 的 subject-neutral actuality 与严格物理主义是两种不同分类轴�
 
 下一轮优先审查厚的主体归属体验事实为何仍需不可还原的 mode，须独立论证 fact identity，而不能预置结论。
 
+## 4.7. 厚现象性质的三难题：C1 的独立论证门槛（2026-10-08）
+
+[新完整审计](../research/arguments/c0-f-thick-phenomenal-property-dilemma.md) 在 Taylor 的 PE 事件和 Nida-Rümelin 的**主体本身实例化体验性质**框架内，进一步严格区分 q 的三种内容：
+
+1. **T0（thin）**：q 只是一种神经/行为/表征性质，未包含真正 felt character。它无法完成 genuine conscious fact，但击败它不等于击败 C0-F。
+2. **T1（thick）**：q 是主体真正经历的、带有固有 phenomenal givenness 的基本体验性质；Taylor 式事件身份说明局部 bearer，Nida-Rümelin 拒绝额外 experience-object。T1 仍**以原始 q 停止 deeper grounding**，但「未给出更深说明」不等于「缺少第二项事实」。
+3. **T2（mode-added）**：真实体验除厚 q 以外还必须以独立不可还原的 obtaining mode M 成立。此处涉及真正的 C1 本体命题，需独立 fact identity / grounding 论证。C2 还需 mode cardinality 和 GCR。
+
+O'Conaill（2024）指出把握现象性质不等于把握“主体是什么”的完整本质：主体甚至可能在没有当前意识事件时仍存在，至少这种可能性无法仅从 phenomenal concept 排除。Millière（2025，**摘要级**）区分 deflationary 和 inflationary constitutive self-consciousness claim；它提示我们不能把内在 givenness 直接升级成额外 ontic item。相关原始证据分层见[一手文献档案](../literature/thick-phenomenal-property-subjecthood.md)。
+
+**真正能推动 C1 的两条独立路径**：
+
+- **合法模态对照**：完整厚 PE 事实相同但 M 的事实意义不同，且双方 genuinely metaphysically admissible、非单纯标签置换；
+- **事实身份／奠基**：即使 modal supervenience 成立，也需证明厚 PE 的本体 ground 无法满足某个独立定义的真实 phenomenal fact，额外 M 则确实能解释它。
+
+**没有完成上述任一项**。C0-F 的 q 根源解释债务也不能伪装成消失了。当前仍不支持 global unique I–NOW 的独立存在。
+
+---
+
 ## 5. 条件性唯一性链：显式列出额外前提
 
 - **LE**：同一 perspective 不能同时具有互斥的 complete conscious states。
@@ -250,9 +269,9 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 
 ## 8. 下一步真正开放的关口
 
-1. **C0-F 的事实身份审计（优先）**：能否严谨地论证「某主体实际感到痛」无法作为 fundamental、bearer-indexed 的 world-side fact，除非额外包含一个 irreducible mode？不能先将 mode 放入真正体验的定义。
-2. **C0-I/Q 的具体机制**：后验同一论需要认真解释 identity；范畴本体方案需要非循环的 composition law 使局部 P 真正 obtain。不能让待解释意识偷偷充当其 ground。
-3. **共同的解释债务**：如果 C0 在一个地方失败，应检查 C1/C2 是否修复了同一个缺口，特别是 C2 如何解释全部其他主体的真实现象生活。
+1. **T1 厚现象性质的 fact identity / grounding（优先）**：已找到 Nida-Rümelin 的主体性质框架。现在应尝试提出能够真正击败带有 intrinsic felt givenness 的基本 q 的独立理由，不能只重复其 primitive status。
+2. **C1 的模态或超内涵证据**：给完整 T1 PE 事实一致而 modes 不同的合法 metaphysical contrast，或不依赖模态双胞胎的本质／grounding 论证；label differences 和新增 notation 不算证据。
+3. **反方和本体成本对齐**：检查 C1 模式是否真能取代 q 的未付成本，并在 C1 可保留多模式时独立评估 C2 singularity，不能把 ordinary intrinsic givenness 当作 global privilege。
 4. **只在有新增判别事实时重启全局唯一性**：GCR/MI/AIM 仍为条件论证，不将同一逻辑非蕴涵反复命名为突破。
 
 [研究依赖图](../research/DEPENDENCIES.md) 已加入这一路线的分层结构。
@@ -263,4 +282,4 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 \boxed{\text{C0、C1、C2 均未被决定性排除；C2 的 absolute singleton 尚未建立。}}
 \]
 
-**当前进展**：B1 已由简单的意识事实清单推进为三套具体 C0-I/F/Q 的 local consciousness constitution 候选；它们各有未证明的身份同一、原始现象事实或范畴组合前提。C1/C2 还没有展示对这些同一难题的独立修复。**C0 尚未被证明完成意识的最终 grounding，C2 也尚无独有的绝对中心事实 witness。**
+**当前进展**：在 C0-I/F/Q、Taylor PE 基础上，以 Nida-Rümelin 的主体体验性质论建立 T0 thin / T1 genuinely phenomenal / T2 extra-mode 三分。O'Conaill 和 Millière 分别压力测试从现象性质到主体本质、从弱构成性到更强自我意识的推论。**厚 q 仍是原始根源，不等于充分解释；另一个不可还原 M 和唯一 C2 global opening 均尚无独立证明。**

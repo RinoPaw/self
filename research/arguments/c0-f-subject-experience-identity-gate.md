@@ -147,6 +147,11 @@ The finite representation of this contrast is easy. The serious unresolved work 
 
 The additional research value now lies in **the contested ontic identity of genuinely lived q**, and in whether shareable experiential tokens defeat the single-bearer event identity theory. Repeating "C0 lacks the feeling of being me" without disentangling these questions will not improve the argument.
 
+### 后续严格修正：q 的内容不能两用
+
+[最新三分审计](c0-f-thick-phenomenal-property-dilemma.md) 明确将 q 分为 thin、genuinely phenomenal thick、额外 mode-loaded 三种。Taylor PE 的 bearer-identity 构成论证在厚 q 下可以有真实 local givenness，但 q 为何有这种真正性质仍是原始项；不能用 T0 欠缺现象性否定厚 C0-F，也不能以 T2 的定义自证 C1 必要性。
+
+
 ## Evidence quality
 
 - **Henry Taylor (2020)**: open-access [full article](https://link.springer.com/article/10.1007/s11098-019-01379-w), especially §§2–5 reviewed; author argues for PE ontology. Treat as a philosophical argument rather than established fact.

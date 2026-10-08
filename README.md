@@ -35,6 +35,9 @@
 **本轮新结果**：[C0-I/F/Q：三套真实局部意识奠基方案](research/models/c0-phenomenal-constitution-packages.md)及[双向最强反方审计](research/arguments/b1-grounding-adversarial-test.md)。各套仍存在本体论未证明的 identity、原始事实或组合原则；同样要求 C1/C2 解释每个主体的真实体验。
 **本轮新增**：[C0-F 的主体—体验身份与现象给予性审计](research/arguments/c0-f-subject-experience-identity-gate.md)。局部归属可以获得较具体的事件本体论解释；真正的现象性质与全球唯一中心仍需独立说明。
 
+本轮研究已把 C0-F 的真正体验性质细化为 [T0/T1/T2 的三分审计](research/arguments/c0-f-thick-phenomenal-property-dilemma.md)：局部真正被感受的事实与额外不可还原 mode 不能偷换，现阶段无 C1/C2 决定性证据。
+
+
 按主题浏览：
 
 | 目录 | 职责 |

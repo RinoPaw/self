@@ -5,6 +5,9 @@
 
 [最新主题：主体与体验的身份、for-me-ness](subject-experience-givenness-dossier.md)。核验 Taylor 2020、Guillot 2017、Sá Pereira 2026、SEP 与 Roelofs 2016，论证各有限度。
 
+新增 [厚现象性质及主体本质文献档案](thick-phenomenal-property-subjecthood.md)：Nida-Rümelin（2018 print/2016 online，全文）、O'Conaill（2024，全文）、Millière（2025 print/2024 online，摘要）。
+
+
 [文献地图](index.md) 是人工综合后的导航；本目录的研究笔记保存对外部作者的解释、批评和与 C0/C1/C2 的关系。**引用文献不表示项目已经认可作者的理论**。
 
 | 路径 | 内容 | 证据地位 |

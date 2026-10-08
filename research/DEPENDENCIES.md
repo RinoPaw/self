@@ -187,6 +187,17 @@ Mary 的 phenomenal knowledge gap、普通 de se uncertainty 与 absolute global
 
 仍欠：为何 q 真正 phenomenally felt、PE 单 bearer 设定能否容纳 Roelofs 的共享体验、C1 为何还需独立 obtaining mode。Guillot 区分 for-me-ness、me-ness、mineness，前者不自动给后两者，更不能给全局中心。参见[文献](../literature/subject-experience-givenness-dossier.md)与[有限模型](../tools/model_audit.py)。
 
+## 5.7. C0-F 的厚 q 与 C1 获取新 ontic fact 的判别
+
+[厚性质独立模式三分审计](arguments/c0-f-thick-phenomenal-property-dilemma.md) 让 Q0/Q1/Q2（新稿 T0/T1/T2）显式区分：
+
+- **T0** 缺失 felt character；其失败不击败将 genuine experience 当作基本 q 的 C0-F。
+- **T1** 为 genuinely phenomenal、bearer-indexed q；具有真实 local givenness，仍承认原始 phenomenal property 的 grounding 停点。
+- **T2** 声称额外 ontic M 构成每个实感事实；若先用 M 定义「genuine」，则比较陷入循环。
+
+[C1 新必要前提]：要么合法模态对照（厚 PE facts 逐项相同，非编码／非标签 mode fact 仍不同，且为形而上学真正可能的两 totalities），要么 hyperintensional grounding / essence 论证（厚 q + bearer 事实上无法奠基某个独立已指认的实际 experiential fact，M 却可以）。**C2** 仍需独立 singularity、GCR 和 localization。O'Conaill 2024 阻止从现象概念的透明性自动推出 complete essence of subjecthood。
+
+
 ## 6. 开放依赖关口与停止条件
 
 | ID | 目标 | 不能当作证明的替代品 |

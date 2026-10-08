@@ -39,6 +39,13 @@
 
 [新审计](../research/arguments/c0-f-subject-experience-identity-gate.md) 与[文献档案](../literature/subject-experience-givenness-dossier.md)核对 Taylor 2020、Guillot 2017、Sá Pereira 2026、SEP 与 Roelofs 2016。局部主体—体验的 token identity 可被 PE 事件本体论解释，仍未得到现象性质 q 的深层 grounding；token sharing 是该模型的反方压力。下轮先检查一个真正 lived、bearer-indexed 事件的事实身份是否还缺不可还原的 ontic mode。
 
+### 厚 q 的三个解释版本与研究判据
+
+- [主审计](../research/arguments/c0-f-thick-phenomenal-property-dilemma.md)：T0 thin 不能解释真实 felt character；T1 thick 把真正现象性质当作世界的原始局部基础，得到局部体验事实但停止进一步的 grounding；T2 添加独立 M，需要非循环辩护。
+- [来源档案](../literature/thick-phenomenal-property-subjecthood.md)：Nida-Rümelin 2018 fulltext；O'Conaill 2024 fulltext；Millière 2025 abstract；Taylor 2020 fulltext 与 SEP 相关段落。
+- 接下来不要再以「q 为什么 felt」这一句重复论证 C0 失败。测试 T1 同一 q 事实下不同 modes 是否 **metaphysically possible**，或给 q fact identity 为什么必需 M 提供 **hyperintensional grounding** 证据。成功支持 C1 arity 也不自动支持 C2 singularity。
+
+
 ## 尚未完成的本体工作
 
 1. 具体重建 B1 的 full local consciousness grounding（包括 identity、phenomenal primitives、psychophysical connection），不能拿 coverage 当作完整 explanation。

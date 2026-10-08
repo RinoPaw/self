@@ -22,6 +22,9 @@ Mary 的 phenomenal knowledge / ordinary de se 与宇宙的 global winner fact �
 [本轮 C0-I/F/Q 构成模型](../models/c0-phenomenal-constitution-packages.md)与[双向对手审计](../arguments/b1-grounding-adversarial-test.md)已给出具体 grounding 候选：I 身份同一，F 基础局部体验，Q 范畴构成。重点是 F 的 bearer-indexed 真实 (P_i) 是否仍必须包含不可还原的 ontic mode。证明缺失的深层解释并不等于证明 C2 global singleton。
 [C0-F 体验事件审计](../arguments/c0-f-subject-experience-identity-gate.md) 给出 Taylor 的 bearer-indexed event identity 作为真实 local ownership 的具体正方模型。若要支持 C1，需要独立证明这种真正 felt 事件仍需 ontic obtaining mode；若要支持 C2，还需唯一 global center 的另一步证明。
 
+[厚 q 的 T0/T1/T2 审计](../arguments/c0-f-thick-phenomenal-property-dilemma.md) 已明确当前 target 是 **包含真正 intrinsic felt character 的 T1**：证明薄 T0 未解释意识不是支持 C1 的充分理由。现在要求合法双世界 mode 差异或独立 essences / grounding 对比，且不能用 M 定义 q 的真实性。
+
+
 ## Q1 — 独立 first-person arity
 
 寻找一个在争议术语之外可以识别的 datum \(X\)，证明 C0 的 strongest neutral actuality model 无法合理容纳它。ordinary mineness、self-location、actuality 厚度、现象学强烈感受均未通过。
