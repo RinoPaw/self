@@ -404,4 +404,4 @@ GlobalAbsoluteOpening.
 - [`opening-factorization-test.md`](opening-factorization-test.md)
 - [`../models/unified-i-now-world-opening.md`](../models/unified-i-now-world-opening.md)
 - [`../models/nomological-opening-model.md`](../models/nomological-opening-model.md)
-- [`spontaneous-absolute-orientation-breaking.md`](spontaneous-absolute-orientation-breaking.md)
+- [`spontaneous-absolute-orientation-breaking.md`](../models/spontaneous-absolute-orientation-breaking.md)

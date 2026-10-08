@@ -371,5 +371,5 @@ Why should all fundamental subjectivity belong to one global co-conscious unity?
 - [`../../literature/christmann-2026-global-subject-pressure.md`](../../literature/christmann-2026-global-subject-pressure.md)
 - [`../../literature/subject-singularity-sweep.md`](../../literature/subject-singularity-sweep.md)
 - [`subject-arity-singularity-gap.md`](subject-arity-singularity-gap.md)
-- [`whitehead-vacuous-actuality-audit.md`](whitehead-vacuous-actuality-audit.md)
+- [`whitehead-vacuous-actuality-audit.md`](../../literature/whitehead-vacuous-actuality.md)
 - [`presence-to-globality-gap.md`](presence-to-globality-gap.md)

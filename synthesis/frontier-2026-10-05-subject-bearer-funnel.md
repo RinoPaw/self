@@ -257,5 +257,5 @@ only if the remaining global maximality / primitive-bearer horns can be independ
 - [`../research/arguments/bearer-discrimination-principle.md`](../research/arguments/bearer-discrimination-principle.md)
 - [`../research/arguments/causal-unity-subjecthood-gap.md`](../research/arguments/causal-unity-subjecthood-gap.md)
 - [`../literature/candidates/2026-10-05-lup-subject-identity-audit.md`](../literature/candidates/2026-10-05-lup-subject-identity-audit.md)
-- [`../literature/candidates/2026-10-05-subject-ontology-comparison.md`](../literature/candidates/2026-10-05-subject-ontology-comparison.md)
+- [`../literature/candidates/2026-10-05-subject-ontology-comparison.md`](../literature/candidates/2026-10-05-subject-ontology-comparative-audit.md)
 - [`../literature/candidates/2026-10-05-causal-bearer-cosmopsychism-iit-audit.md`](../literature/candidates/2026-10-05-causal-bearer-cosmopsychism-iit-audit.md)

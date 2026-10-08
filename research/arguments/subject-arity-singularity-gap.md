@@ -471,7 +471,7 @@ Actuality\Rightarrow AbsoluteI.
 - [`../../literature/subject-singularity-sweep.md`](../../literature/subject-singularity-sweep.md)
 - [`../../literature/christmann-2026-global-subject-pressure.md`](../../literature/christmann-2026-global-subject-pressure.md)
 - [`global-experiential-unity-route.md`](global-experiential-unity-route.md)
-- [`whitehead-vacuous-actuality-audit.md`](whitehead-vacuous-actuality-audit.md)
+- [`whitehead-vacuous-actuality-audit.md`](../../literature/whitehead-vacuous-actuality.md)
 - [`actuality-arity-principle-audit.md`](actuality-arity-principle-audit.md)
 - [`presence-to-globality-gap.md`](presence-to-globality-gap.md)
 - [`../models/role-first-absolute-opening.md`](../models/role-first-absolute-opening.md)
