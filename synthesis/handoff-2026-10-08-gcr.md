@@ -21,10 +21,17 @@
 - [同尺度成本比较](../research/models/endgame-theory-matrix.md) 固定各理论均需解释普通意识与同一现实。
 - [Roelofs 文献核验](../literature/roelofs-2016-between-subject-unity.md) 为 across-subject unity 提供独立哲学反方，**不证明 C1 的多重 fundamental modes 真实存在**。
 
+## 当前新方向：B1 explanatory residue（优先于更多单中心定理）
+
+- [完整研究](../research/arguments/b1-explanatory-residue-audit.md)：\(\mathcal B_1\) 的 descriptive coverage、phenomenal grounding、absolute global center 是三个不同问题。
+- Conitzer Case A 中的 external display mapping 在**模拟内部事实**之外有额外机制，但不能自动外推为我们世界的绝对中心。Mary 的 knowledge gap、Lewis/Perry 的 de se gap 也首先是独立于 C2 singleton 的议题。
+- 下一轮核心任务：从最强 C0 构造一个具体的 local phenomenal grounding/identity account，找准其未付出的解释成本；再检查是否需要 C1 的 irreducible modes 或 C2 的 global singleton。
+- 保留现有 MI/AIM/GCR 条件审计作为 secondary route；无新证据不反复输出相同结论。
+
 ## 尚未完成的本体工作
 
-1. 给 U3 **MI**（全局共同意识→同一根本 first-person mode）与 U4 **AIM**（共同 ultimate actualizer→同一 mode）独立根据，再检验它们是否推出 GCR 与局部 I–NOW privilege。
-2. 具体比较 C0 强中立基底 B1 与 C1 的 constitutive modes：说明 admissible metaphysical worlds、fact identity 和 grounding asymmetry，避免将编码能力当作解释。
+1. 具体重建 B1 的 full local consciousness grounding（包括 identity、phenomenal primitives、psychophysical connection），不能拿 coverage 当作完整 explanation。
+2. 在 B1 的真正 grounding 缺口上与 C1 / C2 同尺度比较；若发现 independent residual X，先过 C0，再过 C1。
 3. 处理非布尔、hyperintensional 的 constitutional obtaining，与共享客观事实、interaction 和 global factivity 的兼容条件。
 4. 若前三项未产生 decisive result，停止新的“唯一性定理”命名，改做 C0/C1/C2 的明确 primitive cost/compression comparison。
 

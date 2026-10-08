@@ -2,13 +2,13 @@
 
 这里保存研究的**综合结论**和按日期保留的历史快照。只有 [current-position.md](current-position.md) 是当前 authority；旧 frontier / handoff 即使措辞强烈，也不自动代表现行判断。
 
- > 当前最新：[GCR / C1 模型充分性 frontier（含 U3/U4 最新补充）](frontier-2026-10-08-gcr-and-mode-adequacy.md) 和 [下一轮 handoff](handoff-2026-10-08-gcr.md)。此前的 [Pointwise/Polycentric 前沿](frontier-2026-10-08-pointwise-polycentric-reflection.md) 与 10 月 5 日材料保留历史意义。
+ > 当前最新：[B1 解释剩余 frontier](frontier-2026-10-08-b1-explanatory-residue.md)、[原始完整审计](../research/arguments/b1-explanatory-residue-audit.md)，下一轮研究说明整合在 [handoff](handoff-2026-10-08-gcr.md)。此前 [GCR / U3-U4 frontier](frontier-2026-10-08-gcr-and-mode-adequacy.md) 仍保留。
 
 ## 当前已合入的阅读顺序
 
 1. [当前立场](current-position.md)：三种竞争理论、现阶段结论与研究优先级。
 2. [核心论证（读者版）](core-argument-neutral-vs-centered-actuality.md)：原始问题与理论分歧。
-3. [最新 frontier：GCR and Mode Adequacy](frontier-2026-10-08-gcr-and-mode-adequacy.md)：条件性 singleton theorem 与 C1 约束模型。
+3. [最新 frontier：B1 Explanatory Residue](frontier-2026-10-08-b1-explanatory-residue.md)：知识/定位/实际性与独立剩余事实的分层审查。
 4. [最新 handoff：After GCR Audit](handoff-2026-10-08-gcr.md)：下一轮研究任务。
 
 ## 历史前沿：按问题追踪

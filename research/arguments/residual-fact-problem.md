@@ -1,5 +1,7 @@
 # 残余事实问题
 
+> **2026-10-08 进一步审计**：[B1 Explanatory Residue Audit](b1-explanatory-residue-audit.md)。此文提出的 liveness simpliciter（L）仍只是候选本体主张；在证明 “额外事实” 以前，须区分完整局部意识事实清单、其 constitution/grounding，以及唯一 absolute selection。不要把该文最后的 “突破点” 当成已经发现的 L。
+
 ## 研究目标
 
 当前最强反方不再否认第一人称事实本身。它允许每个主体都拥有真实的 perspectival / standpoint-relative facts，并进一步允许“我在自己的精神生活中显得特殊”本身成为真实事实。

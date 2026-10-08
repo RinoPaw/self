@@ -155,6 +155,19 @@ C1 / C0 比较新增强中立基底 **B1**（共享客观历史 + 所有主体�
 [正式反例、条件性定理、文献审计](arguments/mi-aim-incidence-audit.md)；[C0/C1/C2 定性成本比较](models/endgame-theory-matrix.md)。
 
 
+## 5.4. 本轮主轴：解释剩余的类型检查
+
+[Explanatory Residue Audit](arguments/b1-explanatory-residue-audit.md) 区分 B1 **描述完备 D**、局部 consciousness 的 **grounding G** 与 **绝对中心 A**。D 的成立不能证明 G；G 的困难不自动推出 A。若使用 Conitzer 的外部 renderer，必须说明它相对的是 simulation-internal \(\mathcal B\) 还是 complete actual \(\mathcal B_1\)。
+
+研究判别顺序：
+
+1. 确认不含 \(\Omega\) 同义词的 independent \(X\) / 真实 constitution failure；
+2. 在最强 C0 B1 中证明其缺口，且给出 C0 合理 grounding 回复；
+3. 重新检查 C1 能否采用多个 ontic modes 解释；
+4. 才可判断 singular C2 的独有解释收益与新增成本。
+
+Mary 的 phenomenal knowledge gap、普通 de se uncertainty 与 absolute global winner 的差别尤其重要。当前没有已经验证的 C2-exclusive witness。
+
 ## 6. 开放依赖关口与停止条件
 
 | ID | 目标 | 不能当作证明的替代品 |
@@ -165,4 +178,4 @@ C1 / C0 比较新增强中立基底 **B1**（共享客观历史 + 所有主体�
 | **G4** | C0/C1/C2 同尺度 explanatory comparison | 单纯原始符号的数量、旧论文/论证的数量 |
 | **G5** | 找到能抵抗 C0 与 C1 的新 witness | 现象学强烈感受或“为什么是我”的疑问本身 |
 
-**默认顺序 G1 → G2/G3（可并行）→ G4/G5。** 没有给其中任一条提供可复核的实质内容，就不要创建新的“突破”文件或宣称 C2 已得证。
+**更新的默认顺序**：先审 B1 的 local phenomenal grounding 与独立 residual（G2/G5），若发现足以改变解释成本的 datum 再重启 MI/AIM/GCR（G1）及 C1 MPGC（G3）；G4 持续同尺度对照。没有可复核的新证据或原则，不宣称 C2 已得证。

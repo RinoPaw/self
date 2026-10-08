@@ -18,7 +18,7 @@
 
 最初研究目标是 **C2**。目前 C0、C1 均未被排除。现阶段最大的困难是：**第一人称事实依赖视角，为什么意味着整个现实只能有一个绝对中心？**
 
-当前已合入的研究前沿是 [GCR 与 C1 模型充分性审计](synthesis/frontier-2026-10-08-gcr-and-mode-adequacy.md)。核心问题涉及 MEP-S（语义单中心）、GCR（全局事实向单点评价的反映）、C1 的跨视角相容及不可还原性；有限形式模型不能证明本体真实性。
+当前研究重点转向 [B1 解释剩余：C0 是否仍遗漏事实](synthesis/frontier-2026-10-08-b1-explanatory-residue.md)。C0 已允许全部真实局部意识，但「列出事实」与「解释事实为何成立」必须分开；Mary、自我定位和外部模拟显示的缺口也不自动证明绝对第一人称。此前 [GCR 与 C1 模型审计](synthesis/frontier-2026-10-08-gcr-and-mode-adequacy.md) 保留。
 
 ## 从哪里读起
 
@@ -26,7 +26,7 @@
 
 1. **[当前研究立场](synthesis/current-position.md)**：当前有效结论、开放问题和证据强度；发生冲突时以它为准。
 2. **[面向读者的核心论证](synthesis/core-argument-neutral-vs-centered-actuality.md)**：理解原始问题与研究进程。
-3. **[最新前沿](synthesis/frontier-2026-10-08-gcr-and-mode-adequacy.md)**：GCR 的独立证明负担与 C1 模型边界。
+3. **[最新前沿](synthesis/frontier-2026-10-08-b1-explanatory-residue.md)**：C0 的真实意识 grounding 与绝对第一人称解释剩余。
 4. **[下一轮研究交接](synthesis/handoff-2026-10-08-gcr.md)**：下一阶段要验证的前提与停止条件。
 
 新增核心检查：[MI / AIM 模式重叠与关系功能性](research/arguments/mi-aim-incidence-audit.md) 和 [C0/C1/C2 同尺度成本比较](research/models/endgame-theory-matrix.md)。前者澄清了先前单值模式假设的限制。

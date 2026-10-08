@@ -14,6 +14,8 @@
 
 正式进展（2026-10-08）：[GCR 独立根据与条件性 singleton 定理](arguments/gcr-unity-principle-audit.md)、[C1 模式拼接与 neutral reduct](models/mode-amalgamation-neutral-reduct.md)，对应可执行的 [模型检验](../tools/model_audit.py)。
 
+**最新研究（2026-10-08）**：[B1 解释剩余与完整事实测试](arguments/b1-explanatory-residue-audit.md)。C0 的 local phenomenal facts 在清单里得到承认，不意味着已经获得 grounding 解释；更不意味着世界还缺一项绝对中心事实。
+
 ## 当前主线
 
 - **C0**：neutral actuality 是否足够完整？见 [neutral actuality](models/neutral-actuality-core.md)。

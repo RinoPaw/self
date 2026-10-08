@@ -1,7 +1,7 @@
 # 当前研究立场
 
 > 更新：2026-10-08。研究假说与条件性论证，**没有证明 C2 存在或不存在**。  
-> 最新前沿：[2026-10-08 U3/U4 与 neutral grounding 审计](frontier-2026-10-08-gcr-and-mode-adequacy.md)。  
+> 最新前沿：[2026-10-08 B1 解释剩余审计](frontier-2026-10-08-b1-explanatory-residue.md)；上轮 [GCR / U3-U4](frontier-2026-10-08-gcr-and-mode-adequacy.md)。  
 > 完整推导：[Pointwise–Polycentric Reflection Audit](../research/arguments/pointwise-polycentric-reflection-audit.md)。  
 > 论证依赖：[研究依赖图](../research/DEPENDENCIES.md)；文件状态：[研究审查索引](../research/REVIEW-2026-10-08.md)。
 
@@ -157,6 +157,19 @@ Roelofs（2016）提出不同主体之间的 co-consciousness 和 shared token e
 [严格论证和来源等级](../research/arguments/mi-aim-incidence-audit.md)；[C0/C1/C2 成本比较](../research/models/endgame-theory-matrix.md)。
 
 
+## 4.4. 研究主轴：C0 的 B1 解释剩余（2026-10-08）
+
+[本轮完整审计](../research/arguments/b1-explanatory-residue-audit.md) 以包含所有真实局部体验的 B1 挑战 C0，避免拿「只有物理数据」冒充其最强版本。最重要的是区分：
+
+- **Descriptive saturation**：B1 **包含**所有 local qualia、mineness、de se 和主体间普通事实；
+- **Grounding/constitution**：B1 中写出这些事实**尚未解释它们为何成立**。C0 的 G 层有真实尚未偿还的解释债务；
+- **Absolute-centered completeness**：现实是否还需唯一 global I–NOW，是 C2 的独立新增前提，不能预先定义为 B1 的“缺口”。
+
+Mary 的知识论证首先关乎 physical facts 与 phenomenal knowing/being 的争论；自我定位关乎 centered cognitive state；Conitzer 的 Case A 有独立的*模拟外* selector，Case B/C 不提供对应现实世界里的独立机制证明。**三者都不直接推出一个 unique absolute selector**。
+
+新增的判断标准：指出 independently identifiable residual \(X\)（不能以「唯一绝对第一人称」定义），或证明 B1 的 local phenomenal grounding 不可行；然后检查 C1 的多模式候选。没有得到新的 C2 witness；C0 的理论经济性仍仅为条件性的，不表示它已完成 local consciousness 的 constitution。
+
+---
 ## 5. 条件性唯一性链：显式列出额外前提
 
 - **LE**：同一 perspective 不能同时具有互斥的 complete conscious states。
@@ -211,10 +224,10 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 
 ## 8. 下一步真正开放的关口
 
-1. **MI-Excl / AIM-Functionality 的独立理由**：弱共享模式与单 actualizer 都不足以获得单中心；只有单一模式实现的强排他原则加完整的 reality→center bridge 才有条件性结果。
-2. **C0/C1 的 B1-grounding 竞争**：已明确允许完整 local phenomenality 的强中立基底；下一步论证哪些 modal possibilities 合法、哪些 fact identity / grounding 原则非循环。
-3. **C1 具体 MPGC 公理审计**：有限布尔约束已能展示相容与不相容；下一步需给交互、共享历史及 constitutional first-person facts 一个实际可用的跨 mode 规则。
-4. **同尺度比较的深化**：[Endgame Theory Matrix](../research/models/endgame-theory-matrix.md) 已固定 ordinary phenomenal common core；今后需要独立证据或非循环 grounding 方案改变排序。
+1. **B1 Grounding Completion Test（本轮首要）**：明确具体的 C0 本体构成方案，检验为何全部 genuine local phenomenal facts 必须或不必在 ontology 中加入 fundamental first-person obtaining。避免只把体验列入清单当作解释完毕。
+2. **独立 residual 寻找（Gate A）**：寻找不能只是 indexical knowledge、ordinary mineness、或 presupposed absolute winner 的 (X)，并同时压力测试 C0 与 C1。
+3. **C1 实质竞争者**：若 C0 的强中立 constitution 出现缺口，进一步测试 C1 的 mode identity、共同 actuality 与 grounding，不能把 C0 失败直接算 C2 胜利。
+4. **下游保留**：[Endgame Theory Matrix](../research/models/endgame-theory-matrix.md) 比较同尺度成本；MI/AIM/GCR 只有得到独立根据后才重启上游 singleton route。
 
 [论证依赖与缺口图](../research/DEPENDENCIES.md) 将这四条任务与历史证据对应起来。
 
@@ -224,4 +237,4 @@ Locality（Selective Local vs Universal-I）与 trajectory/dynamics 保留为**C
 \boxed{\text{C0、C1、C2 均未被决定性排除；C2 的 absolute singleton 尚未建立。}}
 \]
 
-**当前进展**：在 GCR、U3/U4 的原始审计上修正了单值 mode 假设，拆分 MI-Share / MI-Excl 与 AIM-Functionality，加入跨主体经验共享的学术反方，并在共同 ordinary phenomenal explananda 下比较 C0/C1/C2 的本体成本。**这些结果仍不足以证明 C1/C2 的形而上学真实性。**
+**当前进展**：在前期 GCR、U3/U4、MI/AIM 和成本对照基础上，转向独立审查 C0 B1 的局部意识 **grounding 充分性**。玛丽的知识缺口、自我定位缺口与 Conitzer 模拟外 selector 的 case 已分开处理；尚无支持 C2-exclusive absolute I–NOW 的新增可独立判别事实。**C0 未必解释完了意识，C1/C2 也尚未独立获得更强的 explanation delta。**

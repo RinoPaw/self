@@ -11,6 +11,14 @@
 
 C2 必须分别说明 actuality 为什么需要 first-person arity（抗 C0），以及为何必须 singleton（抗 C1）。当前没有任何一方获得决定性排他证明。
 
+## 新工作优先级：B1 explanatory residue
+
+先读 [B1 解释剩余与 Conitzer 案例审计](../arguments/b1-explanatory-residue-audit.md)。C0 可承认全部真实 local phenomenality（**descriptive saturation**），但其本体 grounding 仍需解释。优先寻找：
+- C0 B1 的具体 local phenomenal constitution 为什么不足；
+- 或一个可在 absolute vocabulary 之外确认的 \(X\)，无法被 C0 / C1 低成本解释。
+
+Mary 的 phenomenal knowledge / ordinary de se 与宇宙的 global winner fact 是不同问题。Conitzer 的已知 external renderer 证明一个**受限模拟基底**有额外 display fact，但不能未经外部机制证据就推到 complete actual world。
+
 ## Q1 — 独立 first-person arity
 
 寻找一个在争议术语之外可以识别的 datum \(X\)，证明 C0 的 strongest neutral actuality model 无法合理容纳它。ordinary mineness、self-location、actuality 厚度、现象学强烈感受均未通过。

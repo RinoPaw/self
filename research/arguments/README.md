@@ -2,7 +2,7 @@
 
 这里按**问题**而非按文件创建时间组织入口。链接只列主要路线；未列出的文件仍作为历史研究记录保留。
 
-**最新主论证**：[Pointwise / Polycentric Reflection Audit](pointwise-polycentric-reflection-audit.md) — 区分 MEP-S、MEP-O、GCR，审查 C1 的证据强度。全量档案状态见 [研究审查索引](../REVIEW-2026-10-08.md)。
+**最新研究主线**：[B1 Explanatory Residue Audit](b1-explanatory-residue-audit.md) — 在最强 C0 中区分真实体验的事实覆盖、grounding 和绝对 winner；重点审计 Mary、de se、Conitzer。上一轮主论证：[Pointwise / Polycentric Reflection Audit](pointwise-polycentric-reflection-audit.md)。全量档案状态见 [研究审查索引](../REVIEW-2026-10-08.md)。
 
 **GCR 最新检验**：[Global Unity Does Not Yet Yield a Single Viewpoint](gcr-unity-principle-audit.md)：GCR-2/GCR-All、OCC+SEP+GCR-2 的条件推导，以及 U0–U4 unity defense 的边界。
 
