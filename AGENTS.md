@@ -9,7 +9,7 @@
 3. `synthesis/README.md` 找最新已合入的 frontier 与 handoff。
 4. 进入 `research/` 或 `literature/` 之前先看该目录的导航文件。
 
-不要把历史文档的强断言当成今天的研究结论。不同研究分支上的草稿，尚未合入时也不是 `main` 的 authority。
+不要把历史文档的强断言当成今天的研究结论。尚未纳入 `synthesis/current-position.md` 的新研究材料，也不能自动视作当前结论。
 
 ## 研究边界
 
@@ -44,6 +44,6 @@
 3. 旧稿原则上保留；通过导航或 `Superseded by` 说明新旧关系。批量重命名/移动必须同时维护全部相对链接。
 4. 新文献先按 `literature/AGENTS.md` 核验，不能把机器候选直接当成论证证据。
 5. 运行 `python tools/check_repo.py`；链接或 JSON 检查失败时先修复再合入。
-6. 改动尽量放在专题分支；未经用户要求，不直接重写既有研究结论或删除历史记录。
+6. 默认直接在 `main` 提交经过检查的改动，不主动创建分支或 PR；未经用户要求，不直接重写既有研究结论或删除历史记录。
 
 本文件规范工作流，**不替代** `synthesis/current-position.md` 的哲学结论。
